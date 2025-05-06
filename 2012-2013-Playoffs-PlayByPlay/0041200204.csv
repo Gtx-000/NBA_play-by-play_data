@@ -1,0 +1,432 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200204,1,12,0,1,6:57 PM,12:00,,Start of 1st Period (6:57 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200204,2,10,0,1,6:58 PM,12:00,Jump Ball Noah vs. Bosh: Tip to Boozer,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0
+2,0041200204,3,2,1,1,6:58 PM,11:35,MISS Belinelli 25' 3PT Jump Shot,,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+3,0041200204,5,4,0,1,6:58 PM,11:32,Boozer REBOUND (Off:1 Def:0),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+4,0041200204,4,1,72,1,6:58 PM,11:32,Boozer 3' Putback Layup (2 PTS),,,0 - 2,2,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+5,0041200204,6,1,1,1,6:58 PM,11:16,,,Bosh 20' Jump Shot (2 PTS) (Wade 1 AST),2 - 2,TIE,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+6,0041200204,7,2,1,1,6:59 PM,10:57,MISS Belinelli 25' 3PT Jump Shot,,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+7,0041200204,8,4,0,1,6:59 PM,10:56,,,Haslem REBOUND (Off:0 Def:1),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+8,0041200204,9,2,1,1,6:59 PM,10:42,,,MISS Wade 17' Jump Shot,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+9,0041200204,10,4,0,1,6:59 PM,10:40,,,Haslem REBOUND (Off:1 Def:1),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+10,0041200204,11,6,17,1,6:59 PM,10:36,BULLS T.Foul (Def. 3 Sec Noah ),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+11,0041200204,12,3,16,1,6:59 PM,10:36,,,Chalmers Free Throw Technical (1 PTS),3 - 2,-1,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+12,0041200204,14,1,1,1,7:00 PM,10:25,,,Haslem 18' Jump Shot (2 PTS) (Wade 2 AST),5 - 2,-3,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+13,0041200204,15,2,1,1,7:00 PM,10:02,MISS Robinson 9' Jump Shot,,Bosh BLOCK (1 BLK),,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0
+14,0041200204,16,4,0,1,7:00 PM,10:00,,,Haslem REBOUND (Off:1 Def:2),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+15,0041200204,17,2,1,1,7:00 PM,9:46,,,MISS James 12' Jump Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+16,0041200204,18,4,0,1,7:00 PM,9:45,Noah REBOUND (Off:0 Def:1),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+17,0041200204,19,5,1,1,7:01 PM,9:31,Butler Bad Pass Turnover (P1.T1),,James STEAL (1 STL),,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+18,0041200204,20,1,5,1,7:01 PM,9:27,,,James 2' Layup (2 PTS),7 - 2,-5,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+19,0041200204,21,2,1,1,7:01 PM,9:11,MISS Boozer 16' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+20,0041200204,22,4,0,1,7:01 PM,9:11,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+21,0041200204,23,6,3,1,7:01 PM,9:11,,,Bosh L.B.FOUL (P1.T1),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+22,0041200204,24,5,1,1,7:02 PM,8:59,Noah Bad Pass Turnover (P1.T2),,Haslem STEAL (1 STL),,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+23,0041200204,25,1,78,1,7:02 PM,8:44,,,Chalmers 7' Floating Jump Shot (3 PTS),9 - 2,-7,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+24,0041200204,26,9,2,1,7:02 PM,8:33,BULLS Timeout: Short (Full 0 Short 1),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+25,0041200204,27,2,1,1,7:04 PM,8:18,MISS Robinson 24' 3PT Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+26,0041200204,29,4,0,1,7:04 PM,8:17,Noah REBOUND (Off:1 Def:1),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+27,0041200204,28,2,4,1,7:04 PM,8:17,MISS Noah 2' Tip Shot,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+28,0041200204,31,4,0,1,7:04 PM,8:15,Noah REBOUND (Off:2 Def:1),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+29,0041200204,30,2,4,1,7:04 PM,8:15,MISS Noah 1' Tip Shot,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+30,0041200204,32,4,0,1,7:04 PM,8:14,Boozer REBOUND (Off:2 Def:0),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+31,0041200204,33,2,5,1,7:04 PM,8:14,MISS Boozer 2' Layup,,Bosh BLOCK (2 BLK),,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0
+32,0041200204,35,4,0,1,7:04 PM,8:14,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+33,0041200204,34,10,0,1,7:04 PM,8:14,Jump Ball Boozer vs. Bosh: Tip to James,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0
+34,0041200204,36,2,1,1,7:05 PM,7:52,,,MISS Bosh 20' Jump Shot,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+35,0041200204,37,4,0,1,7:05 PM,7:51,Robinson REBOUND (Off:0 Def:1),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+36,0041200204,38,6,1,1,7:05 PM,7:50,,,Chalmers P.FOUL (P1.T2),,,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+37,0041200204,39,2,1,1,7:05 PM,7:42,MISS Belinelli 25' 3PT Jump Shot,,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+38,0041200204,40,4,0,1,7:05 PM,7:41,,,Haslem REBOUND (Off:1 Def:3),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+39,0041200204,41,1,5,1,7:05 PM,7:31,,,James 2' Layup (4 PTS),11 - 2,-9,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+40,0041200204,42,2,1,1,7:06 PM,7:15,MISS Boozer 16' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+41,0041200204,43,4,0,1,7:06 PM,7:14,Noah REBOUND (Off:3 Def:1),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+42,0041200204,44,2,1,1,7:06 PM,7:11,MISS Belinelli 24' 3PT Jump Shot,,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+43,0041200204,45,4,0,1,7:06 PM,7:10,Boozer REBOUND (Off:3 Def:0),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+44,0041200204,46,5,1,1,7:06 PM,7:07,Noah Bad Pass Turnover (P2.T3),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+45,0041200204,47,6,1,1,7:06 PM,6:58,Robinson P.FOUL (P1.T1),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+46,0041200204,49,5,1,1,7:06 PM,6:54,Boozer STEAL (1 STL),,Wade Bad Pass Turnover (P1.T1),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+47,0041200204,51,1,1,1,7:07 PM,6:40,Butler 6' Jump Shot (2 PTS),,,11 - 4,-7,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+48,0041200204,53,1,1,1,7:08 PM,6:19,,,Bosh 22' Jump Shot (4 PTS) (Chalmers 1 AST),13 - 4,-9,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+49,0041200204,54,5,1,1,7:08 PM,5:59,Butler Bad Pass Turnover (P2.T4),,Haslem STEAL (2 STL),,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+50,0041200204,55,2,1,1,7:08 PM,5:36,,,MISS James 26' 3PT Jump Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+51,0041200204,56,4,0,1,7:08 PM,5:35,Boozer REBOUND (Off:3 Def:1),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+52,0041200204,57,6,1,1,7:09 PM,5:25,,,Haslem P.FOUL (P1.T3),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+53,0041200204,58,9,1,1,7:09 PM,5:25,BULLS Timeout: Regular (Full 1 Short 1),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+54,0041200204,60,1,1,1,7:12 PM,5:14,Boozer 16' Jump Shot (4 PTS) (Robinson 1 AST),,,13 - 6,-7,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+55,0041200204,61,6,1,1,7:12 PM,5:03,Belinelli P.FOUL (P1.T2),,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+56,0041200204,62,2,1,1,7:12 PM,4:55,,,MISS Haslem 18' Jump Shot,,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+57,0041200204,63,4,0,1,7:13 PM,4:53,Belinelli REBOUND (Off:0 Def:1),,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+58,0041200204,64,5,2,1,7:13 PM,4:38,Robinson Lost Ball Turnover (P1.T5),,Bosh STEAL (1 STL),,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+59,0041200204,65,1,1,1,7:13 PM,4:30,,,Bosh 22' Jump Shot (6 PTS) (Chalmers 2 AST),15 - 6,-9,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+60,0041200204,66,6,2,1,7:13 PM,4:07,,,Wade S.FOUL (P1.T4),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+61,0041200204,67,3,11,1,7:13 PM,4:07,Butler Free Throw 1 of 2 (3 PTS),,,15 - 7,-8,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+62,0041200204,69,3,12,1,7:14 PM,4:07,Butler Free Throw 2 of 2 (4 PTS),,,15 - 8,-7,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+63,0041200204,71,1,7,1,7:14 PM,3:52,,,Bosh 2' Dunk (8 PTS),17 - 8,-9,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+64,0041200204,72,2,1,1,7:15 PM,3:30,MISS Robinson 25' 3PT Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+65,0041200204,73,4,0,1,7:15 PM,3:29,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+66,0041200204,74,8,0,1,7:15 PM,3:29,,,SUB: Battier FOR Haslem,,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+67,0041200204,75,2,63,1,7:15 PM,3:11,,,MISS Wade 13' Fadeaway Jumper,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+68,0041200204,76,4,0,1,7:15 PM,3:10,Boozer REBOUND (Off:3 Def:2),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+69,0041200204,77,1,1,1,7:15 PM,3:03,Belinelli 17' Jump Shot (2 PTS) (Robinson 2 AST),,,17 - 10,-7,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+70,0041200204,78,9,1,1,7:16 PM,2:51,,,Heat Timeout: Regular (Reg.1 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+71,0041200204,79,8,0,1,7:18 PM,2:51,,,SUB: Allen FOR Wade,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+72,0041200204,80,8,0,1,7:18 PM,2:51,SUB: Gibson FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+73,0041200204,81,1,5,1,7:19 PM,2:39,,,James 2' Layup (6 PTS) (Chalmers 3 AST),19 - 10,-9,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+74,0041200204,82,1,42,1,7:19 PM,2:16,Butler 2' Driving Layup (6 PTS),,,19 - 12,-7,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+75,0041200204,83,1,7,1,7:20 PM,1:57,,,Bosh 2' Dunk (10 PTS) (James 1 AST),21 - 12,-9,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+76,0041200204,84,2,1,1,7:20 PM,1:32,MISS Butler 18' Jump Shot,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+77,0041200204,85,4,0,1,7:20 PM,1:31,Butler REBOUND (Off:1 Def:0),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+78,0041200204,86,2,1,1,7:20 PM,1:29,MISS Robinson  3PT Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+79,0041200204,87,4,0,1,7:20 PM,1:29,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+80,0041200204,88,8,0,1,7:20 PM,1:29,,,SUB: Andersen FOR Bosh,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+81,0041200204,89,2,1,1,7:21 PM,1:06,,,MISS Battier 24' 3PT Jump Shot,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+82,0041200204,90,4,0,1,7:21 PM,1:05,Butler REBOUND (Off:1 Def:1),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+83,0041200204,91,1,63,1,7:21 PM,0:48,Belinelli 11' Fadeaway Jumper (4 PTS),,,21 - 14,-7,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+84,0041200204,92,6,2,1,7:21 PM,0:48,,,Andersen S.FOUL (P1.PN),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+85,0041200204,93,8,0,1,7:21 PM,0:48,,,SUB: Cole FOR Chalmers,,,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+86,0041200204,94,3,10,1,7:22 PM,0:48,Belinelli Free Throw 1 of 1 (5 PTS),,,21 - 15,-6,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+87,0041200204,96,6,1,1,7:22 PM,0:34,Belinelli P.FOUL (P2.T3),,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+88,0041200204,98,5,1,1,7:22 PM,0:26,Robinson STEAL (1 STL),,Allen Bad Pass Turnover (P1.T2),,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+89,0041200204,99,2,1,1,7:23 PM,0:17,MISS Robinson 25' 3PT Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+90,0041200204,100,4,0,1,7:23 PM,0:16,Noah REBOUND (Off:4 Def:1),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+91,0041200204,101,2,1,1,7:23 PM,0:01,MISS Robinson 10' Jump Shot,,Battier BLOCK (1 BLK),,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0
+92,0041200204,102,4,0,1,7:23 PM,0:00,,,Andersen REBOUND (Off:0 Def:1),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+93,0041200204,103,13,0,1,7:23 PM,0:00,,End of 1st Period (7:23 PM EST),,21 - 15,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+94,0041200204,105,12,0,2,7:27 PM,12:00,,Start of 2nd Period (7:27 PM EST),,21 - 15,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+95,0041200204,106,1,5,2,7:27 PM,11:41,,,Andersen 1' Layup (2 PTS) (Cole 1 AST),23 - 15,-8,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+96,0041200204,107,6,2,2,7:27 PM,11:41,Mohammed S.FOUL (P1.T1),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+97,0041200204,108,3,10,2,7:27 PM,11:41,,,Andersen Free Throw 1 of 1 (3 PTS),24 - 15,-9,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+98,0041200204,110,1,63,2,7:28 PM,11:20,Mohammed 11' Fadeaway Jumper (2 PTS),,,24 - 17,-7,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+99,0041200204,111,1,1,2,7:28 PM,11:11,,,Battier 24' 3PT Jump Shot (3 PTS) (James 2 AST),27 - 17,-10,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+100,0041200204,112,2,1,2,7:28 PM,10:48,MISS Butler 10' Jump Shot,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+101,0041200204,114,4,0,2,7:28 PM,10:47,Gibson REBOUND (Off:1 Def:0),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+102,0041200204,113,2,4,2,7:28 PM,10:47,MISS Gibson 3' Tip Shot,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+103,0041200204,115,4,0,2,7:28 PM,10:46,,,Cole REBOUND (Off:0 Def:1),,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+104,0041200204,116,1,1,2,7:28 PM,10:40,,,Allen 25' 3PT Jump Shot (3 PTS) (James 3 AST),30 - 17,-13,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+105,0041200204,117,6,26,2,7:29 PM,10:19,Belinelli Offensive Charge Foul (P3.T2),,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+106,0041200204,118,5,5,2,7:29 PM,10:19,Belinelli Foul Turnover (P1.T6),,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+107,0041200204,120,8,0,2,7:29 PM,10:19,SUB: Hamilton FOR Belinelli,,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+108,0041200204,121,6,27,2,7:30 PM,10:06,Hamilton Personal Block Foul (P1.T3),,,,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+109,0041200204,123,2,1,2,7:30 PM,9:51,,,MISS Battier 25' 3PT Jump Shot,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+110,0041200204,124,4,0,2,7:30 PM,9:50,,,Andersen REBOUND (Off:1 Def:1),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+111,0041200204,125,2,1,2,7:30 PM,9:44,,,MISS Cole 25' 3PT Jump Shot,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+112,0041200204,126,4,0,2,7:31 PM,9:43,Mohammed REBOUND (Off:0 Def:1),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+113,0041200204,127,2,1,2,7:31 PM,9:22,MISS Gibson 8' Jump Shot,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+114,0041200204,128,4,0,2,7:31 PM,9:21,,,Allen REBOUND (Off:0 Def:1),,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+115,0041200204,129,5,4,2,7:31 PM,9:15,,,James Traveling Turnover (P1.T3),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+116,0041200204,130,8,0,2,7:31 PM,9:15,,,SUB: Wade FOR James,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+117,0041200204,131,2,1,2,7:32 PM,8:57,MISS Hamilton 11' Jump Shot,,,,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+118,0041200204,132,4,0,2,7:32 PM,8:56,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+119,0041200204,133,9,1,2,7:32 PM,8:56,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+120,0041200204,134,8,0,2,7:34 PM,8:56,SUB: Robinson FOR Teague,,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+121,0041200204,136,5,2,2,7:36 PM,8:41,Robinson STEAL (2 STL),,Wade Lost Ball Turnover (P2.T4),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+122,0041200204,137,5,40,2,7:36 PM,8:38,Butler Out of Bounds Lost Ball Turnover (P3.T7),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+123,0041200204,138,2,1,2,7:36 PM,8:15,,,MISS Wade 17' Jump Shot,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+124,0041200204,139,4,0,2,7:36 PM,8:14,Butler REBOUND (Off:1 Def:2),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+125,0041200204,140,1,1,2,7:36 PM,7:52,Hamilton 25' 3PT Jump Shot (3 PTS) (Robinson 3 AST),,,30 - 20,-10,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+126,0041200204,141,2,1,2,7:37 PM,7:28,Mohammed BLOCK (1 BLK),,MISS Cole 5' Jump Shot,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0
+127,0041200204,142,4,0,2,7:37 PM,7:25,,,Andersen REBOUND (Off:2 Def:1),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+128,0041200204,143,2,86,2,7:37 PM,7:21,,,MISS Wade 15' Turnaround Fadeaway Shot,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+129,0041200204,144,4,0,2,7:37 PM,7:20,Mohammed REBOUND (Off:0 Def:2),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+130,0041200204,145,2,1,2,7:37 PM,7:14,MISS Hamilton 13' Jump Shot,,,,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+131,0041200204,146,4,0,2,7:37 PM,7:13,Gibson REBOUND (Off:2 Def:0),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+132,0041200204,147,1,5,2,7:37 PM,7:12,Gibson 2' Layup (2 PTS),,,30 - 22,-8,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+133,0041200204,148,6,2,2,7:37 PM,7:12,,,Andersen S.FOUL (P2.T1),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+134,0041200204,149,8,0,2,7:37 PM,7:12,SUB: Noah FOR Mohammed,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+135,0041200204,150,8,0,2,7:38 PM,7:12,,,SUB: James FOR Andersen,,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+136,0041200204,151,8,0,2,7:38 PM,7:12,,,SUB: Bosh FOR Wade,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+137,0041200204,152,3,10,2,7:38 PM,7:12,Gibson Free Throw 1 of 1 (3 PTS),,,30 - 23,-7,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+138,0041200204,154,9,1,2,7:38 PM,7:08,,,Heat Timeout: Regular (Reg.2 Short 0),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+139,0041200204,156,8,0,2,7:40 PM,7:08,SUB: Boozer FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+140,0041200204,158,5,1,2,7:41 PM,6:58,Boozer STEAL (2 STL),,James Bad Pass Turnover (P2.T5),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+141,0041200204,159,5,2,2,7:41 PM,6:42,Robinson Lost Ball Turnover (P2.T8),,Battier STEAL (1 STL),,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+142,0041200204,160,1,90,2,7:41 PM,6:38,,,James 2' Running Slam Dunk (8 PTS) (Cole 2 AST),32 - 23,-9,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+143,0041200204,161,2,5,2,7:42 PM,6:26,MISS Boozer 2' Layup,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+144,0041200204,162,4,0,2,7:42 PM,6:25,,,Battier REBOUND (Off:0 Def:1),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+145,0041200204,163,5,4,2,7:42 PM,6:08,,,Cole Traveling Turnover (P1.T6),,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+146,0041200204,164,2,1,2,7:42 PM,5:52,MISS Butler 24' 3PT Jump Shot,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+147,0041200204,165,4,0,2,7:42 PM,5:51,,,Bosh REBOUND (Off:0 Def:1),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+148,0041200204,166,5,1,2,7:43 PM,5:44,,,James Bad Pass Turnover (P3.T7),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+149,0041200204,168,2,1,2,7:43 PM,5:19,MISS Hamilton 15' Jump Shot,,,,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+150,0041200204,169,4,0,2,7:43 PM,5:18,,,James REBOUND (Off:0 Def:1),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+151,0041200204,170,1,1,2,7:43 PM,5:09,,,Bosh 22' Jump Shot (12 PTS) (James 4 AST),34 - 23,-11,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+152,0041200204,171,1,7,2,7:44 PM,4:49,Noah 1' Dunk (2 PTS) (Hamilton 1 AST),,,34 - 25,-9,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+153,0041200204,172,5,1,2,7:44 PM,4:26,,,James Bad Pass Turnover (P4.T8),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+154,0041200204,173,2,1,2,7:44 PM,4:11,MISS Boozer 4' Jump Shot,,Bosh BLOCK (3 BLK),,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0
+155,0041200204,174,4,0,2,7:44 PM,4:10,Noah REBOUND (Off:5 Def:1),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+156,0041200204,175,6,2,2,7:45 PM,4:10,,,Battier S.FOUL (P1.T2),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+157,0041200204,176,3,11,2,7:45 PM,4:10,Noah Free Throw 1 of 2 (3 PTS),,,34 - 26,-8,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+158,0041200204,178,8,0,2,7:45 PM,4:10,,,SUB: Chalmers FOR Cole,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+159,0041200204,179,3,12,2,7:45 PM,4:10,Noah Free Throw 2 of 2 (4 PTS),,,34 - 27,-7,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+160,0041200204,181,2,1,2,7:46 PM,3:57,,,MISS Battier 25' 3PT Jump Shot,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+161,0041200204,182,4,0,2,7:46 PM,3:56,Butler REBOUND (Off:1 Def:3),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+162,0041200204,183,2,86,2,7:46 PM,3:42,MISS Boozer 13' Turnaround Fadeaway Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+163,0041200204,184,4,0,2,7:46 PM,3:41,,,James REBOUND (Off:0 Def:2),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+164,0041200204,185,6,2,2,7:46 PM,3:36,Butler S.FOUL (P1.T4),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+165,0041200204,186,3,11,2,7:46 PM,3:36,,,James Free Throw 1 of 2 (9 PTS),35 - 27,-8,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+166,0041200204,188,8,0,2,7:46 PM,3:36,,,SUB: Wade FOR Allen,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+167,0041200204,189,3,12,2,7:46 PM,3:36,,,James Free Throw 2 of 2 (10 PTS),36 - 27,-9,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+168,0041200204,190,2,1,2,7:47 PM,3:16,MISS Butler 16' Jump Shot,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+169,0041200204,191,4,0,2,7:47 PM,3:15,,,James REBOUND (Off:0 Def:3),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+170,0041200204,192,1,66,2,7:47 PM,3:07,,,James 5' Jump Bank Shot (12 PTS),38 - 27,-11,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+171,0041200204,193,6,2,2,7:48 PM,2:48,,,Battier S.FOUL (P2.T3),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+172,0041200204,194,9,1,2,7:48 PM,2:48,BULLS Timeout: Regular (Full 2 Short 1),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+173,0041200204,197,3,11,2,7:51 PM,2:48,Boozer Free Throw 1 of 2 (5 PTS),,,38 - 28,-10,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+174,0041200204,199,3,12,2,7:51 PM,2:48,Boozer Free Throw 2 of 2 (6 PTS),,,38 - 29,-9,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+175,0041200204,201,2,5,2,7:52 PM,2:32,,,MISS Wade 1' Layup,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+176,0041200204,202,4,0,2,7:52 PM,2:31,Boozer REBOUND (Off:3 Def:3),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+177,0041200204,203,1,1,2,7:52 PM,2:12,Hamilton 6' Jump Shot (5 PTS),,,38 - 31,-7,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+178,0041200204,204,2,1,2,7:52 PM,1:56,,,MISS James 18' Jump Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+179,0041200204,205,4,0,2,7:52 PM,1:55,Boozer REBOUND (Off:3 Def:4),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+180,0041200204,206,2,1,2,7:52 PM,1:37,MISS Boozer 14' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+181,0041200204,207,4,0,2,7:52 PM,1:36,,,James REBOUND (Off:0 Def:4),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+182,0041200204,208,1,1,2,7:53 PM,1:30,,,Chalmers 26' 3PT Jump Shot (6 PTS) (James 5 AST),41 - 31,-10,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+183,0041200204,209,2,1,2,7:53 PM,1:06,MISS Hamilton 24' 3PT Jump Shot,,,,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+184,0041200204,210,4,0,2,7:53 PM,1:05,,,Wade REBOUND (Off:0 Def:1),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+185,0041200204,211,5,1,2,7:53 PM,0:58,Hamilton STEAL (1 STL),,Chalmers Bad Pass Turnover (P1.T9),,,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+186,0041200204,212,6,28,2,7:53 PM,0:58,,,Chalmers Personal Take Foul (P2.T4),,,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+187,0041200204,213,2,1,2,7:54 PM,0:42,MISS Boozer 10' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+188,0041200204,214,4,0,2,7:54 PM,0:41,,,Wade REBOUND (Off:0 Def:2),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+189,0041200204,215,1,5,2,7:54 PM,0:39,,,James 2' Layup (14 PTS) (Wade 3 AST),43 - 31,-12,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+190,0041200204,216,6,2,2,7:54 PM,0:39,Robinson S.FOUL (P2.PN),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+191,0041200204,217,8,0,2,7:54 PM,0:39,,,SUB: Haslem FOR Battier,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+192,0041200204,218,3,10,2,7:54 PM,0:39,,,James Free Throw 1 of 1 (15 PTS),44 - 31,-13,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+193,0041200204,220,6,2,2,7:55 PM,0:25,,,Haslem S.FOUL (P2.PN),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+194,0041200204,221,3,11,2,7:55 PM,0:25,Boozer Free Throw 1 of 2 (7 PTS),,,44 - 32,-12,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+195,0041200204,223,8,0,2,7:55 PM,0:25,SUB: Gibson FOR Hamilton,,,,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+196,0041200204,224,3,12,2,7:55 PM,0:25,Boozer Free Throw 2 of 2 (8 PTS),,,44 - 33,-11,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+197,0041200204,227,9,2,2,7:56 PM,0:17,,,Heat Timeout: Short (Reg.2 Short 1),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+198,0041200204,228,8,0,2,7:57 PM,0:17,,,SUB: Allen FOR Haslem,,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+199,0041200204,229,8,0,2,7:57 PM,0:17,SUB: Cook FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201161,Daequan Cook,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+200,0041200204,230,2,5,2,7:57 PM,0:01,,,MISS James 2' Layup,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+201,0041200204,231,4,0,2,7:57 PM,0:00,,,Wade REBOUND (Off:1 Def:2),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+202,0041200204,232,13,0,2,7:57 PM,0:00,,End of 2nd Period (7:57 PM EST),,44 - 33,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+203,0041200204,233,12,0,3,8:16 PM,12:00,,Start of 3rd Period (8:16 PM EST),,44 - 33,-11,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+204,0041200204,234,1,1,3,8:17 PM,11:43,,,Bosh 21' Jump Shot (14 PTS) (Wade 4 AST),46 - 33,-13,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+205,0041200204,235,5,40,3,8:17 PM,11:23,Belinelli Out of Bounds Lost Ball Turnover (P2.T9),,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+206,0041200204,236,2,1,3,8:17 PM,11:14,Robinson BLOCK (1 BLK),,MISS Chalmers 5' Jump Shot,,,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0
+207,0041200204,237,4,0,3,8:17 PM,11:14,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+208,0041200204,238,6,2,3,8:18 PM,11:13,Noah S.FOUL (P1.T1),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+209,0041200204,239,3,11,3,8:18 PM,11:13,,,MISS Bosh Free Throw 1 of 2,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+210,0041200204,240,4,1,3,8:18 PM,11:13,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+211,0041200204,241,3,12,3,8:18 PM,11:13,,,MISS Bosh Free Throw 2 of 2,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+212,0041200204,243,4,0,3,8:18 PM,11:12,Noah REBOUND (Off:5 Def:2),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+213,0041200204,244,2,1,3,8:19 PM,10:54,MISS Robinson 22' Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+214,0041200204,245,4,0,3,8:19 PM,10:53,Boozer REBOUND (Off:4 Def:4),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+215,0041200204,247,1,42,3,8:19 PM,10:34,Belinelli 2' Driving Layup (7 PTS) (Boozer 1 AST),,,46 - 35,-11,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+216,0041200204,248,2,1,3,8:20 PM,10:06,,,MISS Bosh 20' Jump Shot,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+217,0041200204,249,4,0,3,8:20 PM,10:05,,,Haslem REBOUND (Off:2 Def:3),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+218,0041200204,250,2,1,3,8:20 PM,10:02,,,MISS Chalmers 25' 3PT Jump Shot,,,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+219,0041200204,251,4,0,3,8:20 PM,10:01,Boozer REBOUND (Off:4 Def:5),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+220,0041200204,252,2,1,3,8:20 PM,9:37,MISS Robinson 11' Jump Shot,,Wade BLOCK (1 BLK),,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0
+221,0041200204,253,4,0,3,8:20 PM,9:35,,,Bosh REBOUND (Off:0 Def:2),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+222,0041200204,254,5,1,3,8:21 PM,9:19,Butler STEAL (1 STL),,Chalmers Bad Pass Turnover (P2.T10),,,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+223,0041200204,255,5,1,3,8:21 PM,9:15,Robinson Bad Pass Turnover (P3.T10),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+224,0041200204,256,2,1,3,8:21 PM,8:49,,,MISS Chalmers 25' 3PT Jump Shot,,,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+225,0041200204,257,4,0,3,8:21 PM,8:48,Belinelli REBOUND (Off:0 Def:2),,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+226,0041200204,258,6,2,3,8:21 PM,8:47,,,Wade S.FOUL (P2.T1),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+227,0041200204,259,3,11,3,8:22 PM,8:47,Noah Free Throw 1 of 2 (5 PTS),,,46 - 36,-10,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+228,0041200204,261,3,12,3,8:22 PM,8:47,Noah Free Throw 2 of 2 (6 PTS),,,46 - 37,-9,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+229,0041200204,263,5,40,3,8:22 PM,8:37,,,Haslem Out of Bounds Lost Ball Turnover (P1.T11),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+230,0041200204,264,6,2,3,8:23 PM,8:21,,,Wade S.FOUL (P3.T2),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+231,0041200204,265,3,11,3,8:23 PM,8:21,Belinelli Free Throw 1 of 2 (8 PTS),,,46 - 38,-8,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+232,0041200204,267,3,12,3,8:23 PM,8:21,Belinelli Free Throw 2 of 2 (9 PTS),,,46 - 39,-7,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+233,0041200204,270,7,2,3,8:24 PM,8:04,Noah Violation:Defensive Goaltending,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+234,0041200204,269,1,5,3,8:24 PM,8:04,,,Haslem 2' Layup (4 PTS) (James 6 AST),48 - 39,-9,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+235,0041200204,272,2,5,3,8:24 PM,7:51,MISS Robinson 3' Layup,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+236,0041200204,273,4,0,3,8:25 PM,7:50,,,Haslem REBOUND (Off:2 Def:4),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+237,0041200204,274,1,7,3,8:25 PM,7:45,,,Wade 2' Dunk (2 PTS) (James 7 AST),50 - 39,-11,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+238,0041200204,275,9,1,3,8:25 PM,7:44,BULLS Timeout: Regular (Full 3 Short 1),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+239,0041200204,276,2,5,3,8:28 PM,7:31,MISS Butler 2' Layup,,Bosh BLOCK (4 BLK),,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0
+240,0041200204,277,4,0,3,8:28 PM,7:30,Noah REBOUND (Off:6 Def:2),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+241,0041200204,278,2,1,3,8:28 PM,7:25,MISS Robinson 24' 3PT Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+242,0041200204,279,4,0,3,8:28 PM,7:23,,,Bosh REBOUND (Off:0 Def:3),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+243,0041200204,280,2,5,3,8:28 PM,7:17,,,MISS James 2' Layup,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+244,0041200204,282,4,0,3,8:28 PM,7:16,,,Haslem REBOUND (Off:3 Def:4),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+245,0041200204,281,1,4,3,8:28 PM,7:16,,,Haslem 1' Tip Shot (6 PTS),52 - 39,-13,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+246,0041200204,283,2,1,3,8:29 PM,6:51,MISS Noah 16' Jump Shot,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+247,0041200204,284,4,0,3,8:29 PM,6:49,,,Bosh REBOUND (Off:0 Def:4),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+248,0041200204,285,2,1,3,8:29 PM,6:29,,,MISS Haslem 17' Jump Shot,,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+249,0041200204,286,4,0,3,8:29 PM,6:27,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+250,0041200204,287,5,11,3,8:29 PM,6:27,,,Heat Turnover: Shot Clock (T#12),,,3,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+251,0041200204,288,2,5,3,8:30 PM,6:05,MISS Robinson 1' Layup,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+252,0041200204,289,4,0,3,8:30 PM,6:04,,,James REBOUND (Off:0 Def:5),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+253,0041200204,290,2,1,3,8:30 PM,5:50,,,MISS Bosh 21' Jump Shot,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+254,0041200204,291,4,0,3,8:30 PM,5:49,Robinson REBOUND (Off:0 Def:2),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+255,0041200204,292,6,29,3,8:30 PM,5:45,,,Bosh Shooting Block Foul (P2.T3),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+256,0041200204,293,3,11,3,8:31 PM,5:45,MISS Boozer Free Throw 1 of 2,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+257,0041200204,294,4,1,3,8:31 PM,5:45,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+258,0041200204,295,3,12,3,8:31 PM,5:45,Boozer Free Throw 2 of 2 (9 PTS),,,52 - 40,-12,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+259,0041200204,297,6,4,3,8:31 PM,5:32,,,Haslem OFF.Foul (P3),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+260,0041200204,298,5,5,3,8:31 PM,5:32,,,Haslem Foul Turnover (P2.T13),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+261,0041200204,299,5,8,3,8:32 PM,5:19,Boozer 3 Second Violation Turnover (P1.T11),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+262,0041200204,300,1,5,3,8:32 PM,5:07,,,James 2' Layup (17 PTS) (Haslem 1 AST),54 - 40,-14,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+263,0041200204,302,6,26,3,8:32 PM,4:50,Robinson Offensive Charge Foul (P3.T2),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+264,0041200204,303,5,5,3,8:32 PM,4:50,Robinson Foul Turnover (P4.T12),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+265,0041200204,304,1,1,3,8:33 PM,4:32,,,Wade 17' Jump Shot (4 PTS),56 - 40,-16,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+266,0041200204,305,6,27,3,8:33 PM,4:14,,,Haslem Personal Block Foul (P4.T4),,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+267,0041200204,306,8,0,3,8:34 PM,4:14,,,SUB: Battier FOR Haslem,,,5,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+268,0041200204,307,1,1,3,8:34 PM,4:06,Boozer 18' Jump Shot (11 PTS) (Robinson 4 AST),,,56 - 42,-14,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+269,0041200204,308,2,3,3,8:34 PM,3:42,,,MISS James 6' Hook Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+270,0041200204,309,4,0,3,8:34 PM,3:41,Noah REBOUND (Off:6 Def:3),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+271,0041200204,310,2,1,3,8:35 PM,3:22,MISS Butler 24' 3PT Jump Shot,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+272,0041200204,311,4,0,3,8:35 PM,3:22,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+273,0041200204,312,1,1,3,8:35 PM,3:10,,,Wade 17' Jump Shot (6 PTS),58 - 42,-16,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+274,0041200204,313,2,66,3,8:36 PM,2:42,MISS Robinson 8' Jump Bank Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+275,0041200204,314,4,0,3,8:36 PM,2:40,Boozer REBOUND (Off:5 Def:5),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+276,0041200204,315,6,2,3,8:36 PM,2:39,,,Battier S.FOUL (P3.PN),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+277,0041200204,316,9,1,3,8:36 PM,2:39,,,Heat Timeout: Regular (Reg.3 Short 1),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+278,0041200204,319,3,11,3,8:40 PM,2:39,MISS Boozer Free Throw 1 of 2,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+279,0041200204,320,4,1,3,8:40 PM,2:39,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+280,0041200204,321,3,12,3,8:40 PM,2:39,MISS Boozer Free Throw 2 of 2,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+281,0041200204,323,4,0,3,8:40 PM,2:38,,,James REBOUND (Off:0 Def:6),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+282,0041200204,324,2,1,3,8:40 PM,2:17,,,MISS Wade 23' Jump Shot,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+283,0041200204,325,4,0,3,8:40 PM,2:16,Boozer REBOUND (Off:5 Def:6),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+284,0041200204,326,5,1,3,8:40 PM,2:14,Boozer Bad Pass Turnover (P2.T13),,Wade STEAL (1 STL),,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+285,0041200204,327,2,1,3,8:41 PM,2:04,,,MISS Battier  3PT Jump Shot,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+286,0041200204,328,4,0,3,8:41 PM,2:03,Robinson REBOUND (Off:0 Def:3),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+287,0041200204,329,2,1,3,8:41 PM,1:42,MISS Belinelli 27' 3PT Jump Shot,,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+288,0041200204,330,4,0,3,8:41 PM,1:42,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+289,0041200204,331,2,1,3,8:41 PM,1:20,,,MISS James  3PT Jump Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+290,0041200204,332,4,0,3,8:41 PM,1:19,Boozer REBOUND (Off:5 Def:7),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+291,0041200204,333,2,1,3,8:42 PM,0:57,MISS Boozer 17' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+292,0041200204,334,4,0,3,8:42 PM,0:56,,,Battier REBOUND (Off:0 Def:2),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+293,0041200204,335,6,1,3,8:42 PM,0:52,Noah P.FOUL (P2.T3),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+294,0041200204,336,8,0,3,8:42 PM,0:52,,,SUB: Andersen FOR Bosh,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+295,0041200204,337,8,0,3,8:42 PM,0:52,,,SUB: Allen FOR Wade,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+296,0041200204,338,8,0,3,8:42 PM,0:52,,,SUB: Cole FOR Chalmers,,,5,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+297,0041200204,339,8,0,3,8:42 PM,0:52,SUB: Gibson FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+298,0041200204,340,8,0,3,8:42 PM,0:52,SUB: Teague FOR Robinson,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+299,0041200204,341,5,2,3,8:43 PM,0:50,Noah STEAL (1 STL),,Andersen Lost Ball Turnover (P1.T14),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+300,0041200204,342,5,1,3,8:43 PM,0:34,Gibson Bad Pass Turnover (P1.T14),,Battier STEAL (2 STL),,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+301,0041200204,343,2,1,3,8:43 PM,0:14,,,MISS James 7' Jump Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+302,0041200204,344,4,0,3,8:43 PM,0:13,Belinelli REBOUND (Off:0 Def:3),,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+303,0041200204,345,5,1,3,8:43 PM,0:02,Noah Bad Pass Turnover (P3.T15),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+304,0041200204,347,1,1,3,8:44 PM,0:00,,,Cole 27' 3PT Jump Shot (3 PTS) (Battier 1 AST),61 - 42,-19,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+305,0041200204,349,18,0,3,8:44 PM,0:00,,Support Ruling,,,,0,347,,,,,,0,0,,,,,,1,0,,,,,,0
+306,0041200204,348,13,0,3,8:44 PM,0:00,,End of 3rd Period (8:44 PM EST),,61 - 42,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+307,0041200204,351,12,0,4,8:48 PM,12:00,,Start of 4th Period (8:48 PM EST),,61 - 42,-19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+308,0041200204,352,1,44,4,8:48 PM,11:49,Butler 2' Reverse Layup (8 PTS) (Teague 1 AST),,,61 - 44,-17,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+309,0041200204,353,1,78,4,8:48 PM,11:29,,,Allen 7' Floating Jump Shot (5 PTS) (James 8 AST),63 - 44,-19,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+310,0041200204,354,1,5,4,8:48 PM,11:07,Gibson 2' Layup (5 PTS) (Hamilton 2 AST),,,63 - 46,-17,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+311,0041200204,355,2,1,4,8:49 PM,10:44,,,MISS Battier  3PT Jump Shot,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+312,0041200204,356,4,0,4,8:49 PM,10:43,,,Andersen REBOUND (Off:3 Def:1),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+313,0041200204,357,1,1,4,8:49 PM,10:40,,,James 24' 3PT Jump Shot (20 PTS) (Andersen 1 AST),66 - 46,-20,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+314,0041200204,358,1,1,4,8:49 PM,10:16,Gibson 16' Jump Shot (7 PTS) (Hamilton 3 AST),,,66 - 48,-18,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+315,0041200204,359,2,1,4,8:50 PM,9:54,,,MISS James 17' Jump Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+316,0041200204,360,4,0,4,8:50 PM,9:53,Gibson REBOUND (Off:2 Def:1),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+317,0041200204,361,6,2,4,8:50 PM,9:43,,,Battier S.FOUL (P4.T1),,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+318,0041200204,362,3,11,4,8:50 PM,9:43,Butler Free Throw 1 of 2 (9 PTS),,,66 - 49,-17,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+319,0041200204,364,3,12,4,8:50 PM,9:43,Butler Free Throw 2 of 2 (10 PTS),,,66 - 50,-16,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+320,0041200204,366,2,1,4,8:51 PM,9:18,,,MISS Andersen 17' Jump Shot,,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+321,0041200204,367,4,0,4,8:51 PM,9:17,Butler REBOUND (Off:1 Def:4),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+322,0041200204,368,2,7,4,8:51 PM,9:01,MISS Gibson 2' Dunk,,Andersen BLOCK (1 BLK),,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0
+323,0041200204,369,4,0,4,8:51 PM,8:59,,,Cole REBOUND (Off:0 Def:2),,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+324,0041200204,370,6,2,4,8:52 PM,8:58,Teague S.FOUL (P1.T1),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+325,0041200204,371,9,1,4,8:52 PM,8:58,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+326,0041200204,374,8,0,4,8:54 PM,8:58,,,SUB: Bosh FOR Battier,,,5,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+327,0041200204,376,3,11,4,8:54 PM,8:58,,,James Free Throw 1 of 2 (21 PTS),67 - 50,-17,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+328,0041200204,378,3,12,4,8:55 PM,8:58,,,James Free Throw 2 of 2 (22 PTS),68 - 50,-18,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+329,0041200204,380,2,5,4,8:55 PM,8:41,MISS Noah 2' Layup,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+330,0041200204,381,4,0,4,8:55 PM,8:39,,,Cole REBOUND (Off:0 Def:3),,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+331,0041200204,382,1,5,4,8:56 PM,8:23,,,Andersen 2' Layup (5 PTS) (Bosh 1 AST),70 - 50,-20,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+332,0041200204,383,1,1,4,8:56 PM,8:02,Butler 21' Jump Shot (12 PTS) (Hamilton 4 AST),,,70 - 52,-18,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+333,0041200204,384,6,1,4,8:56 PM,7:51,Noah P.FOUL (P3.T2),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+334,0041200204,385,6,2,4,8:57 PM,7:42,Gibson S.FOUL (P1.T3),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+335,0041200204,386,3,11,4,8:57 PM,7:42,,,Andersen Free Throw 1 of 2 (6 PTS),71 - 52,-19,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+336,0041200204,388,3,12,4,8:57 PM,7:42,,,Andersen Free Throw 2 of 2 (7 PTS),72 - 52,-20,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+337,0041200204,390,6,2,4,8:58 PM,7:24,,,Andersen S.FOUL (P3.T2),,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+338,0041200204,391,3,11,4,8:58 PM,7:24,Gibson Free Throw 1 of 2 (8 PTS),,,72 - 53,-19,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+339,0041200204,393,3,12,4,8:58 PM,7:24,MISS Gibson Free Throw 2 of 2,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+340,0041200204,395,4,0,4,8:58 PM,7:22,,,Allen REBOUND (Off:0 Def:2),,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+341,0041200204,396,6,2,4,8:58 PM,7:07,Butler S.FOUL (P2.T4),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+342,0041200204,397,3,11,4,8:59 PM,7:07,,,James Free Throw 1 of 2 (23 PTS),73 - 53,-20,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+343,0041200204,399,3,12,4,8:59 PM,7:07,,,James Free Throw 2 of 2 (24 PTS),74 - 53,-21,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+344,0041200204,401,2,5,4,8:59 PM,6:57,MISS Teague 2' Layup,,Andersen BLOCK (2 BLK),,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0
+345,0041200204,402,4,0,4,8:59 PM,6:57,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+346,0041200204,404,2,1,4,9:00 PM,6:54,MISS Noah 18' Jump Shot,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+347,0041200204,405,4,0,4,9:00 PM,6:52,Gibson REBOUND (Off:3 Def:1),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+348,0041200204,406,2,1,4,9:00 PM,6:50,MISS Teague 26' 3PT Jump Shot,,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+349,0041200204,407,4,0,4,9:00 PM,6:48,,,Bosh REBOUND (Off:0 Def:5),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+350,0041200204,408,6,1,4,9:00 PM,6:41,Teague P.FOUL (P2.PN),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+351,0041200204,409,3,11,4,9:00 PM,6:41,,,Cole Free Throw 1 of 2 (4 PTS),75 - 53,-22,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+352,0041200204,411,8,0,4,9:01 PM,6:41,SUB: Boozer FOR Noah,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+353,0041200204,412,3,12,4,9:01 PM,6:41,,,Cole Free Throw 2 of 2 (5 PTS),76 - 53,-23,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+354,0041200204,414,5,1,4,9:01 PM,6:21,Teague Bad Pass Turnover (P1.T16),,Allen STEAL (1 STL),,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+355,0041200204,415,2,1,4,9:01 PM,6:15,,,MISS James 24' 3PT Jump Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+356,0041200204,416,4,0,4,9:01 PM,6:14,Teague REBOUND (Off:0 Def:1),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+357,0041200204,417,6,2,4,9:02 PM,6:08,,,Bosh S.FOUL (P3.T3),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+358,0041200204,418,3,11,4,9:02 PM,6:08,MISS Boozer Free Throw 1 of 2,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+359,0041200204,419,4,1,4,9:02 PM,6:08,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+360,0041200204,420,3,12,4,9:02 PM,6:08,Boozer Free Throw 2 of 2 (12 PTS),,,76 - 54,-22,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+361,0041200204,422,2,1,4,9:03 PM,5:46,,,MISS Allen  3PT Jump Shot,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+362,0041200204,423,4,0,4,9:03 PM,5:46,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+363,0041200204,424,6,3,4,9:03 PM,5:46,Gibson L.B.FOUL (P2.PN),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+364,0041200204,425,9,1,4,9:03 PM,5:46,BULLS Timeout: Regular (Full 4 Short 1),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+365,0041200204,426,3,11,4,9:06 PM,5:46,,,Andersen Free Throw 1 of 2 (8 PTS),77 - 54,-23,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+366,0041200204,428,3,12,4,9:06 PM,5:46,,,Andersen Free Throw 2 of 2 (9 PTS),78 - 54,-24,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+367,0041200204,430,5,1,4,9:07 PM,5:32,Hamilton Bad Pass Turnover (P1.T17),,James STEAL (2 STL),,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+368,0041200204,431,6,2,4,9:07 PM,5:24,Gibson S.FOUL (P3.PN),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+369,0041200204,432,3,11,4,9:07 PM,5:24,,,MISS James Free Throw 1 of 2,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+370,0041200204,433,4,1,4,9:07 PM,5:24,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+371,0041200204,434,8,0,4,9:07 PM,5:24,,,SUB: Wade FOR Andersen,,,5,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+372,0041200204,435,3,12,4,9:07 PM,5:24,,,James Free Throw 2 of 2 (25 PTS),79 - 54,-25,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+373,0041200204,437,2,1,4,9:08 PM,5:05,MISS Boozer 15' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+374,0041200204,438,4,0,4,9:08 PM,5:04,Gibson REBOUND (Off:4 Def:1),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+375,0041200204,439,2,1,4,9:08 PM,4:54,MISS Gibson 5' Jump Shot,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+376,0041200204,440,4,0,4,9:08 PM,4:53,,,James REBOUND (Off:0 Def:7),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+377,0041200204,441,5,1,4,9:08 PM,4:46,Boozer STEAL (3 STL),,James Bad Pass Turnover (P5.T15),,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+378,0041200204,442,6,2,4,9:08 PM,4:41,,,Bosh S.FOUL (P4.T4),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+379,0041200204,443,3,11,4,9:09 PM,4:41,Boozer Free Throw 1 of 2 (13 PTS),,,79 - 55,-24,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+380,0041200204,445,3,12,4,9:09 PM,4:41,Boozer Free Throw 2 of 2 (14 PTS),,,79 - 56,-23,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+381,0041200204,447,2,1,4,9:09 PM,4:21,,,MISS James 15' Jump Shot,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+382,0041200204,448,4,0,4,9:09 PM,4:20,Gibson REBOUND (Off:4 Def:2),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+383,0041200204,449,1,1,4,9:10 PM,4:08,Hamilton 25' 3PT Jump Shot (8 PTS) (Teague 2 AST),,,79 - 59,-20,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+384,0041200204,450,2,1,4,9:10 PM,3:52,Gibson BLOCK (1 BLK),,MISS Wade 18' Jump Shot,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0
+385,0041200204,451,4,0,4,9:10 PM,3:50,Gibson REBOUND (Off:4 Def:3),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+386,0041200204,452,6,2,4,9:10 PM,3:45,,,Wade S.FOUL (P4.PN),,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+387,0041200204,453,3,11,4,9:10 PM,3:45,MISS Hamilton Free Throw 1 of 2,,,,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+388,0041200204,454,4,1,4,9:10 PM,3:45,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+389,0041200204,455,3,12,4,9:10 PM,3:45,Hamilton Free Throw 2 of 2 (9 PTS),,,79 - 60,-19,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+390,0041200204,458,1,5,4,9:11 PM,3:24,,,James 1' Layup (27 PTS) (Cole 3 AST),81 - 60,-21,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+391,0041200204,459,2,1,4,9:11 PM,3:05,MISS Boozer 11' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+392,0041200204,460,4,0,4,9:11 PM,3:04,,,Bosh REBOUND (Off:0 Def:6),,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+393,0041200204,462,9,1,4,9:12 PM,2:45,,,Heat Timeout: Regular (Reg.4 Short 1),,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+394,0041200204,463,8,0,4,9:14 PM,2:45,,,SUB: Miller FOR James,,,5,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,2034,Mike Miller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+395,0041200204,464,8,0,4,9:14 PM,2:45,,,SUB: Lewis FOR Bosh,,,5,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+396,0041200204,465,8,0,4,9:14 PM,2:45,,,SUB: Anthony FOR Wade,,,5,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,201202,Joel Anthony,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+397,0041200204,466,1,42,4,9:15 PM,2:41,,,Lewis 2' Driving Layup (2 PTS) (Miller 1 AST),83 - 60,-23,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,5,2034,Mike Miller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+398,0041200204,467,2,1,4,9:15 PM,2:17,MISS Hamilton 21' Jump Shot,,,,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+399,0041200204,468,4,0,4,9:15 PM,2:16,,,Anthony REBOUND (Off:0 Def:1),,,5,201202,Joel Anthony,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+400,0041200204,470,6,1,4,9:15 PM,2:10,Teague P.FOUL (P3.PN),,,,,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+401,0041200204,471,3,11,4,9:15 PM,2:10,,,MISS Cole Free Throw 1 of 2,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+402,0041200204,472,4,1,4,9:15 PM,2:10,,,Heat Rebound,,,3,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+403,0041200204,473,8,0,4,9:16 PM,2:10,SUB: Cook FOR Butler,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,4,201161,Daequan Cook,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+404,0041200204,474,8,0,4,9:16 PM,2:10,SUB: Thomas FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,202952,Malcolm Thomas,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+405,0041200204,475,8,0,4,9:16 PM,2:10,,,SUB: Jones FOR Allen,,,5,951,Ray Allen,1610612748.0,Miami,Heat,MIA,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+406,0041200204,476,3,12,4,9:16 PM,2:10,,,MISS Cole Free Throw 2 of 2,,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+407,0041200204,478,4,0,4,9:16 PM,2:09,Gibson REBOUND (Off:4 Def:4),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+408,0041200204,479,2,5,4,9:16 PM,1:55,MISS Hamilton 3' Layup,,,,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+409,0041200204,480,4,0,4,9:16 PM,1:55,Gibson REBOUND (Off:5 Def:4),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+410,0041200204,481,6,1,4,9:16 PM,1:55,,,Miller P.FOUL (P1.PN),,,5,2034,Mike Miller,1610612748.0,Miami,Heat,MIA,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+411,0041200204,482,3,11,4,9:16 PM,1:55,Gibson Free Throw 1 of 2 (9 PTS),,,83 - 61,-22,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+412,0041200204,484,3,12,4,9:17 PM,1:55,Gibson Free Throw 2 of 2 (10 PTS),,,83 - 62,-21,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+413,0041200204,486,1,1,4,9:17 PM,1:40,,,Jones 24' 3PT Jump Shot (3 PTS) (Cole 4 AST),86 - 62,-24,5,2592,James Jones,1610612748.0,Miami,Heat,MIA,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+414,0041200204,487,2,1,4,9:17 PM,1:23,MISS Cook 21' Jump Shot,,,,,4,201161,Daequan Cook,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+415,0041200204,488,4,0,4,9:18 PM,1:22,,,Lewis REBOUND (Off:0 Def:1),,,5,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+416,0041200204,489,1,1,4,9:18 PM,1:01,,,Cole 22' Jump Shot (7 PTS),88 - 62,-26,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+417,0041200204,491,1,1,4,9:18 PM,0:53,Hamilton 11' Jump Shot (11 PTS) (Teague 3 AST),,,88 - 64,-24,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,4,203104,Marquis Teague,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+418,0041200204,492,5,1,4,9:18 PM,0:34,Gibson STEAL (1 STL),,Cole Bad Pass Turnover (P2.T16),,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+419,0041200204,493,2,1,4,9:19 PM,0:28,MISS Hamilton 20' Jump Shot,,,,,4,1888,Richard Hamilton,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+420,0041200204,494,4,0,4,9:19 PM,0:27,Thomas REBOUND (Off:1 Def:0),,,,,4,202952,Malcolm Thomas,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+421,0041200204,495,2,5,4,9:19 PM,0:26,MISS Thomas 3' Layup,,Anthony BLOCK (1 BLK),,,4,202952,Malcolm Thomas,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201202,Joel Anthony,1610612748.0,Miami,Heat,MIA,0
+422,0041200204,496,4,0,4,9:19 PM,0:26,Thomas REBOUND (Off:2 Def:0),,,,,4,202952,Malcolm Thomas,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+423,0041200204,497,6,2,4,9:19 PM,0:26,,,Anthony S.FOUL (P1.PN),,,5,201202,Joel Anthony,1610612748.0,Miami,Heat,MIA,4,202952,Malcolm Thomas,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+424,0041200204,498,3,11,4,9:19 PM,0:26,MISS Thomas Free Throw 1 of 2,,,,,4,202952,Malcolm Thomas,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+425,0041200204,499,4,1,4,9:19 PM,0:26,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+426,0041200204,500,3,12,4,9:19 PM,0:26,Thomas Free Throw 2 of 2 (1 PTS),,,88 - 65,-23,4,202952,Malcolm Thomas,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+427,0041200204,503,5,1,4,9:20 PM,0:03,Gibson STEAL (2 STL),,Cole Bad Pass Turnover (P3.T17),,,5,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+428,0041200204,504,2,1,4,9:20 PM,0:00,MISS Gibson 65' 3PT Jump Shot,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+429,0041200204,506,4,0,4,9:20 PM,0:00,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+430,0041200204,505,13,0,4,9:20 PM,0:00,,End of 4th Period (9:20 PM EST),,88 - 65,-23,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

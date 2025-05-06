@@ -1,0 +1,471 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200173,0,12,0,1,9:47 PM,12:00,,Start of 1st Period (9:47 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200173,1,10,0,1,9:48 PM,12:00,Jump Ball Gasol vs. Jordan: Tip to Butler,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0
+2,0041200173,2,1,1,1,9:48 PM,11:48,,,Griffin 4' Jump Shot (2 PTS) (Billups 1 AST),2 - 0,-2,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+3,0041200173,3,2,47,1,9:48 PM,11:29,MISS Gasol 10' Turnaround Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+4,0041200173,4,4,0,1,9:48 PM,11:27,,,Paul REBOUND (Off:0 Def:1),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+5,0041200173,5,2,1,1,9:49 PM,11:05,Conley BLOCK (1 BLK),,MISS Billups 11' Jump Shot,,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0
+6,0041200173,6,4,0,1,9:49 PM,11:04,Allen REBOUND (Off:0 Def:1),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+7,0041200173,7,5,1,1,9:49 PM,10:59,Allen Bad Pass Turnover (P1.T1),,Paul STEAL (1 STL),,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+8,0041200173,8,2,1,1,9:49 PM,10:36,,,MISS Griffin 17' Jump Shot,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+9,0041200173,9,4,0,1,9:49 PM,10:34,Conley REBOUND (Off:0 Def:1),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+10,0041200173,10,2,5,1,9:49 PM,10:24,MISS Allen 3' Layup,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+11,0041200173,11,4,0,1,9:50 PM,10:22,,,Jordan REBOUND (Off:0 Def:1),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+12,0041200173,12,2,63,1,9:50 PM,10:01,,,MISS Paul 15' Fadeaway Jumper,,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+13,0041200173,13,4,0,1,9:50 PM,10:00,Gasol REBOUND (Off:0 Def:1),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+14,0041200173,14,1,1,1,9:50 PM,9:45,Randolph 18' Jump Shot (2 PTS),,,2 - 2,TIE,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+15,0041200173,15,2,1,1,9:50 PM,9:26,,,MISS Butler  3PT Jump Shot,,,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+16,0041200173,16,4,0,1,9:50 PM,9:25,Randolph REBOUND (Off:0 Def:1),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+17,0041200173,17,5,40,1,9:51 PM,9:20,Allen Out of Bounds Lost Ball Turnover (P2.T2),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+18,0041200173,18,7,1,1,9:51 PM,9:20,GRIZZLIES Violation: Delay of game Violation,,,,,2,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+19,0041200173,19,5,1,1,9:51 PM,9:08,,,Jordan Bad Pass Turnover (P1.T1),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+20,0041200173,20,2,1,1,9:51 PM,8:49,MISS Conley 26' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+21,0041200173,21,4,0,1,9:51 PM,8:48,,,Billups REBOUND (Off:0 Def:1),,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+22,0041200173,22,1,1,1,9:52 PM,8:39,,,Billups 26' 3PT Jump Shot (3 PTS),5 - 2,-3,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+23,0041200173,23,6,2,1,9:52 PM,8:15,,,Griffin S.FOUL (P1.T1),,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+24,0041200173,24,3,11,1,9:52 PM,8:15,Randolph Free Throw 1 of 2 (3 PTS),,,5 - 3,-2,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+25,0041200173,26,3,12,1,9:53 PM,8:15,Randolph Free Throw 2 of 2 (4 PTS),,,5 - 4,-1,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+26,0041200173,28,5,2,1,9:53 PM,8:05,Conley STEAL (1 STL),,Billups Lost Ball Turnover (P1.T2),,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+27,0041200173,29,2,1,1,9:53 PM,7:55,MISS Randolph 5' Jump Shot,,Jordan BLOCK (1 BLK),,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0
+28,0041200173,30,4,0,1,9:53 PM,7:53,,,Paul REBOUND (Off:0 Def:2),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+29,0041200173,31,2,1,1,9:53 PM,7:48,,,MISS Billups 27' 3PT Jump Shot,,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+30,0041200173,32,4,0,1,9:54 PM,7:48,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+31,0041200173,33,6,3,1,9:54 PM,7:48,Gasol L.B.FOUL (P1.T1),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+32,0041200173,34,2,1,1,9:54 PM,7:32,,,MISS Billups 8' Jump Shot,,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+33,0041200173,35,4,0,1,9:54 PM,7:31,Gasol REBOUND (Off:0 Def:2),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+34,0041200173,36,2,1,1,9:54 PM,7:25,MISS Prince 17' Jump Shot,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+35,0041200173,37,4,0,1,9:54 PM,7:24,Allen REBOUND (Off:1 Def:1),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+36,0041200173,38,6,3,1,9:54 PM,7:17,,,Billups L.B.FOUL (P1.T2),,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+37,0041200173,39,2,42,1,9:55 PM,7:08,MISS Conley 1' Driving Layup,,Griffin BLOCK (1 BLK),,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0
+38,0041200173,40,4,0,1,9:55 PM,7:05,,,Griffin REBOUND (Off:0 Def:1),,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+39,0041200173,41,1,42,1,9:55 PM,6:59,,,Butler 1' Driving Layup (2 PTS),7 - 4,-3,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+40,0041200173,42,6,1,1,9:55 PM,6:51,,,Butler P.FOUL (P1.T3),,,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+41,0041200173,43,1,1,1,9:56 PM,6:45,Gasol 19' Jump Shot (2 PTS) (Conley 1 AST),,,7 - 6,-1,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+42,0041200173,44,2,1,1,9:56 PM,6:21,,,MISS Paul  3PT Jump Shot,,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+43,0041200173,45,4,0,1,9:56 PM,6:21,Conley REBOUND (Off:0 Def:2),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+44,0041200173,46,1,42,1,9:56 PM,6:16,Prince 1' Driving Layup (2 PTS) (Conley 2 AST),,,7 - 8,1,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+45,0041200173,47,1,1,1,9:56 PM,5:50,,,Butler 24' 3PT Jump Shot (5 PTS) (Billups 2 AST),10 - 8,-2,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+46,0041200173,48,1,42,1,9:57 PM,5:33,Randolph 1' Driving Layup (6 PTS),,,10 - 10,TIE,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+47,0041200173,49,6,2,1,9:57 PM,5:33,,,Jordan S.FOUL (P1.T4),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+48,0041200173,51,9,1,1,9:57 PM,5:33,GRIZZLIES Timeout: Regular (Full 1 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+49,0041200173,52,8,0,1,10:00 PM,5:33,,,SUB: Crawford FOR Billups,,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+50,0041200173,53,3,10,1,10:00 PM,5:33,Randolph Free Throw 1 of 1 (7 PTS),,,10 - 11,1,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+51,0041200173,55,2,3,1,10:01 PM,5:17,,,MISS Griffin 5' Hook Shot,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+52,0041200173,56,4,0,1,10:01 PM,5:15,Allen REBOUND (Off:1 Def:2),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+53,0041200173,57,1,5,1,10:01 PM,4:57,Randolph 1' Layup (9 PTS) (Conley 3 AST),,,10 - 13,3,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+54,0041200173,58,2,5,1,10:02 PM,4:34,,,MISS Butler 1' Layup,,,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+55,0041200173,59,4,0,1,10:02 PM,4:33,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+56,0041200173,60,2,46,1,10:03 PM,4:12,,,MISS Crawford 13' Running Jump Shot,,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+57,0041200173,61,4,0,1,10:03 PM,4:09,Gasol REBOUND (Off:0 Def:3),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+58,0041200173,62,1,1,1,10:03 PM,4:00,Gasol 9' Jump Shot (4 PTS) (Conley 4 AST),,,10 - 15,5,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+59,0041200173,63,1,63,1,10:03 PM,3:43,,,Paul 14' Fadeaway Jumper (2 PTS),12 - 15,3,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+60,0041200173,64,1,1,1,10:03 PM,3:31,Randolph 6' Jump Shot (11 PTS) (Conley 5 AST),,,12 - 17,5,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+61,0041200173,65,1,1,1,10:04 PM,3:05,,,Griffin 22' Jump Shot (4 PTS) (Crawford 1 AST),14 - 17,3,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+62,0041200173,66,2,1,1,10:04 PM,2:47,MISS Allen 6' Jump Shot,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+63,0041200173,67,4,0,1,10:04 PM,2:47,Randolph REBOUND (Off:1 Def:1),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+64,0041200173,68,6,3,1,10:04 PM,2:47,,,Crawford L.B.FOUL (P1.PN),,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+65,0041200173,69,9,1,1,10:04 PM,2:47,,,Clippers Timeout: Regular (Reg.1 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+66,0041200173,71,8,0,1,10:07 PM,2:47,SUB: Bayless FOR Prince,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+67,0041200173,72,8,0,1,10:07 PM,2:47,SUB: Dooling FOR Conley,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+68,0041200173,73,8,0,1,10:07 PM,2:47,,,SUB: Barnes FOR Butler,,,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+69,0041200173,74,8,0,1,10:07 PM,2:47,,,SUB: Hollins FOR Jordan,,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+70,0041200173,75,3,11,1,10:07 PM,2:47,Randolph Free Throw 1 of 2 (12 PTS),,,14 - 18,4,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+71,0041200173,77,3,12,1,10:08 PM,2:47,Randolph Free Throw 2 of 2 (13 PTS),,,14 - 19,5,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+72,0041200173,79,5,1,1,10:08 PM,2:37,Randolph STEAL (1 STL),,Paul Bad Pass Turnover (P1.T3),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+73,0041200173,80,1,5,1,10:08 PM,2:33,Dooling  Layup (2 PTS) (Randolph 1 AST),,,14 - 21,7,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+74,0041200173,81,5,11,1,10:09 PM,2:07,,,Clippers Turnover: Shot Clock (T#4),,,3,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+75,0041200173,82,8,0,1,10:09 PM,2:07,SUB: Arthur FOR Randolph,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+76,0041200173,83,2,1,1,10:09 PM,1:47,MISS Gasol 12' Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+77,0041200173,84,4,0,1,10:09 PM,1:47,,,Paul REBOUND (Off:0 Def:3),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+78,0041200173,85,1,3,1,10:10 PM,1:32,,,Griffin 8' Hook Shot (6 PTS),16 - 21,5,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+79,0041200173,86,2,1,1,10:10 PM,1:09,MISS Bayless 21' Jump Shot,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+80,0041200173,87,4,0,1,10:10 PM,1:08,,,Crawford REBOUND (Off:0 Def:1),,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+81,0041200173,88,1,5,1,10:10 PM,0:59,,,Griffin 2' Layup (8 PTS),18 - 21,3,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+82,0041200173,89,6,2,1,10:10 PM,0:59,Gasol S.FOUL (P2.T2),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+83,0041200173,90,8,0,1,10:10 PM,0:59,,,SUB: Bledsoe FOR Paul,,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+84,0041200173,91,8,0,1,10:11 PM,0:59,SUB: Davis FOR Gasol,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+85,0041200173,93,8,0,1,10:11 PM,0:59,SUB: Pondexter FOR Allen,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+86,0041200173,94,3,10,1,10:11 PM,0:59,,,MISS Griffin Free Throw 1 of 1,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+87,0041200173,96,4,0,1,10:11 PM,0:58,Arthur REBOUND (Off:0 Def:1),,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+88,0041200173,97,2,1,1,10:11 PM,0:44,MISS Dooling 6' Jump Shot,,Hollins BLOCK (1 BLK),,,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0
+89,0041200173,98,4,0,1,10:12 PM,0:42,,,Crawford REBOUND (Off:0 Def:2),,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+90,0041200173,99,6,1,1,10:12 PM,0:40,Bayless P.FOUL (P1.PN),,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+91,0041200173,100,3,11,1,10:12 PM,0:40,,,Griffin Free Throw 1 of 2 (9 PTS),19 - 21,2,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+92,0041200173,102,3,12,1,10:12 PM,0:40,,,Griffin Free Throw 2 of 2 (10 PTS),20 - 21,1,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+93,0041200173,104,1,77,1,10:13 PM,0:25,Arthur 5' Driving Jump Shot (2 PTS),,,20 - 23,3,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+94,0041200173,105,6,4,1,10:13 PM,0:02,,,Griffin OFF.Foul (P2),,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+95,0041200173,106,5,5,1,10:13 PM,0:02,,,Griffin Foul Turnover (P1.T5),,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+96,0041200173,107,8,0,1,10:13 PM,0:02,,,SUB: Odom FOR Griffin,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+97,0041200173,108,2,1,1,10:14 PM,0:01,MISS Bayless 42' 3PT Jump Shot,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+98,0041200173,110,4,0,1,10:14 PM,0:00,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+99,0041200173,109,13,0,1,10:14 PM,0:00,,End of 1st Period (10:14 PM EST),,20 - 23,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+100,0041200173,112,12,0,2,10:17 PM,12:00,,Start of 2nd Period (10:17 PM EST),,20 - 23,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+101,0041200173,113,5,1,2,10:18 PM,11:42,Bayless Bad Pass Turnover (P1.T3),,Odom STEAL (1 STL),,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+102,0041200173,114,6,2,2,10:18 PM,11:38,Bayless S.FOUL (P2.T1),,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+103,0041200173,115,3,11,2,10:18 PM,11:38,,,Barnes Free Throw 1 of 2 (1 PTS),21 - 23,2,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+104,0041200173,117,3,12,2,10:18 PM,11:38,,,Barnes Free Throw 2 of 2 (2 PTS),22 - 23,1,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+105,0041200173,119,1,1,2,10:19 PM,11:16,Dooling  3PT Jump Shot (5 PTS) (Bayless 1 AST),,,22 - 26,4,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+106,0041200173,120,2,1,2,10:19 PM,10:51,,,MISS Bledsoe 25' 3PT Jump Shot,,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+107,0041200173,121,4,0,2,10:19 PM,10:50,Arthur REBOUND (Off:0 Def:2),,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+108,0041200173,122,1,1,2,10:20 PM,10:37,Bayless 26' 3PT Jump Shot (3 PTS) (Arthur 1 AST),,,22 - 29,7,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+109,0041200173,123,9,1,2,10:20 PM,10:26,,,Clippers Timeout: Regular (Reg.2 Short 0),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+110,0041200173,125,8,0,2,10:22 PM,10:26,SUB: Conley FOR Dooling,,,,,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+111,0041200173,126,1,7,2,10:23 PM,10:21,,,Barnes  Dunk (4 PTS) (Odom 1 AST),24 - 29,5,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+112,0041200173,127,5,1,2,10:24 PM,10:00,Bayless Bad Pass Turnover (P2.T4),,Bledsoe STEAL (1 STL),,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+113,0041200173,128,1,1,2,10:24 PM,9:47,,,Barnes 25' 3PT Jump Shot (7 PTS) (Bledsoe 1 AST),27 - 29,2,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+114,0041200173,129,6,1,2,10:24 PM,9:34,,,Odom P.FOUL (P1.T1),,,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+115,0041200173,130,8,0,2,10:24 PM,9:34,SUB: Prince FOR Bayless,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+116,0041200173,131,2,1,2,10:25 PM,9:25,MISS Conley 26' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+117,0041200173,132,4,0,2,10:25 PM,9:25,Arthur REBOUND (Off:1 Def:2),,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+118,0041200173,133,6,1,2,10:25 PM,9:25,,,Bledsoe P.FOUL (P1.T2),,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+119,0041200173,134,3,11,2,10:25 PM,9:25,Arthur Free Throw 1 of 2 (3 PTS),,,27 - 30,3,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+120,0041200173,136,3,12,2,10:25 PM,9:25,MISS Arthur Free Throw 2 of 2,,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+121,0041200173,138,4,0,2,10:25 PM,9:23,,,Hollins REBOUND (Off:0 Def:1),,,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+122,0041200173,139,2,1,2,10:26 PM,9:10,,,MISS Crawford 17' Jump Shot,,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+123,0041200173,140,4,0,2,10:26 PM,9:08,,,Hollins REBOUND (Off:1 Def:1),,,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+124,0041200173,141,2,1,2,10:26 PM,9:05,,,MISS Hollins 8' Jump Shot,,,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+125,0041200173,142,4,0,2,10:26 PM,9:04,,,Hollins REBOUND (Off:2 Def:1),,,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+126,0041200173,143,5,1,2,10:26 PM,9:01,Pondexter STEAL (1 STL),,Hollins Bad Pass Turnover (P1.T6),,,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+127,0041200173,144,2,1,2,10:26 PM,8:48,MISS Arthur 11' Jump Shot,,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+128,0041200173,145,4,0,2,10:26 PM,8:47,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+129,0041200173,146,6,3,2,10:26 PM,8:47,Davis L.B.FOUL (P1.T2),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+130,0041200173,147,8,0,2,10:26 PM,8:47,SUB: Randolph FOR Davis,,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+131,0041200173,148,2,1,2,10:27 PM,8:30,,,MISS Barnes  3PT Jump Shot,,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+132,0041200173,149,4,0,2,10:27 PM,8:29,,,Hollins REBOUND (Off:3 Def:1),,,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+133,0041200173,150,2,1,2,10:27 PM,8:20,,,MISS Crawford 27' 3PT Jump Shot,,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+134,0041200173,151,4,0,2,10:27 PM,8:19,Arthur REBOUND (Off:1 Def:3),,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+135,0041200173,152,6,2,2,10:27 PM,8:13,,,Bledsoe S.FOUL (P2.T3),,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+136,0041200173,153,3,11,2,10:27 PM,8:13,Conley Free Throw 1 of 2 (1 PTS),,,27 - 31,4,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+137,0041200173,155,3,12,2,10:28 PM,8:13,Conley Free Throw 2 of 2 (2 PTS),,,27 - 32,5,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+138,0041200173,156,2,1,2,10:28 PM,7:58,Conley BLOCK (2 BLK),,MISS Bledsoe 7' Jump Shot,,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0
+139,0041200173,157,4,0,2,10:28 PM,7:57,Randolph REBOUND (Off:1 Def:2),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+140,0041200173,158,2,42,2,10:29 PM,7:45,MISS Conley 2' Driving Layup,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+141,0041200173,159,4,0,2,10:29 PM,7:43,,,Bledsoe REBOUND (Off:0 Def:1),,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+142,0041200173,160,9,2,2,10:29 PM,7:37,,,Clippers Timeout: Short (Reg.2 Short 1),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+143,0041200173,162,8,0,2,10:30 PM,7:37,,,SUB: Jordan FOR Hollins,,,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+144,0041200173,164,5,1,2,10:30 PM,7:35,Prince STEAL (1 STL),,Barnes Bad Pass Turnover (P1.T7),,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+145,0041200173,165,2,5,2,10:30 PM,7:19,MISS Randolph 3' Layup,,Jordan BLOCK (2 BLK),,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0
+146,0041200173,166,4,0,2,10:31 PM,7:18,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+147,0041200173,167,8,0,2,10:31 PM,7:18,,,SUB: Paul FOR Bledsoe,,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+148,0041200173,168,2,1,2,10:31 PM,7:10,MISS Conley 25' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+149,0041200173,169,4,0,2,10:31 PM,7:10,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+150,0041200173,170,6,3,2,10:31 PM,7:10,,,Crawford L.B.FOUL (P2.T4),,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+151,0041200173,171,5,1,2,10:32 PM,6:56,Prince Bad Pass Turnover (P1.T5),,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+152,0041200173,172,6,1,2,10:32 PM,6:46,Arthur P.FOUL (P1.T3),,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+153,0041200173,173,8,0,2,10:32 PM,6:46,SUB: Gasol FOR Arthur,,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+154,0041200173,174,1,63,2,10:32 PM,6:35,,,Paul 9' Fadeaway Jumper (4 PTS),29 - 32,3,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+155,0041200173,175,1,1,2,10:33 PM,6:20,Pondexter 26' 3PT Jump Shot (3 PTS) (Gasol 1 AST),,,29 - 35,6,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+156,0041200173,176,1,1,2,10:33 PM,6:00,,,Crawford 21' Jump Shot (2 PTS),31 - 35,4,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+157,0041200173,177,2,1,2,10:33 PM,5:38,MISS Randolph 7' Jump Shot,,Odom BLOCK (1 BLK),,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,0
+158,0041200173,179,4,0,2,10:33 PM,5:37,Randolph REBOUND (Off:2 Def:2),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+159,0041200173,178,1,5,2,10:33 PM,5:37,Randolph 1' Layup (15 PTS),,,31 - 37,6,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+160,0041200173,180,5,1,2,10:34 PM,5:25,Prince STEAL (2 STL),,Paul Bad Pass Turnover (P2.T8),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+161,0041200173,182,6,28,2,10:34 PM,5:25,,,Barnes Personal Take Foul (P1.PN),,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+162,0041200173,183,18,1,2,10:34 PM,5:25,,Overturn Ruling,,,,0,182,Billy Owens,,,,,0,0,,,,,,1,0,,,,,,0
+163,0041200173,191,9,4,2,10:36 PM,5:25,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+164,0041200173,185,8,0,2,10:36 PM,5:25,SUB: Dooling FOR Conley,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+165,0041200173,186,8,0,2,10:37 PM,5:25,,,SUB: Butler FOR Barnes,,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+166,0041200173,187,8,0,2,10:37 PM,5:25,,,SUB: Griffin FOR Odom,,,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+167,0041200173,188,3,11,2,10:37 PM,5:25,MISS Prince Free Throw 1 of 2,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+168,0041200173,189,4,1,2,10:37 PM,5:25,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+169,0041200173,190,3,12,2,10:37 PM,5:25,MISS Prince Free Throw 2 of 2,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+170,0041200173,193,4,0,2,10:37 PM,5:24,,,Butler REBOUND (Off:0 Def:1),,,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+171,0041200173,194,5,40,2,10:38 PM,5:11,,,Paul Out of Bounds Lost Ball Turnover (P3.T9),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+172,0041200173,195,2,1,2,10:38 PM,4:49,MISS Prince 21' Jump Shot,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+173,0041200173,196,4,0,2,10:38 PM,4:47,Pondexter REBOUND (Off:1 Def:0),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+174,0041200173,197,2,1,2,10:38 PM,4:44,MISS Dooling 26' 3PT Jump Shot,,,,,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+175,0041200173,198,4,0,2,10:38 PM,4:43,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+176,0041200173,199,1,1,2,10:39 PM,4:37,Gasol 20' Jump Shot (6 PTS) (Dooling 1 AST),,,31 - 39,8,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+177,0041200173,200,2,1,2,10:39 PM,4:11,,,MISS Griffin 20' Jump Shot,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+178,0041200173,201,4,0,2,10:39 PM,4:10,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+179,0041200173,202,6,3,2,10:39 PM,4:10,,,Jordan L.B.FOUL (P2.PN),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+180,0041200173,203,6,11,2,10:39 PM,4:10,,,Paul T.FOUL (P0.PN),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+181,0041200173,204,3,16,2,10:40 PM,4:10,Randolph Free Throw Technical (16 PTS),,,31 - 40,9,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+182,0041200173,205,8,0,2,10:40 PM,4:10,,,SUB: Billups FOR Crawford,,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+183,0041200173,206,3,11,2,10:40 PM,4:10,Gasol Free Throw 1 of 2 (7 PTS),,,31 - 41,10,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+184,0041200173,208,3,12,2,10:40 PM,4:10,MISS Gasol Free Throw 2 of 2,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+185,0041200173,210,4,0,2,10:41 PM,4:09,,,Jordan REBOUND (Off:0 Def:2),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+186,0041200173,211,2,80,2,10:41 PM,3:53,,,MISS Paul 10' Step Back Jump Shot,,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+187,0041200173,212,4,0,2,10:41 PM,3:51,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+188,0041200173,213,1,1,2,10:42 PM,3:33,Gasol 11' Jump Shot (9 PTS),,,31 - 43,12,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+189,0041200173,214,2,1,2,10:42 PM,3:08,,,MISS Griffin 17' Jump Shot,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+190,0041200173,216,4,0,2,10:42 PM,3:05,,,Jordan REBOUND (Off:1 Def:2),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+191,0041200173,215,1,1,2,10:42 PM,3:05,,,Jordan 4' Jump Shot (2 PTS),33 - 43,10,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+192,0041200173,217,2,3,2,10:42 PM,2:41,MISS Gasol 10' Hook Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+193,0041200173,218,4,0,2,10:42 PM,2:41,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+194,0041200173,219,6,3,2,10:42 PM,2:41,Randolph L.B.FOUL (P1.T4),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+195,0041200173,221,9,1,2,10:43 PM,2:41,GRIZZLIES Timeout: Regular (Full 2 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+196,0041200173,222,8,0,2,10:45 PM,2:41,SUB: Allen FOR Dooling,,,,,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+197,0041200173,223,8,0,2,10:45 PM,2:41,SUB: Conley FOR Pondexter,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+198,0041200173,224,2,1,2,10:46 PM,2:16,,,MISS Griffin 13' Jump Shot,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+199,0041200173,225,4,0,2,10:46 PM,2:15,Allen REBOUND (Off:1 Def:3),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+200,0041200173,226,2,1,2,10:47 PM,1:58,MISS Randolph 13' Jump Shot,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+201,0041200173,227,4,0,2,10:47 PM,1:57,,,Paul REBOUND (Off:0 Def:4),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+202,0041200173,228,5,2,2,10:47 PM,1:47,Allen STEAL (1 STL),,Jordan Lost Ball Turnover (P2.T10),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+203,0041200173,229,2,1,2,10:47 PM,1:36,MISS Gasol 12' Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+204,0041200173,230,4,0,2,10:47 PM,1:35,,,Butler REBOUND (Off:0 Def:2),,,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+205,0041200173,231,6,1,2,10:47 PM,1:35,Allen P.FOUL (P1.PN),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+206,0041200173,232,3,11,2,10:47 PM,1:35,,,Butler Free Throw 1 of 2 (6 PTS),34 - 43,9,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+207,0041200173,234,8,0,2,10:48 PM,1:35,SUB: Arthur FOR Gasol,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+208,0041200173,235,8,0,2,10:48 PM,1:35,SUB: Bayless FOR Prince,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+209,0041200173,236,8,0,2,10:48 PM,1:35,,,SUB: Barnes FOR Griffin,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+210,0041200173,237,3,12,2,10:48 PM,1:35,,,Butler Free Throw 2 of 2 (7 PTS),35 - 43,8,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+211,0041200173,239,2,46,2,10:49 PM,1:13,MISS Bayless 13' Running Jump Shot,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+212,0041200173,240,4,0,2,10:49 PM,1:11,Arthur REBOUND (Off:2 Def:3),,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+213,0041200173,241,2,66,2,10:49 PM,0:53,MISS Allen 7' Jump Bank Shot,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+214,0041200173,242,4,0,2,10:49 PM,0:53,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+215,0041200173,243,6,3,2,10:49 PM,0:53,,,Jordan L.B.FOUL (P3.PN),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+216,0041200173,244,7,1,2,10:50 PM,0:53,,,Clippers Violation: Delay of game Violation,,,3,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+217,0041200173,245,3,11,2,10:50 PM,0:53,Randolph Free Throw 1 of 2 (17 PTS),,,35 - 44,9,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+218,0041200173,247,8,0,2,10:50 PM,0:53,,,SUB: Hollins FOR Jordan,,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+219,0041200173,248,3,12,2,10:50 PM,0:53,Randolph Free Throw 2 of 2 (18 PTS),,,35 - 45,10,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+220,0041200173,250,6,1,2,10:51 PM,0:32,Allen P.FOUL (P2.PN),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+221,0041200173,251,3,11,2,10:51 PM,0:32,,,Barnes Free Throw 1 of 2 (8 PTS),36 - 45,9,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+222,0041200173,252,8,0,2,10:51 PM,0:32,SUB: Pondexter FOR Allen,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+223,0041200173,253,3,12,2,10:52 PM,0:32,,,Barnes Free Throw 2 of 2 (9 PTS),37 - 45,8,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+224,0041200173,255,1,42,2,10:52 PM,0:18,Conley 1' Driving Layup (4 PTS),,,37 - 47,10,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+225,0041200173,256,1,42,2,10:52 PM,0:00,,,Paul 1' Driving Layup (6 PTS),39 - 47,8,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+226,0041200173,257,13,0,2,10:53 PM,0:00,,End of 2nd Period (10:53 PM EST),,39 - 47,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+227,0041200173,259,12,0,3,11:12 PM,12:00,,Start of 3rd Period (11:12 PM EST),,39 - 47,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+228,0041200173,260,1,75,3,11:13 PM,11:42,Allen 1' Driving Finger Roll Layup (2 PTS),,,39 - 49,10,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+229,0041200173,261,6,2,3,11:13 PM,11:26,Allen S.FOUL (P3.T1),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+230,0041200173,262,3,11,3,11:13 PM,11:26,,,Griffin Free Throw 1 of 2 (11 PTS),40 - 49,9,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+231,0041200173,264,3,12,3,11:13 PM,11:26,,,Griffin Free Throw 2 of 2 (12 PTS),41 - 49,8,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+232,0041200173,266,2,5,3,11:14 PM,11:12,MISS Conley 1' Layup,,Griffin BLOCK (2 BLK),,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0
+233,0041200173,267,4,0,3,11:14 PM,11:10,Conley REBOUND (Off:1 Def:2),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+234,0041200173,268,1,1,3,11:14 PM,11:07,Allen 19' Jump Shot (4 PTS),,,41 - 51,10,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+235,0041200173,269,6,17,3,11:14 PM,10:47,GRIZZLIES T.Foul (Def. 3 Sec Allen ),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+236,0041200173,270,3,16,3,11:14 PM,10:47,,,Billups Free Throw Technical (4 PTS),42 - 51,9,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+237,0041200173,272,2,1,3,11:15 PM,10:33,,,MISS Griffin 14' Jump Shot,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+238,0041200173,273,4,0,3,11:15 PM,10:32,Allen REBOUND (Off:1 Def:4),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+239,0041200173,274,1,5,3,11:15 PM,10:24,Randolph 1' Layup (20 PTS) (Gasol 2 AST),,,42 - 53,11,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+240,0041200173,275,2,1,3,11:16 PM,9:57,,,MISS Paul 21' Jump Shot,,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+241,0041200173,276,4,0,3,11:16 PM,9:57,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+242,0041200173,277,5,11,3,11:16 PM,9:57,,,Clippers Turnover: Shot Clock (T#11),,,3,1610612746,,,,,,0,0,,,,,,1,0,,,,,,0
+243,0041200173,278,2,1,3,11:16 PM,9:40,MISS Allen 26' 3PT Jump Shot,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+244,0041200173,279,4,0,3,11:16 PM,9:39,,,Jordan REBOUND (Off:1 Def:3),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+245,0041200173,280,1,75,3,11:16 PM,9:30,,,Billups 2' Driving Finger Roll Layup (6 PTS),44 - 53,9,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+246,0041200173,282,1,44,3,11:17 PM,9:14,Allen  Reverse Layup (6 PTS) (Conley 6 AST),,,44 - 55,11,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+247,0041200173,283,1,1,3,11:17 PM,8:59,,,Butler 25' 3PT Jump Shot (10 PTS) (Paul 1 AST),47 - 55,8,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+248,0041200173,284,2,1,3,11:17 PM,8:35,MISS Randolph 13' Jump Shot,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+249,0041200173,285,4,0,3,11:17 PM,8:34,,,Paul REBOUND (Off:0 Def:5),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+250,0041200173,287,2,63,3,11:18 PM,8:13,,,MISS Paul 11' Fadeaway Jumper,,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+251,0041200173,310,4,0,3,11:18 PM,8:13,,,Jordan REBOUND (Off:2 Def:3),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+252,0041200173,311,2,53,3,11:18 PM,8:13,,,MISS Jordan 1' Tip Shot,,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+253,0041200173,288,4,0,3,11:18 PM,8:11,Gasol REBOUND (Off:0 Def:4),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+254,0041200173,289,6,2,3,11:19 PM,7:52,,,Griffin S.FOUL (P3.T1),,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+255,0041200173,290,3,11,3,11:19 PM,7:52,Gasol Free Throw 1 of 2 (10 PTS),,,47 - 56,9,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+256,0041200173,292,3,12,3,11:19 PM,7:52,Gasol Free Throw 2 of 2 (11 PTS),,,47 - 57,10,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+257,0041200173,294,6,1,3,11:20 PM,7:38,Prince P.FOUL (P1.T2),,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+258,0041200173,295,2,1,3,11:20 PM,7:29,,,MISS Billups 20' Jump Shot,,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+259,0041200173,296,4,0,3,11:20 PM,7:27,Randolph REBOUND (Off:2 Def:3),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+260,0041200173,297,2,1,3,11:20 PM,7:11,MISS Allen  3PT Jump Shot,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+261,0041200173,298,4,0,3,11:20 PM,7:10,,,Jordan REBOUND (Off:2 Def:4),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+262,0041200173,299,2,1,3,11:21 PM,6:58,,,MISS Jordan 4' Jump Shot,,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+263,0041200173,300,4,0,3,11:21 PM,6:57,Allen REBOUND (Off:1 Def:5),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+264,0041200173,301,2,1,3,11:21 PM,6:44,MISS Gasol 20' Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+265,0041200173,302,4,0,3,11:21 PM,6:43,Randolph REBOUND (Off:3 Def:3),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+266,0041200173,303,1,1,3,11:21 PM,6:41,Randolph 4' Jump Shot (22 PTS),,,47 - 59,12,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+267,0041200173,304,5,1,3,11:21 PM,6:14,Conley STEAL (2 STL),,Griffin Bad Pass Turnover (P2.T12),,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+268,0041200173,305,6,1,3,11:22 PM,6:05,,,Butler P.FOUL (P2.T2),,,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+269,0041200173,306,8,0,3,11:22 PM,6:05,SUB: Pondexter FOR Prince,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+270,0041200173,307,1,1,3,11:22 PM,5:54,Gasol 20' Jump Shot (13 PTS) (Conley 7 AST),,,47 - 61,14,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+271,0041200173,308,9,1,3,11:22 PM,5:53,,,Clippers Timeout: Regular (Reg.3 Short 1),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+272,0041200173,312,8,0,3,11:25 PM,5:53,SUB: Dooling FOR Conley,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+273,0041200173,313,1,42,3,11:26 PM,5:41,,,Paul 2' Driving Layup (8 PTS),49 - 61,12,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+274,0041200173,314,2,3,3,11:26 PM,5:16,MISS Gasol 9' Hook Shot,,Jordan BLOCK (3 BLK),,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0
+275,0041200173,315,4,0,3,11:26 PM,5:14,,,Billups REBOUND (Off:0 Def:2),,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+276,0041200173,316,1,1,3,11:26 PM,5:10,,,Billups 25' 3PT Jump Shot (9 PTS) (Paul 2 AST),52 - 61,9,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+277,0041200173,317,2,1,3,11:27 PM,4:48,MISS Dooling 12' Jump Shot,,,,,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+278,0041200173,318,4,0,3,11:27 PM,4:46,,,Jordan REBOUND (Off:2 Def:5),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+279,0041200173,319,2,5,3,11:27 PM,4:42,,,MISS Griffin 2' Layup,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+280,0041200173,320,4,0,3,11:27 PM,4:39,Gasol REBOUND (Off:0 Def:5),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+281,0041200173,321,1,1,3,11:27 PM,4:29,Randolph 5' Jump Shot (24 PTS),,,52 - 63,11,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+282,0041200173,323,8,0,3,11:27 PM,4:12,,,SUB: Crawford FOR Billups,,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+283,0041200173,324,8,0,3,11:28 PM,4:12,SUB: Arthur FOR Randolph,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+284,0041200173,325,8,0,3,11:28 PM,4:12,SUB: Conley FOR Dooling,,,,,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+285,0041200173,326,2,1,3,11:28 PM,4:03,,,MISS Paul 14' Jump Shot,,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+286,0041200173,327,4,0,3,11:28 PM,4:02,Allen REBOUND (Off:1 Def:6),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+287,0041200173,328,2,80,3,11:28 PM,3:45,MISS Conley 19' Step Back Jump Shot,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+288,0041200173,329,4,0,3,11:28 PM,3:43,Conley REBOUND (Off:2 Def:2),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+289,0041200173,330,2,1,3,11:28 PM,3:39,MISS Pondexter 25' 3PT Jump Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+290,0041200173,331,4,0,3,11:28 PM,3:38,Allen REBOUND (Off:2 Def:6),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+291,0041200173,332,2,5,3,11:29 PM,3:36,MISS Allen 1' Layup,,Butler BLOCK (1 BLK),,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0
+292,0041200173,333,4,0,3,11:29 PM,3:34,,,Jordan REBOUND (Off:2 Def:6),,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+293,0041200173,334,2,1,3,11:29 PM,3:28,,,MISS Butler 26' 3PT Jump Shot,,,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+294,0041200173,335,4,0,3,11:29 PM,3:28,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+295,0041200173,336,6,3,3,11:29 PM,3:28,Arthur L.B.FOUL (P2.T3),,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+296,0041200173,337,8,0,3,11:29 PM,3:28,,,SUB: Turiaf FOR Jordan,,,5,201599,DeAndre Jordan,1610612746.0,Los Angeles,Clippers,LAC,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+297,0041200173,338,8,0,3,11:29 PM,3:28,SUB: Prince FOR Allen,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+298,0041200173,339,2,47,3,11:29 PM,3:19,,,MISS Crawford 8' Turnaround Jump Shot,,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+299,0041200173,340,4,0,3,11:29 PM,3:16,Pondexter REBOUND (Off:1 Def:1),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+300,0041200173,341,6,2,3,11:30 PM,3:04,,,Turiaf S.FOUL (P1.T3),,,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+301,0041200173,342,3,11,3,11:30 PM,3:04,MISS Gasol Free Throw 1 of 2,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+302,0041200173,343,4,1,3,11:30 PM,3:04,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+303,0041200173,344,8,0,3,11:30 PM,3:04,,,SUB: Barnes FOR Butler,,,5,2406,Caron Butler,1610612746.0,Los Angeles,Clippers,LAC,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+304,0041200173,345,3,12,3,11:30 PM,3:04,Gasol Free Throw 2 of 2 (14 PTS),,,52 - 64,12,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+305,0041200173,347,1,7,3,11:31 PM,2:45,,,Griffin 1' Dunk (14 PTS) (Paul 3 AST),54 - 64,10,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+306,0041200173,350,9,1,3,11:31 PM,2:36,GRIZZLIES Timeout: Regular (Full 3 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+307,0041200173,352,1,8,3,11:35 PM,2:23,Arthur 1' Slam Dunk (5 PTS) (Conley 8 AST),,,54 - 66,12,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+308,0041200173,353,2,1,3,11:36 PM,2:04,,,MISS Crawford 19' Jump Shot,,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+309,0041200173,354,4,0,3,11:36 PM,2:03,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+310,0041200173,355,2,1,3,11:36 PM,1:40,,,MISS Barnes 28' 3PT Jump Shot,,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+311,0041200173,356,4,0,3,11:36 PM,1:39,Conley REBOUND (Off:2 Def:3),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+312,0041200173,357,6,2,3,11:37 PM,1:22,,,Turiaf S.FOUL (P2.T4),,,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+313,0041200173,358,3,11,3,11:37 PM,1:22,Pondexter Free Throw 1 of 2 (4 PTS),,,54 - 67,13,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+314,0041200173,359,3,12,3,11:37 PM,1:22,Pondexter Free Throw 2 of 2 (5 PTS),,,54 - 68,14,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+315,0041200173,361,2,1,3,11:38 PM,1:03,,,MISS Crawford 16' Jump Shot,,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+316,0041200173,362,4,0,3,11:38 PM,1:02,Gasol REBOUND (Off:0 Def:6),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+317,0041200173,363,5,40,3,11:38 PM,1:01,Pondexter Out of Bounds Lost Ball Turnover (P1.T6),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+318,0041200173,364,8,0,3,11:38 PM,1:01,,,SUB: Bledsoe FOR Paul,,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+319,0041200173,366,8,0,3,11:39 PM,0:53,SUB: Dooling FOR Conley,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+320,0041200173,367,1,1,3,11:39 PM,0:49,,,Crawford 25' 3PT Jump Shot (5 PTS) (Griffin 1 AST),57 - 68,11,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+321,0041200173,368,6,1,3,11:39 PM,0:45,,,Bledsoe P.FOUL (P3.PN),,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+322,0041200173,369,3,11,3,11:39 PM,0:45,Dooling Free Throw 1 of 2 (6 PTS),,,57 - 69,12,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+323,0041200173,371,8,0,3,11:40 PM,0:45,SUB: Davis FOR Gasol,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+324,0041200173,372,8,0,3,11:40 PM,0:45,,,SUB: Odom FOR Griffin,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+325,0041200173,373,3,12,3,11:40 PM,0:45,Dooling Free Throw 2 of 2 (7 PTS),,,57 - 70,13,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+326,0041200173,375,1,80,3,11:40 PM,0:33,,,Odom 25' 3PT Step Back Jump Shot (3 PTS) (Crawford 2 AST),60 - 70,10,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+327,0041200173,376,2,1,3,11:41 PM,0:10,MISS Pondexter 21' Jump Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+328,0041200173,377,4,0,3,11:41 PM,0:08,Davis REBOUND (Off:1 Def:0),,,,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+329,0041200173,378,2,5,3,11:41 PM,0:06,MISS Davis 2' Layup,,Turiaf BLOCK (1 BLK),,,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,0
+330,0041200173,380,4,0,3,11:41 PM,0:02,Arthur REBOUND (Off:3 Def:3),,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+331,0041200173,379,2,5,3,11:41 PM,0:02,MISS Arthur 1' Layup,,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+332,0041200173,381,4,0,3,11:41 PM,0:01,,,Odom REBOUND (Off:0 Def:1),,,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+333,0041200173,382,1,5,3,11:41 PM,0:01,,,Crawford 2' Layup (7 PTS) (Bledsoe 2 AST),62 - 70,8,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+334,0041200173,383,13,0,3,11:41 PM,0:00,,End of 3rd Period (11:41 PM EST),,62 - 70,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+335,0041200173,385,12,0,4,11:45 PM,12:00,,Start of 4th Period (11:45 PM EST),,62 - 70,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+336,0041200173,386,2,42,4,11:45 PM,11:50,,,MISS Bledsoe 1' Driving Layup,,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+337,0041200173,387,4,0,4,11:45 PM,11:48,Randolph REBOUND (Off:3 Def:4),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+338,0041200173,388,5,1,4,11:45 PM,11:34,Dooling Bad Pass Turnover (P1.T7),,,,,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+339,0041200173,389,2,1,4,11:46 PM,11:22,,,MISS Odom 27' 3PT Jump Shot,,,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+340,0041200173,390,4,0,4,11:46 PM,11:21,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+341,0041200173,391,6,3,4,11:46 PM,11:21,Dooling L.B.FOUL (P1.T1),,,,,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+342,0041200173,392,8,0,4,11:46 PM,11:21,SUB: Conley FOR Dooling,,,,,4,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+343,0041200173,393,1,8,4,11:47 PM,11:03,,,Turiaf 1' Slam Dunk (2 PTS) (Crawford 3 AST),64 - 70,6,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+344,0041200173,394,2,1,4,11:47 PM,10:39,MISS Randolph 22' Jump Shot,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+345,0041200173,395,4,0,4,11:47 PM,10:36,Randolph REBOUND (Off:4 Def:4),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+346,0041200173,396,6,26,4,11:47 PM,10:35,Randolph Offensive Charge Foul (P2.T2),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+347,0041200173,397,5,5,4,11:47 PM,10:35,Randolph Foul Turnover (P1.T8),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+348,0041200173,398,5,2,4,11:48 PM,10:22,Conley STEAL (3 STL),,Bledsoe Lost Ball Turnover (P1.T13),,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+349,0041200173,399,6,2,4,11:48 PM,10:18,,,Barnes S.FOUL (P2.T1),,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+350,0041200173,400,3,11,4,11:48 PM,10:18,Pondexter Free Throw 1 of 2 (6 PTS),,,64 - 71,7,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+351,0041200173,402,3,12,4,11:48 PM,10:18,MISS Pondexter Free Throw 2 of 2,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+352,0041200173,404,4,0,4,11:48 PM,10:17,Pondexter REBOUND (Off:2 Def:1),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+353,0041200173,405,1,5,4,11:48 PM,10:16,Pondexter 3' Layup (8 PTS),,,64 - 73,9,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+354,0041200173,406,6,2,4,11:48 PM,10:16,,,Barnes S.FOUL (P3.T2),,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+355,0041200173,407,3,10,4,11:49 PM,10:16,Pondexter Free Throw 1 of 1 (9 PTS),,,64 - 74,10,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+356,0041200173,409,6,1,4,11:49 PM,9:58,Pondexter P.FOUL (P1.T3),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+357,0041200173,410,2,1,4,11:50 PM,9:41,,,MISS Barnes 34' 3PT Jump Shot,,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+358,0041200173,411,4,0,4,11:50 PM,9:40,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+359,0041200173,412,2,1,4,11:50 PM,9:29,MISS Arthur 17' Jump Shot,,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+360,0041200173,413,4,0,4,11:50 PM,9:28,Prince REBOUND (Off:1 Def:0),,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+361,0041200173,414,2,46,4,11:50 PM,9:15,MISS Randolph 7' Running Jump Shot,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+362,0041200173,415,4,0,4,11:51 PM,9:15,,,Clippers Rebound,,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+363,0041200173,416,6,3,4,11:51 PM,9:15,Arthur L.B.FOUL (P3.T4),,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+364,0041200173,417,6,2,4,11:51 PM,9:04,Pondexter S.FOUL (P2.PN),,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+365,0041200173,418,3,13,4,11:51 PM,9:04,,,Crawford Free Throw 1 of 3 (8 PTS),65 - 74,9,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+366,0041200173,420,3,14,4,11:51 PM,9:04,,,Crawford Free Throw 2 of 3 (9 PTS),66 - 74,8,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+367,0041200173,422,8,0,4,11:52 PM,9:04,SUB: Allen FOR Pondexter,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+368,0041200173,423,8,0,4,11:52 PM,9:04,SUB: Gasol FOR Arthur,,,,,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+369,0041200173,424,3,15,4,11:52 PM,9:04,,,Crawford Free Throw 3 of 3 (10 PTS),67 - 74,7,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+370,0041200173,426,2,1,4,11:53 PM,8:46,MISS Conley 26' 3PT Jump Shot,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+371,0041200173,427,4,0,4,11:53 PM,8:44,,,Odom REBOUND (Off:0 Def:2),,,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+372,0041200173,429,9,4,4,11:53 PM,8:41,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+373,0041200173,431,8,0,4,11:55 PM,8:41,SUB: Bayless FOR Prince,,,,,4,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+374,0041200173,432,6,1,4,11:56 PM,8:39,Bayless P.FOUL (P3.PN),,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+375,0041200173,433,3,11,4,11:56 PM,8:39,,,Barnes Free Throw 1 of 2 (10 PTS),68 - 74,6,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+376,0041200173,435,3,12,4,11:57 PM,8:39,,,Barnes Free Throw 2 of 2 (11 PTS),69 - 74,5,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+377,0041200173,437,2,1,4,11:57 PM,8:27,MISS Bayless  3PT Jump Shot,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+378,0041200173,438,4,0,4,11:57 PM,8:25,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+379,0041200173,439,1,47,4,11:58 PM,8:08,Gasol 9' Turnaround Jump Shot (16 PTS) (Allen 1 AST),,,69 - 76,7,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+380,0041200173,440,2,71,4,11:58 PM,7:49,Gasol BLOCK (1 BLK),,MISS Crawford 3' Finger Roll Layup,,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0
+381,0041200173,441,4,0,4,11:58 PM,7:46,Randolph REBOUND (Off:4 Def:5),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+382,0041200173,442,6,3,4,11:58 PM,7:37,,,Turiaf L.B.FOUL (P3.T3),,,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+383,0041200173,443,8,0,4,11:59 PM,7:37,,,SUB: Paul FOR Crawford,,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+384,0041200173,444,8,0,4,11:59 PM,7:37,,,SUB: Griffin FOR Odom,,,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+385,0041200173,445,1,52,4,11:59 PM,7:30,Bayless 1' Alley Oop Dunk (5 PTS) (Conley 9 AST),,,69 - 78,9,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+386,0041200173,447,1,42,4,12:00 AM,7:06,,,Turiaf 1' Driving Layup (4 PTS) (Paul 4 AST),71 - 78,7,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+387,0041200173,448,2,5,4,12:00 AM,6:46,MISS Randolph 2' Layup,,Turiaf BLOCK (2 BLK),,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,0
+388,0041200173,449,4,0,4,12:00 AM,6:44,,,Griffin REBOUND (Off:0 Def:2),,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+389,0041200173,450,5,2,4,12:00 AM,6:31,Allen STEAL (2 STL),,Turiaf Lost Ball Turnover (P1.T14),,,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+390,0041200173,451,5,2,4,12:00 AM,6:27,Bayless Lost Ball Turnover (P3.T9),,Paul STEAL (2 STL),,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+391,0041200173,452,2,1,4,12:00 AM,6:20,,,MISS Bledsoe 25' 3PT Jump Shot,,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+392,0041200173,453,4,0,4,12:00 AM,6:19,Gasol REBOUND (Off:0 Def:7),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+393,0041200173,454,6,14,4,12:01 AM,6:01,,,Barnes FLAGRANT.FOUL.TYPE1 (P4.T4),,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+394,0041200173,455,18,0,4,12:02 AM,6:01,,Support Ruling,,,,0,454,,,,,,0,0,,,,,,1,0,,,,,,0
+395,0041200173,456,8,0,4,12:03 AM,6:01,SUB: Pondexter FOR Bayless,,,,,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+396,0041200173,457,8,0,4,12:03 AM,6:01,,,SUB: Billups FOR Bledsoe,,,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+397,0041200173,458,3,18,4,12:03 AM,6:01,Randolph Free Throw Flagrant 1 of 2 (25 PTS),,,71 - 79,8,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+398,0041200173,460,3,19,4,12:03 AM,6:01,MISS Randolph Free Throw Flagrant 2 of 2,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+399,0041200173,461,4,1,4,12:03 AM,6:01,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+400,0041200173,462,1,44,4,12:04 AM,5:44,Pondexter 1' Reverse Layup (11 PTS) (Randolph 2 AST),,,71 - 81,10,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+401,0041200173,463,6,2,4,12:04 AM,5:44,,,Billups S.FOUL (P2.PN),,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+402,0041200173,464,9,1,4,12:04 AM,5:44,GRIZZLIES Timeout: Regular (Full 4 Short 0),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+403,0041200173,465,3,10,4,12:07 AM,5:44,MISS Pondexter Free Throw 1 of 1,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+404,0041200173,467,4,0,4,12:08 AM,5:43,,,Barnes REBOUND (Off:0 Def:1),,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+405,0041200173,468,5,2,4,12:08 AM,5:30,Allen STEAL (3 STL),,Paul Lost Ball Turnover (P4.T15),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+406,0041200173,469,2,1,4,12:08 AM,5:13,MISS Pondexter 25' 3PT Jump Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+407,0041200173,470,4,0,4,12:08 AM,5:13,,,Paul REBOUND (Off:0 Def:6),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+408,0041200173,471,5,1,4,12:08 AM,5:03,Allen STEAL (4 STL),,Billups Bad Pass Turnover (P2.T16),,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+409,0041200173,472,6,2,4,12:08 AM,4:59,,,Paul S.FOUL (P1.PN),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+410,0041200173,473,3,11,4,12:09 AM,4:59,Allen Free Throw 1 of 2 (7 PTS),,,71 - 82,11,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+411,0041200173,475,3,12,4,12:09 AM,4:59,Allen Free Throw 2 of 2 (8 PTS),,,71 - 83,12,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+412,0041200173,477,6,1,4,12:10 AM,4:46,Randolph P.FOUL (P3.PN),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+413,0041200173,478,3,11,4,12:10 AM,4:46,,,Griffin Free Throw 1 of 2 (15 PTS),72 - 83,11,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+414,0041200173,480,3,12,4,12:10 AM,4:46,,,Griffin Free Throw 2 of 2 (16 PTS),73 - 83,10,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+415,0041200173,482,2,1,4,12:11 AM,4:32,MISS Pondexter  3PT Jump Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+416,0041200173,483,4,0,4,12:11 AM,4:31,,,Turiaf REBOUND (Off:0 Def:1),,,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+417,0041200173,484,2,1,4,12:11 AM,4:21,,,MISS Billups 26' 3PT Jump Shot,,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+418,0041200173,485,4,0,4,12:11 AM,4:20,Allen REBOUND (Off:2 Def:7),,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+419,0041200173,486,6,1,4,12:11 AM,4:20,,,Paul P.FOUL (P2.PN),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+420,0041200173,487,3,11,4,12:11 AM,4:20,Allen Free Throw 1 of 2 (9 PTS),,,73 - 84,11,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+421,0041200173,488,3,12,4,12:12 AM,4:20,Allen Free Throw 2 of 2 (10 PTS),,,73 - 85,12,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+422,0041200173,490,2,1,4,12:12 AM,4:10,,,MISS Paul 26' 3PT Jump Shot,,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+423,0041200173,491,4,0,4,12:12 AM,4:09,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+424,0041200173,492,2,42,4,12:13 AM,3:56,MISS Allen 3' Driving Layup,,,,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+425,0041200173,493,4,0,4,12:13 AM,3:55,Randolph REBOUND (Off:5 Def:5),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+426,0041200173,494,2,72,4,12:13 AM,3:53,MISS Randolph 2' Putback Layup,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+427,0041200173,496,4,0,4,12:13 AM,3:52,Randolph REBOUND (Off:6 Def:5),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+428,0041200173,495,1,4,4,12:13 AM,3:52,Randolph 1' Tip Shot (27 PTS),,,73 - 87,14,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+429,0041200173,497,6,4,4,12:13 AM,3:33,,,Paul OFF.Foul (P3),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+430,0041200173,498,5,5,4,12:13 AM,3:33,,,Paul Foul Turnover (P5.T17),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,1,0,,,,,,0
+431,0041200173,499,2,47,4,12:14 AM,3:11,MISS Pondexter 8' Turnaround Jump Shot,,,,,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+432,0041200173,500,4,0,4,12:14 AM,3:10,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+433,0041200173,501,9,2,4,12:14 AM,3:10,GRIZZLIES Timeout: Short (Full 4 Short 1),,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+434,0041200173,503,6,16,4,12:15 AM,3:10,,"Double Technical - Gasol, Griffin",,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+435,0041200173,505,6,2,4,12:16 AM,2:47,,,Paul S.FOUL (P4.PN),,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+436,0041200173,506,9,1,4,12:16 AM,2:47,,,Clippers Timeout: Regular (Reg.4 Short 1),,,3,1610612746,,,,,,0,0,,,,,,0,0,,,,,,0
+437,0041200173,507,3,11,4,12:19 AM,2:47,Conley Free Throw 1 of 2 (5 PTS),,,73 - 88,15,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+438,0041200173,509,3,12,4,12:20 AM,2:47,Conley Free Throw 2 of 2 (6 PTS),,,73 - 89,16,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+439,0041200173,511,6,2,4,12:20 AM,2:34,Randolph S.FOUL (P4.PN),,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+440,0041200173,512,3,11,4,12:20 AM,2:34,,,Billups Free Throw 1 of 2 (10 PTS),74 - 89,15,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+441,0041200173,514,3,12,4,12:21 AM,2:34,,,Billups Free Throw 2 of 2 (11 PTS),75 - 89,14,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+442,0041200173,516,5,2,4,12:21 AM,2:13,Allen Lost Ball Turnover (P3.T10),,Paul STEAL (3 STL),,,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+443,0041200173,517,2,1,4,12:21 AM,2:01,,,MISS Barnes  3PT Jump Shot,,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+444,0041200173,518,4,0,4,12:22 AM,2:01,Gasol REBOUND (Off:0 Def:8),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+445,0041200173,519,6,10,4,12:22 AM,2:01,," Foul : Double Personal - Randolph (5 PF), Griffin (4 PF)",,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+446,0041200173,520,6,1,4,12:23 AM,1:47,,,Griffin P.FOUL (P5.PN),,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+447,0041200173,521,3,11,4,12:23 AM,1:47,MISS Gasol Free Throw 1 of 2,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+448,0041200173,522,4,1,4,12:23 AM,1:47,GRIZZLIES Rebound,,,,,2,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+449,0041200173,523,8,0,4,12:23 AM,1:47,,,SUB: Odom FOR Griffin,,,5,201933,Blake Griffin,1610612746.0,Los Angeles,Clippers,LAC,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+450,0041200173,524,8,0,4,12:23 AM,1:47,,,SUB: Crawford FOR Billups,,,5,1497,Chauncey Billups,1610612746.0,Los Angeles,Clippers,LAC,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+451,0041200173,525,8,0,4,12:23 AM,1:47,,,SUB: Bledsoe FOR Paul,,,5,101108,Chris Paul,1610612746.0,Los Angeles,Clippers,LAC,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+452,0041200173,526,3,12,4,12:24 AM,1:47,MISS Gasol Free Throw 2 of 2,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+453,0041200173,528,4,0,4,12:24 AM,1:45,,,Barnes REBOUND (Off:0 Def:2),,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+454,0041200173,529,1,1,4,12:24 AM,1:36,,,Odom 26' 3PT Jump Shot (6 PTS) (Bledsoe 3 AST),78 - 89,11,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,5,202339,Eric Bledsoe,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+455,0041200173,530,1,1,4,12:24 AM,1:14,Pondexter 10' Jump Shot (13 PTS) (Conley 10 AST),,,78 - 91,13,4,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+456,0041200173,531,6,2,4,12:25 AM,0:58,Gasol S.FOUL (P3.PN),,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,1,0,,,,,,0
+457,0041200173,532,3,11,4,12:25 AM,0:58,,,Barnes Free Throw 1 of 2 (12 PTS),79 - 91,12,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+458,0041200173,534,8,0,4,12:25 AM,0:58,,,SUB: Hollins FOR Turiaf,,,5,101142,Ronny Turiaf,1610612746.0,Los Angeles,Clippers,LAC,5,200797,Ryan Hollins,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0
+459,0041200173,535,8,0,4,12:25 AM,0:58,SUB: Arthur FOR Randolph,,,,,4,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+460,0041200173,536,3,12,4,12:25 AM,0:58,,,MISS Barnes Free Throw 2 of 2,,,5,2440,Matt Barnes,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+461,0041200173,538,4,0,4,12:26 AM,0:58,Conley REBOUND (Off:2 Def:4),,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+462,0041200173,539,2,1,4,12:26 AM,0:38,MISS Gasol 20' Jump Shot,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+463,0041200173,540,4,0,4,12:26 AM,0:37,,,Crawford REBOUND (Off:0 Def:3),,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+464,0041200173,541,5,1,4,12:26 AM,0:30,,,Crawford Bad Pass Turnover (P1.T18),,,5,2037,Jamal Crawford,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+465,0041200173,542,8,0,4,12:26 AM,0:30,SUB: Davis FOR Gasol,,,,,4,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,202334,Ed Davis,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+466,0041200173,543,8,0,4,12:26 AM,0:30,SUB: Bayless FOR Conley,,,,,4,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+467,0041200173,544,1,1,4,12:27 AM,0:11,Allen 26' 3PT Jump Shot (13 PTS),,,79 - 94,15,4,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+468,0041200173,545,1,1,4,12:27 AM,0:05,,,Odom 26' 3PT Jump Shot (9 PTS),82 - 94,12,5,1885,Lamar Odom,1610612746.0,Los Angeles,Clippers,LAC,0,0,,,,,,0,0,,,,,,0
+469,0041200173,546,13,0,4,12:27 AM,0:00,,End of 4th Period (12:27 AM EST),,82 - 94,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

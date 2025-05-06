@@ -1,0 +1,624 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200134,0,12,0,1,2:05 PM,12:00,,Start of 1st Period (2:05 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200134,1,10,0,1,2:06 PM,12:00,Jump Ball Noah vs. Lopez: Tip to D. Williams,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0
+2,0041200134,2,1,7,1,2:07 PM,11:44,,,Lopez 1' Dunk (2 PTS) (Wallace 1 AST),2 - 0,-2,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+3,0041200134,3,2,1,1,2:07 PM,11:26,MISS Deng 12' Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+4,0041200134,4,4,0,1,2:07 PM,11:25,,,Wallace REBOUND (Off:0 Def:1),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+5,0041200134,5,5,40,1,2:07 PM,11:13,,,Johnson Out of Bounds Lost Ball Turnover (P1.T1),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+6,0041200134,6,1,1,1,2:08 PM,10:53,Boozer 15' Jump Shot (2 PTS),,,2 - 2,TIE,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+7,0041200134,8,2,5,1,2:09 PM,10:30,Noah BLOCK (1 BLK),,MISS Lopez 3' Layup,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0
+8,0041200134,9,4,0,1,2:09 PM,10:28,,,Lopez REBOUND (Off:1 Def:0),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+9,0041200134,10,2,5,1,2:09 PM,10:26,,,MISS Lopez 1' Layup,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+10,0041200134,11,4,0,1,2:09 PM,10:25,Boozer REBOUND (Off:0 Def:1),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+11,0041200134,13,7,5,1,2:09 PM,10:17,,,Lopez Violation:Kicked Ball,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+12,0041200134,15,2,1,1,2:09 PM,10:09,MISS Noah 17' Jump Shot,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+13,0041200134,16,4,0,1,2:09 PM,10:08,,,Evans REBOUND (Off:0 Def:1),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+14,0041200134,17,5,40,1,2:10 PM,9:56,,,D. Williams Out of Bounds Lost Ball Turnover (P1.T2),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+15,0041200134,18,1,42,1,2:10 PM,9:44,Boozer 2' Driving Layup (4 PTS) (Hinrich 1 AST),,,2 - 4,2,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+16,0041200134,19,5,1,1,2:10 PM,9:32,,,Lopez Bad Pass Turnover (P1.T3),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+17,0041200134,20,1,1,1,2:11 PM,9:18,Hinrich 21' Jump Shot (2 PTS),,,2 - 6,4,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+18,0041200134,21,6,2,1,2:11 PM,8:59,Deng S.FOUL (P1.T1),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+19,0041200134,22,3,11,1,2:11 PM,8:59,,,MISS Evans Free Throw 1 of 2,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+20,0041200134,23,4,1,1,2:11 PM,8:59,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+21,0041200134,24,3,12,1,2:11 PM,8:59,,,Evans Free Throw 2 of 2 (1 PTS),3 - 6,3,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+22,0041200134,27,6,2,1,2:12 PM,8:41,,,Johnson S.FOUL (P1.T1),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+23,0041200134,28,3,11,1,2:12 PM,8:41,MISS Noah Free Throw 1 of 2,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+24,0041200134,29,4,1,1,2:12 PM,8:41,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+25,0041200134,30,3,12,1,2:13 PM,8:41,Noah Free Throw 2 of 2 (1 PTS),,,3 - 7,4,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+26,0041200134,33,2,1,1,2:13 PM,8:21,,,MISS Lopez 7' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+27,0041200134,34,4,0,1,2:13 PM,8:21,,,Lopez REBOUND (Off:2 Def:0),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+28,0041200134,35,6,2,1,2:13 PM,8:21,Noah S.FOUL (P1.T2),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+29,0041200134,37,3,11,1,2:14 PM,8:21,,,Lopez Free Throw 1 of 2 (3 PTS),4 - 7,3,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+30,0041200134,39,3,12,1,2:14 PM,8:21,,,Lopez Free Throw 2 of 2 (4 PTS),5 - 7,2,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+31,0041200134,42,5,39,1,2:14 PM,8:14,Hinrich Step Out of Bounds Turnover (P1.T1),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+32,0041200134,43,5,2,1,2:14 PM,8:02,Hinrich STEAL (1 STL),,D. Williams Lost Ball Turnover (P2.T4),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+33,0041200134,44,1,5,1,2:14 PM,8:00,Butler 1' Layup (2 PTS),,,5 - 9,4,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+34,0041200134,45,6,2,1,2:14 PM,8:00,,,Evans S.FOUL (P1.T2),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+35,0041200134,46,3,10,1,2:15 PM,8:00,Butler Free Throw 1 of 1 (3 PTS),,,5 - 10,5,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+36,0041200134,48,1,1,1,2:15 PM,7:38,,,Lopez 17' Jump Shot (6 PTS),7 - 10,3,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+37,0041200134,49,5,1,1,2:16 PM,7:22,Deng Bad Pass Turnover (P1.T2),,Lopez STEAL (1 STL),,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+38,0041200134,50,6,2,1,2:16 PM,7:14,Boozer S.FOUL (P1.T3),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+39,0041200134,51,3,11,1,2:16 PM,7:14,,,Evans Free Throw 1 of 2 (2 PTS),8 - 10,2,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+40,0041200134,53,3,12,1,2:16 PM,7:14,,,MISS Evans Free Throw 2 of 2,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+41,0041200134,55,4,0,1,2:16 PM,7:12,Noah REBOUND (Off:0 Def:1),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+42,0041200134,57,2,1,1,2:17 PM,6:50,MISS Noah 8' Jump Shot,,Lopez BLOCK (1 BLK),,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+43,0041200134,58,4,0,1,2:17 PM,6:49,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+44,0041200134,59,5,11,1,2:17 PM,6:49,BULLS Turnover: Shot Clock (T#3),,,,,2,1610612741,,,,,,0,0,,,,,,1,0,,,,,,0
+45,0041200134,61,2,1,1,2:17 PM,6:28,,,MISS D. Williams 11' Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+46,0041200134,62,4,0,1,2:17 PM,6:25,Noah REBOUND (Off:0 Def:2),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+47,0041200134,63,1,1,1,2:18 PM,6:11,Butler 19' Jump Shot (5 PTS) (Noah 1 AST),,,8 - 12,4,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+48,0041200134,64,1,1,1,2:18 PM,5:55,,,Johnson 19' Jump Shot (2 PTS),10 - 12,2,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+49,0041200134,66,1,5,1,2:18 PM,5:41,Boozer 2' Layup (6 PTS) (Butler 1 AST),,,10 - 14,4,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+50,0041200134,67,2,1,1,2:18 PM,5:22,,,MISS Lopez 17' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+51,0041200134,68,4,0,1,2:19 PM,5:21,Butler REBOUND (Off:0 Def:1),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+52,0041200134,70,2,1,1,2:19 PM,5:07,MISS Noah 18' Jump Shot,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+53,0041200134,71,4,0,1,2:19 PM,5:06,,,Evans REBOUND (Off:0 Def:2),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+54,0041200134,72,6,1,1,2:19 PM,5:02,Hinrich P.FOUL (P1.T4),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+55,0041200134,73,9,1,1,2:19 PM,5:02,BULLS Timeout: Regular (Full 1 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+56,0041200134,75,8,0,1,2:21 PM,5:02,SUB: Mohammed FOR Noah,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+57,0041200134,76,1,75,1,2:22 PM,4:52,,,D. Williams 1' Driving Finger Roll Layup (2 PTS) (Johnson 1 AST),12 - 14,2,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+58,0041200134,77,2,47,1,2:23 PM,4:36,MISS Boozer 12' Turnaround Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+59,0041200134,78,4,0,1,2:23 PM,4:34,,,Lopez REBOUND (Off:2 Def:1),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+60,0041200134,79,1,1,1,2:23 PM,4:23,,,Johnson 16' Jump Shot (4 PTS),14 - 14,TIE,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+61,0041200134,80,2,1,1,2:23 PM,4:06,MISS Deng 27' 3PT Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+62,0041200134,81,4,0,1,2:23 PM,4:05,,,Lopez REBOUND (Off:2 Def:2),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+63,0041200134,82,1,1,1,2:23 PM,3:51,,,Lopez 15' Jump Shot (8 PTS),16 - 14,-2,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+64,0041200134,83,1,1,1,2:24 PM,3:32,Butler 26' 3PT Jump Shot (8 PTS),,,16 - 17,1,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+65,0041200134,84,1,1,1,2:24 PM,3:19,,,Lopez 20' Jump Shot (10 PTS) (D. Williams 1 AST),18 - 17,-1,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+66,0041200134,85,2,1,1,2:24 PM,2:58,MISS Boozer 16' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+67,0041200134,86,4,0,1,2:24 PM,2:57,,,Evans REBOUND (Off:0 Def:3),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+68,0041200134,88,2,1,1,2:24 PM,2:44,,,MISS Lopez 20' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+69,0041200134,89,4,0,1,2:24 PM,2:43,Butler REBOUND (Off:0 Def:2),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+70,0041200134,90,1,1,1,2:25 PM,2:21,Butler 21' Jump Shot (10 PTS) (Deng 1 AST),,,18 - 19,1,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+71,0041200134,91,9,1,1,2:25 PM,2:12,,,Nets Timeout: Regular (Reg.1 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+72,0041200134,93,8,0,1,2:28 PM,2:12,,,SUB: Blatche FOR Evans,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+73,0041200134,94,8,0,1,2:28 PM,2:12,,,SUB: Watson FOR D. Williams,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+74,0041200134,96,8,0,1,2:28 PM,2:12,SUB: Robinson FOR Hinrich,,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+75,0041200134,97,1,1,1,2:28 PM,2:08,,,Johnson 16' Jump Shot (6 PTS),20 - 19,-1,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+76,0041200134,98,1,1,1,2:29 PM,1:43,Deng 15' Jump Shot (2 PTS) (Mohammed 1 AST),,,20 - 21,1,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+77,0041200134,100,1,42,1,2:29 PM,1:31,,,Lopez 2' Driving Layup (12 PTS) (Watson 1 AST),22 - 21,-1,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+78,0041200134,101,6,2,1,2:29 PM,1:31,Mohammed S.FOUL (P1.PN),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+79,0041200134,102,3,10,1,2:29 PM,1:31,,,MISS Lopez Free Throw 1 of 1,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+80,0041200134,104,4,0,1,2:29 PM,1:29,Deng REBOUND (Off:0 Def:1),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+81,0041200134,105,2,5,1,2:30 PM,1:11,MISS Mohammed 2' Layup,,Lopez BLOCK (2 BLK),,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+82,0041200134,106,4,0,1,2:30 PM,1:09,,,Blatche REBOUND (Off:0 Def:1),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+83,0041200134,107,6,11,1,2:30 PM,1:09,,Ron Adams Foul:T.FOUL,,,,6,1796,,,,,,0,0,,,,,,1,0,,,,,,0
+84,0041200134,108,3,16,1,2:30 PM,1:09,,,MISS Johnson Free Throw Technical,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+85,0041200134,109,4,1,1,2:30 PM,1:09,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+86,0041200134,111,6,1,1,2:31 PM,1:03,Robinson P.FOUL (P1.PN),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+87,0041200134,112,3,11,1,2:31 PM,1:03,,,Watson Free Throw 1 of 2 (1 PTS),23 - 21,-2,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+88,0041200134,114,3,12,1,2:31 PM,1:03,,,Watson Free Throw 2 of 2 (2 PTS),24 - 21,-3,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+89,0041200134,117,5,1,1,2:32 PM,0:50,Deng Bad Pass Turnover (P2.T4),,Watson STEAL (1 STL),,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+90,0041200134,118,1,41,1,2:32 PM,0:48,,,Watson 2' Running Layup (4 PTS),26 - 21,-5,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+91,0041200134,120,7,2,1,2:32 PM,0:36,,,Lopez Violation:Defensive Goaltending,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+92,0041200134,119,1,42,1,2:32 PM,0:36,Deng 1' Driving Layup (4 PTS),,,26 - 23,-3,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+93,0041200134,122,2,1,1,2:32 PM,0:11,,,MISS Wallace 21' Jump Shot,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+94,0041200134,123,4,0,1,2:32 PM,0:10,Boozer REBOUND (Off:0 Def:2),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+95,0041200134,124,1,5,1,2:33 PM,0:01,Robinson 1' Layup (2 PTS),,,26 - 25,-1,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+96,0041200134,126,13,0,1,2:36 PM,0:00,,End of 1st Period (2:36 PM EST),,26 - 25,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+97,0041200134,127,12,0,2,2:36 PM,12:00,,Start of 2nd Period (2:36 PM EST),,26 - 25,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+98,0041200134,129,1,1,2,2:37 PM,11:43,Hinrich 26' 3PT Jump Shot (5 PTS) (Robinson 1 AST),,,26 - 28,2,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+99,0041200134,130,2,1,2,2:37 PM,11:30,,,MISS D. Williams 27' 3PT Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+100,0041200134,131,4,0,2,2:37 PM,11:28,Robinson REBOUND (Off:0 Def:1),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+101,0041200134,132,1,42,2,2:37 PM,11:23,Deng 2' Driving Layup (6 PTS) (Robinson 2 AST),,,26 - 30,4,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+102,0041200134,133,6,2,2,2:37 PM,11:23,,,Humphries S.FOUL (P1.T1),,,5,2743,Kris Humphries,1610612751.0,Brooklyn,Nets,BKN,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+103,0041200134,134,3,10,2,2:38 PM,11:23,Deng Free Throw 1 of 1 (7 PTS),,,26 - 31,5,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+104,0041200134,136,5,1,2,2:38 PM,11:05,Robinson STEAL (1 STL),,Blatche Bad Pass Turnover (P1.T5),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+105,0041200134,137,1,1,2,2:38 PM,10:59,Robinson 25' 3PT Jump Shot (5 PTS) (Deng 2 AST),,,26 - 34,8,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+106,0041200134,139,9,1,2,2:38 PM,10:53,,,Nets Timeout: Regular (Reg.2 Short 0),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+107,0041200134,142,1,1,2,2:42 PM,10:47,,,Blatche 8' Jump Shot (2 PTS) (D. Williams 2 AST),28 - 34,6,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+108,0041200134,143,1,1,2,2:42 PM,10:29,Deng 22' Jump Shot (9 PTS),,,28 - 36,8,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+109,0041200134,144,1,1,2,2:42 PM,10:18,,,Blatche 16' Jump Shot (4 PTS) (D. Williams 3 AST),30 - 36,6,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+110,0041200134,145,2,1,2,2:43 PM,9:57,MISS Robinson 26' 3PT Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+111,0041200134,146,4,0,2,2:43 PM,9:56,,,D. Williams REBOUND (Off:0 Def:1),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+112,0041200134,147,1,1,2,2:43 PM,9:48,,,D. Williams 25' 3PT Jump Shot (5 PTS),33 - 36,3,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+113,0041200134,149,9,1,2,2:43 PM,9:40,BULLS Timeout: Regular (Full 2 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+114,0041200134,151,8,0,2,2:45 PM,9:40,,,SUB: Stackhouse FOR Wallace,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,5,711,Jerry Stackhouse,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+115,0041200134,152,2,1,2,2:46 PM,9:32,MISS Robinson 19' Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+116,0041200134,153,4,0,2,2:46 PM,9:30,,,D. Williams REBOUND (Off:0 Def:2),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+117,0041200134,154,6,2,2,2:47 PM,9:21,Mohammed S.FOUL (P2.T1),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+118,0041200134,155,3,11,2,2:47 PM,9:21,,,Blatche Free Throw 1 of 2 (5 PTS),34 - 36,2,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+119,0041200134,157,8,0,2,2:47 PM,9:21,SUB: Belinelli FOR Deng,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+120,0041200134,158,3,12,2,2:47 PM,9:21,,,Blatche Free Throw 2 of 2 (6 PTS),35 - 36,1,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+121,0041200134,160,1,1,2,2:48 PM,9:07,Gibson 19' Jump Shot (2 PTS) (Hinrich 2 AST),,,35 - 38,3,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+122,0041200134,161,2,1,2,2:48 PM,8:52,,,MISS D. Williams 11' Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+123,0041200134,162,4,0,2,2:48 PM,8:51,Mohammed REBOUND (Off:0 Def:1),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+124,0041200134,164,8,0,2,2:48 PM,8:51,SUB: Boozer FOR Mohammed,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+125,0041200134,166,2,42,2,2:48 PM,8:42,MISS Hinrich 2' Driving Layup,,Humphries BLOCK (1 BLK),,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2743,Kris Humphries,1610612751.0,Brooklyn,Nets,BKN,0
+126,0041200134,167,4,0,2,2:48 PM,8:41,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+127,0041200134,168,1,1,2,2:49 PM,8:33,Hinrich 19' Jump Shot (7 PTS) (Boozer 1 AST),,,35 - 40,5,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+128,0041200134,169,5,1,2,2:49 PM,8:19,,,D. Williams Bad Pass Turnover (P3.T6),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+129,0041200134,170,6,2,2,2:50 PM,8:03,,,Humphries S.FOUL (P2.T2),,,5,2743,Kris Humphries,1610612751.0,Brooklyn,Nets,BKN,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+130,0041200134,171,3,11,2,2:50 PM,8:03,Gibson Free Throw 1 of 2 (3 PTS),,,35 - 41,6,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+131,0041200134,173,8,0,2,2:50 PM,8:03,,,SUB: Lopez FOR Humphries,,,5,2743,Kris Humphries,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+132,0041200134,174,3,12,2,2:50 PM,8:03,Gibson Free Throw 2 of 2 (4 PTS),,,35 - 42,7,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+133,0041200134,176,1,42,2,2:51 PM,7:54,,,Blatche 2' Driving Layup (8 PTS) (D. Williams 4 AST),37 - 42,5,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+134,0041200134,177,6,2,2,2:51 PM,7:54,Gibson S.FOUL (P1.T2),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+135,0041200134,178,8,0,2,2:51 PM,7:54,SUB: Noah FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+136,0041200134,179,3,10,2,2:51 PM,7:54,,,Blatche Free Throw 1 of 1 (9 PTS),38 - 42,4,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+137,0041200134,182,2,1,2,2:51 PM,7:40,MISS Robinson 3' Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+138,0041200134,183,4,0,2,2:51 PM,7:38,,,Blatche REBOUND (Off:0 Def:2),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+139,0041200134,184,2,5,2,2:52 PM,7:33,Noah BLOCK (2 BLK),,MISS Watson 3' Layup,,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0
+140,0041200134,185,4,0,2,2:52 PM,7:31,Hinrich REBOUND (Off:0 Def:1),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+141,0041200134,186,1,5,2,2:52 PM,7:27,Boozer 2' Layup (8 PTS) (Belinelli 1 AST),,,38 - 44,6,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+142,0041200134,187,6,1,2,2:53 PM,7:13,Robinson P.FOUL (P2.T3),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+143,0041200134,189,6,16,2,2:55 PM,7:13,,"Double Technical - Robinson, Watson",,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+144,0041200134,193,6,1,2,2:56 PM,7:04,Robinson P.FOUL (P3.T4),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+145,0041200134,194,8,0,2,2:57 PM,7:04,SUB: Deng FOR Robinson,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+146,0041200134,195,1,1,2,2:57 PM,6:56,,,D. Williams 24' 3PT Jump Shot (8 PTS) (Watson 2 AST),41 - 44,3,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+147,0041200134,196,5,40,2,2:57 PM,6:44,Noah Out of Bounds Lost Ball Turnover (P1.T5),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+148,0041200134,197,1,42,2,2:57 PM,6:37,,,D. Williams 2' Driving Layup (10 PTS),43 - 44,1,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+149,0041200134,198,2,1,2,2:58 PM,6:16,MISS Noah 5' Jump Shot,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+150,0041200134,199,4,0,2,2:58 PM,6:14,,,Blatche REBOUND (Off:0 Def:3),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+151,0041200134,200,2,79,2,2:58 PM,6:10,,,MISS D. Williams 26' 3PT Pullup Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+152,0041200134,201,4,0,2,2:58 PM,6:09,Deng REBOUND (Off:0 Def:2),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+153,0041200134,202,6,1,2,2:58 PM,6:03,,,Stackhouse P.FOUL (P1.T3),,,5,711,Jerry Stackhouse,1610612751.0,Brooklyn,Nets,BKN,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+154,0041200134,203,6,1,2,2:58 PM,6:00,,,Watson P.FOUL (P1.T4),,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+155,0041200134,204,8,0,2,2:58 PM,6:00,,,SUB: Johnson FOR Stackhouse,,,5,711,Jerry Stackhouse,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+156,0041200134,205,6,1,2,2:59 PM,5:56,,,Watson P.FOUL (P2.PN),,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+157,0041200134,206,3,11,2,2:59 PM,5:56,Belinelli Free Throw 1 of 2 (1 PTS),,,43 - 45,2,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+158,0041200134,208,8,0,2,2:59 PM,5:56,,,SUB: Evans FOR Blatche,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+159,0041200134,209,3,12,2,2:59 PM,5:56,Belinelli Free Throw 2 of 2 (2 PTS),,,43 - 46,3,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+160,0041200134,212,2,1,2,3:00 PM,5:44,,,MISS Johnson 24' 3PT Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+161,0041200134,213,4,0,2,3:00 PM,5:43,Belinelli REBOUND (Off:0 Def:1),,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+162,0041200134,214,2,1,2,3:00 PM,5:35,MISS Belinelli 27' 3PT Jump Shot,,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+163,0041200134,215,4,0,2,3:00 PM,5:34,,,Evans REBOUND (Off:0 Def:4),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+164,0041200134,216,1,5,2,3:00 PM,5:27,,,Evans 2' Layup (4 PTS) (D. Williams 5 AST),45 - 46,1,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+165,0041200134,217,6,2,2,3:00 PM,5:27,Noah S.FOUL (P2.PN),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+166,0041200134,218,8,0,2,3:00 PM,5:27,SUB: Butler FOR Belinelli,,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+167,0041200134,219,3,10,2,3:00 PM,5:27,,,MISS Evans Free Throw 1 of 1,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+168,0041200134,221,4,0,2,3:01 PM,5:25,Deng REBOUND (Off:0 Def:3),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+169,0041200134,223,1,3,2,3:01 PM,5:11,Deng 8' Hook Shot (11 PTS),,,45 - 48,3,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+170,0041200134,224,2,1,2,3:01 PM,4:48,,,MISS Lopez 20' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+171,0041200134,225,4,0,2,3:01 PM,4:47,Butler REBOUND (Off:0 Def:3),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+172,0041200134,226,1,5,2,3:01 PM,4:42,Boozer 2' Layup (10 PTS) (Butler 2 AST),,,45 - 50,5,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+173,0041200134,227,9,2,2,3:01 PM,4:35,,,Nets Timeout: Short (Reg.2 Short 1),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+174,0041200134,229,8,0,2,3:03 PM,4:35,,,SUB: Brooks FOR Watson,,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,5,202705,MarShon Brooks,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+175,0041200134,231,2,1,2,3:03 PM,4:19,,,MISS Brooks 7' Jump Shot,,,5,202705,MarShon Brooks,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+176,0041200134,232,4,0,2,3:03 PM,4:18,Noah REBOUND (Off:0 Def:3),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+177,0041200134,233,6,1,2,3:04 PM,4:02,,,Brooks P.FOUL (P1.PN),,,5,202705,MarShon Brooks,1610612751.0,Brooklyn,Nets,BKN,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+178,0041200134,234,3,11,2,3:04 PM,4:02,MISS Butler Free Throw 1 of 2,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+179,0041200134,235,4,1,2,3:04 PM,4:02,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+180,0041200134,236,3,12,2,3:04 PM,4:02,MISS Butler Free Throw 2 of 2,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+181,0041200134,238,4,0,2,3:04 PM,4:00,,,Johnson REBOUND (Off:0 Def:1),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+182,0041200134,239,2,1,2,3:05 PM,3:39,,,MISS Johnson 20' Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+183,0041200134,240,4,0,2,3:05 PM,3:37,Hinrich REBOUND (Off:0 Def:2),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+184,0041200134,241,1,1,2,3:05 PM,3:19,Hinrich 22' Jump Shot (9 PTS) (Deng 3 AST),,,45 - 52,7,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+185,0041200134,242,6,1,2,3:05 PM,3:07,Hinrich P.FOUL (P2.PN),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+186,0041200134,244,7,1,2,3:06 PM,3:07,BULLS Violation: Delay of game Violation,,,,,2,1610612741,,,,,,0,0,,,,,,1,0,,,,,,0
+187,0041200134,245,3,11,2,3:06 PM,3:07,,,D. Williams Free Throw 1 of 2 (11 PTS),46 - 52,6,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+188,0041200134,247,3,12,2,3:06 PM,3:07,,,MISS D. Williams Free Throw 2 of 2,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+189,0041200134,249,4,0,2,3:06 PM,3:05,,,Lopez REBOUND (Off:3 Def:2),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+190,0041200134,250,2,5,2,3:06 PM,3:03,,,MISS Lopez 3' Layup,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+191,0041200134,252,4,0,2,3:06 PM,2:59,,,Evans REBOUND (Off:1 Def:4),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+192,0041200134,251,2,5,2,3:06 PM,2:59,Hinrich BLOCK (1 BLK),,MISS Evans 1' Layup,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0
+193,0041200134,253,4,0,2,3:06 PM,2:57,Hinrich REBOUND (Off:0 Def:3),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+194,0041200134,254,1,1,2,3:06 PM,2:53,Hinrich 27' 3PT Jump Shot (12 PTS),,,46 - 55,9,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+195,0041200134,256,5,1,2,3:07 PM,2:34,Butler STEAL (1 STL),,Brooks Bad Pass Turnover (P1.T7),,,5,202705,MarShon Brooks,1610612751.0,Brooklyn,Nets,BKN,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+196,0041200134,257,1,41,2,3:07 PM,2:29,Butler 2' Running Layup (12 PTS),,,46 - 57,11,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+197,0041200134,258,5,8,2,3:07 PM,2:18,,,Evans 3 Second Violation Turnover (P1.T8),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+198,0041200134,259,9,1,2,3:07 PM,2:18,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+199,0041200134,262,8,0,2,3:09 PM,2:18,,,SUB: Wallace FOR Brooks,,,5,202705,MarShon Brooks,1610612751.0,Brooklyn,Nets,BKN,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+200,0041200134,263,2,1,2,3:10 PM,2:06,MISS Deng 18' Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+201,0041200134,264,4,0,2,3:10 PM,2:03,,,Wallace REBOUND (Off:0 Def:2),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+202,0041200134,265,6,17,2,3:11 PM,1:51,BULLS T.Foul (Def. 3 Sec Deng ),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+203,0041200134,266,3,16,2,3:11 PM,1:51,,,D. Williams Free Throw Technical (12 PTS),47 - 57,10,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+204,0041200134,269,5,1,2,3:11 PM,1:42,Boozer STEAL (1 STL),,D. Williams Bad Pass Turnover (P4.T9),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+205,0041200134,270,6,1,2,3:11 PM,1:42,,,Lopez P.FOUL (P1.PN),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+206,0041200134,271,3,11,2,3:12 PM,1:42,MISS Hinrich Free Throw 1 of 2,,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+207,0041200134,272,4,1,2,3:12 PM,1:42,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+208,0041200134,273,3,12,2,3:12 PM,1:42,Hinrich Free Throw 2 of 2 (13 PTS),,,47 - 58,11,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+209,0041200134,275,6,26,2,3:12 PM,1:26,,,Lopez Offensive Charge Foul (P2.PN),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+210,0041200134,276,5,5,2,3:12 PM,1:26,,,Lopez Foul Turnover (P2.T10),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+211,0041200134,277,8,0,2,3:13 PM,1:26,,,SUB: Blatche FOR Lopez,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+212,0041200134,279,6,2,2,3:13 PM,1:15,,,Blatche S.FOUL (P1.PN),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+213,0041200134,280,3,11,2,3:13 PM,1:15,MISS Noah Free Throw 1 of 2,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+214,0041200134,281,4,1,2,3:13 PM,1:15,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+215,0041200134,282,3,12,2,3:14 PM,1:15,MISS Noah Free Throw 2 of 2,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+216,0041200134,284,4,0,2,3:14 PM,1:13,,,Blatche REBOUND (Off:0 Def:4),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+217,0041200134,286,1,1,2,3:14 PM,0:58,,,Blatche 11' Jump Shot (11 PTS) (D. Williams 6 AST),49 - 58,9,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+218,0041200134,287,2,1,2,3:14 PM,0:47,MISS Deng 21' Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+219,0041200134,288,4,0,2,3:14 PM,0:46,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+220,0041200134,290,1,1,2,3:15 PM,0:30,,,D. Williams 26' 3PT Jump Shot (15 PTS) (Blatche 1 AST),52 - 58,6,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+221,0041200134,291,6,4,2,3:15 PM,0:17,Deng OFF.Foul (P2),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+222,0041200134,292,5,5,2,3:15 PM,0:17,Deng Foul Turnover (P3.T6),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+223,0041200134,294,8,0,2,3:15 PM,0:17,SUB: Gibson FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+224,0041200134,295,1,1,2,3:16 PM,0:01,,,Wallace 26' 3PT Jump Shot (3 PTS) (D. Williams 7 AST),55 - 58,3,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+225,0041200134,296,2,1,2,3:16 PM,0:01,MISS Deng 40' 3PT Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+226,0041200134,298,4,0,2,3:16 PM,0:00,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+227,0041200134,297,13,0,2,3:16 PM,0:00,,End of 2nd Period (3:16 PM EST),,55 - 58,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+228,0041200134,299,12,0,3,3:36 PM,12:00,,Start of 3rd Period (3:36 PM EST),,55 - 58,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+229,0041200134,300,1,1,3,3:37 PM,11:48,Boozer 17' Jump Shot (12 PTS) (Butler 3 AST),,,55 - 60,5,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+230,0041200134,301,2,5,3,3:37 PM,11:30,Noah BLOCK (3 BLK),,MISS Evans 3' Layup,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0
+231,0041200134,302,4,0,3,3:37 PM,11:27,Boozer REBOUND (Off:0 Def:3),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+232,0041200134,303,2,1,3,3:37 PM,11:16,MISS Deng 11' Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+233,0041200134,304,4,0,3,3:37 PM,11:15,,,Evans REBOUND (Off:1 Def:5),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+234,0041200134,305,1,1,3,3:38 PM,10:57,,,D. Williams 19' Jump Shot (17 PTS),57 - 60,3,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+235,0041200134,306,1,1,3,3:38 PM,10:37,Boozer 18' Jump Shot (14 PTS) (Hinrich 3 AST),,,57 - 62,5,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+236,0041200134,307,1,1,3,3:38 PM,10:21,,,Johnson  3PT Jump Shot (9 PTS) (Lopez 1 AST),60 - 62,2,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+237,0041200134,308,2,5,3,3:39 PM,9:56,MISS Butler 2' Layup,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+238,0041200134,310,4,0,3,3:39 PM,9:53,Noah REBOUND (Off:1 Def:3),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+239,0041200134,309,1,4,3,3:39 PM,9:53,Noah 2' Tip Shot (3 PTS),,,60 - 64,4,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+240,0041200134,311,2,1,3,3:39 PM,9:35,,,MISS Wallace 25' 3PT Jump Shot,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+241,0041200134,312,4,0,3,3:39 PM,9:34,Noah REBOUND (Off:1 Def:4),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+242,0041200134,313,6,2,3,3:39 PM,9:30,,,Wallace S.FOUL (P1.T1),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+243,0041200134,314,3,11,3,3:39 PM,9:30,Butler Free Throw 1 of 2 (13 PTS),,,60 - 65,5,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+244,0041200134,316,3,12,3,3:40 PM,9:30,Butler Free Throw 2 of 2 (14 PTS),,,60 - 66,6,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+245,0041200134,318,6,2,3,3:40 PM,9:15,Deng S.FOUL (P3.T1),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+246,0041200134,319,3,11,3,3:41 PM,9:15,,,Wallace Free Throw 1 of 2 (4 PTS),61 - 66,5,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+247,0041200134,321,3,12,3,3:41 PM,9:15,,,Wallace Free Throw 2 of 2 (5 PTS),62 - 66,4,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+248,0041200134,324,2,1,3,3:41 PM,9:03,MISS Deng 26' 3PT Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+249,0041200134,325,4,0,3,3:41 PM,9:02,,,Evans REBOUND (Off:1 Def:6),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+250,0041200134,326,1,1,3,3:42 PM,8:41,,,Evans 3' Jump Shot (6 PTS) (Lopez 2 AST),64 - 66,2,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+251,0041200134,327,5,4,3,3:42 PM,8:26,Hinrich Traveling Turnover (P2.T7),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+252,0041200134,329,1,49,3,3:42 PM,8:16,,,D. Williams 2' Driving Dunk (19 PTS),66 - 66,TIE,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+253,0041200134,330,6,1,3,3:43 PM,7:52,,,Evans P.FOUL (P2.T2),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+254,0041200134,331,1,1,3,3:43 PM,7:47,Hinrich 17' Jump Shot (15 PTS),,,66 - 68,2,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+255,0041200134,332,5,1,3,3:43 PM,7:37,,,D. Williams Bad Pass Turnover (P5.T11),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+256,0041200134,333,2,1,3,3:44 PM,7:25,MISS Deng 12' Jump Shot,,Evans BLOCK (1 BLK),,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0
+257,0041200134,334,4,0,3,3:44 PM,7:22,Deng REBOUND (Off:1 Def:3),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+258,0041200134,335,5,2,3,3:44 PM,7:19,Deng Lost Ball Turnover (P4.T8),,Wallace STEAL (1 STL),,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+259,0041200134,336,1,42,3,3:44 PM,7:09,,,Evans 3' Driving Layup (8 PTS),68 - 68,TIE,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+260,0041200134,338,2,3,3,3:45 PM,6:42,MISS Noah 5' Hook Shot,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+261,0041200134,339,4,0,3,3:45 PM,6:39,,,Wallace REBOUND (Off:0 Def:3),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+262,0041200134,340,1,5,3,3:45 PM,6:36,,,Wallace 2' Layup (7 PTS),70 - 68,-2,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+263,0041200134,341,9,1,3,3:45 PM,6:36,BULLS Timeout: Regular (Full 3 Short 0),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+264,0041200134,345,2,1,3,3:49 PM,6:13,MISS Boozer 15' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+265,0041200134,346,4,0,3,3:49 PM,6:12,,,Evans REBOUND (Off:1 Def:7),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+266,0041200134,347,5,40,3,3:49 PM,5:51,,,Johnson Out of Bounds Lost Ball Turnover (P2.T12),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+267,0041200134,348,1,84,3,3:49 PM,5:30,Hinrich 12' Running Bank Shot (17 PTS),,,70 - 70,TIE,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+268,0041200134,349,1,7,3,3:50 PM,5:11,,,Evans 1' Dunk (10 PTS) (Wallace 2 AST),72 - 70,-2,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+269,0041200134,350,6,11,3,3:50 PM,5:09,,,Evans T.FOUL (P2.T2),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+270,0041200134,351,3,16,3,3:50 PM,5:09,Hinrich Free Throw Technical (18 PTS),,,72 - 71,-1,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+271,0041200134,354,2,1,3,3:51 PM,4:58,MISS Boozer 11' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+272,0041200134,355,4,0,3,3:51 PM,4:57,,,Wallace REBOUND (Off:0 Def:4),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+273,0041200134,356,2,1,3,3:51 PM,4:45,,,MISS Lopez 15' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+274,0041200134,357,4,0,3,3:51 PM,4:44,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+275,0041200134,358,2,5,3,3:51 PM,4:33,MISS Noah 2' Layup,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+276,0041200134,359,4,0,3,3:51 PM,4:31,,,Evans REBOUND (Off:1 Def:8),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+277,0041200134,360,9,1,3,3:51 PM,4:27,,,Nets Timeout: Regular (Reg.3 Short 1),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+278,0041200134,362,8,0,3,3:54 PM,4:27,SUB: Mohammed FOR Noah,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+279,0041200134,364,1,1,3,3:55 PM,4:22,,,D. Williams 18' Jump Shot (21 PTS),74 - 71,-3,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+280,0041200134,365,5,1,3,3:55 PM,4:03,Butler Bad Pass Turnover (P1.T9),,Lopez STEAL (2 STL),,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+281,0041200134,366,1,1,3,3:56 PM,3:57,,,D. Williams 25' 3PT Jump Shot (24 PTS),77 - 71,-6,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+282,0041200134,367,1,1,3,3:56 PM,3:37,Mohammed 17' Jump Shot (2 PTS) (Hinrich 4 AST),,,77 - 73,-4,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+283,0041200134,368,2,75,3,3:56 PM,3:18,,,MISS D. Williams 1' Driving Finger Roll Layup,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+284,0041200134,369,4,0,3,3:56 PM,3:15,Mohammed REBOUND (Off:0 Def:2),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+285,0041200134,370,2,1,3,3:56 PM,3:08,MISS Deng 24' 3PT Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+286,0041200134,371,4,0,3,3:56 PM,3:07,,,Johnson REBOUND (Off:0 Def:2),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+287,0041200134,372,5,4,3,3:57 PM,2:54,,,Lopez Traveling Turnover (P3.T13),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+288,0041200134,373,8,0,3,3:57 PM,2:54,SUB: Gibson FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+289,0041200134,374,8,0,3,3:57 PM,2:54,,,SUB: Watson FOR D. Williams,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+290,0041200134,375,2,1,3,3:57 PM,2:32,MISS Mohammed 15' Jump Shot,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+291,0041200134,376,4,0,3,3:57 PM,2:30,,,Wallace REBOUND (Off:0 Def:5),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+292,0041200134,377,1,71,3,3:58 PM,2:08,,,Lopez 3' Finger Roll Layup (14 PTS) (Wallace 3 AST),79 - 73,-6,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+293,0041200134,379,1,1,3,3:58 PM,1:45,Deng 16' Jump Shot (13 PTS) (Hinrich 5 AST),,,79 - 75,-4,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+294,0041200134,380,1,47,3,3:58 PM,1:22,,,Johnson 8' Turnaround Jump Shot (11 PTS),81 - 75,-6,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+295,0041200134,381,9,2,3,3:59 PM,1:12,BULLS Timeout: Short (Full 3 Short 1),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+296,0041200134,383,8,0,3,4:00 PM,1:12,SUB: Robinson FOR Hinrich,,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+297,0041200134,384,8,0,3,4:00 PM,1:12,,,SUB: Blatche FOR Evans,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+298,0041200134,385,2,1,3,4:01 PM,0:59,MISS Gibson 18' Jump Shot,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+299,0041200134,386,4,0,3,4:01 PM,0:58,,,Lopez REBOUND (Off:3 Def:3),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+300,0041200134,387,2,1,3,4:01 PM,0:38,,,MISS Johnson 26' 3PT Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+301,0041200134,388,4,0,3,4:01 PM,0:38,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+302,0041200134,390,6,2,3,4:02 PM,0:27,,,Wallace S.FOUL (P2.T3),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+303,0041200134,391,3,11,3,4:02 PM,0:27,MISS Mohammed Free Throw 1 of 2,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+304,0041200134,392,4,1,3,4:02 PM,0:27,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+305,0041200134,393,3,12,3,4:02 PM,0:27,Mohammed Free Throw 2 of 2 (3 PTS),,,81 - 76,-5,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+306,0041200134,396,1,1,3,4:03 PM,0:02,,,Lopez 26' 3PT Jump Shot (17 PTS),84 - 76,-8,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+307,0041200134,397,13,0,3,4:03 PM,0:00,,End of 3rd Period (4:03 PM EST),,84 - 76,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+308,0041200134,399,12,0,4,4:07 PM,12:00,,Start of 4th Period (4:07 PM EST),,84 - 76,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+309,0041200134,401,2,1,4,4:08 PM,11:50,,,MISS D. Williams 17' Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+310,0041200134,402,4,0,4,4:08 PM,11:49,,,Evans REBOUND (Off:2 Def:8),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+311,0041200134,404,1,1,4,4:08 PM,11:33,,,Blatche 8' Jump Shot (13 PTS) (Watson 3 AST),86 - 76,-10,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+312,0041200134,405,6,2,4,4:08 PM,11:13,,,Evans S.FOUL (P3.T1),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+313,0041200134,406,3,11,4,4:08 PM,11:13,Gibson Free Throw 1 of 2 (5 PTS),,,86 - 77,-9,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+314,0041200134,408,3,12,4,4:09 PM,11:13,Gibson Free Throw 2 of 2 (6 PTS),,,86 - 78,-8,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+315,0041200134,410,6,1,4,4:09 PM,11:01,Gibson P.FOUL (P2.T1),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+316,0041200134,411,2,1,4,4:10 PM,10:47,,,MISS Blatche 12' Jump Shot,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+317,0041200134,412,4,0,4,4:10 PM,10:46,Deng REBOUND (Off:1 Def:4),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+318,0041200134,413,5,1,4,4:10 PM,10:40,Hinrich Bad Pass Turnover (P3.T10),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+319,0041200134,414,5,2,4,4:10 PM,10:20,Gibson STEAL (1 STL),,Blatche Lost Ball Turnover (P2.T14),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+320,0041200134,415,6,1,4,4:11 PM,10:05,,,Wallace P.FOUL (P3.T2),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+321,0041200134,416,1,46,4,4:11 PM,9:56,Robinson 6' Running Jump Shot (7 PTS) (Hinrich 6 AST),,,86 - 80,-6,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+322,0041200134,418,1,1,4,4:11 PM,9:40,,,Watson 19' Jump Shot (6 PTS) (Blatche 2 AST),88 - 80,-8,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+323,0041200134,419,1,5,4,4:12 PM,9:21,Gibson 3' Layup (8 PTS) (Robinson 3 AST),,,88 - 82,-6,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+324,0041200134,420,2,1,4,4:12 PM,9:07,,,MISS D. Williams 26' 3PT Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+325,0041200134,421,4,0,4,4:12 PM,9:05,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+326,0041200134,423,5,2,4,4:12 PM,8:50,Hinrich Lost Ball Turnover (P4.T11),,Evans STEAL (1 STL),,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+327,0041200134,424,1,1,4,4:12 PM,8:38,,,Wallace 26' 3PT Jump Shot (10 PTS) (D. Williams 8 AST),91 - 82,-9,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+328,0041200134,425,2,1,4,4:13 PM,8:16,MISS Robinson 22' Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+329,0041200134,426,4,0,4,4:13 PM,8:15,Mohammed REBOUND (Off:1 Def:2),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+330,0041200134,427,2,5,4,4:13 PM,8:15,MISS Mohammed 3' Layup,,Evans BLOCK (2 BLK),,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0
+331,0041200134,428,4,0,4,4:13 PM,8:15,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+332,0041200134,429,9,1,4,4:13 PM,8:15,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+333,0041200134,432,1,1,4,4:16 PM,8:08,Robinson 19' Jump Shot (9 PTS) (Hinrich 7 AST),,,91 - 84,-7,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+334,0041200134,433,1,5,4,4:17 PM,7:52,,,Evans 2' Layup (12 PTS) (Blatche 3 AST),93 - 84,-9,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+335,0041200134,434,6,2,4,4:17 PM,7:52,Gibson S.FOUL (P3.T2),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+336,0041200134,435,3,10,4,4:17 PM,7:52,,,MISS Evans Free Throw 1 of 1,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+337,0041200134,437,4,0,4,4:17 PM,7:51,Mohammed REBOUND (Off:1 Def:3),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+338,0041200134,438,1,7,4,4:17 PM,7:38,Mohammed 3' Dunk (5 PTS) (Gibson 1 AST),,,93 - 86,-7,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+339,0041200134,439,6,28,4,4:18 PM,7:24,Hinrich Personal Take Foul (P3.T3),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+340,0041200134,440,6,2,4,4:18 PM,7:19,Mohammed S.FOUL (P3.T4),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+341,0041200134,441,3,11,4,4:19 PM,7:19,,,MISS Wallace Free Throw 1 of 2,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+342,0041200134,442,4,1,4,4:19 PM,7:19,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+343,0041200134,443,3,12,4,4:19 PM,7:19,,,Wallace Free Throw 2 of 2 (11 PTS),94 - 86,-8,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+344,0041200134,446,2,1,4,4:19 PM,7:04,MISS Deng 6' Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+345,0041200134,447,4,0,4,4:19 PM,7:02,,,D. Williams REBOUND (Off:0 Def:3),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+346,0041200134,448,6,1,4,4:19 PM,6:57,Hinrich P.FOUL (P4.PN),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+347,0041200134,449,3,11,4,4:20 PM,6:57,,,MISS D. Williams Free Throw 1 of 2,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+348,0041200134,450,4,1,4,4:20 PM,6:57,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+349,0041200134,451,8,0,4,4:20 PM,6:57,SUB: Boozer FOR Mohammed,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+350,0041200134,452,8,0,4,4:20 PM,6:57,SUB: Butler FOR Deng,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+351,0041200134,453,3,12,4,4:20 PM,6:57,,,D. Williams Free Throw 2 of 2 (25 PTS),95 - 86,-9,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+352,0041200134,456,2,1,4,4:20 PM,6:46,MISS Butler 25' 3PT Jump Shot,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+353,0041200134,457,4,0,4,4:20 PM,6:44,,,Evans REBOUND (Off:2 Def:9),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+354,0041200134,458,1,5,4,4:20 PM,6:40,,,Watson 2' Layup (8 PTS),97 - 86,-11,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+355,0041200134,459,6,2,4,4:20 PM,6:40,Robinson S.FOUL (P4.PN),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+356,0041200134,460,3,10,4,4:21 PM,6:40,,,Watson Free Throw 1 of 1 (9 PTS),98 - 86,-12,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+357,0041200134,463,1,42,4,4:21 PM,6:24,Robinson 2' Driving Layup (11 PTS),,,98 - 88,-10,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+358,0041200134,464,6,1,4,4:22 PM,6:03,Gibson P.FOUL (P4.PN),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+359,0041200134,465,3,11,4,4:22 PM,6:03,,,Evans Free Throw 1 of 2 (13 PTS),99 - 88,-11,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+360,0041200134,467,3,12,4,4:22 PM,6:03,,,Evans Free Throw 2 of 2 (14 PTS),100 - 88,-12,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+361,0041200134,470,1,1,4,4:22 PM,5:52,Robinson 26' 3PT Jump Shot (14 PTS) (Hinrich 8 AST),,,100 - 91,-9,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+362,0041200134,471,6,2,4,4:23 PM,5:39,Hinrich S.FOUL (P5.PN),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+363,0041200134,472,9,1,4,4:23 PM,5:39,BULLS Timeout: Regular (Full 4 Short 1),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+364,0041200134,474,8,0,4,4:26 PM,5:39,,,SUB: Lopez FOR Blatche,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+365,0041200134,475,8,0,4,4:26 PM,5:39,SUB: Noah FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+366,0041200134,476,3,11,4,4:26 PM,5:39,,,D. Williams Free Throw 1 of 2 (26 PTS),101 - 91,-10,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+367,0041200134,478,3,12,4,4:26 PM,5:39,,,D. Williams Free Throw 2 of 2 (27 PTS),102 - 91,-11,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+368,0041200134,480,6,1,4,4:27 PM,5:32,,,Watson P.FOUL (P3.T3),,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+369,0041200134,481,1,1,4,4:27 PM,5:21,Robinson 18' Jump Shot (16 PTS),,,102 - 93,-9,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+370,0041200134,482,5,40,4,4:28 PM,5:05,,,D. Williams Out of Bounds Lost Ball Turnover (P6.T15),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+371,0041200134,483,1,1,4,4:28 PM,4:49,Boozer 17' Jump Shot (16 PTS) (Hinrich 9 AST),,,102 - 95,-7,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+372,0041200134,484,1,1,4,4:28 PM,4:30,,,D. Williams 25' 3PT Jump Shot (30 PTS),105 - 95,-10,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+373,0041200134,485,2,46,4,4:28 PM,4:18,MISS Robinson 6' Running Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+374,0041200134,486,4,0,4,4:29 PM,4:17,,,Wallace REBOUND (Off:0 Def:6),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+375,0041200134,487,1,1,4,4:29 PM,4:03,,,Lopez 20' Jump Shot (19 PTS) (D. Williams 9 AST),107 - 95,-12,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+376,0041200134,488,9,1,4,4:29 PM,4:03,BULLS Timeout: Regular (Full 5 Short 1),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+377,0041200134,492,2,1,4,4:32 PM,3:51,MISS Hinrich 16' Jump Shot,,D. Williams BLOCK (1 BLK),,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0
+378,0041200134,493,4,0,4,4:32 PM,3:48,,,Wallace REBOUND (Off:0 Def:7),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+379,0041200134,494,1,7,4,4:32 PM,3:45,,,Wallace 2' Dunk (13 PTS),109 - 95,-14,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+380,0041200134,495,5,2,4,4:33 PM,3:19,Robinson Lost Ball Turnover (P1.T12),,Watson STEAL (2 STL),,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+381,0041200134,496,2,7,4,4:33 PM,3:16,,,MISS Watson 1' Dunk,,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+382,0041200134,497,4,0,4,4:33 PM,3:13,,,Watson REBOUND (Off:1 Def:0),,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+383,0041200134,498,6,28,4,4:33 PM,3:11,Boozer Personal Take Foul (P2.PN),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+384,0041200134,499,3,11,4,4:33 PM,3:11,,,MISS Evans Free Throw 1 of 2,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+385,0041200134,500,4,1,4,4:33 PM,3:11,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+386,0041200134,501,3,12,4,4:33 PM,3:11,,,MISS Evans Free Throw 2 of 2,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+387,0041200134,503,4,0,4,4:34 PM,3:10,Hinrich REBOUND (Off:0 Def:4),,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+388,0041200134,505,2,1,4,4:34 PM,2:59,MISS Hinrich 26' 3PT Jump Shot,,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+389,0041200134,506,4,0,4,4:34 PM,2:59,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+390,0041200134,507,6,3,4,4:34 PM,2:59,,,Evans L.B.FOUL (P4.T4),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+391,0041200134,508,8,0,4,4:34 PM,2:59,SUB: Deng FOR Butler,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+392,0041200134,509,8,0,4,4:34 PM,2:59,,,SUB: Johnson FOR Evans,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+393,0041200134,510,1,1,4,4:34 PM,2:53,Robinson 26' 3PT Jump Shot (19 PTS),,,109 - 98,-11,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+394,0041200134,512,2,1,4,4:35 PM,2:36,,,MISS Lopez 21' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+395,0041200134,513,4,0,4,4:35 PM,2:34,Boozer REBOUND (Off:0 Def:4),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+396,0041200134,514,1,42,4,4:35 PM,2:20,Robinson 2' Driving Layup (21 PTS),,,109 - 100,-9,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+397,0041200134,515,9,1,4,4:35 PM,2:19,,,Nets Timeout: Regular (Reg.4 Short 1),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+398,0041200134,519,6,28,4,4:37 PM,2:17,Boozer Personal Take Foul (P3.PN),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+399,0041200134,520,3,11,4,4:38 PM,2:17,,,MISS Wallace Free Throw 1 of 2,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+400,0041200134,521,4,1,4,4:38 PM,2:17,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+401,0041200134,522,3,12,4,4:38 PM,2:17,,,MISS Wallace Free Throw 2 of 2,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+402,0041200134,524,4,0,4,4:38 PM,2:16,Boozer REBOUND (Off:0 Def:5),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+403,0041200134,526,1,1,4,4:38 PM,2:08,Robinson 16' Jump Shot (23 PTS) (Hinrich 10 AST),,,109 - 102,-7,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+404,0041200134,528,6,16,4,4:39 PM,2:02,,"Double Technical - Boozer, Wallace",,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+405,0041200134,529,6,4,4,4:39 PM,1:52,,,Wallace OFF.Foul (P4),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+406,0041200134,530,5,5,4,4:39 PM,1:52,,,Wallace Foul Turnover (P1.T16),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,1,0,,,,,,0
+407,0041200134,532,6,2,4,4:40 PM,1:41,,,D. Williams S.FOUL (P1.PN),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+408,0041200134,533,18,1,4,4:40 PM,1:41,,Overturn Ruling,,,,0,532,,,,,,0,0,,,,,,1,0,,,,,,0
+409,0041200134,535,3,13,4,4:41 PM,1:41,Robinson Free Throw 1 of 3 (24 PTS),,,109 - 103,-6,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+410,0041200134,537,3,14,4,4:41 PM,1:41,Robinson Free Throw 2 of 3 (25 PTS),,,109 - 104,-5,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+411,0041200134,539,3,15,4,4:42 PM,1:41,Robinson Free Throw 3 of 3 (26 PTS),,,109 - 105,-4,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+412,0041200134,542,2,5,4,4:42 PM,1:21,,,MISS D. Williams 2' Layup,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+413,0041200134,543,4,0,4,4:42 PM,1:19,Noah REBOUND (Off:1 Def:5),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+414,0041200134,544,1,1,4,4:42 PM,1:11,Robinson 14' Jump Shot (28 PTS),,,109 - 107,-2,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+415,0041200134,545,9,1,4,4:42 PM,1:11,,,Nets Timeout: Regular (Reg.5 Short 1),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+416,0041200134,547,8,0,4,4:44 PM,1:11,SUB: Gibson FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+417,0041200134,549,5,38,4,4:45 PM,1:11,,,Nets Turnover: 5 Second Inbound (T#17),,,3,1610612751,,,,,,0,0,,,,,,1,0,,,,,,0
+418,0041200134,556,8,0,4,4:45 PM,1:11,,,SUB: Evans FOR Watson,,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+419,0041200134,550,8,0,4,4:45 PM,1:11,SUB: Boozer FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+420,0041200134,551,1,44,4,4:46 PM,0:55,Boozer 2' Reverse Layup (18 PTS) (Robinson 4 AST),,,109 - 109,TIE,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+421,0041200134,553,6,2,4,4:46 PM,0:33,Noah S.FOUL (P3.PN),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+422,0041200134,554,3,11,4,4:46 PM,0:33,,,Lopez Free Throw 1 of 2 (20 PTS),110 - 109,-1,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+423,0041200134,557,3,12,4,4:47 PM,0:33,,,Lopez Free Throw 2 of 2 (21 PTS),111 - 109,-2,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+424,0041200134,559,9,1,4,4:47 PM,0:33,BULLS Timeout: Regular (Full 6 Short 1),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+425,0041200134,563,2,1,4,4:49 PM,0:24,MISS Deng 24' 3PT Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+426,0041200134,564,4,0,4,4:49 PM,0:23,Noah REBOUND (Off:2 Def:5),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+427,0041200134,565,2,72,4,4:49 PM,0:23,MISS Noah 1' Putback Layup,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+428,0041200134,567,4,0,4,4:49 PM,0:23,Noah REBOUND (Off:3 Def:5),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+429,0041200134,566,1,72,4,4:49 PM,0:23,Noah 2' Putback Layup (5 PTS),,,111 - 111,TIE,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+430,0041200134,568,9,2,4,4:49 PM,0:23,,,Nets Timeout: Short (Reg.5 Short 2),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+431,0041200134,570,8,0,4,4:50 PM,0:23,SUB: Gibson FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+432,0041200134,571,8,0,4,4:50 PM,0:23,SUB: Butler FOR Robinson,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+433,0041200134,572,8,0,4,4:50 PM,0:23,,,SUB: Watson FOR Evans,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+434,0041200134,573,2,1,4,4:51 PM,0:03,,,MISS D. Williams 13' Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+435,0041200134,574,4,0,4,4:51 PM,0:02,,,Wallace REBOUND (Off:1 Def:7),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+436,0041200134,575,2,5,4,4:51 PM,0:01,Butler BLOCK (1 BLK),,MISS Wallace 2' Layup,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0
+437,0041200134,577,4,0,4,4:51 PM,0:00,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+438,0041200134,576,13,0,4,4:51 PM,0:00,,End of 4th Period (4:51 PM EST),,111 - 111,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+439,0041200134,579,12,0,5,4:54 PM,5:00,,Start of 1st OT (4:54 PM EST),,111 - 111,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+440,0041200134,580,10,0,5,4:55 PM,4:57,Jump Ball Noah vs. Lopez: Tip to Wallace,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0
+441,0041200134,581,2,1,5,4:55 PM,4:40,,,MISS Wallace 25' 3PT Jump Shot,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+442,0041200134,582,4,0,5,4:55 PM,4:38,Noah REBOUND (Off:3 Def:6),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+443,0041200134,585,6,4,5,4:55 PM,4:16,Boozer OFF.Foul (P4),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+444,0041200134,586,5,5,5,4:55 PM,4:16,Boozer Foul Turnover (P1.T13),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+445,0041200134,587,2,1,5,4:55 PM,4:08,Noah BLOCK (4 BLK),,MISS Lopez 5' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0
+446,0041200134,588,4,0,5,4:55 PM,4:05,,,Lopez REBOUND (Off:4 Def:3),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+447,0041200134,589,1,1,5,4:56 PM,4:01,,,Johnson 18' Jump Shot (13 PTS),113 - 111,-2,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+448,0041200134,591,1,44,5,4:56 PM,3:41,Noah 2' Reverse Layup (7 PTS) (Hinrich 11 AST),,,113 - 113,TIE,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+449,0041200134,592,1,5,5,4:56 PM,3:24,,,Wallace 2' Layup (15 PTS) (D. Williams 10 AST),115 - 113,-2,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+450,0041200134,593,6,2,5,4:56 PM,3:24,Boozer S.FOUL (P5.T1),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+451,0041200134,594,3,10,5,4:57 PM,3:24,,,Wallace Free Throw 1 of 1 (16 PTS),116 - 113,-3,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+452,0041200134,596,2,1,5,4:57 PM,3:04,MISS Boozer 15' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+453,0041200134,597,4,0,5,4:57 PM,3:03,,,Lopez REBOUND (Off:4 Def:4),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+454,0041200134,598,2,1,5,4:57 PM,2:43,,,MISS D. Williams 26' 3PT Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+455,0041200134,600,4,0,5,4:58 PM,2:42,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+456,0041200134,599,10,0,5,4:58 PM,2:42,Jump Ball Deng vs. Wallace: Tip to Evans,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0
+457,0041200134,601,2,1,5,4:58 PM,2:17,,,MISS Johnson 16' Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+458,0041200134,602,4,0,5,4:58 PM,2:16,Deng REBOUND (Off:1 Def:5),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+459,0041200134,603,2,1,5,4:59 PM,2:00,MISS Robinson 25' 3PT Jump Shot,,D. Williams BLOCK (2 BLK),,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0
+460,0041200134,604,4,0,5,4:59 PM,2:00,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+461,0041200134,605,9,1,5,4:59 PM,2:00,BULLS Timeout: Regular (Full 7 Short 1),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+462,0041200134,609,1,5,5,5:01 PM,1:57,Noah 2' Layup (9 PTS) (Boozer 2 AST),,,116 - 115,-1,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+463,0041200134,610,6,1,5,5:02 PM,1:35,Noah P.FOUL (P4.T2),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+464,0041200134,611,2,1,5,5:02 PM,1:21,,,MISS Johnson 18' Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+465,0041200134,612,4,0,5,5:02 PM,1:19,,,Evans REBOUND (Off:3 Def:9),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+466,0041200134,613,6,1,5,5:02 PM,1:14,Robinson P.FOUL (P5.PN),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+467,0041200134,614,3,11,5,5:03 PM,1:14,,,Wallace Free Throw 1 of 2 (17 PTS),117 - 115,-2,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+468,0041200134,616,3,12,5,5:03 PM,1:14,,,MISS Wallace Free Throw 2 of 2,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+469,0041200134,618,4,0,5,5:03 PM,1:12,Boozer REBOUND (Off:0 Def:6),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+470,0041200134,620,1,1,5,5:03 PM,1:02,Robinson 21' Jump Shot (30 PTS),,,117 - 117,TIE,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+471,0041200134,621,2,1,5,5:03 PM,0:42,,,MISS Lopez 21' Jump Shot,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+472,0041200134,622,4,0,5,5:04 PM,0:41,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+473,0041200134,623,18,0,5,5:04 PM,0:41,,Support Ruling,,,,0,622,,,,,,0,0,,,,,,1,0,,,,,,0
+474,0041200134,627,1,5,5,5:06 PM,0:26,Boozer 3' Layup (20 PTS) (Noah 2 AST),,,117 - 119,2,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+475,0041200134,628,9,1,5,5:07 PM,0:26,,,Nets Timeout: Regular (Reg.6 Short 2),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+476,0041200134,629,8,0,5,5:09 PM,0:26,SUB: Gibson FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+477,0041200134,630,8,0,5,5:09 PM,0:26,SUB: Butler FOR Robinson,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+478,0041200134,632,9,2,5,5:09 PM,0:26,,,Nets Timeout: Short (Reg.6 Short 3),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+479,0041200134,635,1,1,5,5:10 PM,0:11,,,Johnson 8' Jump Shot (15 PTS),119 - 119,TIE,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+480,0041200134,636,9,2,5,5:10 PM,0:11,BULLS Timeout: Short (Full 7 Short 2),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+481,0041200134,638,8,0,5,5:11 PM,0:11,SUB: Boozer FOR Butler,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+482,0041200134,639,8,0,5,5:11 PM,0:11,SUB: Robinson FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+483,0041200134,640,1,66,5,5:12 PM,0:02,Robinson 23' Jump Bank Shot (32 PTS),,,119 - 121,2,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+484,0041200134,641,18,0,5,5:12 PM,0:02,,Support Ruling,,,,0,640,,,,,,0,0,,,,,,1,0,,,,,,0
+485,0041200134,643,9,2,5,5:14 PM,0:02,,,Nets Timeout: Short (Reg.6 Short 4),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+486,0041200134,644,8,0,5,5:15 PM,0:02,,,SUB: Watson FOR Evans,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+487,0041200134,645,8,0,5,5:15 PM,0:02,SUB: Gibson FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+488,0041200134,646,8,0,5,5:15 PM,0:02,SUB: Butler FOR Robinson,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+489,0041200134,647,1,1,5,5:15 PM,0:00,,,Johnson 8' Jump Shot (17 PTS) (Wallace 4 AST),121 - 121,TIE,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+490,0041200134,648,18,0,5,5:16 PM,0:00,,Support Ruling,,,,0,647,,,,,,0,0,,,,,,1,0,,,,,,0
+491,0041200134,649,13,0,5,5:16 PM,0:00,,End of 1st OT (5:16 PM EST),,121 - 121,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+492,0041200134,650,12,0,6,5:19 PM,5:00,,Start of 2nd OT (5:19 PM EST),,121 - 121,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+493,0041200134,651,10,0,6,5:19 PM,5:00,Jump Ball Noah vs. Lopez: Tip to Evans,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0
+494,0041200134,652,2,1,6,5:19 PM,4:46,,,MISS D. Williams 20' Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+495,0041200134,653,4,0,6,5:19 PM,4:43,,,Wallace REBOUND (Off:2 Def:7),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+496,0041200134,654,2,1,6,5:19 PM,4:38,,,MISS D. Williams 26' 3PT Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+497,0041200134,655,4,0,6,5:19 PM,4:37,Noah REBOUND (Off:3 Def:7),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+498,0041200134,656,2,1,6,5:20 PM,4:19,MISS Boozer 15' Jump Shot,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+499,0041200134,657,4,0,6,5:20 PM,4:18,,,Johnson REBOUND (Off:0 Def:3),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+500,0041200134,658,1,1,6,5:20 PM,4:08,,,Johnson 16' Jump Shot (19 PTS),123 - 121,-2,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+501,0041200134,659,1,1,6,5:20 PM,3:51,Noah 18' Jump Shot (11 PTS) (Hinrich 12 AST),,,123 - 123,TIE,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+502,0041200134,660,5,1,6,5:20 PM,3:37,Hinrich STEAL (2 STL),,D. Williams Bad Pass Turnover (P7.T18),,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+503,0041200134,661,2,1,6,5:20 PM,3:33,MISS Noah 3' Jump Shot,,Wallace BLOCK (1 BLK),,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,0
+504,0041200134,662,4,0,6,5:20 PM,3:33,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+505,0041200134,663,18,1,6,5:21 PM,3:33,,Overturn Ruling,,,,0,662,,,,,,0,0,,,,,,1,0,,,,,,0
+506,0041200134,665,2,1,6,5:23 PM,3:17,,,MISS Johnson 24' 3PT Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+507,0041200134,666,4,0,6,5:23 PM,3:14,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+508,0041200134,668,18,0,6,5:24 PM,3:14,,Support Ruling,,,,0,666,,,,,,0,0,,,,,,1,0,,,,,,0
+509,0041200134,673,2,1,6,5:25 PM,2:57,,,MISS Johnson 26' 3PT Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+510,0041200134,674,4,0,6,5:25 PM,2:56,Noah REBOUND (Off:3 Def:8),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+511,0041200134,675,6,3,6,5:25 PM,2:56,,,Wallace L.B.FOUL (P5.T1),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+512,0041200134,676,1,78,6,5:26 PM,2:45,Robinson 6' Floating Jump Shot (34 PTS),,,123 - 125,2,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+513,0041200134,678,6,1,6,5:26 PM,2:21,Noah P.FOUL (P5.T1),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+514,0041200134,679,5,2,6,5:27 PM,2:14,Robinson STEAL (2 STL),,Johnson Lost Ball Turnover (P3.T19),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+515,0041200134,680,6,1,6,5:27 PM,2:11,,,Wallace P.FOUL (P6.T2),,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+516,0041200134,681,8,0,6,5:27 PM,2:11,,,SUB: Watson FOR Wallace,,,5,2222,Gerald Wallace,1610612751.0,Brooklyn,Nets,BKN,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+517,0041200134,682,2,1,6,5:28 PM,2:05,MISS Robinson 26' 3PT Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+518,0041200134,683,4,0,6,5:28 PM,2:04,Noah REBOUND (Off:4 Def:8),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+519,0041200134,684,2,1,6,5:28 PM,2:00,MISS Robinson 26' 3PT Jump Shot,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+520,0041200134,685,4,0,6,5:28 PM,1:58,Boozer REBOUND (Off:1 Def:6),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+521,0041200134,686,2,42,6,5:28 PM,1:49,MISS Robinson 1' Driving Layup,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+522,0041200134,687,4,0,6,5:28 PM,1:48,,,Lopez REBOUND (Off:4 Def:5),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+523,0041200134,688,2,1,6,5:28 PM,1:40,,,MISS Watson 24' 3PT Jump Shot,,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+524,0041200134,689,4,0,6,5:28 PM,1:39,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+525,0041200134,691,1,7,6,5:29 PM,1:18,Noah 2' Dunk (13 PTS) (Deng 4 AST),,,123 - 127,4,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+526,0041200134,692,9,1,6,5:29 PM,1:18,,,Nets Timeout: Regular (Reg.7 Short 4),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+527,0041200134,694,8,0,6,5:31 PM,1:18,SUB: Butler FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+528,0041200134,695,8,0,6,5:31 PM,1:18,SUB: Gibson FOR Robinson,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+529,0041200134,697,1,1,6,5:31 PM,1:13,,,Johnson 13' Jump Shot (21 PTS),125 - 127,2,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+530,0041200134,698,6,2,6,5:31 PM,1:13,Deng S.FOUL (P4.T2),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+531,0041200134,699,8,0,6,5:32 PM,1:13,SUB: Boozer FOR Butler,,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+532,0041200134,722,8,0,6,5:32 PM,1:13,SUB: Robinson FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+533,0041200134,700,3,10,6,5:32 PM,1:13,,,Johnson Free Throw 1 of 1 (22 PTS),126 - 127,1,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+534,0041200134,702,6,4,6,5:32 PM,1:03,Robinson OFF.Foul (P6),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+535,0041200134,703,5,5,6,5:32 PM,1:03,Robinson Foul Turnover (P2.T14),,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,1,0,,,,,,0
+536,0041200134,704,8,0,6,5:33 PM,1:03,SUB: Butler FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+537,0041200134,723,8,0,6,5:33 PM,1:03,SUB: Gibson FOR Robinson,,,,,4,101126,Nate Robinson,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+538,0041200134,706,2,1,6,5:33 PM,0:49,,,MISS Johnson 18' Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+539,0041200134,707,4,0,6,5:33 PM,0:48,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+540,0041200134,708,6,3,6,5:33 PM,0:48,Gibson L.B.FOUL (P5.PN),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+541,0041200134,709,3,11,6,5:33 PM,0:48,,,Lopez Free Throw 1 of 2 (22 PTS),127 - 127,TIE,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+542,0041200134,711,8,0,6,5:34 PM,0:48,SUB: Boozer FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+543,0041200134,712,3,12,6,5:34 PM,0:48,,,MISS Lopez Free Throw 2 of 2,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+544,0041200134,714,4,0,6,5:34 PM,0:47,Boozer REBOUND (Off:1 Def:7),,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+545,0041200134,716,2,1,6,5:34 PM,0:29,MISS Deng 21' Jump Shot,,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+546,0041200134,717,4,0,6,5:34 PM,0:28,,,Watson REBOUND (Off:1 Def:1),,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+547,0041200134,718,2,1,6,5:35 PM,0:06,,,MISS Johnson 17' Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+548,0041200134,719,4,0,6,5:35 PM,0:05,Butler REBOUND (Off:0 Def:4),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+549,0041200134,720,9,1,6,5:35 PM,0:05,BULLS Timeout: Regular (Full 8 Short 2),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+550,0041200134,726,9,2,6,5:37 PM,0:05,BULLS Timeout: Short (Full 8 Short 3),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+551,0041200134,729,2,1,6,5:38 PM,0:01,MISS Noah 5' Jump Shot,,Lopez BLOCK (3 BLK),,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+552,0041200134,730,4,0,6,5:38 PM,0:00,Noah REBOUND (Off:5 Def:8),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+553,0041200134,731,2,5,6,5:38 PM,0:00,MISS Noah 2' Layup,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+554,0041200134,732,4,0,6,5:38 PM,0:00,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+555,0041200134,733,9,2,6,5:38 PM,0:00,BULLS Timeout: Short (Full 8 Short 4),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+556,0041200134,738,2,45,6,5:38 PM,0:00,MISS Noah 6' Jump Shot,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+557,0041200134,739,4,0,6,5:38 PM,0:00,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+558,0041200134,736,13,0,6,5:39 PM,0:00,,End of 2nd OT (5:39 PM EST),,127 - 127,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+559,0041200134,740,12,0,7,5:43 PM,5:00,,Start of 3rd OT (5:43 PM EST),,127 - 127,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+560,0041200134,741,10,0,7,5:43 PM,5:00,Jump Ball Noah vs. Lopez: Tip to Butler,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0
+561,0041200134,742,1,1,7,5:43 PM,4:43,Noah 17' Jump Shot (15 PTS) (Deng 5 AST),,,127 - 129,2,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+562,0041200134,743,6,2,7,5:44 PM,4:21,Noah S.FOUL (P6.T1),,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+563,0041200134,744,8,0,7,5:44 PM,4:21,SUB: Gibson FOR Noah,,,,,4,201149,Joakim Noah,1610612741.0,Chicago,Bulls,CHI,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+564,0041200134,745,3,11,7,5:44 PM,4:21,,,MISS Evans Free Throw 1 of 2,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+565,0041200134,746,4,1,7,5:44 PM,4:21,,,Nets Rebound,,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+566,0041200134,747,3,12,7,5:45 PM,4:21,,,Evans Free Throw 2 of 2 (15 PTS),128 - 129,1,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+567,0041200134,750,2,1,7,5:45 PM,4:03,MISS Gibson 7' Jump Shot,,Lopez BLOCK (4 BLK),,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0
+568,0041200134,751,4,0,7,5:45 PM,4:03,BULLS Rebound,,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+569,0041200134,752,1,5,7,5:45 PM,4:01,Butler 2' Layup (16 PTS) (Hinrich 13 AST),,,128 - 131,3,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+570,0041200134,753,2,1,7,5:46 PM,3:38,,,MISS D. Williams 21' Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+571,0041200134,754,4,0,7,5:46 PM,3:36,Deng REBOUND (Off:1 Def:6),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+572,0041200134,755,1,1,7,5:46 PM,3:19,Gibson 16' Jump Shot (10 PTS) (Deng 6 AST),,,128 - 133,5,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+573,0041200134,756,9,1,7,5:46 PM,3:19,,,Nets Timeout: Regular (Reg.8 Short 4),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+574,0041200134,760,1,78,7,5:49 PM,3:00,,,D. Williams 4' Floating Jump Shot (32 PTS),130 - 133,3,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+575,0041200134,761,6,1,7,5:49 PM,2:42,,,Evans P.FOUL (P5.T1),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+576,0041200134,762,1,1,7,5:49 PM,2:35,Deng 20' Jump Shot (15 PTS),,,130 - 135,5,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+577,0041200134,763,2,1,7,5:50 PM,2:08,,,MISS D. Williams 25' 3PT Jump Shot,,,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+578,0041200134,764,4,0,7,5:50 PM,2:07,Butler REBOUND (Off:0 Def:5),,,,,4,202710,Jimmy Butler,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+579,0041200134,765,2,1,7,5:50 PM,1:42,MISS Hinrich 26' 3PT Jump Shot,,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+580,0041200134,766,4,0,7,5:50 PM,1:41,,,Evans REBOUND (Off:3 Def:10),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+581,0041200134,767,5,1,7,5:50 PM,1:26,Hinrich STEAL (3 STL),,Lopez Bad Pass Turnover (P4.T20),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+582,0041200134,768,5,2,7,5:51 PM,1:23,Gibson Lost Ball Turnover (P1.T15),,D. Williams STEAL (1 STL),,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,101114,Deron Williams,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+583,0041200134,769,2,1,7,5:51 PM,1:19,,,MISS Watson  3PT Jump Shot,,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+584,0041200134,770,4,0,7,5:51 PM,1:19,Deng REBOUND (Off:1 Def:7),,,,,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+585,0041200134,771,6,1,7,5:51 PM,1:19,,,Evans P.FOUL (P6.T2),,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,4,2736,Luol Deng,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+586,0041200134,773,8,0,7,5:52 PM,1:19,,,SUB: Blatche FOR Evans,,,5,2501,Reggie Evans,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+587,0041200134,775,2,1,7,5:52 PM,1:01,MISS Hinrich 18' Jump Shot,,,,,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+588,0041200134,776,4,0,7,5:52 PM,0:59,,,Lopez REBOUND (Off:4 Def:6),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+589,0041200134,777,6,2,7,5:53 PM,0:51,Gibson S.FOUL (P6.T2),,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,1,0,,,,,,0
+590,0041200134,778,8,0,7,5:53 PM,0:51,SUB: Mohammed FOR Gibson,,,,,4,201959,Taj Gibson,1610612741.0,Chicago,Bulls,CHI,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+591,0041200134,779,3,11,7,5:53 PM,0:51,,,Lopez Free Throw 1 of 2 (23 PTS),131 - 135,4,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+592,0041200134,781,3,12,7,5:53 PM,0:51,,,Lopez Free Throw 2 of 2 (24 PTS),132 - 135,3,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+593,0041200134,784,1,5,7,5:54 PM,0:32,Mohammed 3' Layup (7 PTS) (Hinrich 14 AST),,,132 - 137,5,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,2550,Kirk Hinrich,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+594,0041200134,785,9,1,7,5:54 PM,0:32,,,Nets Timeout: Regular (Reg.9 Short 4),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+595,0041200134,789,2,1,7,5:56 PM,0:24,,,MISS Watson 3' Jump Shot,,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+596,0041200134,790,4,0,7,5:56 PM,0:22,,,Blatche REBOUND (Off:1 Def:4),,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+597,0041200134,791,2,5,7,5:56 PM,0:21,Mohammed BLOCK (1 BLK),,MISS Blatche 1' Layup,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0
+598,0041200134,792,4,0,7,5:56 PM,0:21,,,Lopez REBOUND (Off:5 Def:6),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+599,0041200134,793,1,5,7,5:56 PM,0:21,,,Lopez 2' Layup (26 PTS),134 - 137,3,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+600,0041200134,794,9,1,7,5:56 PM,0:21,BULLS Timeout: Regular (Full 9 Short 4),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+601,0041200134,796,8,0,7,5:58 PM,0:21,SUB: Belinelli FOR Mohammed,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+602,0041200134,798,8,0,7,5:58 PM,0:21,,,SUB: Brooks FOR Blatche,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,202705,MarShon Brooks,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+603,0041200134,799,9,2,7,5:59 PM,0:21,BULLS Timeout: Short (Full 9 Short 5),,,,,2,1610612741,,,,,,0,0,,,,,,0,0,,,,,,0
+604,0041200134,802,6,1,7,6:00 PM,0:20,,,Watson P.FOUL (P4.PN),,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+605,0041200134,803,3,11,7,6:00 PM,0:20,Boozer Free Throw 1 of 2 (21 PTS),,,134 - 138,4,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+606,0041200134,805,8,0,7,6:00 PM,0:20,,,SUB: Blatche FOR Brooks,,,5,202705,MarShon Brooks,1610612751.0,Brooklyn,Nets,BKN,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+607,0041200134,807,8,0,7,6:01 PM,0:20,SUB: Mohammed FOR Belinelli,,,,,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+608,0041200134,808,3,12,7,6:01 PM,0:20,MISS Boozer Free Throw 2 of 2,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+609,0041200134,810,4,0,7,6:01 PM,0:19,Mohammed REBOUND (Off:2 Def:3),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+610,0041200134,811,1,5,7,6:01 PM,0:19,Mohammed 2' Layup (9 PTS),,,134 - 140,6,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+611,0041200134,812,6,2,7,6:01 PM,0:19,,,Johnson S.FOUL (P2.PN),,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+612,0041200134,813,3,10,7,6:01 PM,0:19,MISS Mohammed Free Throw 1 of 1,,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+613,0041200134,815,4,0,7,6:01 PM,0:18,,,Watson REBOUND (Off:1 Def:2),,,5,201228,C.J. Watson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+614,0041200134,816,9,2,7,6:01 PM,0:18,,,Nets Timeout: Short (Reg.9 Short 5),,,3,1610612751,,,,,,0,0,,,,,,0,0,,,,,,0
+615,0041200134,818,8,0,7,6:02 PM,0:18,,,SUB: Brooks FOR Blatche,,,5,101154,Andray Blatche,1610612751.0,Brooklyn,Nets,BKN,5,202705,MarShon Brooks,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0
+616,0041200134,819,8,0,7,6:02 PM,0:18,SUB: Belinelli FOR Boozer,,,,,4,2430,Carlos Boozer,1610612741.0,Chicago,Bulls,CHI,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0
+617,0041200134,820,2,1,7,6:03 PM,0:11,,,MISS Johnson 27' 3PT Jump Shot,,,5,2207,Joe Johnson,1610612751.0,Brooklyn,Nets,BKN,0,0,,,,,,0,0,,,,,,0
+618,0041200134,821,4,0,7,6:03 PM,0:10,Mohammed REBOUND (Off:2 Def:4),,,,,4,1737,Nazr Mohammed,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+619,0041200134,822,6,28,7,6:03 PM,0:03,,,Lopez Personal Take Foul (P3.PN),,,5,201572,Brook Lopez,1610612751.0,Brooklyn,Nets,BKN,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,1,0,,,,,,0
+620,0041200134,823,3,11,7,6:03 PM,0:03,Belinelli Free Throw 1 of 2 (3 PTS),,,134 - 141,7,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+621,0041200134,825,3,12,7,6:03 PM,0:03,Belinelli Free Throw 2 of 2 (4 PTS),,,134 - 142,8,4,201158,Marco Belinelli,1610612741.0,Chicago,Bulls,CHI,0,0,,,,,,0,0,,,,,,0
+622,0041200134,827,13,0,7,6:04 PM,0:00,,End of 3rd OT (6:04 PM EST),,134 - 142,8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

@@ -1,0 +1,534 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200312,0,12,0,1,9:10 PM,12:00,,Start of 1st Period (9:10 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200312,1,10,0,1,9:10 PM,12:00,Jump Ball Duncan vs. Gasol: Tip to Green,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0
+2,0041200312,2,2,5,1,9:10 PM,11:57,MISS Green 1' Layup,,Conley BLOCK (1 BLK),,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0
+3,0041200312,3,4,0,1,9:10 PM,11:55,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+4,0041200312,4,6,1,1,9:11 PM,11:43,,,Conley P.FOUL (P1.T1),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+5,0041200312,5,2,78,1,9:11 PM,11:34,MISS Parker 9' Floating Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+6,0041200312,6,4,0,1,9:11 PM,11:32,,,Gasol REBOUND (Off:0 Def:1),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+7,0041200312,7,6,4,1,9:12 PM,11:19,,,Randolph OFF.Foul (P1),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+8,0041200312,8,5,5,1,9:12 PM,11:19,,,Randolph Foul Turnover (P1.T1),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+9,0041200312,9,5,1,1,9:12 PM,11:02,Duncan Bad Pass Turnover (P1.T1),,Conley STEAL (1 STL),,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+10,0041200312,10,2,1,1,9:12 PM,10:56,,,MISS Conley  3PT Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+11,0041200312,11,4,0,1,9:12 PM,10:55,Parker REBOUND (Off:0 Def:1),,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+12,0041200312,12,1,5,1,9:13 PM,10:43,Green 1' Layup (2 PTS) (Splitter 1 AST),,,0 - 2,2,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+13,0041200312,13,5,8,1,9:13 PM,10:25,,,Randolph 3 Second Violation Turnover (P2.T2),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+14,0041200312,14,1,44,1,9:13 PM,10:15,Leonard 2' Reverse Layup (2 PTS) (Green 1 AST),,,0 - 4,4,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+15,0041200312,15,6,1,1,9:14 PM,10:06,Duncan P.FOUL (P1.T1),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+16,0041200312,16,2,47,1,9:14 PM,9:57,,,MISS Gasol 6' Turnaround Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+17,0041200312,17,4,0,1,9:14 PM,9:56,Splitter REBOUND (Off:0 Def:1),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+18,0041200312,18,2,47,1,9:14 PM,9:42,MISS Duncan 13' Turnaround Jump Shot,,Gasol BLOCK (1 BLK),,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0
+19,0041200312,19,4,0,1,9:14 PM,9:39,,,Gasol REBOUND (Off:0 Def:2),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+20,0041200312,20,2,66,1,9:14 PM,9:30,,,MISS Randolph 6' Jump Bank Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+21,0041200312,21,4,0,1,9:14 PM,9:28,Duncan REBOUND (Off:0 Def:1),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+22,0041200312,22,1,5,1,9:14 PM,9:24,Splitter 1' Layup (2 PTS) (Parker 1 AST),,,0 - 6,6,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+23,0041200312,23,2,1,1,9:15 PM,9:08,,,MISS Gasol 20' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+24,0041200312,24,4,0,1,9:15 PM,9:07,Green REBOUND (Off:0 Def:1),,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+25,0041200312,25,2,1,1,9:15 PM,8:58,MISS Duncan 15' Jump Shot,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+26,0041200312,26,4,0,1,9:15 PM,8:56,,,Conley REBOUND (Off:0 Def:1),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+27,0041200312,27,5,2,1,9:15 PM,8:43,Parker STEAL (1 STL),,Prince Lost Ball Turnover (P1.T3),,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+28,0041200312,29,6,2,1,9:16 PM,8:22,,,Gasol S.FOUL (P1.T2),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+29,0041200312,30,3,11,1,9:16 PM,8:22,MISS Duncan Free Throw 1 of 2,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+30,0041200312,31,4,1,1,9:16 PM,8:22,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+31,0041200312,32,3,12,1,9:16 PM,8:22,Duncan Free Throw 2 of 2 (1 PTS),,,0 - 7,7,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+32,0041200312,34,1,3,1,9:17 PM,8:03,,,Gasol 6' Hook Shot (2 PTS),2 - 7,5,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+33,0041200312,35,2,77,1,9:18 PM,7:45,MISS Parker 5' Driving Jump Shot,,Randolph BLOCK (1 BLK),,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0
+34,0041200312,36,4,0,1,9:18 PM,7:43,,,Allen REBOUND (Off:0 Def:1),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+35,0041200312,37,1,5,1,9:18 PM,7:39,,,Conley 1' Layup (2 PTS) (Allen 1 AST),4 - 7,3,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+36,0041200312,38,2,1,1,9:18 PM,7:18,MISS Duncan 15' Jump Shot,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+37,0041200312,39,4,0,1,9:18 PM,7:17,,,Randolph REBOUND (Off:0 Def:1),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+38,0041200312,40,6,29,1,9:18 PM,7:04,Green Shooting Block Foul (P1.T2),,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+39,0041200312,41,3,11,1,9:19 PM,7:04,,,Conley Free Throw 1 of 2 (3 PTS),5 - 7,2,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+40,0041200312,43,3,12,1,9:19 PM,7:04,,,MISS Conley Free Throw 2 of 2,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+41,0041200312,45,4,0,1,9:19 PM,7:03,Duncan REBOUND (Off:0 Def:2),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+42,0041200312,46,6,1,1,9:20 PM,6:47,,,Conley P.FOUL (P2.T3),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+43,0041200312,47,8,0,1,9:20 PM,6:47,SUB: Diaw FOR Splitter,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+44,0041200312,48,8,0,1,9:20 PM,6:47,,,SUB: Dooling FOR Conley,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+45,0041200312,49,8,0,1,9:20 PM,6:47,,,SUB: Pondexter FOR Prince,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+46,0041200312,50,1,1,1,9:20 PM,6:34,Parker 15' Jump Shot (2 PTS),,,5 - 9,4,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+47,0041200312,51,5,1,1,9:21 PM,6:11,Duncan STEAL (1 STL),,Allen Bad Pass Turnover (P1.T4),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+48,0041200312,52,1,1,1,9:21 PM,5:59,Diaw 12' Jump Shot (2 PTS) (Parker 2 AST),,,5 - 11,6,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+49,0041200312,53,6,2,1,9:21 PM,5:39,Leonard S.FOUL (P1.T3),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+50,0041200312,54,9,1,1,9:21 PM,5:39,SPURS Timeout: Regular (Full 1 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+51,0041200312,56,8,0,1,9:24 PM,5:39,SUB: Ginobili FOR Green,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+52,0041200312,57,3,11,1,9:25 PM,5:39,,,Gasol Free Throw 1 of 2 (3 PTS),6 - 11,5,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+53,0041200312,59,3,12,1,9:25 PM,5:39,,,Gasol Free Throw 2 of 2 (4 PTS),7 - 11,4,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+54,0041200312,61,2,1,1,9:26 PM,5:15,MISS Parker 18' Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+55,0041200312,62,4,0,1,9:26 PM,5:13,,,Randolph REBOUND (Off:0 Def:2),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+56,0041200312,63,2,5,1,9:26 PM,5:05,,,MISS Allen  Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+57,0041200312,64,4,0,1,9:26 PM,5:03,Leonard REBOUND (Off:0 Def:1),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+58,0041200312,65,1,5,1,9:26 PM,4:58,Parker  Layup (4 PTS),,,7 - 13,6,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+59,0041200312,66,2,5,1,9:26 PM,4:31,,,MISS Allen 2' Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+60,0041200312,67,4,0,1,9:26 PM,4:28,Diaw REBOUND (Off:0 Def:1),,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+61,0041200312,68,1,5,1,9:26 PM,4:25,Leonard 1' Layup (4 PTS) (Diaw 1 AST),,,7 - 15,8,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+62,0041200312,69,9,1,1,9:27 PM,4:24,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+63,0041200312,71,8,0,1,9:29 PM,4:24,SUB: Joseph FOR Parker,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+64,0041200312,72,8,0,1,9:29 PM,4:24,,,SUB: Bayless FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+65,0041200312,73,1,5,1,9:31 PM,4:07,,,Randolph 1' Layup (2 PTS),9 - 15,6,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+66,0041200312,74,2,1,1,9:31 PM,3:42,MISS Leonard 19' Jump Shot,,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+67,0041200312,75,4,0,1,9:31 PM,3:39,,,Bayless REBOUND (Off:0 Def:1),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+68,0041200312,76,2,1,1,9:32 PM,3:21,,,MISS Randolph 9' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+69,0041200312,77,4,0,1,9:32 PM,3:20,Diaw REBOUND (Off:0 Def:2),,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+70,0041200312,78,2,47,1,9:32 PM,3:02,MISS Diaw 9' Turnaround Jump Shot,,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+71,0041200312,79,4,0,1,9:32 PM,3:00,,,Gasol REBOUND (Off:0 Def:3),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+72,0041200312,80,2,1,1,9:32 PM,2:45,,,MISS Dooling 17' Jump Shot,,,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+73,0041200312,81,4,0,1,9:32 PM,2:43,Leonard REBOUND (Off:0 Def:2),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+74,0041200312,82,2,1,1,9:32 PM,2:33,MISS Diaw 24' 3PT Jump Shot,,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+75,0041200312,83,4,0,1,9:32 PM,2:31,,,Pondexter REBOUND (Off:0 Def:1),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+76,0041200312,84,6,1,1,9:33 PM,2:24,Diaw P.FOUL (P1.T4),,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+77,0041200312,85,8,0,1,9:33 PM,2:24,SUB: Splitter FOR Duncan,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+78,0041200312,86,8,0,1,9:33 PM,2:24,SUB: Bonner FOR Diaw,,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+79,0041200312,87,8,0,1,9:33 PM,2:24,,,SUB: Arthur FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+80,0041200312,88,2,1,1,9:33 PM,2:18,,,MISS Bayless 19' Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+81,0041200312,89,4,0,1,9:33 PM,2:16,Joseph REBOUND (Off:0 Def:1),,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+82,0041200312,90,2,1,1,9:33 PM,2:02,MISS Joseph 7' Jump Shot,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+83,0041200312,91,4,0,1,9:33 PM,2:00,,,Gasol REBOUND (Off:0 Def:4),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+84,0041200312,92,2,1,1,9:34 PM,1:48,,,MISS Pondexter 25' 3PT Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+85,0041200312,93,4,0,1,9:34 PM,1:45,Ginobili REBOUND (Off:0 Def:1),,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+86,0041200312,94,2,5,1,9:34 PM,1:39,MISS Splitter  Layup,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+87,0041200312,95,4,0,1,9:34 PM,1:38,,,Bayless REBOUND (Off:0 Def:2),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+88,0041200312,96,1,5,1,9:34 PM,1:33,,,Pondexter  Layup (2 PTS) (Bayless 1 AST),11 - 15,4,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+89,0041200312,97,2,1,1,9:34 PM,1:20,MISS Ginobili 24' 3PT Jump Shot,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+90,0041200312,98,4,0,1,9:34 PM,1:18,,,Gasol REBOUND (Off:0 Def:5),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+91,0041200312,99,2,1,1,9:34 PM,1:03,,,MISS Arthur 16' Jump Shot,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+92,0041200312,100,4,0,1,9:34 PM,1:02,Leonard REBOUND (Off:0 Def:3),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+93,0041200312,101,5,4,1,9:35 PM,0:54,Leonard Traveling Turnover (P1.T2),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+94,0041200312,102,8,0,1,9:35 PM,0:54,SUB: Parker FOR Joseph,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+95,0041200312,103,8,0,1,9:35 PM,0:54,SUB: Neal FOR Leonard,,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+96,0041200312,104,2,5,1,9:35 PM,0:40,Splitter BLOCK (1 BLK),,MISS Gasol 1' Layup,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0
+97,0041200312,106,4,0,1,9:35 PM,0:36,,,Gasol REBOUND (Off:1 Def:5),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+98,0041200312,105,1,1,1,9:35 PM,0:36,,,Gasol 7' Jump Shot (6 PTS),13 - 15,2,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+99,0041200312,107,6,1,1,9:36 PM,0:26,,,Arthur P.FOUL (P1.T4),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+100,0041200312,108,2,5,1,9:36 PM,0:12,MISS Parker 2' Layup,,Gasol BLOCK (2 BLK),,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0
+101,0041200312,109,4,0,1,9:36 PM,0:10,,,Dooling REBOUND (Off:0 Def:1),,,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+102,0041200312,110,2,5,1,9:36 PM,0:04,,,MISS Bayless 1' Layup,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+103,0041200312,111,4,0,1,9:36 PM,0:01,Splitter REBOUND (Off:0 Def:2),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+104,0041200312,112,2,1,1,9:36 PM,0:00,MISS Parker 24' 3PT Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+105,0041200312,113,4,0,1,9:36 PM,0:00,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+106,0041200312,114,13,0,1,9:37 PM,0:00,,End of 1st Period (9:37 PM EST),,13 - 15,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+107,0041200312,116,12,0,2,9:41 PM,12:00,,Start of 2nd Period (9:41 PM EST),,13 - 15,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+108,0041200312,117,1,66,2,9:41 PM,11:42,,,Dooling 11' Jump Bank Shot (2 PTS) (Randolph 1 AST),15 - 15,TIE,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+109,0041200312,118,5,2,2,9:41 PM,11:22,Splitter Lost Ball Turnover (P1.T3),,Arthur STEAL (1 STL),,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+110,0041200312,119,1,1,2,9:42 PM,11:13,,,Dooling 25' 3PT Jump Shot (5 PTS) (Pondexter 1 AST),18 - 15,-3,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+111,0041200312,120,6,1,2,9:42 PM,11:02,,,Pondexter P.FOUL (P1.T1),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+112,0041200312,121,1,44,2,9:42 PM,10:51,Splitter 1' Reverse Layup (4 PTS) (Parker 3 AST),,,18 - 17,-1,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+113,0041200312,122,1,1,2,9:43 PM,10:30,,,Arthur 19' Jump Shot (2 PTS) (Bayless 2 AST),20 - 17,-3,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+114,0041200312,123,1,1,2,9:43 PM,10:17,Bonner 26' 3PT Jump Shot (3 PTS) (Parker 4 AST),,,20 - 20,TIE,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+115,0041200312,124,2,1,2,9:43 PM,9:55,,,MISS Randolph 21' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+116,0041200312,125,4,0,2,9:43 PM,9:53,Bonner REBOUND (Off:0 Def:1),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+117,0041200312,126,1,7,2,9:43 PM,9:43,Ginobili  Dunk (2 PTS) (Splitter 2 AST),,,20 - 22,2,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+118,0041200312,127,1,1,2,9:44 PM,9:21,,,Bayless 25' 3PT Jump Shot (3 PTS) (Randolph 2 AST),23 - 22,-1,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+119,0041200312,128,1,5,2,9:44 PM,9:09,Splitter  Layup (6 PTS) (Parker 5 AST),,,23 - 24,1,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+120,0041200312,129,2,1,2,9:44 PM,8:43,,,MISS Arthur 14' Jump Shot,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+121,0041200312,130,4,0,2,9:44 PM,8:41,Neal REBOUND (Off:0 Def:1),,,,,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+122,0041200312,131,2,5,2,9:45 PM,8:35,MISS Parker 1' Layup,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+123,0041200312,132,4,0,2,9:45 PM,8:33,,,Bayless REBOUND (Off:0 Def:3),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+124,0041200312,133,2,1,2,9:45 PM,8:27,Splitter BLOCK (2 BLK),,MISS Randolph 8' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0
+125,0041200312,135,4,0,2,9:45 PM,8:24,,,Randolph REBOUND (Off:1 Def:2),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+126,0041200312,134,2,5,2,9:45 PM,8:24,,,MISS Randolph  Layup,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+127,0041200312,136,4,0,2,9:45 PM,8:22,Splitter REBOUND (Off:0 Def:3),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+128,0041200312,137,9,1,2,9:45 PM,8:19,SPURS Timeout: Regular (Full 2 Short 0),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+129,0041200312,139,8,0,2,9:48 PM,8:19,SUB: Duncan FOR Splitter,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+130,0041200312,140,8,0,2,9:48 PM,8:19,SUB: Green FOR Ginobili,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+131,0041200312,141,8,0,2,9:48 PM,8:19,,,SUB: Conley FOR Dooling,,,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+132,0041200312,142,8,0,2,9:48 PM,8:19,,,SUB: Prince FOR Arthur,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+133,0041200312,143,2,1,2,9:49 PM,8:08,MISS Neal 24' 3PT Jump Shot,,,,,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+134,0041200312,144,4,0,2,9:49 PM,8:06,,,Randolph REBOUND (Off:1 Def:3),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+135,0041200312,145,2,1,2,9:49 PM,7:52,,,MISS Conley 19' Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+136,0041200312,146,4,0,2,9:49 PM,7:50,Neal REBOUND (Off:0 Def:2),,,,,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+137,0041200312,147,2,1,2,9:49 PM,7:43,MISS Neal 25' 3PT Jump Shot,,,,,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+138,0041200312,148,4,0,2,9:49 PM,7:41,,,Conley REBOUND (Off:0 Def:2),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+139,0041200312,149,2,1,2,9:49 PM,7:27,,,MISS Pondexter 24' 3PT Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+140,0041200312,150,4,0,2,9:49 PM,7:25,,,Prince REBOUND (Off:1 Def:0),,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+141,0041200312,151,5,2,2,9:50 PM,7:11,Parker STEAL (2 STL),,Bayless Lost Ball Turnover (P1.T5),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+142,0041200312,152,2,5,2,9:50 PM,7:05,MISS Green 2' Layup,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+143,0041200312,154,4,0,2,9:50 PM,7:03,Green REBOUND (Off:1 Def:1),,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+144,0041200312,153,2,5,2,9:50 PM,7:03,MISS Green 1' Layup,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+145,0041200312,155,4,0,2,9:50 PM,7:01,,,Pondexter REBOUND (Off:0 Def:2),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+146,0041200312,156,2,5,2,9:50 PM,6:57,Bonner BLOCK (1 BLK),,MISS Conley 2' Layup,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0
+147,0041200312,158,4,0,2,9:50 PM,6:57,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+148,0041200312,157,10,0,2,9:51 PM,6:57,Jump Ball Bonner vs. Conley: Tip to Duncan,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0
+149,0041200312,159,1,1,2,9:51 PM,6:42,Bonner 7' Jump Shot (5 PTS) (Duncan 1 AST),,,23 - 26,3,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+150,0041200312,160,2,1,2,9:51 PM,6:27,,,MISS Prince 18' Jump Shot,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+151,0041200312,161,4,0,2,9:51 PM,6:25,Neal REBOUND (Off:0 Def:3),,,,,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+152,0041200312,162,1,1,2,9:51 PM,6:19,Neal 24' 3PT Jump Shot (3 PTS) (Parker 6 AST),,,23 - 29,6,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+153,0041200312,163,1,1,2,9:52 PM,5:54,,,Bayless 19' Jump Shot (5 PTS),25 - 29,4,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+154,0041200312,164,1,66,2,9:52 PM,5:42,Duncan 3' Jump Bank Shot (3 PTS) (Parker 7 AST),,,25 - 31,6,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+155,0041200312,165,6,2,2,9:52 PM,5:42,,,Randolph S.FOUL (P2.T2),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+156,0041200312,166,9,4,2,9:52 PM,5:42,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+157,0041200312,167,8,0,2,9:55 PM,5:42,,,SUB: Gasol FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+158,0041200312,168,8,0,2,9:55 PM,5:42,,,SUB: Allen FOR Bayless,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+159,0041200312,169,3,10,2,9:56 PM,5:42,MISS Duncan Free Throw 1 of 1,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+160,0041200312,171,4,0,2,9:56 PM,5:41,,,Gasol REBOUND (Off:1 Def:6),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+161,0041200312,172,1,1,2,9:56 PM,5:18,,,Conley 25' 3PT Jump Shot (6 PTS) (Allen 2 AST),28 - 31,3,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+162,0041200312,173,6,2,2,9:57 PM,4:56,,,Conley S.FOUL (P3.T3),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+163,0041200312,174,3,11,2,9:57 PM,4:56,Neal Free Throw 1 of 2 (4 PTS),,,28 - 32,4,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+164,0041200312,176,8,0,2,9:57 PM,4:56,,,SUB: Bayless FOR Conley,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+165,0041200312,177,3,12,2,9:57 PM,4:56,Neal Free Throw 2 of 2 (5 PTS),,,28 - 33,5,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+166,0041200312,179,1,1,2,9:58 PM,4:44,,,Prince 13' Jump Shot (2 PTS) (Bayless 3 AST),30 - 33,3,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+167,0041200312,180,6,1,2,9:58 PM,4:33,,,Gasol P.FOUL (P2.T4),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+168,0041200312,181,8,0,2,9:58 PM,4:33,SUB: Joseph FOR Parker,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+169,0041200312,182,8,0,2,9:58 PM,4:33,SUB: Leonard FOR Bonner,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+170,0041200312,183,8,0,2,9:58 PM,4:33,SUB: Ginobili FOR Neal,,,,,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+171,0041200312,184,1,47,2,9:59 PM,4:24,Duncan 15' Turnaround Jump Shot (5 PTS) (Ginobili 1 AST),,,30 - 35,5,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+172,0041200312,185,5,11,2,9:59 PM,3:58,,,Grizzlies Turnover: Shot Clock (T#6),,,3,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+173,0041200312,186,1,1,2,10:00 PM,3:38,Green 24' 3PT Jump Shot (5 PTS) (Duncan 2 AST),,,30 - 38,8,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+174,0041200312,187,2,44,2,10:00 PM,3:14,Green BLOCK (1 BLK),,MISS Bayless 2' Reverse Layup,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0
+175,0041200312,188,4,0,2,10:00 PM,3:12,Joseph REBOUND (Off:0 Def:2),,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+176,0041200312,189,1,1,2,10:00 PM,3:05,Leonard  3PT Jump Shot (7 PTS) (Ginobili 2 AST),,,30 - 41,11,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+177,0041200312,190,9,1,2,10:01 PM,3:05,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+178,0041200312,191,8,0,2,10:03 PM,3:05,SUB: Splitter FOR Joseph,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+179,0041200312,192,8,0,2,10:03 PM,3:05,,,SUB: Wroten FOR Prince,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,203100,Tony Wroten,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+180,0041200312,193,8,0,2,10:04 PM,3:05,,,SUB: Randolph FOR Pondexter,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+181,0041200312,194,2,1,2,10:04 PM,2:47,Green BLOCK (2 BLK),,MISS Wroten 4' Jump Shot,,,5,203100,Tony Wroten,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0
+182,0041200312,195,4,0,2,10:04 PM,2:47,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+183,0041200312,196,8,0,2,10:04 PM,2:47,SUB: Parker FOR Green,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+184,0041200312,197,2,1,2,10:04 PM,2:41,,,MISS Wroten 25' 3PT Jump Shot,,,5,203100,Tony Wroten,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+185,0041200312,198,4,0,2,10:04 PM,2:39,Leonard REBOUND (Off:0 Def:4),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+186,0041200312,199,1,1,2,10:05 PM,2:20,Duncan 18' Jump Shot (7 PTS) (Parker 8 AST),,,30 - 43,13,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+187,0041200312,200,2,1,2,10:05 PM,2:02,,,MISS Allen 18' Jump Shot,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+188,0041200312,201,4,0,2,10:05 PM,2:00,Duncan REBOUND (Off:0 Def:3),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+189,0041200312,202,6,1,2,10:05 PM,1:48,,,Bayless P.FOUL (P1.PN),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+190,0041200312,203,3,11,2,10:05 PM,1:48,MISS Parker Free Throw 1 of 2,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+191,0041200312,204,4,1,2,10:05 PM,1:48,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+192,0041200312,205,3,12,2,10:06 PM,1:48,Parker Free Throw 2 of 2 (5 PTS),,,30 - 44,14,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+193,0041200312,207,2,1,2,10:06 PM,1:37,Duncan BLOCK (1 BLK),,MISS Wroten 8' Jump Shot,,,5,203100,Tony Wroten,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0
+194,0041200312,208,4,0,2,10:06 PM,1:35,Splitter REBOUND (Off:0 Def:4),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+195,0041200312,209,2,1,2,10:06 PM,1:29,MISS Leonard 24' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+196,0041200312,210,4,0,2,10:06 PM,1:27,,,Allen REBOUND (Off:0 Def:2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+197,0041200312,211,2,1,2,10:07 PM,1:19,,,MISS Bayless 26' 3PT Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+198,0041200312,212,4,0,2,10:07 PM,1:17,Duncan REBOUND (Off:0 Def:4),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+199,0041200312,213,5,1,2,10:07 PM,1:15,Duncan Bad Pass Turnover (P2.T4),,Bayless STEAL (1 STL),,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+200,0041200312,214,2,1,2,10:07 PM,0:57,,,MISS Randolph 12' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+201,0041200312,215,4,0,2,10:07 PM,0:55,Parker REBOUND (Off:0 Def:2),,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+202,0041200312,216,2,1,2,10:07 PM,0:50,MISS Leonard 24' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+203,0041200312,217,4,0,2,10:07 PM,0:48,,,Randolph REBOUND (Off:1 Def:4),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+204,0041200312,218,2,5,2,10:07 PM,0:45,Duncan BLOCK (2 BLK),,MISS Allen 1' Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0
+205,0041200312,219,4,0,2,10:07 PM,0:44,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+206,0041200312,220,6,1,2,10:08 PM,0:34,Ginobili P.FOUL (P1.T1),,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+207,0041200312,221,2,5,2,10:08 PM,0:26,Leonard BLOCK (1 BLK),,MISS Allen 2' Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0
+208,0041200312,223,4,0,2,10:08 PM,0:23,,,Allen REBOUND (Off:1 Def:2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+209,0041200312,222,2,5,2,10:08 PM,0:23,,,MISS Allen 1' Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+210,0041200312,243,4,0,2,10:08 PM,0:22,,,Randolph REBOUND (Off:2 Def:4),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+211,0041200312,244,2,53,2,10:08 PM,0:22,,,MISS Randolph 1' Tip Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+212,0041200312,225,4,0,2,10:08 PM,0:21,,,Randolph REBOUND (Off:3 Def:4),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+213,0041200312,224,2,5,2,10:08 PM,0:21,Duncan BLOCK (3 BLK),,MISS Randolph 2' Layup,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0
+214,0041200312,227,4,0,2,10:08 PM,0:18,,,Randolph REBOUND (Off:4 Def:4),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+215,0041200312,226,2,5,2,10:08 PM,0:18,,,MISS Randolph 2' Layup,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+216,0041200312,229,4,0,2,10:08 PM,0:17,,,Wroten REBOUND (Off:1 Def:0),,,5,203100,Tony Wroten,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+217,0041200312,228,2,5,2,10:08 PM,0:17,,,MISS Wroten 1' Layup,,,5,203100,Tony Wroten,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+218,0041200312,230,4,0,2,10:08 PM,0:16,Duncan REBOUND (Off:0 Def:5),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+219,0041200312,231,6,1,2,10:08 PM,0:16,,,Allen P.FOUL (P1.PN),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+220,0041200312,232,3,11,2,10:09 PM,0:16,Duncan Free Throw 1 of 2 (8 PTS),,,30 - 45,15,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+221,0041200312,234,8,0,2,10:09 PM,0:16,SUB: Green FOR Ginobili,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+222,0041200312,235,8,0,2,10:09 PM,0:16,SUB: Joseph FOR Parker,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+223,0041200312,236,8,0,2,10:09 PM,0:16,,,SUB: Pondexter FOR Wroten,,,5,203100,Tony Wroten,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+224,0041200312,237,8,0,2,10:09 PM,0:16,,,SUB: Leuer FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+225,0041200312,238,3,12,2,10:09 PM,0:16,Duncan Free Throw 2 of 2 (9 PTS),,,30 - 46,16,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+226,0041200312,240,9,2,2,10:10 PM,0:16,,,Grizzlies Timeout: Short (Reg.2 Short 1),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+227,0041200312,241,8,0,2,10:11 PM,0:16,SUB: Diaw FOR Duncan,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+228,0041200312,246,6,2,2,10:12 PM,0:00,Splitter S.FOUL (P1.PN),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+229,0041200312,247,18,0,2,10:12 PM,0:00,,Support Ruling,,,,0,246,Greg Anderson,,,,,0,0,,,,,,1,0,,,,,,0
+230,0041200312,248,3,11,2,10:13 PM,0:00,,,MISS Bayless Free Throw 1 of 2,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+231,0041200312,249,4,1,2,10:13 PM,0:00,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+232,0041200312,250,8,0,2,10:13 PM,0:00,SUB: Duncan FOR Joseph,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+233,0041200312,251,3,12,2,10:13 PM,0:00,,,Bayless Free Throw 2 of 2 (6 PTS),31 - 46,15,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+234,0041200312,253,9,2,2,10:14 PM,0:00,SPURS Timeout: Short (Full 2 Short 1),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+235,0041200312,254,8,0,2,10:15 PM,0:00,SUB: Bonner FOR Splitter,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+236,0041200312,255,8,0,2,10:15 PM,0:00,,,SUB: Allen FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+237,0041200312,256,8,0,2,10:15 PM,0:00,,,SUB: Prince FOR Leuer,,,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+238,0041200312,257,13,0,2,10:15 PM,0:00,,End of 2nd Period (10:15 PM EST),,31 - 46,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+239,0041200312,260,12,0,3,10:33 PM,12:00,,Start of 3rd Period (10:33 PM EST),,31 - 46,15,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+240,0041200312,261,1,1,3,10:34 PM,11:39,,,Gasol 6' Jump Shot (8 PTS) (Prince 1 AST),33 - 46,13,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+241,0041200312,262,6,1,3,10:34 PM,11:22,,,Gasol P.FOUL (P3.T1),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+242,0041200312,263,3,11,3,10:34 PM,11:22,Duncan Free Throw 1 of 2 (10 PTS),,,33 - 47,14,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+243,0041200312,265,3,12,3,10:34 PM,11:22,Duncan Free Throw 2 of 2 (11 PTS),,,33 - 48,15,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+244,0041200312,267,1,1,3,10:35 PM,11:11,,,Allen 20' Jump Shot (2 PTS) (Gasol 1 AST),35 - 48,13,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+245,0041200312,268,1,1,3,10:36 PM,10:50,Leonard 25' 3PT Jump Shot (10 PTS) (Parker 9 AST),,,35 - 51,16,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+246,0041200312,269,2,5,3,10:36 PM,10:30,,,MISS Allen 2' Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+247,0041200312,271,4,0,3,10:36 PM,10:29,,,Prince REBOUND (Off:2 Def:0),,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+248,0041200312,270,2,53,3,10:36 PM,10:29,,,MISS Prince 1' Tip Shot,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+249,0041200312,272,4,0,3,10:36 PM,10:28,,,Allen REBOUND (Off:2 Def:2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+250,0041200312,273,6,2,3,10:36 PM,10:25,Green S.FOUL (P2.T1),,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+251,0041200312,274,3,11,3,10:37 PM,10:25,,,Allen Free Throw 1 of 2 (3 PTS),36 - 51,15,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+252,0041200312,276,3,12,3,10:37 PM,10:25,,,Allen Free Throw 2 of 2 (4 PTS),37 - 51,14,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+253,0041200312,278,1,1,3,10:37 PM,10:02,Green 25' 3PT Jump Shot (8 PTS) (Parker 10 AST),,,37 - 54,17,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+254,0041200312,279,1,46,3,10:38 PM,9:38,,,Randolph 6' Running Jump Shot (4 PTS),39 - 54,15,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+255,0041200312,280,2,1,3,10:38 PM,9:18,MISS Duncan 18' Jump Shot,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+256,0041200312,281,4,0,3,10:38 PM,9:17,,,Gasol REBOUND (Off:1 Def:7),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+257,0041200312,282,5,1,3,10:38 PM,9:15,,,Gasol Bad Pass Turnover (P1.T7),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+258,0041200312,283,1,5,3,10:39 PM,8:59,Splitter 1' Layup (8 PTS) (Parker 11 AST),,,39 - 56,17,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+259,0041200312,285,2,1,3,10:39 PM,8:36,,,MISS Gasol 20' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+260,0041200312,286,4,0,3,10:39 PM,8:35,,,Allen REBOUND (Off:3 Def:2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+261,0041200312,287,6,1,3,10:39 PM,8:35,Green P.FOUL (P3.T2),,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+262,0041200312,288,2,1,3,10:40 PM,8:23,,,MISS Prince 7' Jump Shot,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+263,0041200312,289,4,0,3,10:40 PM,8:21,,,Randolph REBOUND (Off:5 Def:4),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+264,0041200312,290,6,2,3,10:40 PM,8:21,Duncan S.FOUL (P2.T3),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+265,0041200312,291,3,11,3,10:40 PM,8:21,,,MISS Randolph Free Throw 1 of 2,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+266,0041200312,292,4,1,3,10:40 PM,8:21,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+267,0041200312,293,3,12,3,10:40 PM,8:21,,,Randolph Free Throw 2 of 2 (5 PTS),40 - 56,16,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+268,0041200312,295,6,4,3,10:41 PM,8:05,Duncan OFF.Foul (P3),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+269,0041200312,296,5,5,3,10:41 PM,8:05,Duncan Foul Turnover (P3.T5),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+270,0041200312,297,6,2,3,10:42 PM,7:51,Duncan S.FOUL (P4.T4),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+271,0041200312,298,3,11,3,10:42 PM,7:51,,,MISS Conley Free Throw 1 of 2,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+272,0041200312,299,4,1,3,10:42 PM,7:51,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+273,0041200312,300,8,0,3,10:42 PM,7:51,SUB: Bonner FOR Duncan,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+274,0041200312,301,3,12,3,10:42 PM,7:51,,,Conley Free Throw 2 of 2 (7 PTS),41 - 56,15,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+275,0041200312,303,1,1,3,10:43 PM,7:31,Green 25' 3PT Jump Shot (11 PTS) (Parker 12 AST),,,41 - 59,18,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+276,0041200312,304,2,1,3,10:43 PM,7:12,,,MISS Prince 20' Jump Shot,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+277,0041200312,305,4,0,3,10:43 PM,7:11,Green REBOUND (Off:1 Def:2),,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+278,0041200312,306,2,5,3,10:43 PM,7:03,MISS Splitter 3' Layup,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+279,0041200312,307,4,0,3,10:43 PM,7:02,,,Randolph REBOUND (Off:5 Def:5),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+280,0041200312,308,1,1,3,10:44 PM,6:54,,,Conley 25' 3PT Jump Shot (10 PTS),44 - 59,15,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+281,0041200312,309,2,1,3,10:44 PM,6:42,MISS Parker 16' Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+282,0041200312,310,4,0,3,10:44 PM,6:41,,,Allen REBOUND (Off:3 Def:3),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+283,0041200312,311,1,42,3,10:44 PM,6:34,,,Conley 2' Driving Layup (12 PTS),46 - 59,13,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+284,0041200312,312,9,1,3,10:44 PM,6:34,SPURS Timeout: Regular (Full 3 Short 1),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+285,0041200312,314,8,0,3,10:46 PM,6:34,SUB: Ginobili FOR Green,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+286,0041200312,315,8,0,3,10:47 PM,6:34,,,SUB: Bayless FOR Prince,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+287,0041200312,316,1,7,3,10:48 PM,6:14,Splitter 1' Dunk (10 PTS) (Parker 13 AST),,,46 - 61,15,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+288,0041200312,317,6,1,3,10:48 PM,6:01,Splitter P.FOUL (P2.PN),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+289,0041200312,318,3,11,3,10:49 PM,6:01,,,Gasol Free Throw 1 of 2 (9 PTS),47 - 61,14,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+290,0041200312,320,8,0,3,10:49 PM,6:01,SUB: Diaw FOR Splitter,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+291,0041200312,321,3,12,3,10:49 PM,6:01,,,Gasol Free Throw 2 of 2 (10 PTS),48 - 61,13,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+292,0041200312,323,6,1,3,10:49 PM,5:52,,,Bayless P.FOUL (P2.T2),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+293,0041200312,324,1,79,3,10:50 PM,5:40,Leonard 13' Pullup Jump Shot (12 PTS) (Parker 14 AST),,,48 - 63,15,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+294,0041200312,325,6,1,3,10:50 PM,5:19,Bonner P.FOUL (P1.PN),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+295,0041200312,326,3,11,3,10:51 PM,5:19,,,MISS Randolph Free Throw 1 of 2,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+296,0041200312,327,4,1,3,10:51 PM,5:19,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+297,0041200312,328,3,12,3,10:51 PM,5:19,,,MISS Randolph Free Throw 2 of 2,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+298,0041200312,330,4,0,3,10:51 PM,5:18,Leonard REBOUND (Off:0 Def:5),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+299,0041200312,331,1,44,3,10:51 PM,5:03,Diaw 1' Reverse Layup (4 PTS) (Parker 15 AST),,,48 - 65,17,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+300,0041200312,332,1,79,3,10:52 PM,4:45,,,Bayless 20' Pullup Jump Shot (8 PTS) (Conley 1 AST),50 - 65,15,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+301,0041200312,333,2,1,3,10:52 PM,4:32,MISS Bonner 27' 3PT Jump Shot,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+302,0041200312,334,4,0,3,10:52 PM,4:31,,,Gasol REBOUND (Off:1 Def:8),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+303,0041200312,335,6,26,3,10:52 PM,4:23,,,Allen Offensive Charge Foul (P2.T3),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+304,0041200312,336,5,5,3,10:52 PM,4:23,,,Allen Foul Turnover (P2.T8),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+305,0041200312,337,8,0,3,10:52 PM,4:23,,,SUB: Pondexter FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+306,0041200312,338,1,1,3,10:53 PM,4:12,Ginobili 24' 3PT Jump Shot (5 PTS) (Parker 16 AST),,,50 - 68,18,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+307,0041200312,339,1,5,3,10:53 PM,3:51,,,Randolph 1' Layup (7 PTS) (Gasol 2 AST),52 - 68,16,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+308,0041200312,340,1,79,3,10:53 PM,3:32,Parker 18' Pullup Jump Shot (7 PTS),,,52 - 70,18,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+309,0041200312,341,1,5,3,10:54 PM,3:18,,,Conley 3' Layup (14 PTS),54 - 70,16,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+310,0041200312,342,1,79,3,10:54 PM,2:58,Parker 19' Pullup Jump Shot (9 PTS),,,54 - 72,18,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+311,0041200312,349,5,11,3,10:54 PM,2:30,,,Grizzlies Turnover: Shot Clock (T#9),,,3,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+312,0041200312,344,5,1,3,10:55 PM,2:08,Parker Bad Pass Turnover (P1.T6),,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+313,0041200312,345,9,1,3,10:55 PM,2:08,,,Grizzlies Timeout: Regular (Reg.3 Short 1),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+314,0041200312,346,18,0,3,10:56 PM,2:08,,Support Ruling,,,,0,349,Mark Jackson,,,,,0,0,,,,,,1,0,,,,,,0
+315,0041200312,350,8,0,3,10:58 PM,2:08,SUB: Joseph FOR Parker,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+316,0041200312,351,8,0,3,10:58 PM,2:08,SUB: Neal FOR Leonard,,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+317,0041200312,353,8,0,3,10:59 PM,2:08,,,SUB: Arthur FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+318,0041200312,355,1,1,3,10:59 PM,1:51,,,Bayless 21' Jump Shot (10 PTS) (Gasol 3 AST),56 - 72,16,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+319,0041200312,357,2,1,3,10:59 PM,1:32,MISS Neal 17' Jump Shot,,,,,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+320,0041200312,358,4,0,3,10:59 PM,1:31,,,Gasol REBOUND (Off:1 Def:9),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+321,0041200312,359,2,1,3,11:00 PM,1:19,,,MISS Bayless 14' Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+322,0041200312,361,4,0,3,11:00 PM,1:18,,,Gasol REBOUND (Off:2 Def:9),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+323,0041200312,360,1,5,3,11:00 PM,1:18,,,Gasol 2' Layup (12 PTS),58 - 72,14,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+324,0041200312,362,6,1,3,11:00 PM,1:03,,,Gasol P.FOUL (P4.T4),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+325,0041200312,363,2,1,3,11:00 PM,0:49,MISS Joseph 4' Jump Shot,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+326,0041200312,364,4,0,3,11:01 PM,0:48,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+327,0041200312,365,6,3,3,11:01 PM,0:48,Diaw L.B.FOUL (P2.PN),,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+328,0041200312,368,3,11,3,11:02 PM,0:48,,,Conley Free Throw 1 of 2 (15 PTS),59 - 72,13,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+329,0041200312,370,8,0,3,11:02 PM,0:48,SUB: Green FOR Joseph,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+330,0041200312,371,8,0,3,11:02 PM,0:48,SUB: Splitter FOR Diaw,,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+331,0041200312,372,3,12,3,11:03 PM,0:48,,,Conley Free Throw 2 of 2 (16 PTS),60 - 72,12,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+332,0041200312,374,6,2,3,11:03 PM,0:37,,,Arthur S.FOUL (P2.PN),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+333,0041200312,375,3,11,3,11:03 PM,0:37,Splitter Free Throw 1 of 2 (11 PTS),,,60 - 73,13,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+334,0041200312,378,8,0,3,11:04 PM,0:37,SUB: Joseph FOR Green,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+335,0041200312,379,3,12,3,11:04 PM,0:37,Splitter Free Throw 2 of 2 (12 PTS),,,60 - 74,14,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+336,0041200312,381,1,5,3,11:04 PM,0:24,,,Arthur 1' Layup (4 PTS) (Gasol 4 AST),62 - 74,12,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+337,0041200312,382,1,5,3,11:05 PM,0:04,Ginobili 2' Layup (7 PTS),,,62 - 76,14,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+338,0041200312,383,6,2,3,11:05 PM,0:00,Neal S.FOUL (P1.PN),,,,,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+339,0041200312,384,3,11,3,11:05 PM,0:00,,,Bayless Free Throw 1 of 2 (11 PTS),63 - 76,13,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+340,0041200312,386,8,0,3,11:05 PM,0:00,,,SUB: Leuer FOR Gasol,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,202720,Jon Leuer,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+341,0041200312,387,8,0,3,11:05 PM,0:00,,,SUB: Wroten FOR Conley,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,203100,Tony Wroten,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+342,0041200312,388,3,12,3,11:06 PM,0:00,,,Bayless Free Throw 2 of 2 (12 PTS),64 - 76,12,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+343,0041200312,390,13,0,3,11:06 PM,0:00,,End of 3rd Period (11:06 PM EST),,64 - 76,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+344,0041200312,393,12,0,4,11:10 PM,12:00,,Start of 4th Period (11:10 PM EST),,64 - 76,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0041200312,394,2,1,4,11:10 PM,11:39,MISS Joseph 24' 3PT Jump Shot,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+346,0041200312,395,4,0,4,11:10 PM,11:38,,,Randolph REBOUND (Off:5 Def:6),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+347,0041200312,396,2,1,4,11:10 PM,11:26,,,MISS Arthur 19' Jump Shot,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+348,0041200312,397,4,0,4,11:10 PM,11:25,Joseph REBOUND (Off:0 Def:3),,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+349,0041200312,398,1,44,4,11:10 PM,11:15,Joseph 2' Reverse Layup (2 PTS) (Ginobili 3 AST),,,64 - 78,14,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+350,0041200312,399,1,1,4,11:11 PM,10:58,,,Bayless 18' Jump Shot (14 PTS) (Randolph 3 AST),66 - 78,12,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+351,0041200312,400,2,5,4,11:11 PM,10:45,MISS Ginobili 2' Layup,,Randolph BLOCK (2 BLK),,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0
+352,0041200312,401,4,0,4,11:11 PM,10:43,Joseph REBOUND (Off:1 Def:3),,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+353,0041200312,402,2,1,4,11:11 PM,10:34,MISS Ginobili 25' 3PT Jump Shot,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+354,0041200312,403,4,0,4,11:11 PM,10:33,,,Pondexter REBOUND (Off:0 Def:3),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+355,0041200312,404,1,79,4,11:11 PM,10:13,,,Bayless 21' Pullup Jump Shot (16 PTS),68 - 78,10,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+356,0041200312,405,5,1,4,11:12 PM,9:55,Ginobili Bad Pass Turnover (P1.T7),,Pondexter STEAL (1 STL),,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+357,0041200312,406,1,5,4,11:12 PM,9:40,,,Randolph 1' Layup (9 PTS),70 - 78,8,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+358,0041200312,407,6,2,4,11:12 PM,9:40,Splitter S.FOUL (P3.T1),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+359,0041200312,408,8,0,4,11:12 PM,9:40,SUB: Parker FOR Joseph,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+360,0041200312,409,9,1,4,11:12 PM,9:40,SPURS Timeout: Regular (Full 4 Short 1),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+361,0041200312,411,8,0,4,11:14 PM,9:40,SUB: Duncan FOR Splitter,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+362,0041200312,412,8,0,4,11:14 PM,9:40,SUB: Green FOR Neal,,,,,4,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+363,0041200312,413,8,0,4,11:14 PM,9:40,SUB: Leonard FOR Ginobili,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+364,0041200312,414,8,0,4,11:16 PM,9:40,,,SUB: Conley FOR Dooling,,,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+365,0041200312,415,3,10,4,11:16 PM,9:40,,,MISS Randolph Free Throw 1 of 1,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+366,0041200312,417,4,0,4,11:16 PM,9:39,Leonard REBOUND (Off:0 Def:6),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+367,0041200312,418,2,1,4,11:16 PM,9:26,MISS Bonner 25' 3PT Jump Shot,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+368,0041200312,419,4,0,4,11:16 PM,9:25,,,Pondexter REBOUND (Off:0 Def:4),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+369,0041200312,420,2,1,4,11:17 PM,9:13,,,MISS Bayless 24' 3PT Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+370,0041200312,421,4,0,4,11:17 PM,9:12,Parker REBOUND (Off:0 Def:3),,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+371,0041200312,422,1,1,4,11:17 PM,8:53,Parker 7' Jump Shot (11 PTS),,,70 - 80,10,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+372,0041200312,423,2,1,4,11:17 PM,8:41,,,MISS Arthur 17' Jump Shot,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+373,0041200312,426,4,0,4,11:17 PM,8:40,Bonner REBOUND (Off:0 Def:2),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+374,0041200312,425,10,0,4,11:18 PM,8:40,Jump Ball Bonner vs. Randolph: Tip to Duncan,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0
+375,0041200312,427,6,1,4,11:18 PM,8:26,,,Arthur P.FOUL (P3.T1),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+376,0041200312,428,1,1,4,11:19 PM,8:12,Parker 25' 3PT Jump Shot (14 PTS) (Duncan 3 AST),,,70 - 83,13,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+377,0041200312,429,9,1,4,11:19 PM,8:11,,,Grizzlies Timeout: Regular (Reg.4 Short 1),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+378,0041200312,431,8,0,4,11:22 PM,8:11,,,SUB: Gasol FOR Arthur,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+379,0041200312,432,2,1,4,11:22 PM,7:55,,,MISS Pondexter  3PT Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+380,0041200312,433,4,0,4,11:22 PM,7:55,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+381,0041200312,434,6,3,4,11:22 PM,7:55,Bonner L.B.FOUL (P2.T2),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+382,0041200312,435,6,1,4,11:23 PM,7:36,Duncan P.FOUL (P5.T3),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+383,0041200312,436,8,0,4,11:23 PM,7:36,SUB: Splitter FOR Duncan,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+384,0041200312,437,6,1,4,11:24 PM,7:34,Parker P.FOUL (P1.T4),,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+385,0041200312,438,6,2,4,11:24 PM,7:23,Bonner S.FOUL (P3.PN),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+386,0041200312,439,3,11,4,11:24 PM,7:23,,,MISS Randolph Free Throw 1 of 2,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+387,0041200312,440,4,1,4,11:24 PM,7:23,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+388,0041200312,441,8,0,4,11:25 PM,7:23,SUB: Diaw FOR Bonner,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+389,0041200312,442,3,12,4,11:25 PM,7:23,,,Randolph Free Throw 2 of 2 (10 PTS),71 - 83,12,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+390,0041200312,444,2,1,4,11:25 PM,7:06,MISS Parker 10' Jump Shot,,Bayless BLOCK (1 BLK),,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0
+391,0041200312,445,4,0,4,11:25 PM,7:05,,,Randolph REBOUND (Off:5 Def:7),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+392,0041200312,446,2,5,4,11:25 PM,7:01,Green BLOCK (3 BLK),,MISS Conley 2' Layup,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0
+393,0041200312,447,4,0,4,11:25 PM,6:57,Parker REBOUND (Off:0 Def:4),,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+394,0041200312,448,5,2,4,11:25 PM,6:56,Leonard Lost Ball Turnover (P2.T8),,Conley STEAL (2 STL),,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+395,0041200312,450,7,2,4,11:26 PM,6:56,Green Violation:Defensive Goaltending,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+396,0041200312,449,1,5,4,11:26 PM,6:56,,,Randolph 2' Layup (12 PTS) (Conley 2 AST),73 - 83,10,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+397,0041200312,451,5,1,4,11:26 PM,6:34,Diaw Bad Pass Turnover (P1.T9),,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+398,0041200312,452,2,1,4,11:27 PM,6:18,,,MISS Gasol 16' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+399,0041200312,453,4,0,4,11:27 PM,6:17,Parker REBOUND (Off:0 Def:5),,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+400,0041200312,454,2,1,4,11:27 PM,5:53,MISS Diaw 19' Jump Shot,,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+401,0041200312,455,4,0,4,11:27 PM,5:52,,,Gasol REBOUND (Off:2 Def:10),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+402,0041200312,456,1,8,4,11:27 PM,5:39,,,Pondexter 2' Slam Dunk (4 PTS) (Conley 3 AST),75 - 83,8,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+403,0041200312,457,6,1,4,11:28 PM,5:23,,,Gasol P.FOUL (P5.T2),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+404,0041200312,458,8,0,4,11:28 PM,5:23,SUB: Bonner FOR Diaw,,,,,4,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+405,0041200312,459,2,1,4,11:29 PM,5:12,MISS Parker 25' 3PT Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+406,0041200312,460,4,0,4,11:29 PM,5:11,,,Randolph REBOUND (Off:5 Def:8),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+407,0041200312,461,1,1,4,11:29 PM,4:59,,,Pondexter 24' 3PT Jump Shot (7 PTS) (Conley 4 AST),78 - 83,5,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+408,0041200312,463,8,0,4,11:29 PM,4:52,SUB: Ginobili FOR Green,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+409,0041200312,465,5,1,4,11:30 PM,4:52,Splitter Bad Pass Turnover (P2.T10),,Bayless STEAL (2 STL),,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+410,0041200312,464,10,0,4,11:30 PM,4:52,Jump Ball Parker vs. Bayless: Tip to Gasol,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0
+411,0041200312,466,2,1,4,11:30 PM,4:36,,,MISS Conley 16' Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+412,0041200312,467,4,0,4,11:30 PM,4:35,Leonard REBOUND (Off:0 Def:7),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+413,0041200312,468,1,7,4,11:30 PM,4:18,Splitter 1' Dunk (14 PTS) (Ginobili 4 AST),,,78 - 85,7,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+414,0041200312,469,2,1,4,11:31 PM,3:49,,,MISS Randolph 4' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+415,0041200312,470,4,0,4,11:31 PM,3:48,Leonard REBOUND (Off:0 Def:8),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+416,0041200312,471,2,1,4,11:31 PM,3:38,MISS Parker 15' Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+417,0041200312,472,4,0,4,11:31 PM,3:37,,,Pondexter REBOUND (Off:0 Def:5),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+418,0041200312,473,2,46,4,11:31 PM,3:28,Ginobili BLOCK (1 BLK),,MISS Bayless 8' Running Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0
+419,0041200312,474,4,0,4,11:31 PM,3:27,Ginobili REBOUND (Off:0 Def:2),,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+420,0041200312,475,2,1,4,11:31 PM,3:18,MISS Bonner 25' 3PT Jump Shot,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+421,0041200312,476,4,0,4,11:31 PM,3:17,,,Conley REBOUND (Off:0 Def:3),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+422,0041200312,477,5,1,4,11:32 PM,3:06,,,Conley Bad Pass Turnover (P1.T10),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+423,0041200312,478,2,1,4,11:33 PM,2:44,MISS Leonard 24' 3PT Jump Shot,,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+424,0041200312,479,4,0,4,11:33 PM,2:43,,,Gasol REBOUND (Off:2 Def:11),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+425,0041200312,480,2,1,4,11:33 PM,2:32,,,MISS Bayless 24' Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+426,0041200312,481,4,0,4,11:33 PM,2:31,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+427,0041200312,482,9,4,4,11:33 PM,2:31,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+428,0041200312,484,8,0,4,11:35 PM,2:31,SUB: Duncan FOR Splitter,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+429,0041200312,485,8,0,4,11:36 PM,2:31,,,SUB: Allen FOR Bayless,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+430,0041200312,486,2,1,4,11:36 PM,2:12,MISS Parker 13' Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+431,0041200312,487,4,0,4,11:36 PM,2:11,,,Randolph REBOUND (Off:5 Def:9),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+432,0041200312,488,2,5,4,11:37 PM,1:58,,,MISS Randolph 2' Layup,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+433,0041200312,490,4,0,4,11:37 PM,1:57,,,Allen REBOUND (Off:4 Def:3),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+434,0041200312,489,2,72,4,11:37 PM,1:57,,,MISS Allen 1' Putback Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+435,0041200312,491,4,0,4,11:37 PM,1:56,Duncan REBOUND (Off:0 Def:6),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+436,0041200312,492,2,1,4,11:37 PM,1:37,MISS Parker  3PT Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+437,0041200312,493,4,0,4,11:37 PM,1:36,,,Pondexter REBOUND (Off:0 Def:6),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+438,0041200312,494,2,1,4,11:37 PM,1:21,,,MISS Gasol 18' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+439,0041200312,495,4,0,4,11:37 PM,1:20,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+440,0041200312,496,2,1,4,11:38 PM,1:01,MISS Parker 4' Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+441,0041200312,498,4,0,4,11:38 PM,0:59,Duncan REBOUND (Off:1 Def:6),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+442,0041200312,497,2,54,4,11:38 PM,0:59,MISS Duncan 1' Running Tip Shot,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+443,0041200312,499,4,0,4,11:38 PM,0:58,,,Pondexter REBOUND (Off:0 Def:7),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+444,0041200312,500,1,5,4,11:38 PM,0:52,,,Randolph 3' Layup (14 PTS) (Allen 3 AST),80 - 85,5,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+445,0041200312,501,6,2,4,11:38 PM,0:52,Bonner S.FOUL (P4.PN),,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+446,0041200312,502,3,10,4,11:38 PM,0:52,,,Randolph Free Throw 1 of 1 (15 PTS),81 - 85,4,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+447,0041200312,504,5,1,4,11:39 PM,0:27,Ginobili Bad Pass Turnover (P2.T11),,Randolph STEAL (1 STL),,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+448,0041200312,505,6,14,4,11:40 PM,0:26,Ginobili FLAGRANT.FOUL.TYPE1 (P2.PN),,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+449,0041200312,506,18,0,4,11:41 PM,0:26,,Support Ruling,,,,0,505,,,,,,0,0,,,,,,1,0,,,,,,0
+450,0041200312,507,3,18,4,11:42 PM,0:26,,,Allen Free Throw Flagrant 1 of 2 (5 PTS),82 - 85,3,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+451,0041200312,509,3,19,4,11:42 PM,0:26,,,Allen Free Throw Flagrant 2 of 2 (6 PTS),83 - 85,2,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+452,0041200312,511,8,0,4,11:42 PM,0:26,,,SUB: Bayless FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+453,0041200312,512,8,0,4,11:43 PM,0:26,SUB: Splitter FOR Bonner,,,,,4,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+454,0041200312,513,1,1,4,11:43 PM,0:18,,,Conley 7' Jump Shot (18 PTS),85 - 85,TIE,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+455,0041200312,514,9,1,4,11:43 PM,0:18,SPURS Timeout: Regular (Full 5 Short 1),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+456,0041200312,516,8,0,4,11:45 PM,0:18,SUB: Green FOR Splitter,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+457,0041200312,517,8,0,4,11:45 PM,0:18,,,SUB: Prince FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+458,0041200312,518,8,0,4,11:45 PM,0:18,,,SUB: Allen FOR Bayless,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+459,0041200312,519,6,1,4,11:46 PM,0:03,,,Conley P.FOUL (P4.T3),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+460,0041200312,520,9,2,4,11:47 PM,0:03,SPURS Timeout: Short (Full 5 Short 2),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+461,0041200312,521,2,1,4,11:48 PM,0:02,MISS Duncan 18' Jump Shot,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+462,0041200312,522,4,0,4,11:48 PM,0:00,,,Allen REBOUND (Off:4 Def:4),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+463,0041200312,523,13,0,4,11:48 PM,0:00,,End of 4th Period (11:48 PM EST),,85 - 85,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+464,0041200312,525,12,0,5,11:50 PM,5:00,,Start of 1st OT (11:50 PM EST),,85 - 85,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+465,0041200312,526,10,0,5,11:51 PM,5:00,Jump Ball Duncan vs. Gasol: Tip to Parker,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0
+466,0041200312,527,1,42,5,11:51 PM,4:41,Duncan 2' Driving Layup (13 PTS) (Parker 17 AST),,,85 - 87,2,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+467,0041200312,528,2,1,5,11:51 PM,4:18,,,MISS Conley 26' 3PT Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+468,0041200312,529,4,0,5,11:51 PM,4:18,,,Randolph REBOUND (Off:6 Def:9),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+469,0041200312,530,2,5,5,11:52 PM,4:15,,,MISS Randolph 1' Layup,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+470,0041200312,531,4,0,5,11:52 PM,4:13,,,Randolph REBOUND (Off:7 Def:9),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+471,0041200312,532,5,2,5,11:52 PM,4:12,Parker STEAL (3 STL),,Randolph Lost Ball Turnover (P3.T11),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+472,0041200312,533,5,1,5,11:52 PM,4:10,Parker Bad Pass Turnover (P2.T12),,Allen STEAL (1 STL),,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+473,0041200312,534,1,5,5,11:52 PM,4:08,,,Allen 2' Layup (8 PTS),87 - 87,TIE,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+474,0041200312,535,2,1,5,11:52 PM,3:52,MISS Green 26' 3PT Jump Shot,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+475,0041200312,536,4,0,5,11:52 PM,3:51,,,Pondexter REBOUND (Off:0 Def:8),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+476,0041200312,537,2,1,5,11:52 PM,3:28,,,MISS Conley 13' Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+477,0041200312,538,4,0,5,11:52 PM,3:27,Green REBOUND (Off:1 Def:3),,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+478,0041200312,539,5,1,5,11:53 PM,3:12,Green Bad Pass Turnover (P1.T13),,Allen STEAL (2 STL),,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+479,0041200312,540,5,2,5,11:53 PM,3:00,Duncan STEAL (2 STL),,Randolph Lost Ball Turnover (P4.T12),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+480,0041200312,541,2,5,5,11:53 PM,2:49,MISS Duncan 3' Layup,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+481,0041200312,542,4,0,5,11:53 PM,2:49,,,Randolph REBOUND (Off:7 Def:10),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+482,0041200312,543,2,1,5,11:53 PM,2:29,,,MISS Allen 26' 3PT Jump Shot,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+483,0041200312,544,4,0,5,11:53 PM,2:28,Leonard REBOUND (Off:0 Def:9),,,,,4,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+484,0041200312,545,2,1,5,11:54 PM,2:07,MISS Parker 19' Jump Shot,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+485,0041200312,547,4,0,5,11:54 PM,2:06,Duncan REBOUND (Off:2 Def:6),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+486,0041200312,546,1,5,5,11:54 PM,2:06,Duncan 1' Layup (15 PTS),,,87 - 89,2,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+487,0041200312,548,6,27,5,11:54 PM,1:48,Splitter Personal Block Foul (P4.T1),,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+488,0041200312,549,8,0,5,11:54 PM,1:48,,,SUB: Bayless FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+489,0041200312,550,8,0,5,11:54 PM,1:48,SUB: Ginobili FOR Green,,,,,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+490,0041200312,551,2,5,5,11:55 PM,1:33,Duncan BLOCK (4 BLK),,MISS Gasol 1' Layup,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0
+491,0041200312,552,4,0,5,11:55 PM,1:32,Duncan REBOUND (Off:2 Def:7),,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+492,0041200312,553,1,78,5,11:55 PM,1:08,Duncan 9' Floating Jump Shot (17 PTS) (Parker 18 AST),,,87 - 91,4,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+493,0041200312,554,9,1,5,11:55 PM,1:08,,,Grizzlies Timeout: Regular (Reg.5 Short 1),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+494,0041200312,555,8,0,5,11:57 PM,1:08,SUB: Green FOR Parker,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+495,0041200312,556,2,5,5,11:58 PM,0:53,,,MISS Bayless 2' Layup,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+496,0041200312,558,4,0,5,11:58 PM,0:52,,,Gasol REBOUND (Off:3 Def:11),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+497,0041200312,557,2,4,5,11:58 PM,0:52,,,MISS Gasol  Tip Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+498,0041200312,559,4,0,5,11:58 PM,0:51,,,Conley REBOUND (Off:1 Def:3),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+499,0041200312,560,2,1,5,11:58 PM,0:46,,,MISS Conley 26' 3PT Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+500,0041200312,561,4,0,5,11:58 PM,0:45,Ginobili REBOUND (Off:0 Def:3),,,,,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+501,0041200312,562,2,1,5,11:58 PM,0:25,MISS Duncan 17' Jump Shot,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+502,0041200312,563,4,0,5,11:58 PM,0:24,,,Randolph REBOUND (Off:7 Def:11),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+503,0041200312,564,1,79,5,11:58 PM,0:16,,,Bayless 20' Pullup Jump Shot (18 PTS),89 - 91,2,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+504,0041200312,565,9,2,5,11:59 PM,0:16,SPURS Timeout: Short (Full 5 Short 3),,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+505,0041200312,567,8,0,5,12:00 AM,0:16,SUB: Parker FOR Splitter,,,,,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+506,0041200312,568,8,0,5,12:00 AM,0:16,,,SUB: Arthur FOR Gasol,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+507,0041200312,569,8,0,5,12:00 AM,0:16,,,SUB: Allen FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+508,0041200312,570,6,28,5,12:00 AM,0:16,,,Arthur Personal Take Foul (P4.T1),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,4,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+509,0041200312,573,6,1,5,12:01 AM,0:14,,,Pondexter P.FOUL (P2.PN),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+510,0041200312,574,3,11,5,12:01 AM,0:14,MISS Parker Free Throw 1 of 2,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+511,0041200312,575,4,1,5,12:01 AM,0:14,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+512,0041200312,576,8,0,5,12:02 AM,0:14,,,SUB: Gasol FOR Conley,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+513,0041200312,577,8,0,5,12:02 AM,0:14,,,SUB: Randolph FOR Bayless,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+514,0041200312,578,3,12,5,12:02 AM,0:14,Parker Free Throw 2 of 2 (15 PTS),,,89 - 92,3,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+515,0041200312,580,9,2,5,12:02 AM,0:14,,,Grizzlies Timeout: Short (Reg.5 Short 2),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+516,0041200312,582,9,2,5,12:03 AM,0:14,,,Grizzlies Timeout: Short (Reg.5 Short 3),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+517,0041200312,583,8,0,5,12:04 AM,0:14,SUB: Splitter FOR Parker,,,,,4,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+518,0041200312,584,8,0,5,12:04 AM,0:14,,,SUB: Bayless FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+519,0041200312,585,8,0,5,12:04 AM,0:14,,,SUB: Prince FOR Arthur,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+520,0041200312,586,8,0,5,12:04 AM,0:14,SUB: Joseph FOR Duncan,,,,,4,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+521,0041200312,599,8,0,5,12:04 AM,0:14,,,SUB: Conley FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+522,0041200312,587,2,1,5,12:05 AM,0:11,,,MISS Bayless 27' 3PT Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+523,0041200312,588,4,0,5,12:05 AM,0:10,Joseph REBOUND (Off:1 Def:4),,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+524,0041200312,591,6,1,5,12:05 AM,0:10,,,Prince P.FOUL (P1.PN),,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+525,0041200312,589,3,11,5,12:06 AM,0:10,MISS Joseph Free Throw 1 of 2,,,,,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+526,0041200312,590,4,1,5,12:06 AM,0:10,SPURS Rebound,,,,,2,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+527,0041200312,600,8,0,5,12:06 AM,0:10,,,SUB: Randolph FOR Prince,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+528,0041200312,592,3,12,5,12:06 AM,0:10,Joseph Free Throw 2 of 2 (3 PTS),,,89 - 93,4,4,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+529,0041200312,594,2,1,5,12:06 AM,0:00,,,MISS Bayless 25' 3PT Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+530,0041200312,595,4,0,5,12:06 AM,0:00,,,Pondexter REBOUND (Off:1 Def:8),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+531,0041200312,597,18,0,5,12:06 AM,0:00,,Instant Replay1st OT (12:06 AM EST),,89 - 93,4,0,0,,,,,,0,0,,,,,,1,0,,,,,,0
+532,0041200312,596,13,0,5,12:06 AM,0:00,,End of 1st OT (12:06 AM EST),,89 - 93,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

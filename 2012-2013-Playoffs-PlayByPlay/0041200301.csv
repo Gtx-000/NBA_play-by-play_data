@@ -1,0 +1,559 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200301,0,12,0,1,8:33 PM,12:00,,Start of 1st Period (8:33 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200301,1,10,0,1,8:33 PM,12:00,Jump Ball Bosh vs. Hibbert: Tip to Haslem,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0
+2,0041200301,2,2,1,1,8:33 PM,11:39,MISS Haslem 16' Jump Shot,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+3,0041200301,3,4,0,1,8:33 PM,11:38,,,Stephenson REBOUND (Off:0 Def:1),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+4,0041200301,4,5,1,1,8:33 PM,11:32,Chalmers STEAL (1 STL),,Stephenson Bad Pass Turnover (P1.T1),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+5,0041200301,5,5,1,1,8:33 PM,11:27,Chalmers Bad Pass Turnover (P1.T1),,Hill STEAL (1 STL),,,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+6,0041200301,6,2,3,1,8:34 PM,11:15,Bosh BLOCK (1 BLK),,MISS Hibbert 4' Hook Shot,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0
+7,0041200301,7,4,0,1,8:34 PM,11:14,James REBOUND (Off:0 Def:1),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+8,0041200301,8,2,1,1,8:34 PM,11:01,MISS Wade 19' Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+9,0041200301,9,4,0,1,8:34 PM,11:00,,,Stephenson REBOUND (Off:0 Def:2),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+10,0041200301,10,6,1,1,8:34 PM,10:57,James P.FOUL (P1.T1),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+11,0041200301,11,1,1,1,8:34 PM,10:47,,,George 16' Jump Shot (2 PTS),2 - 0,-2,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+12,0041200301,12,2,78,1,8:35 PM,10:20,MISS Chalmers 12' Floating Jump Shot,,,,,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+13,0041200301,13,4,0,1,8:35 PM,10:19,,,Hill REBOUND (Off:0 Def:1),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+14,0041200301,15,1,1,1,8:35 PM,10:07,,,Stephenson 12' Jump Shot (2 PTS) (George 1 AST),4 - 0,-4,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+15,0041200301,16,1,1,1,8:36 PM,9:45,Chalmers 3PT Jump Shot (3 PTS) (Bosh 1 AST),,,4 - 3,-1,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+16,0041200301,17,6,2,1,8:36 PM,9:37,Bosh S.FOUL (P1.T2),,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+17,0041200301,18,3,11,1,8:36 PM,9:37,,,West Free Throw 1 of 2 (1 PTS),5 - 3,-2,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+18,0041200301,20,3,12,1,8:36 PM,9:37,,,West Free Throw 2 of 2 (2 PTS),6 - 3,-3,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+19,0041200301,22,6,1,1,8:37 PM,9:30,,,Stephenson P.FOUL (P1.T1),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+20,0041200301,23,1,1,1,8:37 PM,9:21,Bosh 17' Jump Shot (2 PTS) (Chalmers 1 AST),,,6 - 5,-1,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+21,0041200301,24,1,1,1,8:38 PM,8:58,,,West 12' Jump Shot (4 PTS) (Stephenson 1 AST),8 - 5,-3,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+22,0041200301,25,5,1,1,8:38 PM,8:43,James Bad Pass Turnover (P1.T2),,Stephenson STEAL (1 STL),,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+23,0041200301,26,5,1,1,8:38 PM,8:35,,,Stephenson Bad Pass Turnover (P2.T2),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+24,0041200301,27,1,1,1,8:38 PM,8:17,James 18' Jump Shot (2 PTS),,,8 - 7,-1,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+25,0041200301,28,6,27,1,8:39 PM,8:01,Haslem Personal Block Foul (P1.T3),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+26,0041200301,29,2,5,1,8:39 PM,7:56,James BLOCK (1 BLK),,MISS Hibbert 1' Layup,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0
+27,0041200301,30,4,0,1,8:39 PM,7:55,,,Hibbert REBOUND (Off:1 Def:0),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+28,0041200301,31,5,40,1,8:39 PM,7:54,,,Hibbert Out of Bounds Lost Ball Turnover (P1.T3),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+29,0041200301,32,2,84,1,8:40 PM,7:46,MISS Chalmers 10' Running Bank Shot,,,,,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+30,0041200301,33,4,0,1,8:40 PM,7:45,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+31,0041200301,34,1,1,1,8:40 PM,7:38,James 19' Jump Shot (4 PTS),,,8 - 9,1,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+32,0041200301,35,1,1,1,8:40 PM,7:21,,,West 19' Jump Shot (6 PTS),10 - 9,-1,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+33,0041200301,36,2,1,1,8:41 PM,6:56,MISS James 15' Jump Shot,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+34,0041200301,37,4,0,1,8:41 PM,6:55,,,Stephenson REBOUND (Off:0 Def:3),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+35,0041200301,38,5,1,1,8:41 PM,6:40,Haslem STEAL (1 STL),,George Bad Pass Turnover (P1.T4),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+36,0041200301,39,1,7,1,8:41 PM,6:35,Wade Dunk (2 PTS) (James 1 AST),,,10 - 11,1,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+37,0041200301,40,5,1,1,8:41 PM,6:23,,,Stephenson Bad Pass Turnover (P3.T5),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+38,0041200301,41,1,5,1,8:41 PM,6:19,James 1' Layup (6 PTS) (Wade 1 AST),,,10 - 13,3,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+39,0041200301,42,6,2,1,8:41 PM,6:19,,,Hibbert S.FOUL (P1.T2),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+40,0041200301,45,7,3,1,8:42 PM,6:19,,,Stephenson Violation:Lane,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+41,0041200301,47,3,10,1,8:42 PM,6:19,James Free Throw 1 of 1 (7 PTS),,,10 - 14,4,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+42,0041200301,50,1,3,1,8:43 PM,6:05,,,Hibbert 3' Hook Shot (2 PTS) (George 2 AST),12 - 14,2,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+43,0041200301,51,1,1,1,8:43 PM,5:41,James 21' Jump Shot (9 PTS),,,12 - 16,4,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+44,0041200301,52,2,1,1,8:43 PM,5:27,,,MISS George 26' 3PT Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+45,0041200301,53,4,0,1,8:43 PM,5:26,Haslem REBOUND (Off:0 Def:1),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+46,0041200301,54,6,4,1,8:43 PM,5:21,Haslem OFF.Foul (P2),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+47,0041200301,55,5,5,1,8:43 PM,5:21,Haslem Foul Turnover (P1.T3),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+48,0041200301,56,9,1,1,8:44 PM,5:21,HEAT Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+49,0041200301,60,6,1,1,8:47 PM,5:10,Bosh P.FOUL (P2.T4),,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+50,0041200301,61,8,0,1,8:47 PM,5:10,SUB: Battier FOR Bosh,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+51,0041200301,62,2,3,1,8:48 PM,5:08,,,MISS Hibbert 7' Hook Shot,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+52,0041200301,63,4,0,1,8:48 PM,5:07,,,West REBOUND (Off:1 Def:0),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+53,0041200301,64,1,58,1,8:48 PM,5:05,,,West 5' Turnaround Hook Shot (8 PTS),14 - 16,2,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+54,0041200301,65,1,44,1,8:48 PM,4:36,Chalmers 2' Reverse Layup (5 PTS) (Wade 2 AST),,,14 - 18,4,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+55,0041200301,66,2,1,1,8:48 PM,4:22,,,MISS Stephenson 25' 3PT Jump Shot,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+56,0041200301,67,4,0,1,8:48 PM,4:21,Wade REBOUND (Off:0 Def:1),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+57,0041200301,68,5,2,1,8:49 PM,4:14,Wade Lost Ball Turnover (P1.T4),,Stephenson STEAL (2 STL),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+58,0041200301,69,2,1,1,8:49 PM,4:08,,,MISS West 6' Jump Shot,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+59,0041200301,70,4,0,1,8:49 PM,4:07,,,West REBOUND (Off:2 Def:0),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+60,0041200301,71,1,5,1,8:49 PM,4:06,,,West 3' Layup (10 PTS),16 - 18,2,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+61,0041200301,72,6,17,1,8:49 PM,3:49,,,Pacers T.Foul (Def. 3 Sec Hibbert ),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+62,0041200301,73,3,16,1,8:49 PM,3:49,MISS James Free Throw Technical,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+63,0041200301,74,4,1,1,8:49 PM,3:49,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+64,0041200301,75,8,0,1,8:49 PM,3:49,SUB: Allen FOR Wade,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+65,0041200301,76,8,0,1,8:49 PM,3:49,SUB: Andersen FOR Haslem,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+66,0041200301,77,2,1,1,8:50 PM,3:37,MISS James 20' Jump Shot,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+67,0041200301,78,4,0,1,8:50 PM,3:36,,,Stephenson REBOUND (Off:0 Def:4),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+68,0041200301,79,1,47,1,8:50 PM,3:21,,,Hibbert 13' Turnaround Jump Shot (4 PTS),18 - 18,TIE,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+69,0041200301,80,7,5,1,8:50 PM,3:08,,,Hill Violation:Kicked Ball,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+70,0041200301,81,8,0,1,8:50 PM,3:08,,,SUB: T. Hansbrough FOR West,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+71,0041200301,82,6,1,1,8:51 PM,3:00,,,Stephenson P.FOUL (P2.T3),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+72,0041200301,83,8,0,1,8:51 PM,3:00,,,SUB: Augustin FOR Stephenson,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+73,0041200301,84,6,26,1,8:52 PM,2:47,Battier Offensive Charge Foul (P1),,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+74,0041200301,85,5,5,1,8:52 PM,2:47,Battier Foul Turnover (P1.T5),,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+75,0041200301,86,9,1,1,8:52 PM,2:47,,,Pacers Timeout: Regular (Reg.1 Short 0),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+76,0041200301,88,18,1,1,8:52 PM,2:47,,Overturn Ruling,,,,,84,Latrell Sprewell,,,,,0,0,,,,,,1,0,,,,,,0
+77,0041200301,91,2,1,1,8:56 PM,2:20,,,MISS Hibbert 22' Jump Shot,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+78,0041200301,92,4,0,1,8:56 PM,2:19,Andersen REBOUND (Off:0 Def:1),,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+79,0041200301,93,1,5,1,8:56 PM,2:01,Andersen 1' Layup (2 PTS) (James 2 AST),,,18 - 20,2,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+80,0041200301,94,2,3,1,8:56 PM,1:39,,,MISS Hibbert 7' Hook Shot,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+81,0041200301,95,4,0,1,8:56 PM,1:38,Andersen REBOUND (Off:0 Def:2),,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+82,0041200301,96,2,66,1,8:56 PM,1:27,MISS Chalmers 13' Jump Bank Shot,,,,,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+83,0041200301,97,4,0,1,8:57 PM,1:26,,,T. Hansbrough REBOUND (Off:0 Def:1),,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+84,0041200301,98,5,4,1,8:57 PM,1:23,,,T. Hansbrough Traveling Turnover (P1.T6),,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+85,0041200301,99,8,0,1,8:57 PM,1:23,SUB: Cole FOR Chalmers,,,,,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+86,0041200301,100,8,0,1,8:57 PM,1:23,,,SUB: Young FOR Hill,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+87,0041200301,101,6,11,1,8:57 PM,1:23,Andersen T.FOUL (P0.T4),,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+88,0041200301,102,3,16,1,8:57 PM,1:23,,,Augustin Free Throw Technical (1 PTS),19 - 20,1,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+89,0041200301,104,6,26,1,8:58 PM,1:10,James Offensive Charge Foul (P2),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+90,0041200301,105,5,5,1,8:58 PM,1:10,James Foul Turnover (P2.T6),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+91,0041200301,106,8,0,1,8:58 PM,1:10,SUB: Wade FOR James,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+92,0041200301,107,6,4,1,8:59 PM,1:01,,,George OFF.Foul (P1),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+93,0041200301,108,5,5,1,8:59 PM,1:01,,,George Foul Turnover (P2.T7),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+94,0041200301,109,2,1,1,8:59 PM,0:46,MISS Allen 24' 3PT Jump Shot,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+95,0041200301,110,4,0,1,8:59 PM,0:45,Wade REBOUND (Off:1 Def:1),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+96,0041200301,111,2,1,1,8:59 PM,0:34,MISS Cole 8' Jump Shot,,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+97,0041200301,112,4,0,1,8:59 PM,0:33,,,T. Hansbrough REBOUND (Off:0 Def:2),,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+98,0041200301,113,1,7,1,8:59 PM,0:25,,,Hibbert Dunk (6 PTS) (George 3 AST),21 - 20,-1,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+99,0041200301,114,1,7,1,9:00 PM,0:05,Andersen Dunk (4 PTS) (Wade 3 AST),,,21 - 22,1,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+100,0041200301,115,2,1,1,9:00 PM,0:01,,,MISS George 25' 3PT Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+101,0041200301,116,4,0,1,9:00 PM,0:00,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+102,0041200301,117,13,0,1,9:00 PM,0:00,,End of 1st Period (9:00 PM EST),,21 - 22,1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+103,0041200301,119,12,0,2,9:04 PM,12:00,,Start of 2nd Period (9:04 PM EST),,21 - 22,1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+104,0041200301,120,6,17,2,9:04 PM,11:45,HEAT T.Foul (Def. 3 Sec Battier ),,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+105,0041200301,121,3,16,2,9:04 PM,11:45,,,Augustin Free Throw Technical (2 PTS),22 - 22,TIE,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+106,0041200301,123,5,2,2,9:05 PM,11:35,Battier STEAL (1 STL),,George Lost Ball Turnover (P3.T8),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+107,0041200301,124,6,4,2,9:05 PM,11:30,Allen OFF.Foul (P1),,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+108,0041200301,125,5,5,2,9:05 PM,11:30,Allen Foul Turnover (P1.T7),,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+109,0041200301,126,2,42,2,9:05 PM,11:15,Andersen BLOCK (1 BLK),,MISS T. Hansbrough 2' Driving Layup,,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0
+110,0041200301,127,4,0,2,9:05 PM,11:14,Allen REBOUND (Off:0 Def:1),,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+111,0041200301,128,2,1,2,9:05 PM,11:08,MISS Allen 10' Jump Shot,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+112,0041200301,129,4,0,2,9:05 PM,11:07,,,Hibbert REBOUND (Off:1 Def:1),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+113,0041200301,130,2,5,2,9:06 PM,10:55,,,MISS T. Hansbrough 1' Layup,,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+114,0041200301,131,4,0,2,9:06 PM,10:54,,,Hibbert REBOUND (Off:2 Def:1),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+115,0041200301,132,1,4,2,9:06 PM,10:53,,,Hibbert 1' Tip Shot (8 PTS),24 - 22,-2,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+116,0041200301,134,5,9,2,9:06 PM,10:34,Wade 5 Second Violation Turnover (P2.T8),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+117,0041200301,135,8,0,2,9:07 PM,10:34,,,SUB: West FOR Hibbert,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+118,0041200301,136,8,0,2,9:07 PM,10:34,,,SUB: Mahinmi FOR T. Hansbrough,,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+119,0041200301,138,9,1,2,9:07 PM,10:26,,,Pacers Timeout: Regular (Reg.2 Short 0),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+120,0041200301,140,8,0,2,9:09 PM,10:26,,,SUB: Stephenson FOR George,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+121,0041200301,142,6,4,2,9:10 PM,10:23,,,West OFF.Foul (P1),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+122,0041200301,143,5,5,2,9:10 PM,10:23,,,West Foul Turnover (P1.T9),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+123,0041200301,144,1,42,2,9:11 PM,10:08,Wade 1' Driving Layup (4 PTS),,,24 - 24,TIE,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+124,0041200301,145,1,57,2,9:11 PM,9:44,,,West 3' Driving Hook Shot (12 PTS),26 - 24,-2,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+125,0041200301,149,2,1,2,9:13 PM,9:28,MISS Cole 3PT Jump Shot,,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+126,0041200301,150,4,0,2,9:13 PM,9:27,Wade REBOUND (Off:2 Def:1),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+127,0041200301,151,2,1,2,9:13 PM,9:24,MISS Allen 25' 3PT Jump Shot,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+128,0041200301,152,4,0,2,9:13 PM,9:23,,,Mahinmi REBOUND (Off:0 Def:1),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+129,0041200301,153,2,1,2,9:13 PM,9:08,,,MISS Mahinmi 17' Jump Shot,,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+130,0041200301,154,4,0,2,9:13 PM,9:07,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+131,0041200301,155,2,1,2,9:13 PM,8:56,Wade BLOCK (1 BLK),,MISS Young 8' Jump Shot,,,5.0,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0
+132,0041200301,156,4,0,2,9:13 PM,8:55,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+133,0041200301,157,1,1,2,9:14 PM,8:51,,,West 16' Jump Shot (14 PTS) (Augustin 1 AST),28 - 24,-4,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+134,0041200301,158,6,3,2,9:14 PM,8:33,,,Young L.B.FOUL (P1.T1),,,5.0,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+135,0041200301,159,1,42,2,9:15 PM,8:22,Cole 1' Driving Layup (2 PTS),,,28 - 26,-2,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+136,0041200301,160,2,77,2,9:15 PM,8:05,Andersen BLOCK (2 BLK),,MISS Augustin 6' Driving Jump Shot,,,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0
+137,0041200301,161,4,0,2,9:15 PM,8:04,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+138,0041200301,162,6,3,2,9:15 PM,8:04,,,Augustin L.B.FOUL (P1.T2),,,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+139,0041200301,172,8,0,2,9:15 PM,8:04,,,SUB: Hill FOR Augustin,,,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+140,0041200301,164,1,7,2,9:16 PM,7:50,Andersen Dunk (6 PTS) (Cole 1 AST),,,28 - 28,TIE,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+141,0041200301,192,5,1,2,9:16 PM,7:31,Andersen STEAL (1 STL),,Hill Bad Pass Turnover (P1.T10),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+142,0041200301,166,5,1,2,9:16 PM,7:27,Andersen Bad Pass Turnover (P1.T9),,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+143,0041200301,168,8,0,2,9:16 PM,7:27,SUB: Bosh FOR Andersen,,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+144,0041200301,169,6,17,2,9:17 PM,7:14,HEAT T.Foul (Def. 3 Sec Bosh ),,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+145,0041200301,170,3,16,2,9:17 PM,7:14,,,Hill Free Throw Technical (1 PTS),29 - 28,-1,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+146,0041200301,173,8,0,2,9:17 PM,7:14,SUB: James FOR Allen,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+147,0041200301,174,1,1,2,9:18 PM,7:01,,,West 12' Jump Shot (16 PTS),31 - 28,-3,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+148,0041200301,175,6,2,2,9:18 PM,6:44,,,West S.FOUL (P2.T3),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+149,0041200301,177,3,11,2,9:18 PM,6:44,Battier Free Throw 1 of 2 (1 PTS),,,31 - 29,-2,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+150,0041200301,180,3,12,2,9:18 PM,6:44,Battier Free Throw 2 of 2 (2 PTS),,,31 - 30,-1,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+151,0041200301,183,2,1,2,9:19 PM,6:21,,,MISS West 20' Jump Shot,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+152,0041200301,184,4,0,2,9:19 PM,6:20,James REBOUND (Off:0 Def:2),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+153,0041200301,185,6,1,2,9:19 PM,6:14,,,Young P.FOUL (P2.T4),,,5.0,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+154,0041200301,186,2,77,2,9:20 PM,6:06,MISS Wade 8' Driving Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+155,0041200301,187,4,0,2,9:20 PM,6:05,,,Hill REBOUND (Off:0 Def:2),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+156,0041200301,188,1,1,2,9:20 PM,5:59,,,Stephenson 10' Jump Shot (4 PTS) (Hill 1 AST),33 - 30,-3,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+157,0041200301,190,9,1,2,9:20 PM,5:54,HEAT Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+158,0041200301,193,8,0,2,9:23 PM,5:54,,,SUB: George FOR Young,,,5.0,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+159,0041200301,195,2,44,2,9:24 PM,5:38,MISS Bosh 1' Reverse Layup,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+160,0041200301,196,4,0,2,9:24 PM,5:37,Wade REBOUND (Off:3 Def:1),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+161,0041200301,197,1,5,2,9:24 PM,5:36,Wade 3' Layup (6 PTS),,,33 - 32,-1,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+162,0041200301,198,1,44,2,9:24 PM,5:15,,,Hill 1' Reverse Layup (3 PTS) (George 4 AST),35 - 32,-3,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+163,0041200301,199,2,1,2,9:24 PM,4:53,MISS Battier 3PT Jump Shot,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+164,0041200301,200,4,0,2,9:24 PM,4:52,,,George REBOUND (Off:0 Def:1),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+165,0041200301,201,2,3,2,9:25 PM,4:33,,,MISS West 3' Hook Shot,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+166,0041200301,202,4,0,2,9:25 PM,4:32,,,West REBOUND (Off:3 Def:0),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+167,0041200301,203,1,5,2,9:25 PM,4:30,,,West 1' Layup (18 PTS),37 - 32,-5,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+168,0041200301,204,5,39,2,9:25 PM,4:07,Cole Step Out of Bounds Turnover (P1.T10),,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+169,0041200301,205,8,0,2,9:25 PM,4:07,SUB: Haslem FOR Battier,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+170,0041200301,206,8,0,2,9:25 PM,4:07,SUB: Chalmers FOR Cole,,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+171,0041200301,207,2,75,2,9:26 PM,3:55,,,MISS Stephenson 1' Driving Finger Roll Layup,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+172,0041200301,208,4,0,2,9:26 PM,3:54,Haslem REBOUND (Off:0 Def:2),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+173,0041200301,209,5,1,2,9:26 PM,3:42,Bosh Bad Pass Turnover (P1.T11),,Stephenson STEAL (3 STL),,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+174,0041200301,210,2,1,2,9:26 PM,3:25,,,MISS Stephenson 25' 3PT Jump Shot,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+175,0041200301,211,4,0,2,9:26 PM,3:24,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+176,0041200301,212,6,3,2,9:26 PM,3:24,,,George L.B.FOUL (P2.PN),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+177,0041200301,214,3,11,2,9:27 PM,3:24,MISS Wade Free Throw 1 of 2,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+178,0041200301,215,4,1,2,9:27 PM,3:24,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+179,0041200301,216,8,0,2,9:27 PM,3:24,,,SUB: Hibbert FOR Mahinmi,,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+180,0041200301,217,3,12,2,9:27 PM,3:24,MISS Wade Free Throw 2 of 2,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+181,0041200301,219,4,0,2,9:27 PM,3:23,,,Stephenson REBOUND (Off:0 Def:5),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+182,0041200301,220,6,1,2,9:28 PM,3:08,Bosh P.FOUL (P3.T1),,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+183,0041200301,221,8,0,2,9:28 PM,3:08,SUB: Allen FOR Wade,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+184,0041200301,222,8,0,2,9:28 PM,3:08,SUB: Battier FOR Bosh,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+185,0041200301,223,1,1,2,9:28 PM,2:53,,,Hibbert 21' Jump Shot (10 PTS) (Hill 2 AST),39 - 32,-7,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+186,0041200301,224,1,7,2,9:29 PM,2:36,Haslem Dunk (2 PTS) (James 3 AST),,,39 - 34,-5,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+187,0041200301,225,6,26,2,9:29 PM,2:14,,,West Offensive Charge Foul (P3),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+188,0041200301,226,5,5,2,9:29 PM,2:14,,,West Foul Turnover (P2.T11),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+189,0041200301,227,9,4,2,9:29 PM,2:14,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+190,0041200301,229,8,0,2,9:32 PM,2:14,,,SUB: T. Hansbrough FOR West,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+191,0041200301,231,5,1,2,9:33 PM,2:02,James Bad Pass Turnover (P3.T12),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+192,0041200301,232,2,47,2,9:33 PM,1:38,,,MISS George 14' Turnaround Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+193,0041200301,233,4,0,2,9:33 PM,1:36,,,Hibbert REBOUND (Off:3 Def:1),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+194,0041200301,234,2,1,2,9:33 PM,1:33,,,MISS Stephenson 25' 3PT Jump Shot,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+195,0041200301,235,4,0,2,9:33 PM,1:32,Haslem REBOUND (Off:0 Def:3),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+196,0041200301,236,1,1,2,9:33 PM,1:25,Chalmers 26' 3PT Jump Shot (8 PTS) (James 4 AST),,,39 - 37,-2,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+197,0041200301,237,1,75,2,9:34 PM,1:07,,,T. Hansbrough 3' Driving Finger Roll Layup (2 PTS) (Hill 3 AST),41 - 37,-4,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+198,0041200301,238,2,1,2,9:34 PM,0:48,MISS James 25' 3PT Jump Shot,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+199,0041200301,239,4,0,2,9:34 PM,0:47,,,George REBOUND (Off:0 Def:2),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+200,0041200301,240,6,29,2,9:34 PM,0:34,Battier Shooting Block Foul (P2.T2),,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+201,0041200301,241,3,11,2,9:35 PM,0:34,,,Hibbert Free Throw 1 of 2 (11 PTS),42 - 37,-5,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+202,0041200301,243,8,0,2,9:35 PM,0:34,,,SUB: Young FOR Stephenson,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+203,0041200301,244,8,0,2,9:35 PM,0:34,,,SUB: Augustin FOR George,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+204,0041200301,245,8,0,2,9:35 PM,0:34,SUB: Wade FOR James,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+205,0041200301,246,3,12,2,9:35 PM,0:34,,,MISS Hibbert Free Throw 2 of 2,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+206,0041200301,248,4,0,2,9:36 PM,0:33,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+207,0041200301,249,5,1,2,9:36 PM,0:15,Chalmers Bad Pass Turnover (P2.T13),,Young STEAL (1 STL),,,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+208,0041200301,250,9,2,2,9:36 PM,0:09,,,Pacers Timeout: Short (Reg.2 Short 1),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+209,0041200301,252,8,0,2,9:37 PM,0:09,,,SUB: Stephenson FOR Augustin,,,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+210,0041200301,253,8,0,2,9:37 PM,0:09,,,SUB: George FOR Young,,,5.0,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+211,0041200301,254,8,0,2,9:37 PM,0:09,SUB: Andersen FOR Battier,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+212,0041200301,255,6,26,2,9:38 PM,0:03,,,Stephenson Offensive Charge Foul (P3),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+213,0041200301,256,5,5,2,9:38 PM,0:03,,,Stephenson Foul Turnover (P4.T12),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+214,0041200301,257,8,0,2,9:38 PM,0:03,SUB: Battier FOR Andersen,,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+215,0041200301,258,9,2,2,9:38 PM,0:03,HEAT Timeout: Short (Full 2 Short 1),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+216,0041200301,259,8,0,2,9:39 PM,0:03,,,SUB: Augustin FOR George,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+217,0041200301,260,8,0,2,9:39 PM,0:03,,,SUB: Young FOR Hibbert,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+218,0041200301,261,8,0,2,9:39 PM,0:03,,,SUB: Johnson FOR Stephenson,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+219,0041200301,262,8,0,2,9:39 PM,0:03,SUB: James FOR Haslem,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+220,0041200301,263,2,1,2,9:39 PM,0:01,MISS Allen 21' Jump Shot,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+221,0041200301,264,4,0,2,9:39 PM,0:00,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+222,0041200301,265,13,0,2,9:39 PM,0:00,,End of 2nd Period (9:39 PM EST),,42 - 37,-5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+223,0041200301,267,12,0,3,9:59 PM,12:00,,Start of 3rd Period (9:59 PM EST),,42 - 37,-5,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+224,0041200301,268,5,2,3,10:00 PM,11:53,Wade STEAL (1 STL),,Hill Lost Ball Turnover (P2.T13),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+225,0041200301,269,1,5,3,10:00 PM,11:49,Chalmers 1' Layup (10 PTS) (Wade 4 AST),,,42 - 39,-3,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+226,0041200301,270,6,1,3,10:00 PM,11:31,Chalmers P.FOUL (P1.T1),,,,,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+227,0041200301,271,6,4,3,10:00 PM,11:25,,,Hibbert OFF.Foul (P2),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+228,0041200301,272,5,5,3,10:00 PM,11:25,,,Hibbert Foul Turnover (P2.T14),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+229,0041200301,273,1,1,3,10:01 PM,11:11,Bosh 16' Jump Shot (4 PTS),,,42 - 41,-1,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+230,0041200301,274,2,58,3,10:01 PM,10:47,,,MISS Hibbert 8' Turnaround Hook Shot,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+231,0041200301,275,4,0,3,10:01 PM,10:46,James REBOUND (Off:0 Def:3),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+232,0041200301,276,2,1,3,10:01 PM,10:38,MISS Bosh 20' Jump Shot,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+233,0041200301,277,4,0,3,10:01 PM,10:37,,,Stephenson REBOUND (Off:0 Def:6),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+234,0041200301,278,6,1,3,10:02 PM,10:27,Wade P.FOUL (P1.T2),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+235,0041200301,279,6,4,3,10:02 PM,10:19,,,West OFF.Foul (P4),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+236,0041200301,280,5,5,3,10:02 PM,10:19,,,West Foul Turnover (P3.T15),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+237,0041200301,281,1,78,3,10:03 PM,10:06,Wade 5' Floating Jump Shot (8 PTS),,,42 - 43,1,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+238,0041200301,282,1,49,3,10:03 PM,10:00,,,George Driving Dunk (4 PTS),44 - 43,-1,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+239,0041200301,283,2,5,3,10:03 PM,9:34,MISS Haslem 1' Layup,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+240,0041200301,284,4,0,3,10:03 PM,9:33,Haslem REBOUND (Off:1 Def:3),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+241,0041200301,285,5,4,3,10:03 PM,9:32,Haslem Traveling Turnover (P2.T14),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+242,0041200301,286,2,1,3,10:04 PM,9:10,,,MISS Stephenson 25' 3PT Jump Shot,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+243,0041200301,287,4,0,3,10:04 PM,9:09,Chalmers REBOUND (Off:0 Def:1),,,,,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+244,0041200301,288,6,2,3,10:04 PM,9:09,,,Hill S.FOUL (P1.T1),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+245,0041200301,289,3,11,3,10:04 PM,9:09,Wade Free Throw 1 of 2 (9 PTS),,,44 - 44,TIE,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+246,0041200301,290,3,12,3,10:04 PM,9:09,MISS Wade Free Throw 2 of 2,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+247,0041200301,292,4,0,3,10:05 PM,9:08,Haslem REBOUND (Off:2 Def:3),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+248,0041200301,293,1,1,3,10:05 PM,8:54,James 26' 3PT Jump Shot (12 PTS) (Chalmers 2 AST),,,44 - 47,3,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+249,0041200301,294,2,1,3,10:05 PM,8:32,,,MISS Hill 13' Jump Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+250,0041200301,295,4,0,3,10:05 PM,8:31,Wade REBOUND (Off:3 Def:2),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+251,0041200301,297,2,46,3,10:06 PM,8:28,MISS Wade 7' Running Jump Shot,,Hibbert BLOCK (1 BLK),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0
+252,0041200301,298,4,0,3,10:06 PM,8:27,James REBOUND (Off:1 Def:3),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+253,0041200301,299,1,66,3,10:06 PM,8:25,James 9' Jump Bank Shot (14 PTS),,,44 - 49,5,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+254,0041200301,300,9,1,3,10:07 PM,8:24,,,Pacers Timeout: Regular (Reg.3 Short 1),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+255,0041200301,304,1,1,3,10:09 PM,8:01,,,George 25' 3PT Jump Shot (7 PTS),47 - 49,2,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+256,0041200301,305,2,1,3,10:09 PM,7:41,MISS James 25' 3PT Jump Shot,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+257,0041200301,306,4,0,3,10:10 PM,7:40,,,Stephenson REBOUND (Off:0 Def:7),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+258,0041200301,307,2,42,3,10:10 PM,7:34,Bosh BLOCK (2 BLK),,MISS George 1' Driving Layup,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0
+259,0041200301,308,4,0,3,10:10 PM,7:33,,,Hibbert REBOUND (Off:4 Def:1),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+260,0041200301,309,2,5,3,10:10 PM,7:32,James BLOCK (2 BLK),,MISS Hibbert 3' Layup,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0
+261,0041200301,310,4,0,3,10:10 PM,7:30,,,Hibbert REBOUND (Off:5 Def:1),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+262,0041200301,311,1,5,3,10:10 PM,7:28,,,Hibbert 1' Layup (13 PTS),49 - 49,TIE,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+263,0041200301,312,2,75,3,10:10 PM,7:04,MISS Wade 1' Driving Finger Roll Layup,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+264,0041200301,313,4,0,3,10:10 PM,7:03,Haslem REBOUND (Off:3 Def:3),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+265,0041200301,314,1,7,3,10:10 PM,7:01,James Dunk (16 PTS) (Haslem 1 AST),,,49 - 51,2,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+266,0041200301,315,1,1,3,10:11 PM,6:39,,,West 17' Jump Shot (20 PTS) (Stephenson 2 AST),51 - 51,TIE,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+267,0041200301,316,2,5,3,10:11 PM,6:14,MISS Bosh 2' Layup,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+268,0041200301,318,4,0,3,10:11 PM,6:13,Haslem REBOUND (Off:4 Def:3),,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+269,0041200301,317,2,4,3,10:11 PM,6:12,MISS Haslem 2' Tip Shot,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+270,0041200301,319,4,0,3,10:11 PM,6:11,,,West REBOUND (Off:3 Def:1),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+271,0041200301,320,5,2,3,10:11 PM,5:56,Haslem STEAL (2 STL),,George Lost Ball Turnover (P4.T16),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+272,0041200301,321,1,7,3,10:11 PM,5:52,Bosh Dunk (6 PTS) (Haslem 2 AST),,,51 - 53,2,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+273,0041200301,323,6,1,3,10:12 PM,5:36,James P.FOUL (P3.T3),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+274,0041200301,324,8,0,3,10:12 PM,5:36,,,SUB: T. Hansbrough FOR West,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+275,0041200301,325,8,0,3,10:12 PM,5:36,SUB: Cole FOR Chalmers,,,,,4.0,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+276,0041200301,326,2,42,3,10:12 PM,5:32,,,MISS Hill 2' Driving Layup,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+277,0041200301,328,4,0,3,10:12 PM,5:30,,,T. Hansbrough REBOUND (Off:1 Def:2),,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+278,0041200301,327,1,87,3,10:12 PM,5:29,,,T. Hansbrough Putback Dunk (4 PTS),53 - 53,TIE,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+279,0041200301,329,2,1,3,10:12 PM,5:10,MISS Haslem 16' Jump Shot,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+280,0041200301,330,4,0,3,10:12 PM,5:09,,,Stephenson REBOUND (Off:0 Def:8),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+281,0041200301,331,2,1,3,10:13 PM,4:46,,,MISS Hill 19' Jump Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+282,0041200301,332,4,0,3,10:13 PM,4:45,,,Hibbert REBOUND (Off:6 Def:1),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+283,0041200301,333,1,5,3,10:13 PM,4:44,,,T. Hansbrough 1' Layup (6 PTS) (Hibbert 1 AST),55 - 53,-2,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+284,0041200301,334,2,1,3,10:13 PM,4:27,MISS Haslem 16' Jump Shot,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+285,0041200301,335,4,0,3,10:13 PM,4:26,,,Stephenson REBOUND (Off:0 Def:9),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+286,0041200301,336,6,2,3,10:13 PM,4:21,Cole S.FOUL (P1.T4),,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+287,0041200301,337,3,11,3,10:14 PM,4:21,,,MISS Stephenson Free Throw 1 of 2,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+288,0041200301,338,4,1,3,10:14 PM,4:21,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+289,0041200301,339,8,0,3,10:14 PM,4:21,SUB: Battier FOR Haslem,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+290,0041200301,340,3,12,3,10:14 PM,4:21,,,Stephenson Free Throw 2 of 2 (5 PTS),56 - 53,-3,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+291,0041200301,342,2,42,3,10:15 PM,4:11,MISS Cole 1' Driving Layup,,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+292,0041200301,343,4,0,3,10:15 PM,4:10,,,Hibbert REBOUND (Off:6 Def:2),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+293,0041200301,344,5,2,3,10:15 PM,3:57,Wade STEAL (2 STL),,Hill Lost Ball Turnover (P3.T17),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+294,0041200301,345,6,3,3,10:15 PM,3:57,,,Hill L.B.FOUL (P2.T2),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+295,0041200301,346,5,2,3,10:15 PM,3:42,Wade Lost Ball Turnover (P3.T15),,T. Hansbrough STEAL (1 STL),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+296,0041200301,347,6,1,3,10:16 PM,3:26,Wade P.FOUL (P2.PN),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+297,0041200301,348,3,11,3,10:16 PM,3:26,,,George Free Throw 1 of 2 (8 PTS),57 - 53,-4,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+298,0041200301,350,8,0,3,10:16 PM,3:26,,,SUB: Augustin FOR Hill,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+299,0041200301,351,8,0,3,10:16 PM,3:26,SUB: Allen FOR Wade,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+300,0041200301,352,3,12,3,10:16 PM,3:26,,,George Free Throw 2 of 2 (9 PTS),58 - 53,-5,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+301,0041200301,354,9,1,3,10:17 PM,3:24,HEAT Timeout: Regular (Full 3 Short 1),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+302,0041200301,358,1,42,3,10:21 PM,3:17,Bosh 1' Driving Layup (8 PTS) (James 5 AST),,,58 - 55,-3,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+303,0041200301,359,6,2,3,10:21 PM,3:17,,,Hibbert S.FOUL (P3.T3),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+304,0041200301,360,3,10,3,10:21 PM,3:17,Bosh Free Throw 1 of 1 (9 PTS),,,58 - 56,-2,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+305,0041200301,362,6,1,3,10:22 PM,3:04,Cole P.FOUL (P2.PN),,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+306,0041200301,363,3,11,3,10:22 PM,3:04,,,MISS Augustin Free Throw 1 of 2,,,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+307,0041200301,364,4,1,3,10:22 PM,3:04,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+308,0041200301,365,3,12,3,10:22 PM,3:04,,,Augustin Free Throw 2 of 2 (3 PTS),59 - 56,-3,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+309,0041200301,367,2,1,3,10:23 PM,2:45,MISS Allen 19' Jump Shot,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+310,0041200301,368,4,0,3,10:23 PM,2:44,,,T. Hansbrough REBOUND (Off:1 Def:3),,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+311,0041200301,369,2,1,3,10:23 PM,2:32,,,MISS George 20' Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+312,0041200301,370,4,0,3,10:23 PM,2:31,,,T. Hansbrough REBOUND (Off:2 Def:3),,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+313,0041200301,371,2,5,3,10:23 PM,2:30,James BLOCK (3 BLK),,MISS T. Hansbrough 1' Layup,,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0
+314,0041200301,372,4,0,3,10:23 PM,2:29,Allen REBOUND (Off:0 Def:2),,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+315,0041200301,373,6,1,3,10:23 PM,2:23,,,T. Hansbrough P.FOUL (P1.T4),,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+316,0041200301,374,8,0,3,10:24 PM,2:23,,,SUB: Hill FOR Stephenson,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+317,0041200301,375,6,1,3,10:24 PM,2:21,,,Augustin P.FOUL (P2.PN),,,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+318,0041200301,376,3,11,3,10:24 PM,2:21,James Free Throw 1 of 2 (17 PTS),,,59 - 57,-2,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+319,0041200301,378,3,12,3,10:24 PM,2:21,James Free Throw 2 of 2 (18 PTS),,,59 - 58,-1,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+320,0041200301,380,6,2,3,10:25 PM,2:03,Cole S.FOUL (P3.PN),,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+321,0041200301,381,3,11,3,10:25 PM,2:03,,,Augustin Free Throw 1 of 2 (4 PTS),60 - 58,-2,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+322,0041200301,383,3,12,3,10:25 PM,2:03,,,Augustin Free Throw 2 of 2 (5 PTS),61 - 58,-3,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+323,0041200301,385,2,1,3,10:26 PM,1:49,MISS James 8' Jump Shot,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+324,0041200301,386,4,0,3,10:26 PM,1:48,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+325,0041200301,387,6,2,3,10:26 PM,1:37,,,Augustin S.FOUL (P3.PN),,,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+326,0041200301,388,3,11,3,10:27 PM,1:37,Bosh Free Throw 1 of 2 (10 PTS),,,61 - 59,-2,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+327,0041200301,390,3,12,3,10:27 PM,1:37,Bosh Free Throw 2 of 2 (11 PTS),,,61 - 60,-1,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+328,0041200301,392,1,1,3,10:28 PM,1:11,,,T. Hansbrough 7' Jump Shot (8 PTS) (Hill 4 AST),63 - 60,-3,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+329,0041200301,393,6,2,3,10:28 PM,0:55,,,Hibbert S.FOUL (P4.PN),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+330,0041200301,394,3,11,3,10:28 PM,0:55,MISS Bosh Free Throw 1 of 2,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+331,0041200301,395,4,1,3,10:28 PM,0:55,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+332,0041200301,396,8,0,3,10:28 PM,0:55,,,SUB: Mahinmi FOR Hibbert,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+333,0041200301,397,3,12,3,10:29 PM,0:55,Bosh Free Throw 2 of 2 (12 PTS),,,63 - 61,-2,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+334,0041200301,399,2,1,3,10:29 PM,0:46,,,MISS Hill 17' Jump Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+335,0041200301,400,4,0,3,10:29 PM,0:45,James REBOUND (Off:1 Def:4),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+336,0041200301,401,6,1,3,10:29 PM,0:45,,,T. Hansbrough P.FOUL (P2.PN),,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+337,0041200301,402,3,11,3,10:29 PM,0:45,MISS Battier Free Throw 1 of 2,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+338,0041200301,403,4,1,3,10:29 PM,0:45,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+339,0041200301,404,8,0,3,10:30 PM,0:45,SUB: Andersen FOR Bosh,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+340,0041200301,405,3,12,3,10:30 PM,0:45,Battier Free Throw 2 of 2 (3 PTS),,,63 - 62,-1,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+341,0041200301,407,2,78,3,10:30 PM,0:29,,,MISS Hill 9' Floating Jump Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+342,0041200301,408,4,0,3,10:30 PM,0:28,,,T. Hansbrough REBOUND (Off:3 Def:3),,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+343,0041200301,409,1,1,3,10:30 PM,0:27,,,T. Hansbrough 4' Jump Shot (10 PTS),65 - 62,-3,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+344,0041200301,410,1,5,3,10:31 PM,0:05,Andersen 2' Layup (8 PTS) (James 6 AST),,,65 - 64,-1,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+345,0041200301,411,2,1,3,10:31 PM,0:01,,,MISS Hill 25' 3PT Jump Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+346,0041200301,412,4,0,3,10:31 PM,0:00,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+347,0041200301,413,13,0,3,10:31 PM,0:00,,End of 3rd Period (10:31 PM EST),,65 - 64,-1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+348,0041200301,415,12,0,4,10:35 PM,12:00,,Start of 4th Period (10:35 PM EST),,65 - 64,-1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+349,0041200301,416,2,75,4,10:35 PM,11:40,MISS James 2' Driving Finger Roll Layup,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+350,0041200301,417,4,0,4,10:35 PM,11:38,Andersen REBOUND (Off:1 Def:2),,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+351,0041200301,418,6,2,4,10:35 PM,11:38,,,Mahinmi S.FOUL (P1.T1),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+352,0041200301,419,3,11,4,10:36 PM,11:38,MISS James Free Throw 1 of 2,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+353,0041200301,420,4,1,4,10:36 PM,11:38,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+354,0041200301,421,3,12,4,10:36 PM,11:38,MISS James Free Throw 2 of 2,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+355,0041200301,423,4,0,4,10:36 PM,11:37,,,Mahinmi REBOUND (Off:0 Def:2),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+356,0041200301,424,2,79,4,10:37 PM,11:15,,,MISS George 15' Pullup Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+357,0041200301,425,4,0,4,10:37 PM,11:14,Cole REBOUND (Off:0 Def:1),,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+358,0041200301,426,5,1,4,10:37 PM,11:05,Cole Bad Pass Turnover (P2.T16),,Hill STEAL (2 STL),,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+359,0041200301,427,1,1,4,10:37 PM,10:59,,,Hill 12' Jump Shot (5 PTS),67 - 64,-3,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+360,0041200301,428,1,1,4,10:37 PM,10:43,Allen 25' 3PT Jump Shot (3 PTS) (James 7 AST),,,67 - 67,TIE,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+361,0041200301,429,1,1,4,10:38 PM,10:25,,,West 19' Jump Shot (22 PTS) (Hill 5 AST),69 - 67,-2,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+362,0041200301,431,8,0,4,10:38 PM,10:09,,,SUB: Stephenson FOR Hill,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+363,0041200301,432,2,1,4,10:39 PM,10:05,MISS Allen 20' Jump Shot,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+364,0041200301,433,4,0,4,10:39 PM,10:03,Battier REBOUND (Off:1 Def:0),,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+365,0041200301,434,2,1,4,10:39 PM,9:54,MISS James 25' 3PT Jump Shot,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+366,0041200301,437,4,0,4,10:39 PM,9:54,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+367,0041200301,438,6,3,4,10:39 PM,9:53,Battier L.B.FOUL (P3.T1),,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+368,0041200301,439,2,1,4,10:40 PM,9:31,,,MISS George 14' Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+369,0041200301,440,4,0,4,10:40 PM,9:30,,,Mahinmi REBOUND (Off:1 Def:2),,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+370,0041200301,441,2,5,4,10:40 PM,9:29,,,MISS Mahinmi 1' Layup,,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+371,0041200301,442,4,0,4,10:40 PM,9:28,Cole REBOUND (Off:0 Def:2),,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+372,0041200301,443,2,5,4,10:40 PM,9:20,MISS James 1' Layup,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+373,0041200301,444,4,0,4,10:40 PM,9:19,James REBOUND (Off:2 Def:4),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+374,0041200301,445,1,4,4,10:40 PM,9:18,James Tip Shot (20 PTS),,,69 - 69,TIE,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+375,0041200301,446,6,2,4,10:40 PM,9:18,,,George S.FOUL (P3.T2),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+376,0041200301,447,3,10,4,10:41 PM,9:18,James Free Throw 1 of 1 (21 PTS),,,69 - 70,1,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+377,0041200301,449,2,42,4,10:41 PM,9:07,,,MISS Stephenson 1' Driving Layup,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+378,0041200301,450,4,0,4,10:41 PM,9:05,,,West REBOUND (Off:4 Def:1),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+379,0041200301,451,1,1,4,10:41 PM,8:56,,,Augustin 26' 3PT Jump Shot (8 PTS) (Stephenson 3 AST),72 - 70,-2,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+380,0041200301,453,1,42,4,10:41 PM,8:36,James 2' Driving Layup (23 PTS),,,72 - 72,TIE,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+381,0041200301,455,6,2,4,10:42 PM,8:23,Andersen S.FOUL (P1.T2),,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,5,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+382,0041200301,456,9,4,4,10:42 PM,8:23,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+383,0041200301,458,8,0,4,10:45 PM,8:23,,,SUB: Hill FOR George,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+384,0041200301,459,8,0,4,10:45 PM,8:23,,,SUB: Young FOR Augustin,,,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+385,0041200301,460,8,0,4,10:45 PM,8:23,,,SUB: Hibbert FOR Mahinmi,,,5.0,101133,Ian Mahinmi,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+386,0041200301,461,8,0,4,10:45 PM,8:23,SUB: Bosh FOR Battier,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+387,0041200301,462,8,0,4,10:45 PM,8:23,SUB: Wade FOR Allen,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+388,0041200301,463,3,11,4,10:45 PM,8:23,,,MISS West Free Throw 1 of 2,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+389,0041200301,464,4,1,4,10:45 PM,8:23,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+390,0041200301,465,3,12,4,10:45 PM,8:23,,,West Free Throw 2 of 2 (23 PTS),73 - 72,-1,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+391,0041200301,466,1,7,4,10:46 PM,8:10,Andersen Dunk (10 PTS) (James 8 AST),,,73 - 74,1,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+392,0041200301,467,2,3,4,10:46 PM,7:50,,,MISS Hibbert 8' Hook Shot,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+393,0041200301,468,4,0,4,10:46 PM,7:49,Bosh REBOUND (Off:0 Def:1),,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+394,0041200301,469,2,42,4,10:47 PM,7:33,MISS James 1' Driving Layup,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+395,0041200301,470,4,0,4,10:47 PM,7:32,Andersen REBOUND (Off:2 Def:2),,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+396,0041200301,471,1,4,4,10:47 PM,7:31,Andersen Tip Shot (12 PTS),,,73 - 76,3,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+397,0041200301,472,9,1,4,10:47 PM,7:20,,,Pacers Timeout: Regular (Reg.4 Short 1),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+398,0041200301,474,8,0,4,10:50 PM,7:20,,,SUB: George FOR Young,,,5.0,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+399,0041200301,476,2,1,4,10:51 PM,7:11,,,MISS West 19' Jump Shot,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+400,0041200301,477,4,0,4,10:51 PM,7:10,,,Stephenson REBOUND (Off:1 Def:9),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+401,0041200301,478,6,2,4,10:51 PM,7:10,James S.FOUL (P4.T3),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+402,0041200301,479,3,11,4,10:51 PM,7:10,,,Stephenson Free Throw 1 of 2 (6 PTS),74 - 76,2,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+403,0041200301,481,3,12,4,10:51 PM,7:10,,,Stephenson Free Throw 2 of 2 (7 PTS),75 - 76,1,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+404,0041200301,483,1,1,4,10:52 PM,6:53,Wade 18' Jump Shot (11 PTS) (Cole 2 AST),,,75 - 78,3,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+405,0041200301,484,1,47,4,10:52 PM,6:29,,,Hibbert 12' Turnaround Jump Shot (15 PTS) (Hill 6 AST),77 - 78,1,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+406,0041200301,485,2,1,4,10:53 PM,6:07,MISS Wade 10' Jump Shot,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+407,0041200301,486,4,0,4,10:53 PM,6:06,,,Hill REBOUND (Off:0 Def:3),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+408,0041200301,487,2,5,4,10:53 PM,5:50,Andersen BLOCK (3 BLK),,MISS Stephenson 2' Layup,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0
+409,0041200301,488,4,0,4,10:53 PM,5:49,Cole REBOUND (Off:0 Def:3),,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+410,0041200301,489,1,76,4,10:53 PM,5:45,Andersen 2' Running Finger Roll Layup (14 PTS) (Wade 5 AST),,,77 - 80,3,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+411,0041200301,490,1,46,4,10:53 PM,5:35,,,George 9' Running Jump Shot (11 PTS),79 - 80,1,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+412,0041200301,491,6,2,4,10:53 PM,5:35,Wade S.FOUL (P3.T4),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+413,0041200301,492,3,10,4,10:54 PM,5:35,,,George Free Throw 1 of 1 (12 PTS),80 - 80,TIE,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+414,0041200301,496,8,0,4,10:54 PM,5:21,SUB: Battier FOR Andersen,,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+415,0041200301,497,2,63,4,10:55 PM,5:16,MISS James 20' Fadeaway Jumper,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+416,0041200301,498,4,0,4,10:55 PM,5:15,,,Hill REBOUND (Off:0 Def:4),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+417,0041200301,499,2,1,4,10:55 PM,4:55,,,MISS George 26' 3PT Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+418,0041200301,500,4,0,4,10:55 PM,4:54,James REBOUND (Off:2 Def:5),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+419,0041200301,501,2,75,4,10:55 PM,4:34,MISS Wade 2' Driving Finger Roll Layup,,Hibbert BLOCK (2 BLK),,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0
+420,0041200301,502,4,0,4,10:55 PM,4:31,Cole REBOUND (Off:1 Def:3),,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+421,0041200301,503,1,1,4,10:55 PM,4:30,James 3PT Jump Shot (26 PTS) (Cole 3 AST),,,80 - 83,3,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+422,0041200301,504,6,1,4,10:56 PM,4:04,Battier P.FOUL (P4.PN),,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+423,0041200301,505,3,11,4,10:56 PM,4:04,,,West Free Throw 1 of 2 (24 PTS),81 - 83,2,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+424,0041200301,507,3,12,4,10:57 PM,4:04,,,MISS West Free Throw 2 of 2,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+425,0041200301,509,4,0,4,10:57 PM,4:02,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+426,0041200301,510,1,78,4,10:57 PM,3:47,Wade 6' Floating Jump Shot (13 PTS) (Cole 4 AST),,,81 - 85,4,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+427,0041200301,511,2,1,4,10:58 PM,3:35,,,MISS Hill 25' 3PT Jump Shot,,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+428,0041200301,512,4,0,4,10:58 PM,3:34,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+429,0041200301,513,5,1,4,10:58 PM,3:23,Cole Bad Pass Turnover (P3.T17),,Hill STEAL (3 STL),,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+430,0041200301,514,1,1,4,10:58 PM,3:17,,,George 24' 3PT Jump Shot (15 PTS) (Hill 7 AST),84 - 85,1,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+431,0041200301,515,6,4,4,10:58 PM,3:01,Cole OFF.Foul (P4),,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+432,0041200301,516,5,5,4,10:58 PM,3:01,Cole Foul Turnover (P4.T18),,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+433,0041200301,517,5,1,4,10:59 PM,2:39,Wade STEAL (3 STL),,West Bad Pass Turnover (P4.T18),,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+434,0041200301,518,6,1,4,10:59 PM,2:36,,,Stephenson P.FOUL (P4.T3),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+435,0041200301,519,9,1,4,10:59 PM,2:36,HEAT Timeout: Regular (Full 4 Short 1),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+436,0041200301,522,8,0,4,11:03 PM,2:36,SUB: Allen FOR Cole,,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+437,0041200301,523,1,5,4,11:03 PM,2:30,Wade 1' Layup (15 PTS) (James 9 AST),,,84 - 87,3,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+438,0041200301,524,6,1,4,11:03 PM,2:16,Wade P.FOUL (P4.PN),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+439,0041200301,525,3,11,4,11:03 PM,2:16,,,MISS George Free Throw 1 of 2,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+440,0041200301,526,4,1,4,11:03 PM,2:16,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+441,0041200301,528,8,0,4,11:04 PM,2:16,SUB: Cole FOR Allen,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+442,0041200301,529,3,12,4,11:04 PM,2:16,,,George Free Throw 2 of 2 (16 PTS),85 - 87,2,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+443,0041200301,531,1,58,4,11:04 PM,2:00,Bosh 5' Turnaround Hook Shot (14 PTS),,,85 - 89,4,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+444,0041200301,532,2,3,4,11:05 PM,1:43,,,MISS Hibbert 4' Hook Shot,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+445,0041200301,533,4,0,4,11:05 PM,1:42,,,Hibbert REBOUND (Off:7 Def:2),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+446,0041200301,534,1,3,4,11:05 PM,1:40,,,Hibbert 5' Hook Shot (17 PTS),87 - 89,2,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+447,0041200301,535,2,63,4,11:05 PM,1:13,MISS James 19' Fadeaway Jumper,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+448,0041200301,536,4,0,4,11:05 PM,1:12,,,Stephenson REBOUND (Off:1 Def:10),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+449,0041200301,537,1,42,4,11:06 PM,0:54,,,West 2' Driving Layup (26 PTS),89 - 89,TIE,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+450,0041200301,538,9,1,4,11:06 PM,0:50,HEAT Timeout: Regular (Full 5 Short 1),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+451,0041200301,540,8,0,4,11:08 PM,0:50,,,SUB: Young FOR Stephenson,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+452,0041200301,541,8,0,4,11:08 PM,0:50,SUB: Allen FOR Cole,,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+453,0041200301,542,1,42,4,11:08 PM,0:42,Wade 1' Driving Layup (17 PTS),,,89 - 91,2,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+454,0041200301,543,9,2,4,11:08 PM,0:34,,,Pacers Timeout: Short (Reg.4 Short 2),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+455,0041200301,545,8,0,4,11:10 PM,0:34,,,SUB: Stephenson FOR Young,,,5.0,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,5,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+456,0041200301,546,8,0,4,11:10 PM,0:34,SUB: Haslem FOR Allen,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+457,0041200301,547,2,47,4,11:10 PM,0:24,,,MISS George 15' Turnaround Jump Shot,,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+458,0041200301,548,4,0,4,11:10 PM,0:23,,,Stephenson REBOUND (Off:2 Def:10),,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+459,0041200301,549,5,1,4,11:10 PM,0:20,,,George Bad Pass Turnover (P5.T19),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+460,0041200301,550,8,0,4,11:11 PM,0:20,,,SUB: Young FOR Stephenson,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+461,0041200301,551,8,0,4,11:11 PM,0:20,SUB: Allen FOR Haslem,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+462,0041200301,552,8,0,4,11:11 PM,0:20,SUB: Cole FOR Battier,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+463,0041200301,553,6,1,4,11:11 PM,0:18,,,Young P.FOUL (P3.T4),,,5.0,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+464,0041200301,554,9,2,4,11:11 PM,0:18,HEAT Timeout: Short (Full 5 Short 2),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+465,0041200301,555,8,0,4,11:12 PM,0:18,,,SUB: T. Hansbrough FOR Hibbert,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+466,0041200301,556,8,0,4,11:12 PM,0:18,SUB: Battier FOR Cole,,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+467,0041200301,557,6,1,4,11:13 PM,0:17,,,Hill P.FOUL (P3.PN),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+468,0041200301,558,3,11,4,11:13 PM,0:17,MISS Allen Free Throw 1 of 2,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+469,0041200301,559,4,1,4,11:13 PM,0:17,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+470,0041200301,560,3,12,4,11:13 PM,0:17,Allen Free Throw 2 of 2 (4 PTS),,,89 - 92,3,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+471,0041200301,562,9,2,4,11:14 PM,0:17,,,Pacers Timeout: Short (Reg.4 Short 3),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+472,0041200301,564,8,0,4,11:15 PM,0:17,,,SUB: Hibbert FOR T. Hansbrough,,,5.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+473,0041200301,565,8,0,4,11:15 PM,0:17,,,SUB: Augustin FOR Young,,,5.0,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,5,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+474,0041200301,566,8,0,4,11:15 PM,0:17,SUB: Haslem FOR Allen,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+475,0041200301,568,9,1,4,11:16 PM,0:11,,,Pacers Timeout: Regular (Reg.5 Short 3),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+476,0041200301,571,1,1,4,11:18 PM,0:00,,,George 32' 3PT Jump Shot (19 PTS) (West 1 AST),92 - 92,TIE,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+477,0041200301,572,9,1,4,11:18 PM,0:00,HEAT Timeout: Regular (Full 6 Short 2),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+478,0041200301,573,8,0,4,11:19 PM,0:00,,,SUB: Young FOR Hibbert,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+479,0041200301,574,8,0,4,11:19 PM,0:00,,,SUB: T. Hansbrough FOR Augustin,,,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,5,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+480,0041200301,575,8,0,4,11:19 PM,0:00,SUB: Allen FOR Haslem,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+481,0041200301,576,2,1,4,11:20 PM,0:00,MISS Allen 3PT Jump Shot,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+482,0041200301,577,4,0,4,11:20 PM,0:00,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+483,0041200301,578,13,0,4,11:20 PM,0:00,,End of 4th Period (11:20 PM EST),,92 - 92,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+484,0041200301,580,12,0,5,11:23 PM,5:00,,Start of 1st OT (11:23 PM EST),,92 - 92,TIE,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+485,0041200301,581,10,0,5,11:24 PM,5:00,Jump Ball Bosh vs. Hibbert: Tip to James,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0
+486,0041200301,582,2,1,5,11:24 PM,4:39,MISS Battier 3PT Jump Shot,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+487,0041200301,583,4,0,5,11:24 PM,4:38,,,George REBOUND (Off:0 Def:3),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+488,0041200301,584,6,2,5,11:24 PM,4:27,Battier S.FOUL (P5.T1),,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+489,0041200301,585,3,11,5,11:24 PM,4:27,,,MISS West Free Throw 1 of 2,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+490,0041200301,586,4,1,5,11:24 PM,4:27,,,Pacers Rebound,,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+491,0041200301,587,8,0,5,11:25 PM,4:27,SUB: Andersen FOR Battier,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+492,0041200301,588,3,12,5,11:25 PM,4:27,,,MISS West Free Throw 2 of 2,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+493,0041200301,590,4,0,5,11:25 PM,4:26,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+494,0041200301,591,18,0,5,11:25 PM,4:26,,Support Ruling,,,,,590,,,,,,0,0,,,,,,1,0,,,,,,0
+495,0041200301,592,2,66,5,11:27 PM,4:14,MISS Bosh 14' Jump Bank Shot,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+496,0041200301,593,4,0,5,11:27 PM,4:13,Andersen REBOUND (Off:3 Def:2),,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+497,0041200301,594,2,1,5,11:28 PM,4:10,MISS James 25' 3PT Jump Shot,,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+498,0041200301,595,4,0,5,11:28 PM,4:09,HEAT Rebound,,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+499,0041200301,596,5,1,5,11:28 PM,3:52,James Bad Pass Turnover (P4.T19),,Hill STEAL (4 STL),,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+500,0041200301,597,6,2,5,11:28 PM,3:48,Wade S.FOUL (P5.T2),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+501,0041200301,598,3,11,5,11:29 PM,3:48,,,George Free Throw 1 of 2 (20 PTS),93 - 92,-1,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+502,0041200301,601,8,0,5,11:29 PM,3:48,SUB: Cole FOR Allen,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+503,0041200301,602,3,12,5,11:29 PM,3:48,,,George Free Throw 2 of 2 (21 PTS),94 - 92,-2,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+504,0041200301,604,6,2,5,11:30 PM,3:32,,,Hibbert S.FOUL (P5.T1),,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+505,0041200301,605,3,11,5,11:30 PM,3:32,Andersen Free Throw 1 of 2 (15 PTS),,,94 - 93,-1,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+506,0041200301,607,3,12,5,11:30 PM,3:32,Andersen Free Throw 2 of 2 (16 PTS),,,94 - 94,TIE,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+507,0041200301,609,1,3,5,11:31 PM,3:15,,,Hibbert 4' Hook Shot (19 PTS) (George 5 AST),96 - 94,-2,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+508,0041200301,610,5,11,5,11:31 PM,2:47,HEAT Turnover: Shot Clock (T#20),,,,,2.0,1610612748,,,,,,0,0,,,,,,1,0,,,,,,0
+509,0041200301,611,2,1,5,11:32 PM,2:32,,,MISS West 12' Jump Shot,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+510,0041200301,612,4,0,5,11:32 PM,2:31,James REBOUND (Off:2 Def:6),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+511,0041200301,613,1,5,5,11:32 PM,2:27,Wade 1' Layup (19 PTS) (James 10 AST),,,96 - 96,TIE,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+512,0041200301,614,1,42,5,11:32 PM,2:10,,,George 1' Driving Layup (23 PTS),98 - 96,-2,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+513,0041200301,615,6,2,5,11:32 PM,2:10,James S.FOUL (P5.T3),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+514,0041200301,616,3,10,5,11:32 PM,2:10,,,George Free Throw 1 of 1 (24 PTS),99 - 96,-3,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+515,0041200301,618,9,1,5,11:33 PM,2:05,HEAT Timeout: Regular (Full 7 Short 2),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+516,0041200301,621,8,0,5,11:35 PM,2:05,SUB: Battier FOR Andersen,,,,,4.0,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+517,0041200301,622,8,0,5,11:35 PM,2:05,SUB: Allen FOR Cole,,,,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+518,0041200301,623,6,1,5,11:36 PM,1:54,,,Hill P.FOUL (P4.T2),,,5.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+519,0041200301,624,2,1,5,11:36 PM,1:40,MISS Battier 28' 3PT Jump Shot,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+520,0041200301,625,4,0,5,11:36 PM,1:39,,,George REBOUND (Off:0 Def:4),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+521,0041200301,626,2,1,5,11:36 PM,1:21,,,MISS Stephenson 25' 3PT Jump Shot,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+522,0041200301,627,4,0,5,11:37 PM,1:20,James REBOUND (Off:2 Def:7),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+523,0041200301,628,2,1,5,11:37 PM,1:04,MISS Bosh 24' 3PT Jump Shot,,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+524,0041200301,629,4,0,5,11:37 PM,1:03,James REBOUND (Off:3 Def:7),,,,,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+525,0041200301,630,2,1,5,11:37 PM,0:49,MISS Battier 25' 3PT Jump Shot,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+526,0041200301,632,4,0,5,11:37 PM,0:49,Bosh REBOUND (Off:1 Def:1),,,,,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+527,0041200301,631,1,4,5,11:37 PM,0:49,Bosh 1' Tip Shot (16 PTS),,,99 - 98,-1,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+528,0041200301,633,6,2,5,11:37 PM,0:49,,,George S.FOUL (P4.PN),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+529,0041200301,634,8,0,5,11:37 PM,0:49,SUB: Cole FOR Allen,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+530,0041200301,635,3,10,5,11:37 PM,0:49,Bosh Free Throw 1 of 1 (17 PTS),,,99 - 99,TIE,4.0,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+531,0041200301,637,9,2,5,11:38 PM,0:49,,,Pacers Timeout: Short (Reg.5 Short 4),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+532,0041200301,642,8,0,5,11:39 PM,0:49,SUB: Haslem FOR Battier,,,,,4.0,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+533,0041200301,643,2,47,5,11:40 PM,0:32,,,MISS West 17' Turnaround Jump Shot,,,5.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+534,0041200301,644,4,0,5,11:40 PM,0:31,Wade REBOUND (Off:3 Def:3),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+535,0041200301,645,9,1,5,11:40 PM,0:24,HEAT Timeout: Regular (Full 8 Short 2),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+536,0041200301,648,8,0,5,11:42 PM,0:24,SUB: Allen FOR Haslem,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+537,0041200301,649,8,0,5,11:42 PM,0:24,,,SUB: Young FOR Hibbert,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+538,0041200301,650,1,42,5,11:43 PM,0:10,James 2' Driving Layup (28 PTS),,,99 - 101,2,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+539,0041200301,651,9,1,5,11:43 PM,0:10,,,Pacers Timeout: Regular (Reg.6 Short 4),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+540,0041200301,654,8,0,5,11:45 PM,0:10,SUB: Haslem FOR Allen,,,,,4.0,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+541,0041200301,655,8,0,5,11:45 PM,0:10,,,SUB: Augustin FOR Stephenson,,,5.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+542,0041200301,656,8,0,5,11:45 PM,0:10,,,SUB: Hibbert FOR Young,,,5.0,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,5,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+543,0041200301,667,5,1,5,11:46 PM,0:09,Cole STEAL (1 STL),,George Bad Pass Turnover (P6.T20),,,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+544,0041200301,668,5,41,5,11:46 PM,0:06,Cole Poss Lost Ball Turnover (P5.T21),,Hill STEAL (5 STL),,,4.0,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+545,0041200301,658,6,2,5,11:46 PM,0:02,Wade S.FOUL (P6.PN),,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+546,0041200301,659,8,0,5,11:46 PM,0:02,SUB: Battier FOR Wade,,,,,4.0,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+547,0041200301,660,3,13,5,11:46 PM,0:02,,,George Free Throw 1 of 3 (25 PTS),100 - 101,1,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+548,0041200301,662,3,14,5,11:46 PM,0:02,,,George Free Throw 2 of 3 (26 PTS),101 - 101,TIE,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+549,0041200301,664,3,15,5,11:47 PM,0:02,,,George Free Throw 3 of 3 (27 PTS),102 - 101,-1,5.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+550,0041200301,666,9,2,5,11:47 PM,0:02,HEAT Timeout: Short (Full 8 Short 3),,,,,2.0,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+551,0041200301,669,8,0,5,11:48 PM,0:02,,,SUB: Young FOR Augustin,,,5.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,5,201970,Sam Young,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+552,0041200301,670,8,0,5,11:48 PM,0:02,SUB: Allen FOR Haslem,,,,,4.0,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+553,0041200301,671,9,2,5,11:48 PM,0:02,,,Pacers Timeout: Short (Reg.6 Short 5),,,3.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+554,0041200301,673,8,0,5,11:49 PM,0:02,,,SUB: T. Hansbrough FOR Hibbert,,,5.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+555,0041200301,676,1,5,5,11:49 PM,0:00,James 1' Layup (30 PTS),,,102 - 103,1,4.0,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+556,0041200301,677,18,0,5,11:50 PM,0:00,,Support Ruling,,,,,676,Thomas Hamilton,,,,,0,0,,,,,,1,0,,,,,,0
+557,0041200301,678,13,0,5,11:50 PM,0:00,,End of 1st OT (11:50 PM EST),,102 - 103,1,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

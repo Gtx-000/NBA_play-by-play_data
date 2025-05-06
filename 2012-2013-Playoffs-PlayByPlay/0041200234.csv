@@ -1,0 +1,547 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200234,0,12,0,1,3:37 PM,12:00,,Start of 1st Period (3:37 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200234,2,7,4,1,3:37 PM,12:00,,,Duncan Violation:Jump Ball,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+2,0041200234,1,10,0,1,3:37 PM,12:00,Jump Ball Bogut vs. Duncan: Tip to,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,2,1610612744,,,,,,0
+3,0041200234,3,1,78,1,3:37 PM,11:43,Thompson 7' Floating Jump Shot (2 PTS) (Curry 1 AST),,,0 - 2,2,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+4,0041200234,4,1,88,1,3:38 PM,11:25,,,Green 1' Driving Slam Dunk (2 PTS) (Leonard 1 AST),2 - 2,TIE,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+5,0041200234,5,2,80,1,3:38 PM,11:06,MISS Landry 19' Step Back Jump Shot,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+6,0041200234,6,4,0,1,3:38 PM,11:05,,,Duncan REBOUND (Off:0 Def:1),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+7,0041200234,7,2,79,1,3:38 PM,10:55,,,MISS Duncan 18' Pullup Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+8,0041200234,8,4,0,1,3:38 PM,10:54,Curry REBOUND (Off:0 Def:1),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+9,0041200234,9,1,80,1,3:38 PM,10:41,Thompson 13' Step Back Jump Shot (4 PTS) (Landry 1 AST),,,2 - 4,2,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+10,0041200234,10,2,79,1,3:39 PM,10:23,,,MISS Parker 20' Pullup Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+11,0041200234,11,4,0,1,3:39 PM,10:22,Landry REBOUND (Off:0 Def:1),,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+12,0041200234,12,6,2,1,3:39 PM,10:14,,,Duncan S.FOUL (P1.T1),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+13,0041200234,13,3,11,1,3:39 PM,10:14,MISS Landry Free Throw 1 of 2,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+14,0041200234,14,4,1,1,3:39 PM,10:14,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+15,0041200234,15,3,12,1,3:40 PM,10:14,Landry Free Throw 2 of 2 (1 PTS),,,2 - 5,3,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+16,0041200234,17,1,42,1,3:40 PM,10:00,,,Parker 1' Driving Layup (2 PTS),4 - 5,1,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+17,0041200234,18,2,1,1,3:40 PM,9:44,MISS Landry 10' Jump Shot,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+18,0041200234,19,4,0,1,3:40 PM,9:43,Bogut REBOUND (Off:1 Def:0),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+19,0041200234,20,1,79,1,3:40 PM,9:39,Curry 29' 3PT Pullup Jump Shot (3 PTS) (Bogut 1 AST),,,4 - 8,4,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+20,0041200234,21,6,4,1,3:41 PM,9:26,,,Splitter OFF.Foul (P1),,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+21,0041200234,22,5,5,1,3:41 PM,9:26,,,Splitter Foul Turnover (P1.T1),,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+22,0041200234,23,6,4,1,3:41 PM,9:20,Landry OFF.Foul (P1),,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+23,0041200234,24,5,5,1,3:41 PM,9:20,Landry Foul Turnover (P1.T1),,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+24,0041200234,25,1,85,1,3:41 PM,9:09,,,Duncan 14' Turnaround Bank Shot (2 PTS),6 - 8,2,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+25,0041200234,26,1,79,1,3:42 PM,8:59,Curry 28' 3PT Pullup Jump Shot (6 PTS),,,6 - 11,5,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+26,0041200234,27,7,5,1,3:42 PM,8:47,Thompson Violation:Kicked Ball,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+27,0041200234,28,6,2,1,3:42 PM,8:40,Landry S.FOUL (P2.T1),,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+28,0041200234,29,3,11,1,3:43 PM,8:40,,,Duncan Free Throw 1 of 2 (3 PTS),7 - 11,4,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+29,0041200234,31,3,12,1,3:43 PM,8:40,,,MISS Duncan Free Throw 2 of 2,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+30,0041200234,33,4,0,1,3:43 PM,8:38,Bogut REBOUND (Off:1 Def:1),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+31,0041200234,34,6,26,1,3:43 PM,8:24,Bogut Offensive Charge Foul (P1.T2),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+32,0041200234,35,5,5,1,3:43 PM,8:24,Bogut Foul Turnover (P1.T2),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+33,0041200234,36,1,47,1,3:44 PM,8:11,,,Duncan 16' Turnaround Jump Shot (5 PTS),9 - 11,2,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+34,0041200234,37,6,2,1,3:44 PM,8:11,Bogut S.FOUL (P2.T3),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+35,0041200234,38,6,11,1,3:44 PM,8:11,Bogut T.FOUL (P2.T3),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+36,0041200234,39,3,16,1,3:44 PM,8:11,,,Parker Free Throw Technical (3 PTS),10 - 11,1,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+37,0041200234,41,8,0,1,3:44 PM,8:11,,,SUB: Diaw FOR Splitter,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+38,0041200234,42,3,10,1,3:44 PM,8:11,,,Duncan Free Throw 1 of 1 (6 PTS),11 - 11,TIE,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+39,0041200234,44,2,79,1,3:45 PM,7:53,MISS Barnes 21' Pullup Jump Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+40,0041200234,45,4,0,1,3:45 PM,7:52,,,Leonard REBOUND (Off:0 Def:1),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+41,0041200234,46,5,21,1,3:45 PM,7:48,,,Leonard Palming Turnover (P1.T2),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+42,0041200234,47,8,0,1,3:45 PM,7:48,SUB: Lee FOR Landry,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+43,0041200234,48,2,79,1,3:46 PM,7:33,MISS Barnes 12' Pullup Jump Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+44,0041200234,49,4,0,1,3:46 PM,7:32,,,Duncan REBOUND (Off:0 Def:2),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+45,0041200234,50,5,1,1,3:46 PM,7:12,Lee STEAL (1 STL),,Diaw Bad Pass Turnover (P1.T3),,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+46,0041200234,51,2,1,1,3:46 PM,7:06,MISS Curry 26' 3PT Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+47,0041200234,52,4,0,1,3:46 PM,7:03,,,Duncan REBOUND (Off:0 Def:3),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+48,0041200234,53,2,79,1,3:46 PM,6:50,,,MISS Green 27' 3PT Pullup Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+49,0041200234,54,4,0,1,3:46 PM,6:49,Lee REBOUND (Off:0 Def:1),,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+50,0041200234,55,5,1,1,3:47 PM,6:43,Curry Bad Pass Turnover (P1.T3),,Duncan STEAL (1 STL),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+51,0041200234,56,2,47,1,3:47 PM,6:29,,,MISS Duncan 7' Turnaround Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+52,0041200234,57,4,0,1,3:47 PM,6:26,Bogut REBOUND (Off:1 Def:2),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+53,0041200234,58,2,1,1,3:47 PM,6:19,MISS Bogut 3' Jump Shot,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+54,0041200234,59,4,0,1,3:47 PM,6:19,,,Green REBOUND (Off:0 Def:1),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+55,0041200234,60,6,1,1,3:47 PM,6:19,Bogut P.FOUL (P3.T4),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+56,0041200234,61,9,1,1,3:47 PM,6:19,,,Spurs Timeout: Regular (Reg.1 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+57,0041200234,63,8,0,1,3:50 PM,6:19,SUB: Ezeli FOR Bogut,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+58,0041200234,64,8,0,1,3:50 PM,6:19,SUB: Jack FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+59,0041200234,65,8,0,1,3:50 PM,6:19,,,SUB: Ginobili FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+60,0041200234,67,2,86,1,3:51 PM,5:58,,,MISS Duncan 15' Turnaround Fadeaway Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+61,0041200234,68,4,0,1,3:51 PM,5:57,Lee REBOUND (Off:0 Def:2),,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+62,0041200234,69,2,1,1,3:51 PM,5:44,MISS Lee 18' Jump Shot,,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+63,0041200234,70,4,0,1,3:51 PM,5:43,,,Diaw REBOUND (Off:0 Def:1),,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+64,0041200234,71,5,1,1,3:51 PM,5:39,Jack STEAL (1 STL),,Diaw Bad Pass Turnover (P2.T4),,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+65,0041200234,72,2,79,1,3:51 PM,5:35,MISS Jack 15' Pullup Jump Shot,,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+66,0041200234,73,4,0,1,3:51 PM,5:33,,,Ginobili REBOUND (Off:0 Def:1),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+67,0041200234,74,2,78,1,3:52 PM,5:20,,,MISS Leonard 5' Floating Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+68,0041200234,75,4,0,1,3:52 PM,5:18,Ezeli REBOUND (Off:0 Def:1),,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+69,0041200234,76,2,1,1,3:52 PM,5:12,MISS Thompson 17' Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+70,0041200234,77,4,0,1,3:52 PM,5:08,,,Duncan REBOUND (Off:0 Def:4),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+71,0041200234,78,2,1,1,3:52 PM,4:55,,,MISS Parker 28' 3PT Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+72,0041200234,79,4,0,1,3:52 PM,4:54,Barnes REBOUND (Off:0 Def:1),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+73,0041200234,80,2,1,1,3:52 PM,4:42,MISS Barnes 25' 3PT Jump Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+74,0041200234,81,4,0,1,3:52 PM,4:41,Ezeli REBOUND (Off:1 Def:1),,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+75,0041200234,82,2,1,1,3:52 PM,4:37,MISS Ezeli 7' Jump Shot,,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+76,0041200234,83,4,0,1,3:52 PM,4:35,,,Leonard REBOUND (Off:0 Def:2),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+77,0041200234,84,6,2,1,3:53 PM,4:35,Lee S.FOUL (P1.PN),,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+78,0041200234,85,3,11,1,3:53 PM,4:35,,,MISS Ginobili Free Throw 1 of 2,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+79,0041200234,86,4,1,1,3:53 PM,4:35,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+80,0041200234,87,8,0,1,3:53 PM,4:35,,,SUB: Joseph FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+81,0041200234,88,3,12,1,3:53 PM,4:35,,,MISS Ginobili Free Throw 2 of 2,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+82,0041200234,89,4,0,1,3:53 PM,4:33,Lee REBOUND (Off:0 Def:3),,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+83,0041200234,90,6,1,1,3:54 PM,4:21,,,Joseph P.FOUL (P1.T2),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+84,0041200234,91,5,1,1,3:54 PM,4:19,Barnes Bad Pass Turnover (P1.T4),,Ginobili STEAL (1 STL),,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+85,0041200234,92,2,1,1,3:54 PM,4:02,,,MISS Duncan 19' Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+86,0041200234,93,4,0,1,3:54 PM,4:00,,,Diaw REBOUND (Off:1 Def:1),,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+87,0041200234,94,1,80,1,3:54 PM,3:56,,,Ginobili 28' 3PT Step Back Jump Shot (3 PTS) (Diaw 1 AST),14 - 11,-3,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+88,0041200234,95,2,1,1,3:55 PM,3:42,MISS Thompson 27' 3PT Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+89,0041200234,96,4,0,1,3:55 PM,3:41,Barnes REBOUND (Off:1 Def:1),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+90,0041200234,97,2,1,1,3:55 PM,3:32,MISS Jack 17' Jump Shot,,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+91,0041200234,98,4,0,1,3:55 PM,3:31,Barnes REBOUND (Off:2 Def:1),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+92,0041200234,99,2,1,1,3:55 PM,3:17,MISS Thompson 19' Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+93,0041200234,100,4,0,1,3:55 PM,3:16,Lee REBOUND (Off:1 Def:3),,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+94,0041200234,101,2,75,1,3:55 PM,3:14,MISS Thompson 2' Driving Finger Roll Layup,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+95,0041200234,102,4,0,1,3:55 PM,3:13,,,Joseph REBOUND (Off:0 Def:1),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+96,0041200234,103,6,2,1,3:55 PM,3:08,Lee S.FOUL (P2.PN),,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+97,0041200234,104,3,11,1,3:56 PM,3:08,,,Leonard Free Throw 1 of 2 (1 PTS),15 - 11,-4,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+98,0041200234,106,8,0,1,3:56 PM,3:08,SUB: Green FOR Lee,,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+99,0041200234,107,8,0,1,3:56 PM,3:08,SUB: Landry FOR Ezeli,,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+100,0041200234,108,8,0,1,3:56 PM,3:08,,,SUB: Splitter FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+101,0041200234,109,8,0,1,3:56 PM,3:08,SUB: Curry FOR Barnes,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+102,0041200234,110,3,12,1,3:56 PM,3:08,,,Leonard Free Throw 2 of 2 (2 PTS),16 - 11,-5,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+103,0041200234,112,5,2,1,3:57 PM,2:48,Landry Lost Ball Turnover (P2.T5),,Ginobili STEAL (2 STL),,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+104,0041200234,113,1,79,1,3:57 PM,2:35,,,Joseph 21' Pullup Jump Shot (2 PTS) (Diaw 2 AST),18 - 11,-7,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+105,0041200234,114,6,4,1,3:57 PM,2:24,Landry OFF.Foul (P3),,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+106,0041200234,115,5,5,1,3:57 PM,2:24,Landry Foul Turnover (P3.T6),,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+107,0041200234,116,9,1,1,3:57 PM,2:24,WARRIORS Timeout: Regular (Full 1 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+108,0041200234,117,8,0,1,4:01 PM,2:24,SUB: Barnes FOR Landry,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+109,0041200234,119,1,63,1,4:01 PM,2:06,,,Ginobili 14' Fadeaway Jumper (5 PTS) (Joseph 1 AST),20 - 11,-9,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+110,0041200234,120,1,42,1,4:02 PM,1:49,Barnes 2' Driving Layup (2 PTS) (Jack 1 AST),,,20 - 13,-7,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+111,0041200234,121,2,46,1,4:02 PM,1:35,,,MISS Joseph 6' Running Jump Shot,,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+112,0041200234,122,4,0,1,4:02 PM,1:34,Barnes REBOUND (Off:2 Def:2),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+113,0041200234,123,2,79,1,4:02 PM,1:26,MISS Barnes 20' Pullup Jump Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+114,0041200234,124,4,0,1,4:02 PM,1:23,Curry REBOUND (Off:1 Def:1),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+115,0041200234,125,6,2,1,4:02 PM,1:19,,,Joseph S.FOUL (P2.T3),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+116,0041200234,126,3,11,1,4:03 PM,1:19,Barnes Free Throw 1 of 2 (3 PTS),,,20 - 14,-6,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+117,0041200234,128,8,0,1,4:03 PM,1:19,,,SUB: Parker FOR Joseph,,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+118,0041200234,129,8,0,1,4:03 PM,1:19,,,SUB: Neal FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+119,0041200234,130,3,12,1,4:03 PM,1:19,Barnes Free Throw 2 of 2 (4 PTS),,,20 - 15,-5,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+120,0041200234,132,1,79,1,4:04 PM,1:03,,,Ginobili 25' 3PT Pullup Jump Shot (8 PTS) (Diaw 3 AST),23 - 15,-8,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+121,0041200234,133,1,88,1,4:04 PM,0:51,Barnes 1' Driving Slam Dunk (6 PTS) (Green 1 AST),,,23 - 17,-6,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+122,0041200234,134,2,63,1,4:04 PM,0:31,,,MISS Ginobili 11' Fadeaway Jumper,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+123,0041200234,135,4,0,1,4:04 PM,0:30,Green REBOUND (Off:0 Def:1),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+124,0041200234,136,1,75,1,4:05 PM,0:10,Barnes 2' Driving Finger Roll Layup (8 PTS) (Curry 2 AST),,,23 - 19,-4,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+125,0041200234,137,1,1,1,4:05 PM,0:02,,,Ginobili 24' 3PT Jump Shot (11 PTS) (Parker 1 AST),26 - 19,-7,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+126,0041200234,139,13,0,1,4:05 PM,0:00,,End of 1st Period (4:05 PM EST),,26 - 19,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+127,0041200234,141,12,0,2,4:09 PM,12:00,,Start of 2nd Period (4:09 PM EST),,26 - 19,-7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+128,0041200234,142,1,80,2,4:09 PM,11:45,,,Ginobili 27' 3PT Step Back Jump Shot (14 PTS) (Splitter 1 AST),29 - 19,-10,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+129,0041200234,143,5,1,2,4:09 PM,11:32,Jack Bad Pass Turnover (P1.T7),,Neal STEAL (1 STL),,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+130,0041200234,144,2,79,2,4:10 PM,11:24,,,MISS Neal 20' Pullup Jump Shot,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+131,0041200234,145,4,0,2,4:10 PM,11:24,Thompson REBOUND (Off:0 Def:1),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+132,0041200234,146,6,1,2,4:10 PM,11:24,,,Leonard P.FOUL (P1.T1),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+133,0041200234,147,6,1,2,4:10 PM,11:02,,,Neal P.FOUL (P1.T2),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+134,0041200234,148,2,5,2,4:11 PM,10:56,MISS Barnes 2' Layup,,Splitter BLOCK (1 BLK),,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0
+135,0041200234,149,4,0,2,4:11 PM,10:55,Barnes REBOUND (Off:3 Def:2),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+136,0041200234,150,2,5,2,4:11 PM,10:54,MISS Barnes 1' Layup,,Parker BLOCK (1 BLK),,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0
+137,0041200234,151,4,0,2,4:11 PM,10:54,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+138,0041200234,152,1,79,2,4:11 PM,10:49,Jack  3PT Pullup Jump Shot (3 PTS) (Barnes 1 AST),,,29 - 22,-7,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+139,0041200234,153,6,2,2,4:12 PM,10:30,Green S.FOUL (P1.T1),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+140,0041200234,154,3,11,2,4:12 PM,10:30,,,Parker Free Throw 1 of 2 (4 PTS),30 - 22,-8,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+141,0041200234,156,8,0,2,4:12 PM,10:30,,,SUB: Duncan FOR Splitter,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+142,0041200234,157,8,0,2,4:12 PM,10:30,,,SUB: Green FOR Ginobili,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+143,0041200234,158,8,0,2,4:12 PM,10:30,SUB: Biedrins FOR Thompson,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,2740,Andris Biedrins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+144,0041200234,159,3,12,2,4:12 PM,10:30,,,Parker Free Throw 2 of 2 (5 PTS),31 - 22,-9,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+145,0041200234,161,1,78,2,4:13 PM,10:17,Jack 8' Floating Jump Shot (5 PTS) (Green 2 AST),,,31 - 24,-7,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+146,0041200234,162,2,56,2,4:13 PM,9:53,,,MISS Parker 10' Running Hook Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+147,0041200234,163,4,0,2,4:13 PM,9:52,Jack REBOUND (Off:0 Def:1),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+148,0041200234,164,6,1,2,4:13 PM,9:46,,,Neal P.FOUL (P2.T3),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+149,0041200234,165,5,2,2,4:14 PM,9:35,Green Lost Ball Turnover (P1.T8),,Parker STEAL (1 STL),,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+150,0041200234,166,2,79,2,4:14 PM,9:29,,,MISS Neal 25' 3PT Pullup Jump Shot,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+151,0041200234,167,4,0,2,4:14 PM,9:27,Biedrins REBOUND (Off:0 Def:1),,,,,4,2740,Andris Biedrins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+152,0041200234,168,5,1,2,4:14 PM,9:21,Biedrins Bad Pass Turnover (P1.T9),,Green STEAL (1 STL),,,4,2740,Andris Biedrins,1610612744.0,Golden State,Warriors,GSW,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+153,0041200234,169,2,79,2,4:14 PM,9:08,,,MISS Green 27' 3PT Pullup Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+154,0041200234,170,4,0,2,4:14 PM,9:07,Biedrins REBOUND (Off:0 Def:2),,,,,4,2740,Andris Biedrins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+155,0041200234,171,2,42,2,4:15 PM,8:59,MISS Jack 2' Driving Layup,,Duncan BLOCK (1 BLK),,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0
+156,0041200234,172,4,0,2,4:15 PM,8:57,,,Duncan REBOUND (Off:0 Def:5),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+157,0041200234,173,2,1,2,4:15 PM,8:46,,,MISS Parker 24' 3PT Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+158,0041200234,174,4,0,2,4:15 PM,8:45,,,Duncan REBOUND (Off:1 Def:5),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+159,0041200234,175,6,1,2,4:15 PM,8:44,Jack P.FOUL (P1.T2),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+160,0041200234,176,9,4,2,4:15 PM,8:44,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+161,0041200234,178,8,0,2,4:18 PM,8:44,SUB: Thompson FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+162,0041200234,179,1,85,2,4:19 PM,8:28,,,Duncan 8' Turnaround Bank Shot (8 PTS),33 - 24,-9,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+163,0041200234,180,1,79,2,4:19 PM,8:10,Green 16' Pullup Jump Shot (2 PTS),,,33 - 26,-7,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+164,0041200234,181,6,2,2,4:19 PM,7:51,Biedrins S.FOUL (P1.T3),,,,,4,2740,Andris Biedrins,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+165,0041200234,182,3,11,2,4:20 PM,7:51,,,MISS Duncan Free Throw 1 of 2,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+166,0041200234,183,4,1,2,4:20 PM,7:51,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+167,0041200234,184,8,0,2,4:20 PM,7:51,,,SUB: Ginobili FOR Neal,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+168,0041200234,185,8,0,2,4:20 PM,7:51,,,SUB: Bonner FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+169,0041200234,186,3,12,2,4:20 PM,7:51,,,Duncan Free Throw 2 of 2 (9 PTS),34 - 26,-8,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+170,0041200234,188,6,2,2,4:21 PM,7:37,,,Bonner S.FOUL (P1.T4),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+171,0041200234,189,3,11,2,4:21 PM,7:37,Green Free Throw 1 of 2 (3 PTS),,,34 - 27,-7,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+172,0041200234,191,8,0,2,4:21 PM,7:37,SUB: Curry FOR Barnes,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+173,0041200234,193,8,0,2,4:21 PM,7:37,SUB: Ezeli FOR Biedrins,,,,,4,2740,Andris Biedrins,1610612744.0,Golden State,Warriors,GSW,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+174,0041200234,194,3,12,2,4:21 PM,7:37,MISS Green Free Throw 2 of 2,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+175,0041200234,196,4,0,2,4:22 PM,7:37,,,Duncan REBOUND (Off:1 Def:6),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+176,0041200234,197,6,1,2,4:22 PM,7:37,Ezeli P.FOUL (P1.T4),,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+177,0041200234,198,2,79,2,4:22 PM,7:20,,,MISS Duncan 19' Pullup Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+178,0041200234,199,4,0,2,4:22 PM,7:18,Thompson REBOUND (Off:0 Def:2),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+179,0041200234,200,2,79,2,4:22 PM,7:09,MISS Green  3PT Pullup Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+180,0041200234,201,4,0,2,4:22 PM,7:08,,,Green REBOUND (Off:0 Def:2),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+181,0041200234,202,6,1,2,4:23 PM,7:01,Ezeli P.FOUL (P2.PN),,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+182,0041200234,203,3,11,2,4:23 PM,7:01,,,MISS Parker Free Throw 1 of 2,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+183,0041200234,204,4,1,2,4:23 PM,7:01,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+184,0041200234,205,3,12,2,4:23 PM,7:01,,,Parker Free Throw 2 of 2 (6 PTS),35 - 27,-8,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+185,0041200234,208,2,79,2,4:24 PM,6:47,MISS Thompson 10' Pullup Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+186,0041200234,209,4,0,2,4:24 PM,6:46,,,Bonner REBOUND (Off:0 Def:1),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+187,0041200234,210,7,5,2,4:24 PM,6:42,Green Violation:Kicked Ball,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+188,0041200234,211,8,0,2,4:24 PM,6:42,SUB: Barnes FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+189,0041200234,212,2,1,2,4:24 PM,6:36,,,MISS Parker 4' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+190,0041200234,214,4,0,2,4:24 PM,6:35,,,Duncan REBOUND (Off:2 Def:6),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+191,0041200234,213,1,4,2,4:24 PM,6:35,,,Duncan 1' Tip Shot (11 PTS),37 - 27,-10,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+192,0041200234,215,1,46,2,4:25 PM,6:13,Jack 9' Running Jump Shot (7 PTS),,,37 - 29,-8,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+193,0041200234,216,1,46,2,4:25 PM,5:54,,,Duncan 7' Running Jump Shot (13 PTS) (Ginobili 1 AST),39 - 29,-10,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+194,0041200234,217,2,1,2,4:25 PM,5:37,MISS Barnes 16' Jump Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+195,0041200234,218,4,0,2,4:25 PM,5:35,Ezeli REBOUND (Off:2 Def:1),,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+196,0041200234,219,6,2,2,4:25 PM,5:35,,,Duncan S.FOUL (P2.PN),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+197,0041200234,220,9,1,2,4:25 PM,5:35,WARRIORS Timeout: Regular (Full 2 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+198,0041200234,222,8,0,2,4:29 PM,5:35,,,SUB: Joseph FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+199,0041200234,223,3,11,2,4:29 PM,5:35,MISS Ezeli Free Throw 1 of 2,,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+200,0041200234,224,4,1,2,4:29 PM,5:35,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+201,0041200234,225,3,12,2,4:29 PM,5:35,Ezeli Free Throw 2 of 2 (1 PTS),,,39 - 30,-9,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+202,0041200234,227,2,1,2,4:30 PM,5:20,,,MISS Ginobili 16' Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+203,0041200234,229,4,0,2,4:30 PM,5:19,,,Green REBOUND (Off:1 Def:2),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+204,0041200234,228,1,92,2,4:30 PM,5:19,,,Green 1' Putback Slam Dunk (4 PTS),41 - 30,-11,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+205,0041200234,230,6,2,2,4:30 PM,5:01,,,Ginobili S.FOUL (P1.PN),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+206,0041200234,231,3,11,2,4:30 PM,5:01,Barnes Free Throw 1 of 2 (9 PTS),,,41 - 31,-10,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+207,0041200234,233,8,0,2,4:31 PM,5:01,SUB: Jefferson FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,2210,Richard Jefferson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+208,0041200234,234,3,12,2,4:31 PM,5:01,Barnes Free Throw 2 of 2 (10 PTS),,,41 - 32,-9,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+209,0041200234,236,6,2,2,4:31 PM,4:43,Ezeli S.FOUL (P3.PN),,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+210,0041200234,237,3,11,2,4:32 PM,4:43,,,MISS Duncan Free Throw 1 of 2,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+211,0041200234,238,4,1,2,4:32 PM,4:43,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+212,0041200234,239,8,0,2,4:32 PM,4:43,SUB: Landry FOR Ezeli,,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+213,0041200234,240,8,0,2,4:32 PM,4:43,,,SUB: Leonard FOR Bonner,,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+214,0041200234,241,3,12,2,4:32 PM,4:43,,,Duncan Free Throw 2 of 2 (14 PTS),42 - 32,-10,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+215,0041200234,243,2,1,2,4:32 PM,4:29,MISS Jack 19' Jump Shot,,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+216,0041200234,244,4,0,2,4:32 PM,4:28,,,Leonard REBOUND (Off:0 Def:3),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+217,0041200234,245,2,1,2,4:33 PM,4:16,,,MISS Ginobili 26' 3PT Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+218,0041200234,246,4,0,2,4:33 PM,4:15,Jack REBOUND (Off:0 Def:2),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+219,0041200234,247,2,1,2,4:33 PM,4:01,MISS Jefferson 13' Jump Shot,,Duncan BLOCK (2 BLK),,,4,2210,Richard Jefferson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0
+220,0041200234,248,4,0,2,4:33 PM,3:59,,,Joseph REBOUND (Off:0 Def:2),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+221,0041200234,249,2,79,2,4:33 PM,3:42,,,MISS Ginobili 21' Pullup Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+222,0041200234,250,4,0,2,4:33 PM,3:41,,,Joseph REBOUND (Off:1 Def:2),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+223,0041200234,251,9,1,2,4:33 PM,3:39,,,Spurs Timeout: Regular (Reg.2 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+224,0041200234,253,8,0,2,4:36 PM,3:39,SUB: Ezeli FOR Landry,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+225,0041200234,254,2,47,2,4:36 PM,3:33,,,MISS Green 17' Turnaround Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+226,0041200234,255,4,0,2,4:36 PM,3:32,Barnes REBOUND (Off:3 Def:3),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+227,0041200234,256,1,42,2,4:37 PM,3:10,Jack 2' Driving Layup (9 PTS),,,42 - 34,-8,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+228,0041200234,257,5,1,2,4:37 PM,2:48,Thompson STEAL (1 STL),,Ginobili Bad Pass Turnover (P1.T5),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+229,0041200234,258,5,2,2,4:37 PM,2:45,Thompson Lost Ball Turnover (P1.T10),,Green STEAL (2 STL),,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+230,0041200234,259,2,1,2,4:37 PM,2:24,,,MISS Leonard 22' Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+231,0041200234,260,4,0,2,4:37 PM,2:23,Jack REBOUND (Off:0 Def:3),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+232,0041200234,261,6,1,2,4:38 PM,2:17,,,Joseph P.FOUL (P3.PN),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+233,0041200234,262,3,11,2,4:38 PM,2:17,Jack Free Throw 1 of 2 (10 PTS),,,42 - 35,-7,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+234,0041200234,264,8,0,2,4:38 PM,2:17,,,SUB: Splitter FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+235,0041200234,265,8,0,2,4:38 PM,2:17,,,SUB: Parker FOR Joseph,,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+236,0041200234,266,3,12,2,4:38 PM,2:17,Jack Free Throw 2 of 2 (11 PTS),,,42 - 36,-6,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+237,0041200234,268,1,42,2,4:39 PM,1:53,,,Leonard 3' Driving Layup (4 PTS),44 - 36,-8,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+238,0041200234,269,6,2,2,4:39 PM,1:43,,,Ginobili S.FOUL (P2.PN),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+239,0041200234,270,3,11,2,4:39 PM,1:43,MISS Jack Free Throw 1 of 2,,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+240,0041200234,271,4,1,2,4:39 PM,1:43,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+241,0041200234,272,3,12,2,4:40 PM,1:43,Jack Free Throw 2 of 2 (12 PTS),,,44 - 37,-7,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+242,0041200234,274,2,58,2,4:40 PM,1:21,,,MISS Splitter 11' Turnaround Hook Shot,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+243,0041200234,275,4,0,2,4:40 PM,1:20,Ezeli REBOUND (Off:2 Def:2),,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+244,0041200234,277,2,79,2,4:41 PM,0:59,MISS Barnes 25' 3PT Pullup Jump Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+245,0041200234,279,4,0,2,4:41 PM,0:57,Ezeli REBOUND (Off:3 Def:2),,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+246,0041200234,278,2,4,2,4:41 PM,0:57,MISS Ezeli 1' Tip Shot,,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+247,0041200234,280,4,0,2,4:41 PM,0:55,Ezeli REBOUND (Off:4 Def:2),,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+248,0041200234,281,2,79,2,4:41 PM,0:44,MISS Jack 22' Pullup Jump Shot,,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+249,0041200234,282,4,0,2,4:41 PM,0:42,,,Green REBOUND (Off:1 Def:3),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+250,0041200234,283,2,1,2,4:42 PM,0:29,,,MISS Ginobili 26' 3PT Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+251,0041200234,284,4,0,2,4:42 PM,0:29,,,Splitter REBOUND (Off:1 Def:0),,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+252,0041200234,285,6,1,2,4:42 PM,0:29,Ezeli P.FOUL (P4.PN),,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+253,0041200234,286,3,11,2,4:42 PM,0:29,,,Splitter Free Throw 1 of 2 (1 PTS),45 - 37,-8,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+254,0041200234,288,8,0,2,4:42 PM,0:29,SUB: Green FOR Ezeli,,,,,4,203105,Festus Ezeli,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+255,0041200234,289,3,12,2,4:42 PM,0:29,,,MISS Splitter Free Throw 2 of 2,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+256,0041200234,291,4,0,2,4:43 PM,0:26,Jack REBOUND (Off:0 Def:4),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+257,0041200234,295,2,42,2,4:43 PM,0:08,MISS Barnes 3' Driving Layup,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+258,0041200234,292,4,0,2,4:43 PM,0:07,,,Parker REBOUND (Off:0 Def:1),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+259,0041200234,293,6,4,2,4:43 PM,0:04,,,Parker OFF.Foul (P1),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,2210,Richard Jefferson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+260,0041200234,294,5,5,2,4:43 PM,0:04,,,Parker Foul Turnover (P1.T6),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+261,0041200234,296,8,0,2,4:43 PM,0:04,,,SUB: Joseph FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+262,0041200234,297,8,0,2,4:43 PM,0:04,SUB: Curry FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+263,0041200234,298,8,0,2,4:44 PM,0:04,,,SUB: Neal FOR Splitter,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+264,0041200234,299,6,26,2,4:44 PM,0:01,Jack Offensive Charge Foul (P2.PN),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+265,0041200234,300,5,5,2,4:44 PM,0:01,Jack Foul Turnover (P2.T11),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+266,0041200234,301,9,2,2,4:44 PM,0:01,,,Spurs Timeout: Short (Reg.2 Short 1),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+267,0041200234,303,8,0,2,4:45 PM,0:01,SUB: Green FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+268,0041200234,304,8,0,2,4:45 PM,0:01,SUB: Biedrins FOR Jefferson,,,,,4,2210,Richard Jefferson,1610612744.0,Golden State,Warriors,GSW,4,2740,Andris Biedrins,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+269,0041200234,305,8,0,2,4:45 PM,0:01,,,SUB: Duncan FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+270,0041200234,306,8,0,2,4:45 PM,0:01,,,SUB: Bonner FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+271,0041200234,307,5,1,2,4:45 PM,0:01,Barnes STEAL (1 STL),,Duncan Bad Pass Turnover (P1.T7),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+272,0041200234,308,13,0,2,4:46 PM,0:00,,End of 2nd Period (4:46 PM EST),,45 - 37,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+273,0041200234,310,12,0,3,5:04 PM,12:00,,Start of 3rd Period (5:04 PM EST),,45 - 37,-8,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+274,0041200234,311,2,1,3,5:04 PM,11:42,,,MISS Duncan 10' Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+275,0041200234,313,4,0,3,5:04 PM,11:40,,,Splitter REBOUND (Off:2 Def:0),,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+276,0041200234,312,1,80,3,5:04 PM,11:40,,,Splitter 4' Step Back Jump Shot (3 PTS),47 - 37,-10,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+277,0041200234,314,1,75,3,5:05 PM,11:21,Thompson 3' Driving Finger Roll Layup (6 PTS) (Landry 2 AST),,,47 - 39,-8,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+278,0041200234,315,5,36,3,5:05 PM,11:11,,,Leonard Illegal Screen Turnover (P2.T8),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+279,0041200234,317,2,1,3,5:06 PM,10:54,MISS Landry 18' Jump Shot,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+280,0041200234,319,4,0,3,5:06 PM,10:51,Bogut REBOUND (Off:2 Def:2),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+281,0041200234,318,2,5,3,5:06 PM,10:51,MISS Bogut 2' Layup,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+282,0041200234,320,4,0,3,5:06 PM,10:49,Bogut REBOUND (Off:3 Def:2),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+283,0041200234,321,2,1,3,5:06 PM,10:45,MISS Thompson 27' 3PT Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+284,0041200234,322,4,0,3,5:06 PM,10:44,,,Duncan REBOUND (Off:2 Def:7),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+285,0041200234,323,2,1,3,5:06 PM,10:28,,,MISS Splitter 5' Jump Shot,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+286,0041200234,324,4,0,3,5:06 PM,10:27,Bogut REBOUND (Off:3 Def:3),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+287,0041200234,325,1,79,3,5:06 PM,10:10,Barnes 11' Pullup Jump Shot (12 PTS),,,47 - 41,-6,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+288,0041200234,326,2,1,3,5:07 PM,9:51,,,MISS Leonard  3PT Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+289,0041200234,327,4,0,3,5:07 PM,9:50,Bogut REBOUND (Off:3 Def:4),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+290,0041200234,328,1,1,3,5:07 PM,9:45,Curry 27' 3PT Jump Shot (9 PTS),,,47 - 44,-3,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+291,0041200234,329,1,79,3,5:07 PM,9:23,,,Green  3PT Pullup Jump Shot (7 PTS) (Leonard 2 AST),50 - 44,-6,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+292,0041200234,330,1,80,3,5:07 PM,9:12,Curry 27' 3PT Step Back Jump Shot (12 PTS),,,50 - 47,-3,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+293,0041200234,331,2,1,3,5:07 PM,8:56,,,MISS Leonard 24' 3PT Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+294,0041200234,332,4,0,3,5:08 PM,8:55,,,Green REBOUND (Off:2 Def:3),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+295,0041200234,333,2,1,3,5:08 PM,8:48,,,MISS Green 26' 3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+296,0041200234,334,4,0,3,5:08 PM,8:47,Landry REBOUND (Off:0 Def:2),,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+297,0041200234,335,6,2,3,5:08 PM,8:37,,,Parker S.FOUL (P2.T1),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+298,0041200234,336,3,11,3,5:08 PM,8:37,Curry Free Throw 1 of 2 (13 PTS),,,50 - 48,-2,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+299,0041200234,338,3,12,3,5:08 PM,8:37,Curry Free Throw 2 of 2 (14 PTS),,,50 - 49,-1,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+300,0041200234,340,6,2,3,5:09 PM,8:20,Curry S.FOUL (P1.T1),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+301,0041200234,341,3,11,3,5:09 PM,8:20,,,MISS Duncan Free Throw 1 of 2,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+302,0041200234,342,4,1,3,5:09 PM,8:20,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+303,0041200234,343,3,12,3,5:09 PM,8:20,,,Duncan Free Throw 2 of 2 (15 PTS),51 - 49,-2,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+304,0041200234,345,2,66,3,5:10 PM,7:58,MISS Barnes 5' Jump Bank Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+305,0041200234,347,4,0,3,5:10 PM,7:57,Bogut REBOUND (Off:4 Def:4),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+306,0041200234,346,2,5,3,5:10 PM,7:57,MISS Bogut  Layup,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+307,0041200234,348,4,0,3,5:10 PM,7:54,,,Parker REBOUND (Off:0 Def:2),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+308,0041200234,349,2,79,3,5:10 PM,7:41,,,MISS Duncan 19' Pullup Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+309,0041200234,350,4,0,3,5:10 PM,7:40,Barnes REBOUND (Off:3 Def:4),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+310,0041200234,351,6,4,3,5:11 PM,7:35,Barnes OFF.Foul (P1),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+311,0041200234,352,5,5,3,5:11 PM,7:35,Barnes Foul Turnover (P2.T12),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+312,0041200234,354,2,75,3,5:11 PM,7:14,,,MISS Parker 2' Driving Finger Roll Layup,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+313,0041200234,355,4,0,3,5:11 PM,7:13,Bogut REBOUND (Off:4 Def:5),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+314,0041200234,356,6,4,3,5:11 PM,7:02,Bogut OFF.Foul (P4),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+315,0041200234,357,5,5,3,5:11 PM,7:02,Bogut Foul Turnover (P2.T13),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+316,0041200234,358,9,1,3,5:12 PM,7:02,WARRIORS Timeout: Regular (Full 3 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+317,0041200234,360,8,0,3,5:15 PM,7:02,,,SUB: Ginobili FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+318,0041200234,361,8,0,3,5:15 PM,7:02,,,SUB: Diaw FOR Splitter,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+319,0041200234,363,2,1,3,5:16 PM,6:41,,,MISS Duncan 13' Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+320,0041200234,364,4,0,3,5:16 PM,6:40,Bogut REBOUND (Off:4 Def:6),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+321,0041200234,365,2,5,3,5:16 PM,6:23,MISS Landry 3' Layup,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+322,0041200234,366,4,0,3,5:16 PM,6:21,Barnes REBOUND (Off:4 Def:4),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+323,0041200234,367,2,5,3,5:16 PM,6:20,MISS Barnes 2' Layup,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+324,0041200234,368,4,0,3,5:16 PM,6:20,Landry REBOUND (Off:1 Def:2),,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+325,0041200234,369,1,5,3,5:16 PM,6:20,Landry 1' Layup (3 PTS),,,51 - 51,TIE,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+326,0041200234,370,6,2,3,5:16 PM,6:20,,,Duncan S.FOUL (P3.T2),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+327,0041200234,371,3,10,3,5:16 PM,6:20,Landry Free Throw 1 of 1 (4 PTS),,,51 - 52,1,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+328,0041200234,373,2,1,3,5:17 PM,6:07,,,MISS Diaw 19' Jump Shot,,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+329,0041200234,374,4,0,3,5:17 PM,6:06,Curry REBOUND (Off:1 Def:2),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+330,0041200234,375,1,1,3,5:17 PM,5:58,Barnes 27' 3PT Jump Shot (15 PTS) (Curry 3 AST),,,51 - 55,4,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+331,0041200234,376,1,84,3,5:17 PM,5:42,,,Parker 6' Running Bank Shot (8 PTS),53 - 55,2,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+332,0041200234,377,6,2,3,5:17 PM,5:42,Thompson S.FOUL (P1.T2),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+333,0041200234,378,3,10,3,5:18 PM,5:42,,,Parker Free Throw 1 of 1 (9 PTS),54 - 55,1,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+334,0041200234,380,2,80,3,5:18 PM,5:30,MISS Curry 28' 3PT Step Back Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+335,0041200234,381,4,0,3,5:18 PM,5:29,,,Diaw REBOUND (Off:1 Def:2),,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+336,0041200234,382,2,79,3,5:18 PM,5:18,,,MISS Diaw 17' Pullup Jump Shot,,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+337,0041200234,383,4,0,3,5:18 PM,5:17,Landry REBOUND (Off:1 Def:3),,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+338,0041200234,384,5,41,3,5:18 PM,5:01,Bogut Poss Lost Ball Turnover (P3.T14),,Ginobili STEAL (3 STL),,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+339,0041200234,386,2,58,3,5:19 PM,4:47,,,MISS Duncan 9' Turnaround Hook Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+340,0041200234,387,4,0,3,5:19 PM,4:46,Thompson REBOUND (Off:0 Def:3),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+341,0041200234,388,5,1,3,5:19 PM,4:35,Bogut Bad Pass Turnover (P4.T15),,Duncan STEAL (2 STL),,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+342,0041200234,389,1,78,3,5:19 PM,4:31,,,Parker 6' Floating Jump Shot (11 PTS) (Duncan 1 AST),56 - 55,-1,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+343,0041200234,390,1,84,3,5:19 PM,4:02,Curry 14' Running Bank Shot (16 PTS) (Landry 3 AST),,,56 - 57,1,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+344,0041200234,391,9,1,3,5:20 PM,3:54,,,Spurs Timeout: Regular (Reg.3 Short 1),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0041200234,393,8,0,3,5:23 PM,3:54,,,SUB: Leonard FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+346,0041200234,394,8,0,3,5:23 PM,3:54,,,SUB: Joseph FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+347,0041200234,396,2,79,3,5:24 PM,3:40,,,MISS Diaw 26' 3PT Pullup Jump Shot,,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+348,0041200234,397,4,0,3,5:24 PM,3:39,Bogut REBOUND (Off:4 Def:7),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+349,0041200234,398,5,1,3,5:24 PM,3:21,Curry Bad Pass Turnover (P2.T16),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,1,0,,,,,,0
+350,0041200234,399,8,0,3,5:24 PM,3:21,,,SUB: Neal FOR Diaw,,,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+351,0041200234,400,1,65,3,5:25 PM,3:05,,,Duncan 9' Jump Hook Shot (17 PTS),58 - 57,-1,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+352,0041200234,401,2,58,3,5:25 PM,2:46,MISS Barnes 9' Turnaround Hook Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+353,0041200234,402,4,0,3,5:25 PM,2:45,,,Leonard REBOUND (Off:0 Def:4),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+354,0041200234,403,2,79,3,5:25 PM,2:37,,,MISS Leonard 20' Pullup Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+355,0041200234,404,4,0,3,5:25 PM,2:36,Curry REBOUND (Off:1 Def:3),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+356,0041200234,405,2,1,3,5:26 PM,2:27,MISS Landry 18' Jump Shot,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+357,0041200234,406,4,0,3,5:26 PM,2:25,,,Neal REBOUND (Off:0 Def:1),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+358,0041200234,407,5,2,3,5:26 PM,2:20,Thompson STEAL (2 STL),,Neal Lost Ball Turnover (P1.T9),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+359,0041200234,408,1,5,3,5:26 PM,2:14,Bogut 1' Layup (2 PTS) (Thompson 1 AST),,,58 - 59,1,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+360,0041200234,409,5,1,3,5:26 PM,1:57,,,Ginobili Bad Pass Turnover (P2.T10),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+361,0041200234,410,8,0,3,5:26 PM,1:57,SUB: Jack FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+362,0041200234,411,8,0,3,5:26 PM,1:57,,,SUB: Parker FOR Joseph,,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+363,0041200234,412,6,1,3,5:27 PM,1:45,,,Leonard P.FOUL (P2.T3),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+364,0041200234,413,6,28,3,5:27 PM,1:44,,,Neal Personal Take Foul (P3.PN),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+365,0041200234,414,3,11,3,5:28 PM,1:44,Bogut Free Throw 1 of 2 (3 PTS),,,58 - 60,2,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+366,0041200234,416,3,12,3,5:28 PM,1:44,MISS Bogut Free Throw 2 of 2,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+367,0041200234,418,4,0,3,5:28 PM,1:42,,,Duncan REBOUND (Off:2 Def:8),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+368,0041200234,419,2,95,3,5:28 PM,1:27,,,MISS Duncan 6' Running Bank Hook Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+369,0041200234,420,4,0,3,5:28 PM,1:26,Bogut REBOUND (Off:4 Def:8),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+370,0041200234,421,9,1,3,5:29 PM,1:18,WARRIORS Timeout: Regular (Full 4 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+371,0041200234,423,8,0,3,5:30 PM,1:18,,,SUB: Splitter FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+372,0041200234,424,8,0,3,5:31 PM,1:18,SUB: Lee FOR Bogut,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+373,0041200234,425,5,1,3,5:31 PM,1:17,Barnes Bad Pass Turnover (P3.T17),,Splitter STEAL (1 STL),,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+374,0041200234,426,1,80,3,5:31 PM,1:02,,,Ginobili 20' Step Back Jump Shot (16 PTS),60 - 60,TIE,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+375,0041200234,427,2,1,3,5:32 PM,0:40,MISS Barnes 10' Jump Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+376,0041200234,428,4,0,3,5:32 PM,0:38,Barnes REBOUND (Off:5 Def:4),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+377,0041200234,429,5,2,3,5:32 PM,0:36,Barnes Lost Ball Turnover (P4.T18),,Leonard STEAL (1 STL),,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+378,0041200234,430,2,1,3,5:32 PM,0:26,,,MISS Ginobili 14' Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+379,0041200234,431,4,0,3,5:32 PM,0:25,Lee REBOUND (Off:1 Def:4),,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+380,0041200234,432,2,1,3,5:32 PM,0:11,MISS Landry 10' Jump Shot,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+381,0041200234,433,4,0,3,5:32 PM,0:10,,,Parker REBOUND (Off:0 Def:3),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+382,0041200234,434,1,1,3,5:32 PM,0:03,,,Parker 16' Jump Shot (13 PTS),62 - 60,-2,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+383,0041200234,435,13,0,3,5:33 PM,0:00,,End of 3rd Period (5:33 PM EST),,62 - 60,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+384,0041200234,437,12,0,4,5:36 PM,12:00,,Start of 4th Period (5:36 PM EST),,62 - 60,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+385,0041200234,438,2,57,4,5:37 PM,11:44,MISS Lee 9' Driving Hook Shot,,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+386,0041200234,439,4,0,4,5:37 PM,11:42,,,Neal REBOUND (Off:0 Def:2),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+387,0041200234,440,1,44,4,5:37 PM,11:32,,,Leonard 1' Reverse Layup (6 PTS) (Splitter 2 AST),64 - 60,-4,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+388,0041200234,441,2,79,4,5:37 PM,11:17,MISS Thompson 16' Pullup Jump Shot,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+389,0041200234,442,4,0,4,5:37 PM,11:14,,,Leonard REBOUND (Off:0 Def:5),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+390,0041200234,443,1,42,4,5:37 PM,11:04,,,Splitter 1' Driving Layup (5 PTS) (Parker 2 AST),66 - 60,-6,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+391,0041200234,444,2,47,4,5:38 PM,10:38,MISS Barnes 12' Turnaround Jump Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+392,0041200234,445,4,0,4,5:38 PM,10:36,,,Ginobili REBOUND (Off:0 Def:2),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+393,0041200234,446,1,83,4,5:38 PM,10:24,,,Leonard 4' Fadeaway Bank Shot (8 PTS) (Splitter 3 AST),68 - 60,-8,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+394,0041200234,447,1,88,4,5:38 PM,10:09,Barnes  Driving Slam Dunk (17 PTS) (Landry 4 AST),,,68 - 62,-6,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+395,0041200234,448,6,2,4,5:38 PM,10:09,,,Neal S.FOUL (P4.T1),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+396,0041200234,450,8,0,4,5:39 PM,10:09,,,SUB: Green FOR Ginobili,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+397,0041200234,451,8,0,4,5:39 PM,10:09,SUB: Curry FOR Lee,,,,,4,101135,David Lee,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+398,0041200234,453,8,0,4,5:39 PM,10:09,,,SUB: Duncan FOR Splitter,,,5,201168,Tiago Splitter,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+399,0041200234,454,8,0,4,5:39 PM,10:09,SUB: Bogut FOR Landry,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+400,0041200234,455,3,10,4,5:39 PM,10:09,Barnes Free Throw 1 of 1 (18 PTS),,,68 - 63,-5,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+401,0041200234,457,2,1,4,5:40 PM,9:54,,,MISS Parker 9' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+402,0041200234,458,4,0,4,5:40 PM,9:52,Jack REBOUND (Off:0 Def:5),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+403,0041200234,459,2,79,4,5:40 PM,9:47,MISS Curry 27' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+404,0041200234,460,4,0,4,5:40 PM,9:45,,,Neal REBOUND (Off:0 Def:3),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+405,0041200234,461,6,1,4,5:40 PM,9:38,Curry P.FOUL (P2.T1),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+406,0041200234,462,2,81,4,5:41 PM,9:23,,,MISS Parker 18' Pullup Bank Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+407,0041200234,463,4,0,4,5:41 PM,9:22,Bogut REBOUND (Off:4 Def:9),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+408,0041200234,464,2,1,4,5:41 PM,9:14,MISS Jack 18' Jump Shot,,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+409,0041200234,465,4,0,4,5:41 PM,9:13,,,Duncan REBOUND (Off:2 Def:9),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+410,0041200234,466,1,79,4,5:41 PM,9:00,,,Duncan 18' Pullup Jump Shot (19 PTS) (Parker 3 AST),70 - 63,-7,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+411,0041200234,467,1,42,4,5:41 PM,8:41,Barnes 2' Driving Layup (20 PTS),,,70 - 65,-5,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+412,0041200234,468,9,1,4,5:42 PM,8:39,,,Spurs Timeout: Regular (Reg.4 Short 1),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+413,0041200234,470,2,79,4,5:46 PM,8:21,,,MISS Green 25' 3PT Pullup Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+414,0041200234,471,4,0,4,5:46 PM,8:20,Jack REBOUND (Off:0 Def:6),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+415,0041200234,472,1,79,4,5:46 PM,8:05,Barnes 16' Pullup Jump Shot (22 PTS) (Jack 2 AST),,,70 - 67,-3,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+416,0041200234,473,1,79,4,5:46 PM,7:50,,,Parker 17' Pullup Jump Shot (15 PTS) (Neal 1 AST),72 - 67,-5,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+417,0041200234,474,1,79,4,5:46 PM,7:35,Curry  3PT Pullup Jump Shot (19 PTS) (Jack 3 AST),,,72 - 70,-2,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+418,0041200234,475,6,1,4,5:47 PM,7:14,Jack P.FOUL (P3.T2),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+419,0041200234,476,8,0,4,5:47 PM,7:14,,,SUB: Ginobili FOR Neal,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+420,0041200234,477,2,1,4,5:47 PM,7:08,,,MISS Parker 17' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+421,0041200234,478,4,0,4,5:47 PM,7:07,Bogut REBOUND (Off:4 Def:10),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+422,0041200234,479,2,79,4,5:48 PM,6:54,MISS Curry 25' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+423,0041200234,480,4,0,4,5:48 PM,6:53,,,Ginobili REBOUND (Off:0 Def:3),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+424,0041200234,481,6,2,4,5:48 PM,6:48,Thompson S.FOUL (P2.T3),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+425,0041200234,482,3,11,4,5:48 PM,6:48,,,MISS Leonard Free Throw 1 of 2,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+426,0041200234,483,4,1,4,5:48 PM,6:48,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+427,0041200234,484,8,0,4,5:48 PM,6:48,,,SUB: Neal FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+428,0041200234,485,3,12,4,5:48 PM,6:48,,,Leonard Free Throw 2 of 2 (9 PTS),73 - 70,-3,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+429,0041200234,487,2,47,4,5:49 PM,6:30,MISS Barnes 15' Turnaround Jump Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+430,0041200234,488,4,0,4,5:49 PM,6:30,,,Ginobili REBOUND (Off:0 Def:4),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+431,0041200234,489,1,42,4,5:49 PM,6:22,,,Ginobili 3' Driving Layup (18 PTS),75 - 70,-5,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+432,0041200234,490,6,1,4,5:49 PM,6:06,,,Neal P.FOUL (P5.T2),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+433,0041200234,491,1,58,4,5:50 PM,5:59,Bogut 2' Turnaround Hook Shot (5 PTS) (Thompson 2 AST),,,75 - 72,-3,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+434,0041200234,492,1,80,4,5:50 PM,5:46,,,Ginobili 27' 3PT Step Back Jump Shot (21 PTS),78 - 72,-6,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+435,0041200234,494,9,4,4,5:51 PM,5:26,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+436,0041200234,496,6,1,4,5:55 PM,5:22,,,Leonard P.FOUL (P3.T3),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+437,0041200234,497,2,63,4,5:55 PM,5:11,MISS Thompson 12' Fadeaway Jumper,,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+438,0041200234,498,4,0,4,5:55 PM,5:10,,,Neal REBOUND (Off:0 Def:4),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+439,0041200234,499,2,79,4,5:55 PM,4:51,,,MISS Green  3PT Pullup Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+440,0041200234,500,4,0,4,5:55 PM,4:50,,,Leonard REBOUND (Off:1 Def:5),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+441,0041200234,501,1,5,4,5:55 PM,4:49,,,Leonard 1' Layup (11 PTS),80 - 72,-8,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+442,0041200234,502,1,79,4,5:56 PM,4:36,Jack 20' Pullup Jump Shot (14 PTS),,,80 - 74,-6,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+443,0041200234,503,2,79,4,5:56 PM,4:19,,,MISS Ginobili 27' 3PT Pullup Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+444,0041200234,504,4,0,4,5:56 PM,4:18,Bogut REBOUND (Off:4 Def:11),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+445,0041200234,505,1,86,4,5:56 PM,4:04,Jack 11' Turnaround Fadeaway (16 PTS),,,80 - 76,-4,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+446,0041200234,506,1,42,4,5:56 PM,3:44,,,Neal 3' Driving Layup (2 PTS) (Ginobili 2 AST),82 - 76,-6,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+447,0041200234,507,1,79,4,5:57 PM,3:27,Jack 16' Pullup Jump Shot (18 PTS),,,82 - 78,-4,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+448,0041200234,508,2,85,4,5:57 PM,3:05,,,MISS Duncan 14' Turnaround Bank Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+449,0041200234,509,4,0,4,5:57 PM,3:04,Barnes REBOUND (Off:5 Def:5),,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+450,0041200234,510,9,1,4,5:57 PM,2:56,WARRIORS Timeout: Regular (Full 5 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+451,0041200234,512,8,0,4,6:00 PM,2:56,,,SUB: Parker FOR Neal,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+452,0041200234,513,6,28,4,6:01 PM,2:49,,,Green Personal Take Foul (P1.T4),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+453,0041200234,514,8,0,4,6:01 PM,2:49,SUB: Landry FOR Bogut,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+454,0041200234,515,2,46,4,6:02 PM,2:40,MISS Barnes 4' Running Jump Shot,,Ginobili BLOCK (1 BLK),,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0
+455,0041200234,516,4,0,4,6:02 PM,2:39,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+456,0041200234,517,2,5,4,6:02 PM,2:37,MISS Landry 3' Layup,,Ginobili BLOCK (2 BLK),,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0
+457,0041200234,518,4,0,4,6:02 PM,2:36,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+458,0041200234,519,1,79,4,6:02 PM,2:34,Thompson 18' Pullup Jump Shot (8 PTS) (Jack 4 AST),,,82 - 80,-2,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+459,0041200234,520,2,86,4,6:03 PM,2:09,,,MISS Duncan 12' Turnaround Fadeaway Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+460,0041200234,521,4,0,4,6:03 PM,2:08,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+461,0041200234,522,8,0,4,6:03 PM,2:08,SUB: Bogut FOR Landry,,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+462,0041200234,523,2,79,4,6:04 PM,1:54,,,MISS Parker 17' Pullup Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+463,0041200234,524,4,0,4,6:04 PM,1:53,Thompson REBOUND (Off:0 Def:4),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+464,0041200234,526,2,42,4,6:05 PM,1:35,MISS Curry 2' Driving Layup,,Green BLOCK (1 BLK),,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0
+465,0041200234,527,4,0,4,6:05 PM,1:33,,,Parker REBOUND (Off:0 Def:4),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+466,0041200234,528,2,58,4,6:05 PM,1:16,Bogut BLOCK (1 BLK),,MISS Duncan 9' Turnaround Hook Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0
+467,0041200234,529,4,0,4,6:05 PM,1:14,,,Duncan REBOUND (Off:3 Def:9),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+468,0041200234,530,2,1,4,6:05 PM,1:12,,,MISS Duncan 6' Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+469,0041200234,531,4,0,4,6:05 PM,1:10,Bogut REBOUND (Off:4 Def:12),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+470,0041200234,532,1,79,4,6:05 PM,0:58,Jack 18' Pullup Jump Shot (20 PTS) (Bogut 2 AST),,,82 - 82,TIE,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+471,0041200234,533,1,79,4,6:06 PM,0:39,,,Parker 15' Pullup Jump Shot (17 PTS),84 - 82,-2,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+472,0041200234,534,9,1,4,6:06 PM,0:39,WARRIORS Timeout: Regular (Full 6 Short 0),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+473,0041200234,538,1,84,4,6:08 PM,0:30,Thompson 5' Running Bank Shot (10 PTS),,,84 - 84,TIE,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+474,0041200234,539,9,1,4,6:08 PM,0:30,,,Spurs Timeout: Regular (Reg.5 Short 1),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+475,0041200234,541,8,0,4,6:10 PM,0:30,SUB: Green FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+476,0041200234,542,2,1,4,6:11 PM,0:20,,,MISS Ginobili 26' 3PT Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+477,0041200234,543,4,0,4,6:11 PM,0:19,Jack REBOUND (Off:0 Def:7),,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+478,0041200234,544,9,2,4,6:11 PM,0:16,WARRIORS Timeout: Short (Full 6 Short 1),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+479,0041200234,545,8,0,4,6:12 PM,0:16,SUB: Curry FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+480,0041200234,546,8,0,4,6:12 PM,0:16,,,SUB: Diaw FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2564,Boris Diaw,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+481,0041200234,547,2,80,4,6:13 PM,0:02,MISS Jack 18' Step Back Jump Shot,,,,,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+482,0041200234,548,4,0,4,6:13 PM,0:00,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+483,0041200234,549,13,0,4,6:14 PM,0:00,,End of 4th Period (6:14 PM EST),,84 - 84,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+484,0041200234,551,12,0,5,6:17 PM,5:00,,Start of 1st OT (6:17 PM EST),,84 - 84,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+485,0041200234,552,10,0,5,6:17 PM,5:00,Jump Ball Bogut vs. Duncan: Tip to Curry,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0
+486,0041200234,553,1,1,5,6:17 PM,4:43,Jack 14' Jump Shot (22 PTS),,,84 - 86,2,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+487,0041200234,554,6,1,5,6:17 PM,4:39,Thompson P.FOUL (P3.T1),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+488,0041200234,555,2,1,5,6:18 PM,4:24,,,MISS Ginobili 4' Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+489,0041200234,556,4,0,5,6:18 PM,4:23,Bogut REBOUND (Off:4 Def:13),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+490,0041200234,557,6,2,5,6:18 PM,4:21,,,Parker S.FOUL (P3.T1),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+491,0041200234,558,3,11,5,6:18 PM,4:21,Barnes Free Throw 1 of 2 (23 PTS),,,84 - 87,3,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+492,0041200234,560,3,12,5,6:18 PM,4:21,Barnes Free Throw 2 of 2 (24 PTS),,,84 - 88,4,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+493,0041200234,562,2,1,5,6:19 PM,4:05,,,MISS Ginobili 27' 3PT Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+494,0041200234,563,4,0,5,6:19 PM,4:05,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+495,0041200234,564,2,77,5,6:19 PM,3:44,MISS Barnes 9' Driving Jump Shot,,,,,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+496,0041200234,565,4,0,5,6:19 PM,3:43,Bogut REBOUND (Off:5 Def:13),,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+497,0041200234,566,2,79,5,6:19 PM,3:40,MISS Curry 26' 3PT Pullup Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+498,0041200234,567,4,0,5,6:19 PM,3:38,,,Duncan REBOUND (Off:3 Def:10),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+499,0041200234,568,6,1,5,6:20 PM,3:31,Thompson P.FOUL (P4.T2),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+500,0041200234,569,2,1,5,6:20 PM,3:22,,,MISS Leonard  3PT Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+501,0041200234,571,4,0,5,6:20 PM,3:21,,,Green REBOUND (Off:3 Def:3),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+502,0041200234,570,2,4,5,6:20 PM,3:21,,,MISS Green 1' Tip Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+503,0041200234,572,4,0,5,6:20 PM,3:21,,,Green REBOUND (Off:4 Def:3),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+504,0041200234,573,6,2,5,6:21 PM,3:21,Thompson S.FOUL (P5.T3),,,,,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+505,0041200234,574,3,11,5,6:21 PM,3:21,,,MISS Green Free Throw 1 of 2,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+506,0041200234,575,4,1,5,6:21 PM,3:21,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+507,0041200234,576,3,12,5,6:21 PM,3:21,,,MISS Green Free Throw 2 of 2,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+508,0041200234,578,4,0,5,6:21 PM,3:20,,,Duncan REBOUND (Off:4 Def:10),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+509,0041200234,579,2,1,5,6:21 PM,3:12,,,MISS Parker 27' 3PT Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+510,0041200234,581,4,0,5,6:21 PM,3:10,,,Leonard REBOUND (Off:2 Def:5),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+511,0041200234,580,2,5,5,6:21 PM,3:10,,,MISS Leonard  Layup,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+512,0041200234,582,4,0,5,6:21 PM,3:08,,,Leonard REBOUND (Off:3 Def:5),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+513,0041200234,583,5,1,5,6:21 PM,3:06,Thompson STEAL (3 STL),,Leonard Bad Pass Turnover (P3.T11),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+514,0041200234,584,6,1,5,6:22 PM,3:03,,,Green P.FOUL (P2.T2),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,202691,Klay Thompson,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+515,0041200234,585,8,0,5,6:22 PM,3:03,SUB: Landry FOR Bogut,,,,,4,101106,Andrew Bogut,1610612744.0,Golden State,Warriors,GSW,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+516,0041200234,586,2,1,5,6:22 PM,2:49,MISS Curry 18' Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+517,0041200234,587,4,0,5,6:22 PM,2:48,Landry REBOUND (Off:2 Def:3),,,,,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+518,0041200234,588,2,78,5,6:22 PM,2:42,MISS Curry 5' Floating Jump Shot,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+519,0041200234,589,4,0,5,6:22 PM,2:40,Curry REBOUND (Off:2 Def:3),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+520,0041200234,590,9,1,5,6:22 PM,2:39,WARRIORS Timeout: Regular (Full 7 Short 1),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+521,0041200234,593,1,80,5,6:25 PM,2:22,Barnes 14' Step Back Jump Shot (26 PTS),,,84 - 90,6,4,203084,Harrison Barnes,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+522,0041200234,594,2,1,5,6:25 PM,2:03,,,MISS Green 26' 3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+523,0041200234,595,4,0,5,6:25 PM,2:01,Curry REBOUND (Off:2 Def:4),,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+524,0041200234,597,1,42,5,6:26 PM,1:46,Curry 2' Driving Layup (21 PTS),,,84 - 92,8,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+525,0041200234,598,6,2,5,6:26 PM,1:46,,,Duncan S.FOUL (P4.T3),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+526,0041200234,599,3,10,5,6:26 PM,1:46,Curry Free Throw 1 of 1 (22 PTS),,,84 - 93,9,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+527,0041200234,602,18,1,5,6:27 PM,1:37,,Overturn Ruling,,,,0,601,,,,,,0,0,,,,,,1,0,,,,,,0
+528,0041200234,606,9,1,5,6:31 PM,1:37,,,Spurs Timeout: Regular (Reg.6 Short 1),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+529,0041200234,607,8,0,5,6:32 PM,1:37,SUB: Green FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+530,0041200234,609,1,79,5,6:33 PM,1:29,,,Green  3PT Pullup Jump Shot (10 PTS) (Ginobili 3 AST),87 - 93,6,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+531,0041200234,610,9,1,5,6:33 PM,1:29,WARRIORS Timeout: Regular (Full 8 Short 1),,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+532,0041200234,612,8,0,5,6:35 PM,1:29,SUB: Curry FOR Green,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+533,0041200234,613,1,80,5,6:36 PM,1:09,Landry 18' Step Back Jump Shot (6 PTS) (Curry 4 AST),,,87 - 95,8,4,201171,Carl Landry,1610612744.0,Golden State,Warriors,GSW,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+534,0041200234,614,2,1,5,6:36 PM,0:58,,,MISS Green 26' 3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+535,0041200234,615,4,0,5,6:36 PM,0:58,WARRIORS Rebound,,,,,2,1610612744,,,,,,0,0,,,,,,0,0,,,,,,0
+536,0041200234,616,6,3,5,6:36 PM,0:58,,,Leonard L.B.FOUL (P4.PN),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,1,0,,,,,,0
+537,0041200234,617,3,11,5,6:37 PM,0:58,Jack Free Throw 1 of 2 (23 PTS),,,87 - 96,9,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+538,0041200234,619,8,0,5,6:37 PM,0:58,SUB: Green FOR Curry,,,,,4,201939,Stephen Curry,1610612744.0,Golden State,Warriors,GSW,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0
+539,0041200234,620,3,12,5,6:37 PM,0:58,Jack Free Throw 2 of 2 (24 PTS),,,87 - 97,10,4,101127,Jarrett Jack,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+540,0041200234,622,2,94,5,6:37 PM,0:46,,,MISS Duncan 12' Jump Bank Hook Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+541,0041200234,623,4,0,5,6:37 PM,0:45,Green REBOUND (Off:0 Def:2),,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+542,0041200234,624,2,1,5,6:38 PM,0:25,MISS Green 26' 3PT Jump Shot,,,,,4,203110,Draymond Green,1610612744.0,Golden State,Warriors,GSW,0,0,,,,,,0,0,,,,,,0
+543,0041200234,625,4,0,5,6:38 PM,0:24,,,Duncan REBOUND (Off:4 Def:11),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+544,0041200234,626,5,11,5,6:38 PM,0:00,,,Spurs Turnover: Shot Clock (T#12),,,3,1610612759,,,,,,0,0,,,,,,1,0,,,,,,0
+545,0041200234,627,13,0,5,6:38 PM,0:00,,End of 1st OT (6:38 PM EST),,87 - 97,10,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

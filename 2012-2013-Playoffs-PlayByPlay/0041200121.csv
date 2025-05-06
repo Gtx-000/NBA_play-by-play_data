@@ -1,0 +1,439 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200121,0,12,0,1,1:13 PM,12:00,,Start of 1st Period (1:13 PM EST),,,,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200121,1,10,0,1,1:13 PM,12:00,Jump Ball Hibbert vs. Smith: Tip to Harris,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0
+2,0041200121,2,1,1,1,1:14 PM,11:43,,,Teague 20' Jump Shot (2 PTS) (Smith 1 AST),2 - 0,-2,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+3,0041200121,3,2,1,1,1:14 PM,11:23,MISS George 27' 3PT Jump Shot,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+4,0041200121,4,4,0,1,1:14 PM,11:22,,,Horford REBOUND (Off:0 Def:1),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+5,0041200121,5,1,75,1,1:14 PM,11:18,,,Harris 2' Driving Finger Roll Layup (2 PTS),4 - 0,-4,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+6,0041200121,6,2,1,1,1:14 PM,11:06,MISS West 6' Jump Shot,,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+7,0041200121,7,4,0,1,1:14 PM,11:05,,,Horford REBOUND (Off:0 Def:2),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+8,0041200121,8,1,75,1,1:15 PM,10:48,,,Teague 1' Driving Finger Roll Layup (4 PTS),6 - 0,-6,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+9,0041200121,9,1,65,1,1:15 PM,10:29,Hibbert 9' Jump Hook Shot (2 PTS),,,6 - 2,-4,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+10,0041200121,10,2,1,1,1:15 PM,10:07,,,MISS Harris 17' Jump Shot,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+11,0041200121,11,4,0,1,1:15 PM,10:06,George REBOUND (Off:0 Def:1),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+12,0041200121,12,1,1,1,1:15 PM,9:58,Hill 24' 3PT Jump Shot (3 PTS) (George 1 AST),,,6 - 5,-1,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+13,0041200121,13,1,1,1,1:16 PM,9:38,,,Korver 17' Jump Shot (2 PTS) (Horford 1 AST),8 - 5,-3,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+14,0041200121,14,6,17,1,1:16 PM,9:22,,,Hawks T.Foul (Def. 3 Sec Smith ),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+15,0041200121,15,3,16,1,1:16 PM,9:22,Hill Free Throw Technical (4 PTS),,,8 - 6,-2,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+16,0041200121,17,2,1,1,1:17 PM,9:11,MISS West 9' Jump Shot,,Horford BLOCK (1 BLK),,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0
+17,0041200121,18,4,0,1,1:17 PM,9:09,,,Smith REBOUND (Off:0 Def:1),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+18,0041200121,20,1,1,1,1:17 PM,8:49,,,Smith 24' 3PT Jump Shot (3 PTS) (Horford 2 AST),11 - 6,-5,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+19,0041200121,21,6,2,1,1:18 PM,8:31,,,Korver S.FOUL (P1.T1),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+20,0041200121,22,3,11,1,1:18 PM,8:31,George Free Throw 1 of 2 (1 PTS),,,11 - 7,-4,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+21,0041200121,24,3,12,1,1:18 PM,8:31,George Free Throw 2 of 2 (2 PTS),,,11 - 8,-3,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+22,0041200121,26,2,1,1,1:19 PM,8:19,,,MISS Teague 18' Jump Shot,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+23,0041200121,27,4,0,1,1:19 PM,8:17,PACERS Rebound,,,,,2.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+24,0041200121,28,2,47,1,1:19 PM,8:03,MISS Hibbert 12' Turnaround Jump Shot,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+25,0041200121,29,4,0,1,1:19 PM,8:02,,,Horford REBOUND (Off:0 Def:3),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+26,0041200121,30,2,1,1,1:19 PM,7:52,,,MISS Smith 8' Jump Shot,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+27,0041200121,31,4,0,1,1:19 PM,7:51,George REBOUND (Off:0 Def:2),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+28,0041200121,32,1,78,1,1:19 PM,7:34,Hill 12' Floating Jump Shot (6 PTS) (West 1 AST),,,11 - 10,-1,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+29,0041200121,33,9,1,1,1:20 PM,7:26,,,Hawks Timeout: Regular (Reg.1 Short 0),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+30,0041200121,35,1,1,1,1:23 PM,7:17,,,Horford 20' Jump Shot (2 PTS) (Smith 2 AST),13 - 10,-3,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+31,0041200121,36,1,3,1,1:23 PM,6:59,Hibbert 4' Hook Shot (4 PTS) (Hill 1 AST),,,13 - 12,-1,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+32,0041200121,37,2,1,1,1:24 PM,6:40,,,MISS Smith 19' Jump Shot,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+33,0041200121,38,4,0,1,1:24 PM,6:39,George REBOUND (Off:0 Def:3),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+34,0041200121,39,1,1,1,1:24 PM,6:27,Hill 26' 3PT Jump Shot (9 PTS) (West 2 AST),,,13 - 15,2,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+35,0041200121,40,2,1,1,1:24 PM,6:00,,,MISS Smith 25' 3PT Jump Shot,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+36,0041200121,41,4,0,1,1:24 PM,5:59,George REBOUND (Off:0 Def:4),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+37,0041200121,42,5,1,1,1:25 PM,5:54,George Bad Pass Turnover (P1.T1),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+38,0041200121,43,2,1,1,1:25 PM,5:39,,,MISS Korver 18' Jump Shot,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+39,0041200121,44,4,0,1,1:25 PM,5:38,West REBOUND (Off:0 Def:1),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+40,0041200121,45,6,29,1,1:25 PM,5:35,,,Teague Shooting Block Foul (P1.T2),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+41,0041200121,46,3,11,1,1:25 PM,5:35,George Free Throw 1 of 2 (3 PTS),,,13 - 16,3,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+42,0041200121,48,3,12,1,1:26 PM,5:35,George Free Throw 2 of 2 (4 PTS),,,13 - 17,4,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+43,0041200121,50,2,1,1,1:26 PM,5:15,,,MISS Korver 24' 3PT Jump Shot,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+44,0041200121,51,4,0,1,1:26 PM,5:13,West REBOUND (Off:0 Def:2),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+45,0041200121,52,2,1,1,1:26 PM,4:58,MISS Hibbert 11' Jump Shot,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+46,0041200121,53,4,0,1,1:26 PM,4:57,West REBOUND (Off:1 Def:2),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+47,0041200121,54,1,72,1,1:26 PM,4:56,West 1' Putback Layup (2 PTS),,,13 - 19,6,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+48,0041200121,55,1,1,1,1:27 PM,4:43,,,Smith 9' Jump Shot (5 PTS) (Horford 3 AST),15 - 19,4,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+49,0041200121,56,1,79,1,1:27 PM,4:28,Hill 19' Pullup Jump Shot (11 PTS),,,15 - 21,6,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+50,0041200121,57,2,42,1,1:27 PM,4:16,,,MISS Teague 3' Driving Layup,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+51,0041200121,58,4,0,1,1:27 PM,4:15,George REBOUND (Off:0 Def:5),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+52,0041200121,59,1,49,1,1:27 PM,4:09,Stephenson 2' Driving Dunk (2 PTS) (George 2 AST),,,15 - 23,8,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+53,0041200121,60,6,2,1,1:28 PM,3:50,Hibbert S.FOUL (P1.T1),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+54,0041200121,61,3,11,1,1:28 PM,3:50,,,Teague Free Throw 1 of 2 (5 PTS),16 - 23,7,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+55,0041200121,63,8,0,1,1:28 PM,3:50,,,SUB: Jenkins FOR Horford,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+56,0041200121,64,8,0,1,1:28 PM,3:50,,,SUB: Johnson FOR Korver,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+57,0041200121,65,8,0,1,1:28 PM,3:50,,,SUB: Stevenson FOR Harris,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,5,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+58,0041200121,66,3,12,1,1:28 PM,3:50,,,Teague Free Throw 2 of 2 (6 PTS),17 - 23,6,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+59,0041200121,68,5,40,1,1:28 PM,3:44,Hill Out of Bounds Lost Ball Turnover (P1.T2),,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+60,0041200121,69,1,5,1,1:29 PM,3:24,,,Smith 1' Layup (7 PTS) (Teague 1 AST),19 - 23,4,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+61,0041200121,70,9,1,1,1:29 PM,3:14,PACERS Timeout: Regular (Full 1 Short 0),,,,,2.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+62,0041200121,72,8,0,1,1:32 PM,3:14,SUB: T. Hansbrough FOR West,,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+63,0041200121,73,1,58,1,1:33 PM,3:02,Hibbert 5' Turnaround Hook Shot (6 PTS) (George 3 AST),,,19 - 25,6,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+64,0041200121,74,2,78,1,1:33 PM,2:42,,,MISS Teague 12' Floating Jump Shot,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+65,0041200121,75,4,0,1,1:33 PM,2:41,George REBOUND (Off:0 Def:6),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+66,0041200121,76,2,1,1,1:33 PM,2:21,MISS Hibbert 15' Jump Shot,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+67,0041200121,77,4,0,1,1:33 PM,2:20,,,Smith REBOUND (Off:0 Def:2),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+68,0041200121,78,1,5,1,1:34 PM,2:07,,,Johnson 1' Layup (2 PTS) (Teague 2 AST),21 - 25,4,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+69,0041200121,79,1,1,1,1:34 PM,1:44,Hill 5' Jump Shot (13 PTS) (Stephenson 1 AST),,,21 - 27,6,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+70,0041200121,80,5,1,1,1:34 PM,1:34,Hibbert STEAL (1 STL),,Teague Bad Pass Turnover (P1.T1),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+71,0041200121,81,1,8,1,1:34 PM,1:29,T. Hansbrough 1' Slam Dunk (2 PTS),,,21 - 29,8,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+72,0041200121,82,2,80,1,1:35 PM,1:07,,,MISS Smith 21' Step Back Jump Shot,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+73,0041200121,83,4,0,1,1:35 PM,1:06,George REBOUND (Off:0 Def:7),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+74,0041200121,84,2,1,1,1:35 PM,0:55,MISS T. Hansbrough 12' Jump Shot,,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+75,0041200121,85,4,0,1,1:35 PM,0:54,T. Hansbrough REBOUND (Off:1 Def:0),,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+76,0041200121,86,1,72,1,1:35 PM,0:52,T. Hansbrough 1' Putback Layup (4 PTS),,,21 - 31,10,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+77,0041200121,87,1,1,1,1:35 PM,0:33,,,Johnson 16' Jump Shot (4 PTS) (Teague 3 AST),23 - 31,8,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+78,0041200121,88,1,66,1,1:36 PM,0:24,George 7' Jump Bank Shot (6 PTS),,,23 - 33,10,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+79,0041200121,89,6,2,1,1:36 PM,0:24,,,Stevenson S.FOUL (P1.T3),,,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+80,0041200121,90,8,0,1,1:36 PM,0:24,SUB: Augustin FOR Stephenson,,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+81,0041200121,91,8,0,1,1:36 PM,0:24,SUB: Green FOR Hill,,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+82,0041200121,92,8,0,1,1:36 PM,0:24,,,SUB: Tolliver FOR Smith,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,5,201229,Anthony Tolliver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+83,0041200121,93,8,0,1,1:36 PM,0:24,,,SUB: Harris FOR Teague,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+84,0041200121,94,3,10,1,1:36 PM,0:24,George Free Throw 1 of 1 (7 PTS),,,23 - 34,11,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+85,0041200121,97,2,1,1,1:37 PM,0:08,Hibbert BLOCK (1 BLK),,MISS Harris 4' Jump Shot,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0
+86,0041200121,98,4,0,1,1:37 PM,0:07,,,Harris REBOUND (Off:1 Def:0),,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+87,0041200121,99,1,1,1,1:37 PM,0:03,,,Stevenson 25' 3PT Jump Shot (3 PTS) (Jenkins 1 AST),26 - 34,8,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,5,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+88,0041200121,100,2,1,1,1:37 PM,0:00,MISS George 29' 3PT Jump Shot,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+89,0041200121,101,4,0,1,1:37 PM,0:00,PACERS Rebound,,,,,2.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+90,0041200121,102,13,0,1,1:37 PM,0:00,,End of 1st Period (1:37 PM EST),,26 - 34,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+91,0041200121,104,12,0,2,1:41 PM,12:00,,Start of 2nd Period (1:41 PM EST),,26 - 34,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+92,0041200121,106,5,1,2,1:41 PM,11:47,George Bad Pass Turnover (P2.T3),,Harris STEAL (1 STL),,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+93,0041200121,107,2,1,2,1:41 PM,11:42,,,MISS Jenkins 27' 3PT Jump Shot,,,5.0,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+94,0041200121,108,4,0,2,1:41 PM,11:41,Augustin REBOUND (Off:0 Def:1),,,,,4.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+95,0041200121,109,2,1,2,1:41 PM,11:33,MISS Green 24' 3PT Jump Shot,,,,,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+96,0041200121,110,4,0,2,1:42 PM,11:33,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+97,0041200121,111,5,40,2,1:42 PM,11:17,,,Jenkins Out of Bounds Lost Ball Turnover (P1.T2),,,5.0,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+98,0041200121,112,1,5,2,1:42 PM,11:08,Ayres 1' Layup (2 PTS) (Green 1 AST),,,26 - 36,10,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,4,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+99,0041200121,113,1,75,2,1:42 PM,10:58,,,Harris 2' Driving Finger Roll Layup (4 PTS),28 - 36,8,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+100,0041200121,116,6,2,2,1:43 PM,10:43,,,Stevenson S.FOUL (P2.T1),,,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+101,0041200121,117,3,11,2,1:43 PM,10:43,George Free Throw 1 of 2 (8 PTS),,,28 - 37,9,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+102,0041200121,119,3,12,2,1:43 PM,10:43,George Free Throw 2 of 2 (9 PTS),,,28 - 38,10,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+103,0041200121,121,1,65,2,1:44 PM,10:28,,,Horford 4' Jump Hook Shot (4 PTS),30 - 38,8,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+104,0041200121,122,2,65,2,1:44 PM,10:11,MISS Ayres 4' Jump Hook Shot,,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+105,0041200121,123,4,0,2,1:44 PM,10:10,T. Hansbrough REBOUND (Off:2 Def:0),,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+106,0041200121,124,6,1,2,1:44 PM,10:09,,,Horford P.FOUL (P1.T2),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+107,0041200121,125,6,1,2,1:45 PM,10:04,,,Jenkins P.FOUL (P1.T3),,,5.0,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+108,0041200121,126,8,0,2,1:45 PM,10:04,,,SUB: Korver FOR Jenkins,,,5.0,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+109,0041200121,127,2,1,2,1:45 PM,9:58,MISS George 22' Jump Shot,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+110,0041200121,128,4,0,2,1:45 PM,9:55,,,Horford REBOUND (Off:0 Def:4),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+111,0041200121,129,5,2,2,1:45 PM,9:39,T. Hansbrough STEAL (1 STL),,Horford Lost Ball Turnover (P1.T3),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+112,0041200121,130,6,27,2,1:45 PM,9:37,,,Harris Personal Block Foul (P1.T4),,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,4,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+113,0041200121,131,8,0,2,1:46 PM,9:37,SUB: Stephenson FOR George,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+114,0041200121,132,6,2,2,1:46 PM,9:27,,,Korver S.FOUL (P2.PN),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+115,0041200121,133,3,11,2,1:46 PM,9:27,Green Free Throw 1 of 2 (1 PTS),,,30 - 39,9,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+116,0041200121,135,8,0,2,1:47 PM,9:27,,,SUB: Teague FOR Stevenson,,,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+117,0041200121,136,3,12,2,1:47 PM,9:27,Green Free Throw 2 of 2 (2 PTS),,,30 - 40,10,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+118,0041200121,138,2,1,2,1:47 PM,9:12,,,MISS Horford 7' Jump Shot,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+119,0041200121,139,4,0,2,1:47 PM,9:11,Stephenson REBOUND (Off:0 Def:1),,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+120,0041200121,140,2,1,2,1:47 PM,9:02,MISS Green 25' 3PT Jump Shot,,,,,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+121,0041200121,141,4,0,2,1:47 PM,9:01,,,Korver REBOUND (Off:0 Def:1),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+122,0041200121,142,5,2,2,1:47 PM,8:56,Stephenson STEAL (1 STL),,Teague Lost Ball Turnover (P2.T4),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+123,0041200121,143,2,1,2,1:48 PM,8:45,MISS Ayres 17' Jump Shot,,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+124,0041200121,144,4,0,2,1:48 PM,8:44,,,Johnson REBOUND (Off:0 Def:1),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+125,0041200121,145,1,46,2,1:48 PM,8:31,,,Horford 5' Running Jump Shot (6 PTS),32 - 40,8,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+126,0041200121,149,6,2,2,1:48 PM,8:31,Ayres S.FOUL (P1.T1),,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+127,0041200121,147,9,4,2,1:48 PM,8:31,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+128,0041200121,151,8,0,2,1:51 PM,8:31,SUB: West FOR T. Hansbrough,,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,4,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+129,0041200121,152,3,10,2,1:51 PM,8:31,,,MISS Horford Free Throw 1 of 1,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+130,0041200121,154,4,0,2,1:51 PM,8:30,,,Johnson REBOUND (Off:1 Def:1),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+131,0041200121,155,6,1,2,1:52 PM,8:19,Ayres P.FOUL (P2.T2),,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,5,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+132,0041200121,156,2,1,2,1:52 PM,8:12,,,MISS Korver 20' Jump Shot,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+133,0041200121,157,4,0,2,1:52 PM,8:11,Green REBOUND (Off:0 Def:1),,,,,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+134,0041200121,158,5,1,2,1:52 PM,7:57,Green Bad Pass Turnover (P1.T4),,,,,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+135,0041200121,160,1,7,2,1:53 PM,7:39,,,Horford 1' Dunk (8 PTS),34 - 40,6,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+136,0041200121,161,1,65,2,1:53 PM,7:26,West 8' Jump Hook Shot (4 PTS) (Green 2 AST),,,34 - 42,8,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+137,0041200121,162,2,1,2,1:53 PM,7:13,,,MISS Korver 26' 3PT Jump Shot,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+138,0041200121,164,4,0,2,1:53 PM,7:10,,,Johnson REBOUND (Off:2 Def:1),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+139,0041200121,163,2,4,2,1:53 PM,7:10,,,MISS Johnson 1' Tip Shot,,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+140,0041200121,165,4,0,2,1:53 PM,7:09,Ayres REBOUND (Off:0 Def:1),,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+141,0041200121,166,1,1,2,1:53 PM,7:05,Green 3PT Jump Shot (5 PTS) (Stephenson 2 AST),,,34 - 45,11,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+142,0041200121,168,6,3,2,1:54 PM,7:05,Ayres L.B.FOUL (P3.T3),,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,5,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+143,0041200121,169,8,0,2,1:54 PM,7:05,SUB: Hibbert FOR Ayres,,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,4,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+144,0041200121,174,8,0,2,1:54 PM,7:05,,,SUB: Smith FOR Johnson,,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,5,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+145,0041200121,170,1,65,2,1:55 PM,6:48,,,Smith 9' Jump Hook Shot (9 PTS),36 - 45,9,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+146,0041200121,171,2,1,2,1:55 PM,6:35,MISS Green 18' Jump Shot,,,,,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+147,0041200121,172,4,0,2,1:55 PM,6:33,,,Horford REBOUND (Off:0 Def:5),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+148,0041200121,173,1,8,2,1:55 PM,6:24,,,Horford 3' Slam Dunk (10 PTS) (Smith 3 AST),38 - 45,7,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+149,0041200121,175,9,1,2,1:55 PM,6:18,PACERS Timeout: Regular (Full 2 Short 0),,,,,2.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+150,0041200121,177,8,0,2,1:58 PM,6:18,SUB: Hill FOR Augustin,,,,,4.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,4,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+151,0041200121,178,8,0,2,1:58 PM,6:18,SUB: George FOR Green,,,,,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+152,0041200121,179,2,42,2,1:58 PM,6:12,MISS Stephenson 2' Driving Layup,,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+153,0041200121,180,4,0,2,1:58 PM,6:11,,,Korver REBOUND (Off:0 Def:2),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+154,0041200121,181,1,7,2,1:58 PM,6:00,,,Horford 2' Dunk (12 PTS) (Harris 1 AST),40 - 45,5,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+155,0041200121,182,1,1,2,1:59 PM,5:33,West 3' Jump Shot (6 PTS) (George 4 AST),,,40 - 47,7,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+156,0041200121,183,6,4,2,1:59 PM,5:29,,,Horford OFF.Foul (P2),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+157,0041200121,184,5,5,2,1:59 PM,5:29,,,Horford Foul Turnover (P2.T5),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+158,0041200121,185,8,0,2,1:59 PM,5:29,SUB: T. Hansbrough FOR West,,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+159,0041200121,186,8,0,2,1:59 PM,5:29,,,SUB: Johnson FOR Horford,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+160,0041200121,187,5,1,2,2:00 PM,5:13,George Bad Pass Turnover (P3.T5),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+161,0041200121,188,5,1,2,2:00 PM,4:58,,,Johnson Bad Pass Turnover (P1.T6),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+162,0041200121,189,2,78,2,2:01 PM,4:40,MISS George 15' Floating Jump Shot,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+163,0041200121,190,4,0,2,2:01 PM,4:40,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+164,0041200121,191,6,3,2,2:01 PM,4:40,Hibbert L.B.FOUL (P2.T4),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+165,0041200121,192,5,40,2,2:01 PM,4:29,,,Smith Out of Bounds Lost Ball Turnover (P1.T7),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+166,0041200121,193,1,63,2,2:01 PM,4:10,Hill 17' Fadeaway Jumper (15 PTS),,,40 - 49,9,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+167,0041200121,194,1,5,2,2:02 PM,3:52,,,Johnson 2' Layup (6 PTS) (Teague 4 AST),42 - 49,7,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+168,0041200121,195,2,1,2,2:02 PM,3:33,MISS Stephenson 26' 3PT Jump Shot,,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+169,0041200121,196,4,0,2,2:02 PM,3:32,,,Smith REBOUND (Off:0 Def:3),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+170,0041200121,197,1,42,2,2:02 PM,3:26,,,Smith 4' Driving Layup (11 PTS),44 - 49,5,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+171,0041200121,198,2,65,2,2:03 PM,3:09,MISS Hibbert 11' Jump Hook Shot,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+172,0041200121,199,4,0,2,2:03 PM,3:08,PACERS Rebound,,,,,2.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+173,0041200121,200,8,0,2,2:03 PM,3:08,SUB: West FOR T. Hansbrough,,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,4,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+174,0041200121,201,6,4,2,2:03 PM,3:08,Stephenson OFF.Foul (P1),,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+175,0041200121,202,5,5,2,2:03 PM,3:08,Stephenson Foul Turnover (P1.T6),,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+176,0041200121,203,5,1,2,2:03 PM,2:52,,,Johnson Bad Pass Turnover (P2.T8),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+177,0041200121,204,9,1,2,2:03 PM,2:52,,,Hawks Timeout: Regular (Reg.2 Short 0),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+178,0041200121,206,8,0,2,2:06 PM,2:52,,,SUB: Stevenson FOR Korver,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+179,0041200121,207,5,1,2,2:07 PM,2:38,Stephenson Bad Pass Turnover (P2.T7),,Johnson STEAL (1 STL),,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+180,0041200121,208,6,2,2,2:07 PM,2:36,Hill S.FOUL (P1.PN),,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+181,0041200121,209,3,11,2,2:07 PM,2:36,,,MISS Teague Free Throw 1 of 2,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+182,0041200121,210,4,1,2,2:07 PM,2:36,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+183,0041200121,211,3,12,2,2:07 PM,2:36,,,Teague Free Throw 2 of 2 (7 PTS),45 - 49,4,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+184,0041200121,213,5,1,2,2:08 PM,2:16,West Bad Pass Turnover (P1.T8),,Harris STEAL (2 STL),,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+185,0041200121,214,2,1,2,2:08 PM,1:53,,,MISS Johnson 8' Jump Shot,,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+186,0041200121,215,4,0,2,2:08 PM,1:52,Stephenson REBOUND (Off:0 Def:2),,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+187,0041200121,216,6,2,2,2:09 PM,1:41,,,Johnson S.FOUL (P1.PN),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+188,0041200121,217,3,11,2,2:09 PM,1:41,George Free Throw 1 of 2 (10 PTS),,,45 - 50,5,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+189,0041200121,219,3,12,2,2:09 PM,1:41,George Free Throw 2 of 2 (11 PTS),,,45 - 51,6,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+190,0041200121,221,6,1,2,2:10 PM,1:29,West P.FOUL (P1.PN),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+191,0041200121,222,3,11,2,2:10 PM,1:29,,,MISS Harris Free Throw 1 of 2,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+192,0041200121,223,4,1,2,2:10 PM,1:29,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+193,0041200121,224,3,12,2,2:10 PM,1:29,,,MISS Harris Free Throw 2 of 2,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+194,0041200121,226,4,0,2,2:10 PM,1:29,West REBOUND (Off:1 Def:3),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+195,0041200121,227,2,1,2,2:10 PM,1:18,MISS Hill 8' Jump Shot,,Johnson BLOCK (1 BLK),,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0
+196,0041200121,228,4,0,2,2:11 PM,1:17,,,Smith REBOUND (Off:0 Def:4),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+197,0041200121,229,2,46,2,2:11 PM,1:11,,,MISS Teague 5' Running Jump Shot,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+198,0041200121,231,4,0,2,2:11 PM,1:09,,,Johnson REBOUND (Off:3 Def:1),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+199,0041200121,230,1,4,2,2:11 PM,1:09,,,Johnson 2' Tip Shot (8 PTS),47 - 51,4,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+200,0041200121,232,6,1,2,2:11 PM,0:51,,,Johnson P.FOUL (P2.PN),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,4,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+201,0041200121,234,3,11,2,2:11 PM,0:51,Hibbert Free Throw 1 of 2 (7 PTS),,,47 - 52,5,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+202,0041200121,236,8,0,2,2:12 PM,0:51,,,SUB: Petro FOR Johnson,,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,5,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+203,0041200121,237,3,12,2,2:12 PM,0:51,Hibbert Free Throw 2 of 2 (8 PTS),,,47 - 53,6,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+204,0041200121,239,2,1,2,2:12 PM,0:35,Hibbert BLOCK (2 BLK),,MISS Smith 6' Jump Shot,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0
+205,0041200121,240,4,0,2,2:12 PM,0:33,George REBOUND (Off:0 Def:8),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+206,0041200121,241,1,8,2,2:12 PM,0:30,Stephenson 2' Slam Dunk (4 PTS) (George 5 AST),,,47 - 55,8,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+207,0041200121,242,1,1,2,2:13 PM,0:10,,,Teague 26' 3PT Jump Shot (10 PTS),50 - 55,5,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+208,0041200121,243,1,75,2,2:13 PM,0:02,George 2' Driving Finger Roll Layup (13 PTS),,,50 - 57,7,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+209,0041200121,244,6,2,2,2:13 PM,0:02,,,Petro S.FOUL (P1.PN),,,5.0,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+210,0041200121,245,8,0,2,2:13 PM,0:02,SUB: T. Hansbrough FOR Hibbert,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+211,0041200121,246,3,10,2,2:14 PM,0:02,George Free Throw 1 of 1 (14 PTS),,,50 - 58,8,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+212,0041200121,248,9,2,2,2:14 PM,0:02,,,Hawks Timeout: Short (Reg.2 Short 1),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+213,0041200121,250,13,0,2,2:15 PM,0:00,,End of 2nd Period (2:15 PM EST),,50 - 58,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+214,0041200121,252,12,0,3,2:34 PM,12:00,,Start of 3rd Period (2:34 PM EST),,50 - 58,8,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+215,0041200121,253,5,40,3,2:35 PM,11:48,Hibbert Out of Bounds Lost Ball Turnover (P1.T9),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+216,0041200121,254,2,1,3,2:35 PM,11:28,,,MISS Harris 26' 3PT Jump Shot,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+217,0041200121,255,4,0,3,2:35 PM,11:27,West REBOUND (Off:1 Def:4),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+218,0041200121,256,2,1,3,2:35 PM,11:11,MISS George 21' Jump Shot,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+219,0041200121,258,4,0,3,2:35 PM,11:09,Hibbert REBOUND (Off:1 Def:0),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+220,0041200121,257,2,4,3,2:35 PM,11:09,MISS Hibbert 3' Tip Shot,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+221,0041200121,260,4,0,3,2:35 PM,11:08,Hibbert REBOUND (Off:2 Def:0),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+222,0041200121,259,2,4,3,2:35 PM,11:08,MISS Hibbert 1' Tip Shot,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+223,0041200121,261,4,0,3,2:35 PM,11:07,Hibbert REBOUND (Off:3 Def:0),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+224,0041200121,262,6,2,3,2:36 PM,11:03,,,Korver S.FOUL (P3.T1),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+225,0041200121,263,3,11,3,2:36 PM,11:03,George Free Throw 1 of 2 (15 PTS),,,50 - 59,9,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+226,0041200121,265,3,12,3,2:36 PM,11:03,George Free Throw 2 of 2 (16 PTS),,,50 - 60,10,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+227,0041200121,267,2,1,3,2:37 PM,10:46,,,MISS Horford 21' Jump Shot,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+228,0041200121,268,4,0,3,2:37 PM,10:45,Hill REBOUND (Off:0 Def:1),,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+229,0041200121,269,2,65,3,2:37 PM,10:36,MISS Hibbert 6' Jump Hook Shot,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+230,0041200121,270,4,0,3,2:37 PM,10:35,,,Smith REBOUND (Off:0 Def:5),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+231,0041200121,271,1,79,3,2:37 PM,10:29,,,Korver 25' 3PT Pullup Jump Shot (5 PTS) (Smith 4 AST),53 - 60,7,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+232,0041200121,272,1,5,3,2:37 PM,10:15,West 2' Layup (8 PTS) (George 6 AST),,,53 - 62,9,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+233,0041200121,273,2,5,3,2:37 PM,9:55,,,MISS Horford 1' Layup,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+234,0041200121,274,4,0,3,2:37 PM,9:55,Hibbert REBOUND (Off:3 Def:1),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+235,0041200121,275,6,3,3,2:37 PM,9:55,,,Horford L.B.FOUL (P3.T2),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,4,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+236,0041200121,276,1,1,3,2:38 PM,9:40,West 11' Jump Shot (10 PTS) (George 7 AST),,,53 - 64,11,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+237,0041200121,277,9,1,3,2:38 PM,9:33,,,Hawks Timeout: Regular (Reg.3 Short 1),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+238,0041200121,279,2,1,3,2:42 PM,9:16,,,MISS Horford 17' Jump Shot,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+239,0041200121,280,4,0,3,2:42 PM,9:15,Hill REBOUND (Off:0 Def:2),,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+240,0041200121,281,2,1,3,2:42 PM,8:54,MISS Hibbert 14' Jump Shot,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+241,0041200121,282,4,0,3,2:42 PM,8:54,PACERS Rebound,,,,,2.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+242,0041200121,283,6,3,3,2:42 PM,8:54,,,Harris L.B.FOUL (P2.T3),,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+243,0041200121,284,1,56,3,2:43 PM,8:37,Hibbert 4' Running Hook Shot (10 PTS),,,53 - 66,13,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+244,0041200121,285,1,1,3,2:43 PM,8:23,,,Horford 20' Jump Shot (14 PTS) (Smith 5 AST),55 - 66,11,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+245,0041200121,286,6,2,3,2:43 PM,8:10,,,Korver S.FOUL (P4.T4),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+246,0041200121,287,3,11,3,2:44 PM,8:10,George Free Throw 1 of 2 (17 PTS),,,55 - 67,12,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+247,0041200121,289,8,0,3,2:44 PM,8:10,,,SUB: Stevenson FOR Korver,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+248,0041200121,290,3,12,3,2:44 PM,8:10,George Free Throw 2 of 2 (18 PTS),,,55 - 68,13,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+249,0041200121,292,2,1,3,2:44 PM,7:58,,,MISS Smith 21' Jump Shot,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+250,0041200121,293,4,0,3,2:44 PM,7:57,Stephenson REBOUND (Off:0 Def:3),,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+251,0041200121,294,2,5,3,2:44 PM,7:52,MISS Stephenson 1' Layup,,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+252,0041200121,295,4,0,3,2:44 PM,7:51,West REBOUND (Off:2 Def:4),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+253,0041200121,296,2,1,3,2:44 PM,7:46,MISS George 27' 3PT Jump Shot,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+254,0041200121,297,4,0,3,2:44 PM,7:44,Hibbert REBOUND (Off:4 Def:1),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+255,0041200121,298,2,8,3,2:45 PM,7:40,MISS George 2' Slam Dunk,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+256,0041200121,299,4,0,3,2:45 PM,7:39,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+257,0041200121,300,1,79,3,2:45 PM,7:25,,,Teague 18' Pullup Jump Shot (12 PTS),57 - 68,11,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+258,0041200121,301,1,65,3,2:45 PM,7:13,Hibbert 5' Jump Hook Shot (12 PTS) (George 8 AST),,,57 - 70,13,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+259,0041200121,302,6,27,3,2:45 PM,6:56,West Personal Block Foul (P2.T1),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+260,0041200121,303,1,80,3,2:46 PM,6:46,,,Harris 18' Step Back Jump Shot (6 PTS),59 - 70,11,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+261,0041200121,304,1,5,3,2:46 PM,6:24,Hibbert 3' Layup (14 PTS) (George 9 AST),,,59 - 72,13,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+262,0041200121,305,5,2,3,2:46 PM,6:15,Stephenson STEAL (2 STL),,Teague Lost Ball Turnover (P3.T9),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+263,0041200121,306,6,3,3,2:47 PM,6:10,West L.B.FOUL (P3.T2),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+264,0041200121,307,5,5,3,2:47 PM,6:10,West Foul Turnover (P2.T10),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+265,0041200121,309,2,1,3,2:47 PM,6:01,,,MISS Teague 17' Jump Shot,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+266,0041200121,310,4,0,3,2:47 PM,5:59,West REBOUND (Off:2 Def:5),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+267,0041200121,311,6,2,3,2:48 PM,5:47,,,Teague S.FOUL (P2.PN),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+268,0041200121,312,3,11,3,2:48 PM,5:47,George Free Throw 1 of 2 (19 PTS),,,59 - 73,14,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+269,0041200121,314,8,0,3,2:48 PM,5:47,,,SUB: Petro FOR Harris,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,5,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+270,0041200121,315,8,0,3,2:48 PM,5:47,SUB: Ayres FOR Hibbert,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+271,0041200121,317,3,12,3,2:48 PM,5:47,George Free Throw 2 of 2 (20 PTS),,,59 - 74,15,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+272,0041200121,320,5,4,3,2:49 PM,5:39,,,Smith Traveling Turnover (P2.T10),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+273,0041200121,321,2,1,3,2:49 PM,5:17,MISS Ayres 18' Jump Shot,,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+274,0041200121,322,4,0,3,2:49 PM,5:16,,,Teague REBOUND (Off:0 Def:1),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+275,0041200121,323,1,75,3,2:49 PM,5:10,,,Teague 2' Driving Finger Roll Layup (14 PTS),61 - 74,13,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+276,0041200121,324,1,1,3,2:49 PM,4:52,Stephenson 25' 3PT Jump Shot (7 PTS) (George 10 AST),,,61 - 77,16,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+277,0041200121,325,2,1,3,2:50 PM,4:28,,,MISS Smith 25' 3PT Jump Shot,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+278,0041200121,326,4,0,3,2:50 PM,4:27,West REBOUND (Off:2 Def:6),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+279,0041200121,327,2,1,3,2:50 PM,4:05,MISS Stephenson 24' 3PT Jump Shot,,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+280,0041200121,328,4,0,3,2:51 PM,4:04,,,Smith REBOUND (Off:0 Def:6),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+281,0041200121,329,1,1,3,2:51 PM,3:51,,,Petro 15' Jump Shot (2 PTS) (Teague 5 AST),63 - 77,14,5.0,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+282,0041200121,330,9,1,3,2:51 PM,3:50,PACERS Timeout: Regular (Full 3 Short 0),,,,,2.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+283,0041200121,332,8,0,3,2:54 PM,3:50,,,SUB: Johnson FOR Horford,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+284,0041200121,333,8,0,3,2:54 PM,3:50,SUB: Augustin FOR Hill,,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+285,0041200121,334,5,2,3,2:54 PM,3:38,West Lost Ball Turnover (P3.T11),,Teague STEAL (1 STL),,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+286,0041200121,335,1,5,3,2:54 PM,3:33,,,Smith 3' Layup (13 PTS) (Teague 6 AST),65 - 77,12,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+287,0041200121,336,2,1,3,2:55 PM,3:14,MISS West 14' Jump Shot,,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+288,0041200121,337,4,0,3,2:55 PM,3:13,,,Petro REBOUND (Off:0 Def:1),,,5.0,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+289,0041200121,338,2,5,3,2:55 PM,3:04,,,MISS Teague 2' Layup,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+290,0041200121,339,4,0,3,2:55 PM,3:03,Ayres REBOUND (Off:0 Def:2),,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+291,0041200121,340,6,1,3,2:55 PM,2:59,,,Teague P.FOUL (P3.PN),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+292,0041200121,341,3,11,3,2:55 PM,2:59,Augustin Free Throw 1 of 2 (1 PTS),,,65 - 78,13,4.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+293,0041200121,343,3,12,3,2:56 PM,2:59,Augustin Free Throw 2 of 2 (2 PTS),,,65 - 79,14,4.0,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+294,0041200121,345,1,79,3,2:56 PM,2:38,,,Teague 18' Pullup Jump Shot (16 PTS),67 - 79,12,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+295,0041200121,346,1,63,3,2:56 PM,2:24,Stephenson 20' Fadeaway Jumper (9 PTS) (Augustin 1 AST),,,67 - 81,14,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+296,0041200121,348,8,0,3,2:57 PM,2:10,,,SUB: Harris FOR Teague,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+297,0041200121,349,2,1,3,2:57 PM,2:03,,,MISS Harris 26' 3PT Jump Shot,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+298,0041200121,350,4,0,3,2:57 PM,2:02,Ayres REBOUND (Off:0 Def:3),,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+299,0041200121,351,1,42,3,2:57 PM,1:49,George 2' Driving Layup (22 PTS),,,67 - 83,16,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+300,0041200121,352,2,1,3,2:58 PM,1:24,,,MISS Smith 27' 3PT Jump Shot,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+301,0041200121,353,4,0,3,2:58 PM,1:23,Ayres REBOUND (Off:0 Def:4),,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+302,0041200121,354,2,1,3,2:58 PM,1:06,MISS West 15' Jump Shot,,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+303,0041200121,355,4,0,3,2:58 PM,1:05,,,Smith REBOUND (Off:0 Def:7),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+304,0041200121,356,5,1,3,2:58 PM,0:56,Stephenson STEAL (3 STL),,Smith Bad Pass Turnover (P3.T11),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+305,0041200121,357,6,2,3,2:59 PM,0:54,,,Stevenson S.FOUL (P3.PN),,,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+306,0041200121,358,18,1,3,2:59 PM,0:54,,Overturn Ruling,,,,,357,Greg Sutton,,,,,0,0,,,,,,1,0,,,,,,0
+307,0041200121,359,3,11,3,3:01 PM,0:54,Stephenson Free Throw 1 of 2 (10 PTS),,,67 - 84,17,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+308,0041200121,361,8,0,3,3:01 PM,0:54,,,SUB: Mack FOR Smith,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,5,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+309,0041200121,362,3,12,3,3:01 PM,0:54,MISS Stephenson Free Throw 2 of 2,,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+310,0041200121,364,4,0,3,3:01 PM,0:54,,,Stevenson REBOUND (Off:0 Def:1),,,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+311,0041200121,366,1,47,3,3:01 PM,0:31,,,Johnson 11' Turnaround Jump Shot (10 PTS) (Mack 1 AST),69 - 84,15,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,5,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+312,0041200121,367,2,1,3,3:02 PM,0:15,MISS Ayres 17' Jump Shot,,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+313,0041200121,368,4,0,3,3:02 PM,0:14,,,Johnson REBOUND (Off:3 Def:2),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+314,0041200121,369,2,46,3,3:02 PM,0:00,Stephenson BLOCK (1 BLK),,MISS Harris 7' Running Jump Shot,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0
+315,0041200121,370,4,0,3,3:02 PM,0:00,Ayres REBOUND (Off:0 Def:5),,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+316,0041200121,371,13,0,3,3:02 PM,0:00,,End of 3rd Period (3:02 PM EST),,69 - 84,15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+317,0041200121,373,12,0,4,3:06 PM,12:00,,Start of 4th Period (3:06 PM EST),,69 - 84,15,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+318,0041200121,375,1,44,4,3:07 PM,11:40,,,Petro 3' Reverse Layup (4 PTS) (Stevenson 1 AST),71 - 84,13,5.0,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,5,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+319,0041200121,376,2,1,4,3:07 PM,11:21,MISS George 26' 3PT Jump Shot,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+320,0041200121,377,4,0,4,3:07 PM,11:20,,,Mack REBOUND (Off:0 Def:1),,,5.0,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+321,0041200121,378,2,42,4,3:07 PM,11:14,George BLOCK (1 BLK),,MISS Mack 4' Driving Layup,,,5.0,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0
+322,0041200121,379,4,0,4,3:07 PM,11:11,,,Stevenson REBOUND (Off:1 Def:1),,,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+323,0041200121,380,6,26,4,3:07 PM,11:02,,,Johnson Offensive Charge Foul (P3),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,4,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+324,0041200121,381,5,5,4,3:07 PM,11:02,,,Johnson Foul Turnover (P3.T12),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,1,0,,,,,,0
+325,0041200121,382,2,1,4,3:08 PM,10:41,MISS Green 25' 3PT Jump Shot,,,,,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+326,0041200121,383,4,0,4,3:08 PM,10:41,,,Stevenson REBOUND (Off:1 Def:2),,,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+327,0041200121,384,6,1,4,3:08 PM,10:36,Green P.FOUL (P1.T1),,,,,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+328,0041200121,385,5,1,4,3:09 PM,10:28,George STEAL (1 STL),,Stevenson Bad Pass Turnover (P1.T13),,,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+329,0041200121,386,1,1,4,3:09 PM,10:16,Green 24' 3PT Jump Shot (8 PTS) (George 11 AST),,,71 - 87,16,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+330,0041200121,387,1,1,4,3:09 PM,9:49,,,Mack 26' 3PT Jump Shot (3 PTS) (Johnson 1 AST),74 - 87,13,5.0,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,5,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+331,0041200121,388,6,4,4,3:10 PM,9:31,T. Hansbrough OFF.Foul (P1),,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,5,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+332,0041200121,389,5,5,4,3:10 PM,9:31,T. Hansbrough Foul Turnover (P1.T12),,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+333,0041200121,390,8,0,4,3:10 PM,9:31,SUB: Hibbert FOR Ayres,,,,,4.0,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,4,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+334,0041200121,391,1,78,4,3:10 PM,9:26,,,Harris 4' Floating Jump Shot (8 PTS) (Mack 2 AST),76 - 87,11,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,5,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+335,0041200121,392,6,2,4,3:10 PM,9:26,Hill S.FOUL (P2.T2),,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+336,0041200121,393,3,10,4,3:10 PM,9:26,,,MISS Harris Free Throw 1 of 1,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+337,0041200121,395,4,0,4,3:10 PM,9:26,Hibbert REBOUND (Off:4 Def:2),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+338,0041200121,396,2,1,4,3:11 PM,9:10,MISS Hill 21' Jump Shot,,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+339,0041200121,397,4,0,4,3:11 PM,9:09,,,Harris REBOUND (Off:1 Def:1),,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+340,0041200121,398,2,1,4,3:11 PM,9:03,,,MISS Mack 25' 3PT Jump Shot,,,5.0,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+341,0041200121,399,4,0,4,3:11 PM,9:00,George REBOUND (Off:0 Def:9),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+342,0041200121,400,6,4,4,3:11 PM,8:57,George OFF.Foul (P1),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+343,0041200121,401,5,5,4,3:11 PM,8:57,George Foul Turnover (P4.T13),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,1,0,,,,,,0
+344,0041200121,402,9,4,4,3:11 PM,8:57,,Timeout: Official,,,,1.0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0041200121,404,1,1,4,3:15 PM,8:41,,,Petro 16' Jump Shot (6 PTS) (Mack 3 AST),78 - 87,9,5.0,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,5,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+346,0041200121,405,2,1,4,3:15 PM,8:24,MISS Green 25' 3PT Jump Shot,,,,,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+347,0041200121,406,4,0,4,3:15 PM,8:23,,,Stevenson REBOUND (Off:1 Def:3),,,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+348,0041200121,407,2,1,4,3:15 PM,8:12,,,MISS Johnson 19' Jump Shot,,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+349,0041200121,408,4,0,4,3:15 PM,8:10,,,Mack REBOUND (Off:1 Def:1),,,5.0,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+350,0041200121,409,6,27,4,3:15 PM,8:06,T. Hansbrough Personal Block Foul (P2.T3),,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+351,0041200121,410,8,0,4,3:15 PM,8:06,SUB: Stephenson FOR Green,,,,,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+352,0041200121,411,2,1,4,3:16 PM,8:00,,,MISS Mack 17' Jump Shot,,,5.0,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+353,0041200121,412,4,0,4,3:16 PM,7:59,Hill REBOUND (Off:0 Def:3),,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+354,0041200121,413,2,5,4,3:16 PM,7:42,MISS T. Hansbrough 3' Layup,,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+355,0041200121,414,4,0,4,3:16 PM,7:41,T. Hansbrough REBOUND (Off:3 Def:0),,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+356,0041200121,415,6,2,4,3:16 PM,7:41,,,Petro S.FOUL (P2.T1),,,5.0,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,4,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+357,0041200121,416,3,11,4,3:17 PM,7:41,T. Hansbrough Free Throw 1 of 2 (5 PTS),,,78 - 88,10,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+358,0041200121,418,8,0,4,3:17 PM,7:41,,,SUB: Teague FOR Mack,,,5.0,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+359,0041200121,419,3,12,4,3:17 PM,7:41,T. Hansbrough Free Throw 2 of 2 (6 PTS),,,78 - 89,11,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+360,0041200121,421,1,1,4,3:17 PM,7:23,,,Stevenson 25' 3PT Jump Shot (6 PTS) (Harris 2 AST),81 - 89,8,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+361,0041200121,422,6,1,4,3:17 PM,7:23,,,Johnson P.FOUL (P4.T2),,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+362,0041200121,424,2,1,4,3:18 PM,7:06,MISS George 7' Jump Shot,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+363,0041200121,425,4,0,4,3:18 PM,7:05,T. Hansbrough REBOUND (Off:4 Def:0),,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+364,0041200121,426,6,2,4,3:18 PM,7:04,,,Petro S.FOUL (P3.T3),,,5.0,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,4,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+365,0041200121,427,3,11,4,3:18 PM,7:04,T. Hansbrough Free Throw 1 of 2 (7 PTS),,,81 - 90,9,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+366,0041200121,429,3,12,4,3:18 PM,7:04,MISS T. Hansbrough Free Throw 2 of 2,,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+367,0041200121,431,4,0,4,3:19 PM,7:04,T. Hansbrough REBOUND (Off:5 Def:0),,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+368,0041200121,432,2,1,4,3:19 PM,6:43,MISS Hibbert 15' Jump Shot,,Petro BLOCK (1 BLK),,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,5,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,0
+369,0041200121,433,4,0,4,3:19 PM,6:42,Stephenson REBOUND (Off:1 Def:3),,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+370,0041200121,434,1,1,4,3:19 PM,6:40,Hill 26' 3PT Jump Shot (18 PTS) (Stephenson 3 AST),,,81 - 93,12,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+371,0041200121,435,9,1,4,3:19 PM,6:38,,,Hawks Timeout: Regular (Reg.4 Short 1),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+372,0041200121,437,8,0,4,3:21 PM,6:38,,,SUB: Smith FOR Johnson,,,5.0,201274,Ivan Johnson,1610612737.0,Atlanta,Hawks,ATL,5,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+373,0041200121,438,8,0,4,3:21 PM,6:38,,,SUB: Horford FOR Petro,,,5.0,101130,Johan Petro,1610612737.0,Atlanta,Hawks,ATL,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+374,0041200121,439,6,1,4,3:23 PM,6:24,George P.FOUL (P2.T4),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+375,0041200121,440,5,2,4,3:23 PM,6:14,T. Hansbrough STEAL (2 STL),,Smith Lost Ball Turnover (P4.T14),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,4,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+376,0041200121,441,1,44,4,3:23 PM,5:55,T. Hansbrough 1' Reverse Layup (9 PTS) (Hill 2 AST),,,81 - 95,14,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,4,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+377,0041200121,443,8,0,4,3:24 PM,5:35,SUB: West FOR T. Hansbrough,,,,,4.0,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,4,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+378,0041200121,444,1,66,4,3:24 PM,5:29,,,Smith 18' Jump Bank Shot (15 PTS) (Teague 7 AST),83 - 95,12,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+379,0041200121,445,5,1,4,3:25 PM,5:14,Stephenson Bad Pass Turnover (P3.T14),,Horford STEAL (1 STL),,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+380,0041200121,446,1,1,4,3:25 PM,4:56,,,Teague 26' 3PT Jump Shot (19 PTS),86 - 95,9,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+381,0041200121,447,2,1,4,3:25 PM,4:29,MISS West 6' Jump Shot,,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+382,0041200121,448,4,0,4,3:25 PM,4:25,George REBOUND (Off:1 Def:9),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+383,0041200121,449,1,5,4,3:25 PM,4:23,West 1' Layup (12 PTS) (Stephenson 4 AST),,,86 - 97,11,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+384,0041200121,450,6,2,4,3:25 PM,4:23,,,Teague S.FOUL (P4.T4),,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,4,2561,David West,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+385,0041200121,451,8,0,4,3:26 PM,4:23,,,SUB: Korver FOR Stevenson,,,5.0,2052,DeShawn Stevenson,1610612737.0,Atlanta,Hawks,ATL,5,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+386,0041200121,452,3,10,4,3:26 PM,4:23,West Free Throw 1 of 1 (13 PTS),,,86 - 98,12,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+387,0041200121,454,6,1,4,3:27 PM,4:05,Hibbert P.FOUL (P3.PN),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,5,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+388,0041200121,455,3,11,4,3:27 PM,4:05,,,MISS Smith Free Throw 1 of 2,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+389,0041200121,456,4,1,4,3:27 PM,4:05,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+390,0041200121,457,3,12,4,3:27 PM,4:05,,,MISS Smith Free Throw 2 of 2,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+391,0041200121,459,4,0,4,3:27 PM,4:05,George REBOUND (Off:1 Def:10),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+392,0041200121,460,6,2,4,3:27 PM,3:50,,,Harris S.FOUL (P3.PN),,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,4,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+393,0041200121,461,3,11,4,3:28 PM,3:50,Stephenson Free Throw 1 of 2 (11 PTS),,,86 - 99,13,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+394,0041200121,463,3,12,4,3:28 PM,3:50,MISS Stephenson Free Throw 2 of 2,,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+395,0041200121,466,4,0,4,3:28 PM,3:50,Hibbert REBOUND (Off:5 Def:2),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+396,0041200121,465,2,4,4,3:28 PM,3:49,MISS Hibbert 2' Tip Shot,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+397,0041200121,467,4,0,4,3:28 PM,3:47,,,Horford REBOUND (Off:0 Def:6),,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+398,0041200121,468,5,1,4,3:29 PM,3:33,,,Korver Bad Pass Turnover (P1.T15),,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+399,0041200121,469,1,75,4,3:29 PM,3:17,Stephenson 1' Driving Finger Roll Layup (13 PTS),,,86 - 101,15,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+400,0041200121,470,2,1,4,3:29 PM,3:03,,,MISS Teague 12' Jump Shot,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+401,0041200121,471,4,0,4,3:29 PM,3:02,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+402,0041200121,472,6,1,4,3:30 PM,2:49,Stephenson P.FOUL (P2.PN),,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,5,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+403,0041200121,473,9,1,4,3:30 PM,2:49,PACERS Timeout: Regular (Full 4 Short 0),,,,,2.0,1610612754,,,,,,0,0,,,,,,0,0,,,,,,0
+404,0041200121,476,3,11,4,3:33 PM,2:49,,,Teague Free Throw 1 of 2 (20 PTS),87 - 101,14,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+405,0041200121,478,3,12,4,3:33 PM,2:49,,,Teague Free Throw 2 of 2 (21 PTS),88 - 101,13,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+406,0041200121,480,6,2,4,3:33 PM,2:35,,,Harris S.FOUL (P4.PN),,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,1,0,,,,,,0
+407,0041200121,481,3,11,4,3:34 PM,2:35,George Free Throw 1 of 2 (23 PTS),,,88 - 102,14,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+408,0041200121,483,3,12,4,3:34 PM,2:35,MISS George Free Throw 2 of 2,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+409,0041200121,485,4,0,4,3:34 PM,2:35,,,Smith REBOUND (Off:0 Def:8),,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+410,0041200121,486,2,1,4,3:34 PM,2:13,,,MISS Korver 25' 3PT Jump Shot,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+411,0041200121,487,4,0,4,3:34 PM,2:12,Stephenson REBOUND (Off:1 Def:4),,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+412,0041200121,488,2,1,4,3:35 PM,1:54,MISS Hill 26' 3PT Jump Shot,,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+413,0041200121,489,4,0,4,3:35 PM,1:52,Hibbert REBOUND (Off:6 Def:2),,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+414,0041200121,490,1,5,4,3:35 PM,1:33,Hibbert 3' Layup (16 PTS) (George 12 AST),,,88 - 104,16,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+415,0041200121,491,2,1,4,3:35 PM,1:22,,,MISS Horford 8' Jump Shot,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+416,0041200121,492,4,0,4,3:35 PM,1:20,,,Hawks Rebound,,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+417,0041200121,493,9,2,4,3:35 PM,1:20,,,Hawks Timeout: Short (Reg.4 Short 2),,,3.0,1610612737,,,,,,0,0,,,,,,0,0,,,,,,0
+418,0041200121,495,8,0,4,3:37 PM,1:20,,,SUB: Jones FOR Korver,,,5.0,2594,Kyle Korver,1610612737.0,Atlanta,Hawks,ATL,5,2563,Dahntay Jones,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+419,0041200121,496,8,0,4,3:37 PM,1:20,,,SUB: Scott FOR Smith,,,5.0,2746,Josh Smith,1610612737.0,Atlanta,Hawks,ATL,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+420,0041200121,497,8,0,4,3:37 PM,1:20,,,SUB: Tolliver FOR Horford,,,5.0,201143,Al Horford,1610612737.0,Atlanta,Hawks,ATL,5,201229,Anthony Tolliver,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+421,0041200121,498,8,0,4,3:37 PM,1:20,,,SUB: Mack FOR Harris,,,5.0,2734,Devin Harris,1610612737.0,Atlanta,Hawks,ATL,5,202714,Shelvin Mack,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+422,0041200121,499,8,0,4,3:37 PM,1:20,,,SUB: Jenkins FOR Teague,,,5.0,201952,Jeff Teague,1610612737.0,Atlanta,Hawks,ATL,5,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0
+423,0041200121,500,8,0,4,3:37 PM,1:20,SUB: Augustin FOR Hibbert,,,,,4.0,201579,Roy Hibbert,1610612754.0,Indiana,Pacers,IND,4,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+424,0041200121,501,8,0,4,3:37 PM,1:20,SUB: T. Hansbrough FOR Hill,,,,,4.0,201588,George Hill,1610612754.0,Indiana,Pacers,IND,4,201946,Tyler Hansbrough,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+425,0041200121,503,2,1,4,3:37 PM,1:05,,,MISS Jenkins 7' Jump Shot,,,5.0,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+426,0041200121,504,4,0,4,3:37 PM,1:04,West REBOUND (Off:2 Def:7),,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+427,0041200121,505,2,1,4,3:38 PM,0:46,MISS George 26' 3PT Jump Shot,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+428,0041200121,506,4,0,4,3:38 PM,0:45,,,Scott REBOUND (Off:0 Def:1),,,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+429,0041200121,507,6,2,4,3:38 PM,0:40,George S.FOUL (P3.PN),,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,5,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,1,0,,,,,,0
+430,0041200121,508,3,11,4,3:38 PM,0:40,,,Scott Free Throw 1 of 2 (1 PTS),89 - 104,15,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+431,0041200121,510,8,0,4,3:38 PM,0:40,SUB: Johnson FOR George,,,,,4.0,202331,Paul George,1610612754.0,Indiana,Pacers,IND,4,203111,Orlando Johnson,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+432,0041200121,511,8,0,4,3:38 PM,0:40,SUB: Green FOR West,,,,,4.0,2561,David West,1610612754.0,Indiana,Pacers,IND,4,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+433,0041200121,512,8,0,4,3:38 PM,0:40,SUB: Ayres FOR Stephenson,,,,,4.0,202362,Lance Stephenson,1610612754.0,Indiana,Pacers,IND,4,201965,Jeff Ayres,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+434,0041200121,513,3,12,4,3:38 PM,0:40,,,Scott Free Throw 2 of 2 (2 PTS),90 - 104,14,5.0,203118,Mike Scott,1610612737.0,Atlanta,Hawks,ATL,0,0,,,,,,0,0,,,,,,0
+435,0041200121,515,1,1,4,3:39 PM,0:24,Green 24' 3PT Jump Shot (11 PTS),,,90 - 107,17,4.0,101123,Gerald Green,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0,0,,,,,,0
+436,0041200121,516,5,2,4,3:39 PM,0:14,Augustin STEAL (1 STL),,Jenkins Lost Ball Turnover (P2.T16),,,5.0,203098,John Jenkins,1610612737.0,Atlanta,Hawks,ATL,4,201571,D.J. Augustin,1610612754.0,Indiana,Pacers,IND,0,0,,,,,,0
+437,0041200121,517,13,0,4,3:39 PM,0:00,,End of 4th Period (3:39 PM EST),,90 - 107,17,0.0,0,,,,,,0,0,,,,,,0,0,,,,,,0

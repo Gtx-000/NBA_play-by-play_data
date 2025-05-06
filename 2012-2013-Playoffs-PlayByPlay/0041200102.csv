@@ -1,0 +1,423 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200102,0,12,0,1,7:43 PM,12:00,,Start of 1st Period (7:43 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200102,1,10,0,1,7:43 PM,12:00,Jump Ball Bosh vs. Sanders: Tip to Haslem,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0
+2,0041200102,2,2,5,1,7:43 PM,11:44,MISS Wade 1' Layup,,Ellis BLOCK (1 BLK),,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0
+3,0041200102,4,4,0,1,7:43 PM,11:43,Wade REBOUND (Off:1 Def:0),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+4,0041200102,3,1,4,1,7:43 PM,11:42,Wade 1' Tip Shot (2 PTS),,,0 - 2,2,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+5,0041200102,5,1,3,1,7:44 PM,11:22,,,Sanders 7' Hook Shot (2 PTS) (Mbah a Moute 1 AST),2 - 2,TIE,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+6,0041200102,6,6,1,1,7:44 PM,11:07,,,Ellis P.FOUL (P1.T1),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+7,0041200102,7,2,1,1,7:44 PM,10:58,MISS Bosh 17' Jump Shot,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+8,0041200102,8,4,0,1,7:44 PM,10:57,,,Ellis REBOUND (Off:0 Def:1),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+9,0041200102,9,5,41,1,7:45 PM,10:40,Wade STEAL (1 STL),,Sanders Poss Lost Ball Turnover (P1.T1),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+10,0041200102,10,1,42,1,7:45 PM,10:33,James 1' Driving Layup (2 PTS) (Wade 1 AST),,,2 - 4,2,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+11,0041200102,11,1,1,1,7:45 PM,10:13,,,Ilyasova 25' 3PT Jump Shot (3 PTS) (Sanders 1 AST),5 - 4,-1,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+12,0041200102,12,5,1,1,7:46 PM,9:53,Bosh Bad Pass Turnover (P1.T1),,Jennings STEAL (1 STL),,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+13,0041200102,13,1,5,1,7:46 PM,9:47,,,Mbah a Moute 1' Layup (2 PTS) (Jennings 1 AST),7 - 4,-3,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+14,0041200102,14,5,2,1,7:46 PM,9:32,Bosh Lost Ball Turnover (P2.T2),,Ellis STEAL (1 STL),,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+15,0041200102,15,6,1,1,7:46 PM,9:27,Bosh P.FOUL (P1.T1),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+16,0041200102,16,5,4,1,7:47 PM,9:21,,,Sanders Traveling Turnover (P2.T2),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+17,0041200102,17,5,40,1,7:47 PM,9:14,James Out of Bounds Lost Ball Turnover (P1.T3),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+18,0041200102,18,1,7,1,7:47 PM,9:03,,,Sanders  Dunk (4 PTS) (Ellis 1 AST),9 - 4,-5,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+19,0041200102,19,2,77,1,7:48 PM,8:43,MISS Wade 5' Driving Jump Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+20,0041200102,20,4,0,1,7:48 PM,8:42,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+21,0041200102,21,5,1,1,7:48 PM,8:35,Wade STEAL (2 STL),,Jennings Bad Pass Turnover (P1.T3),,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+22,0041200102,22,5,1,1,7:48 PM,8:32,Chalmers Bad Pass Turnover (P1.T4),,Mbah a Moute STEAL (1 STL),,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+23,0041200102,23,2,1,1,7:48 PM,8:23,,,MISS Ilyasova 8' Jump Shot,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+24,0041200102,24,4,0,1,7:48 PM,8:21,James REBOUND (Off:0 Def:1),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+25,0041200102,25,1,42,1,7:48 PM,8:04,James 1' Driving Layup (4 PTS),,,9 - 6,-3,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+26,0041200102,26,5,1,1,7:49 PM,7:43,Chalmers STEAL (1 STL),,Sanders Bad Pass Turnover (P3.T4),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+27,0041200102,27,2,5,1,7:49 PM,7:31,MISS Haslem 1' Layup,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+28,0041200102,28,4,0,1,7:49 PM,7:30,Haslem REBOUND (Off:1 Def:0),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+29,0041200102,29,2,1,1,7:49 PM,7:22,MISS Haslem 17' Jump Shot,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+30,0041200102,30,4,0,1,7:49 PM,7:21,,,Jennings REBOUND (Off:0 Def:1),,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+31,0041200102,31,2,5,1,7:49 PM,7:06,,,MISS Ilyasova 2' Layup,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+32,0041200102,32,4,0,1,7:49 PM,7:05,James REBOUND (Off:0 Def:2),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+33,0041200102,33,6,2,1,7:50 PM,7:01,,,Sanders S.FOUL (P1.T2),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+34,0041200102,34,3,11,1,7:50 PM,7:01,James Free Throw 1 of 2 (5 PTS),,,9 - 7,-2,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+35,0041200102,36,3,12,1,7:50 PM,7:01,James Free Throw 2 of 2 (6 PTS),,,9 - 8,-1,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+36,0041200102,38,2,1,1,7:51 PM,6:47,,,MISS Mbah a Moute 4' Jump Shot,,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+37,0041200102,39,4,0,1,7:51 PM,6:45,Haslem REBOUND (Off:1 Def:1),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+38,0041200102,40,5,1,1,7:51 PM,6:38,Haslem Bad Pass Turnover (P1.T5),,Ellis STEAL (2 STL),,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+39,0041200102,41,2,5,1,7:51 PM,6:35,Chalmers BLOCK (1 BLK),,MISS Jennings 1' Layup,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0
+40,0041200102,42,4,0,1,7:51 PM,6:34,,,Ilyasova REBOUND (Off:1 Def:0),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+41,0041200102,43,1,1,1,7:51 PM,6:32,,,Ilyasova 2' Jump Shot (5 PTS),11 - 8,-3,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+42,0041200102,44,6,1,1,7:51 PM,6:20,,,Sanders P.FOUL (P2.T3),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+43,0041200102,45,8,0,1,7:51 PM,6:20,,,SUB: Udoh FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+44,0041200102,46,6,2,1,7:52 PM,6:15,,,Udoh S.FOUL (P1.T4),,,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+45,0041200102,47,3,11,1,7:52 PM,6:15,Haslem Free Throw 1 of 2 (1 PTS),,,11 - 9,-2,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+46,0041200102,49,3,12,1,7:52 PM,6:15,MISS Haslem Free Throw 2 of 2,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+47,0041200102,51,4,0,1,7:52 PM,6:14,,,Udoh REBOUND (Off:0 Def:1),,,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+48,0041200102,52,1,1,1,7:53 PM,5:58,,,Ilyasova 19' Jump Shot (7 PTS) (Mbah a Moute 2 AST),13 - 9,-4,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+49,0041200102,53,1,44,1,7:53 PM,5:37,Wade 1' Reverse Layup (4 PTS) (Chalmers 1 AST),,,13 - 11,-2,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+50,0041200102,54,1,58,1,7:53 PM,5:12,,,Udoh 10' Turnaround Hook Shot (2 PTS),15 - 11,-4,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+51,0041200102,55,1,42,1,7:54 PM,5:02,James 1' Driving Layup (8 PTS),,,15 - 13,-2,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+52,0041200102,56,9,1,1,7:54 PM,4:52,,,Bucks Timeout: Regular (Reg.1 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+53,0041200102,60,2,1,1,7:57 PM,4:36,,,MISS Ellis 25' 3PT Jump Shot,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+54,0041200102,61,4,0,1,7:57 PM,4:35,James REBOUND (Off:0 Def:3),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+55,0041200102,62,6,26,1,7:57 PM,4:29,Wade Offensive Charge Foul (P1.T2),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+56,0041200102,63,5,5,1,7:57 PM,4:29,Wade Foul Turnover (P1.T6),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+57,0041200102,64,1,77,1,7:58 PM,4:15,,,Ilyasova 5' Driving Jump Shot (9 PTS),17 - 13,-4,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+58,0041200102,65,6,2,1,7:58 PM,4:15,Haslem S.FOUL (P1.T3),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+59,0041200102,66,8,0,1,7:58 PM,4:15,SUB: Allen FOR Wade,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+60,0041200102,67,8,0,1,7:58 PM,4:15,SUB: Battier FOR Haslem,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+61,0041200102,68,3,10,1,7:58 PM,4:15,,,Ilyasova Free Throw 1 of 1 (10 PTS),18 - 13,-5,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+62,0041200102,70,1,66,1,7:59 PM,4:01,Chalmers 15' Jump Bank Shot (2 PTS),,,18 - 15,-3,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+63,0041200102,72,1,5,1,7:59 PM,3:38,,,Ilyasova 2' Layup (12 PTS) (Ellis 2 AST),20 - 15,-5,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+64,0041200102,73,1,47,1,8:00 PM,3:13,Bosh 10' Turnaround Jump Shot (2 PTS),,,20 - 17,-3,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+65,0041200102,74,2,46,1,8:00 PM,3:05,,,MISS Jennings 7' Running Jump Shot,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+66,0041200102,75,4,0,1,8:00 PM,3:04,Chalmers REBOUND (Off:0 Def:1),,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+67,0041200102,76,2,1,1,8:00 PM,2:58,MISS Allen 24' 3PT Jump Shot,,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+68,0041200102,77,4,0,1,8:00 PM,2:57,Chalmers REBOUND (Off:1 Def:1),,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+69,0041200102,78,1,44,1,8:00 PM,2:55,Chalmers 1' Reverse Layup (4 PTS),,,20 - 19,-1,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+70,0041200102,79,2,1,1,8:00 PM,2:39,,,MISS Ilyasova 24' 3PT Jump Shot,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+71,0041200102,80,4,0,1,8:00 PM,2:37,Chalmers REBOUND (Off:1 Def:2),,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+72,0041200102,81,2,1,1,8:00 PM,2:28,MISS Battier 25' 3PT Jump Shot,,,,,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+73,0041200102,82,4,0,1,8:00 PM,2:27,,,Ellis REBOUND (Off:0 Def:2),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+74,0041200102,83,1,42,1,8:01 PM,2:09,,,Mbah a Moute 2' Driving Layup (4 PTS),22 - 19,-3,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+75,0041200102,84,9,1,1,8:01 PM,2:01,HEAT Timeout: Regular (Full 1 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+76,0041200102,86,8,0,1,8:04 PM,2:01,,,SUB: Redick FOR Ilyasova,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,200755,JJ Redick,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+77,0041200102,87,8,0,1,8:04 PM,2:01,,,SUB: Henson FOR Ellis,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+78,0041200102,88,8,0,1,8:04 PM,2:01,SUB: Andersen FOR Bosh,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+79,0041200102,89,8,0,1,8:04 PM,2:01,SUB: Cole FOR Chalmers,,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+80,0041200102,90,1,1,1,8:04 PM,1:42,Battier 25' 3PT Jump Shot (3 PTS) (James 1 AST),,,22 - 22,TIE,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+81,0041200102,91,2,65,1,8:05 PM,1:23,,,MISS Henson 10' Jump Hook Shot,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+82,0041200102,92,4,0,1,8:05 PM,1:22,Cole REBOUND (Off:0 Def:1),,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+83,0041200102,93,6,1,1,8:05 PM,1:08,,,Henson P.FOUL (P1.PN),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+84,0041200102,94,3,11,1,8:05 PM,1:08,Battier Free Throw 1 of 2 (4 PTS),,,22 - 23,1,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+85,0041200102,96,8,0,1,8:05 PM,1:08,,,SUB: Daniels FOR Mbah a Moute,,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+86,0041200102,97,3,12,1,8:06 PM,1:08,Battier Free Throw 2 of 2 (5 PTS),,,22 - 24,2,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+87,0041200102,99,6,3,1,8:06 PM,0:55,Andersen L.B.FOUL (P1.T4),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,5,200755,JJ Redick,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+88,0041200102,100,6,2,1,8:06 PM,0:47,Andersen S.FOUL (P2.PN),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+89,0041200102,101,3,11,1,8:07 PM,0:47,,,MISS Jennings Free Throw 1 of 2,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+90,0041200102,102,4,1,1,8:07 PM,0:47,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+91,0041200102,103,8,0,1,8:07 PM,0:47,SUB: Haslem FOR Andersen,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+92,0041200102,104,3,12,1,8:07 PM,0:47,,,Jennings Free Throw 2 of 2 (1 PTS),23 - 24,1,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+93,0041200102,106,6,1,1,8:07 PM,0:39,,,Daniels P.FOUL (P1.PN),,,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+94,0041200102,107,3,11,1,8:08 PM,0:39,MISS James Free Throw 1 of 2,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+95,0041200102,108,4,1,1,8:08 PM,0:39,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+96,0041200102,109,3,12,1,8:08 PM,0:39,James Free Throw 2 of 2 (9 PTS),,,23 - 25,2,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+97,0041200102,111,5,1,1,8:08 PM,0:20,James STEAL (1 STL),,Redick Bad Pass Turnover (P1.T5),,,5,200755,JJ Redick,1610612749.0,Milwaukee,Bucks,MIL,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+98,0041200102,112,2,75,1,8:08 PM,0:02,MISS James 1' Driving Finger Roll Layup,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+99,0041200102,114,4,0,1,8:09 PM,0:01,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+100,0041200102,113,10,0,1,8:09 PM,0:01,Jump Ball Battier vs. Udoh: Tip to Jennings,,,,,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0
+101,0041200102,115,13,0,1,8:10 PM,0:00,,End of 1st Period (8:10 PM EST),,23 - 25,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+102,0041200102,117,12,0,2,8:13 PM,12:00,,Start of 2nd Period (8:13 PM EST),,23 - 25,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+103,0041200102,118,5,2,2,8:13 PM,11:46,Cole STEAL (1 STL),,Henson Lost Ball Turnover (P1.T6),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+104,0041200102,119,2,47,2,8:13 PM,11:20,MISS Allen 9' Turnaround Jump Shot,,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+105,0041200102,120,4,0,2,8:13 PM,11:19,,,Redick REBOUND (Off:0 Def:1),,,5,200755,JJ Redick,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+106,0041200102,121,1,1,2,8:14 PM,11:10,,,Daniels 15' Jump Shot (2 PTS) (Henson 1 AST),25 - 25,TIE,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+107,0041200102,122,2,1,2,8:14 PM,10:52,MISS Allen 25' 3PT Jump Shot,,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+108,0041200102,123,4,0,2,8:14 PM,10:51,,,Jennings REBOUND (Off:0 Def:2),,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+109,0041200102,124,1,71,2,8:14 PM,10:46,,,Daniels 1' Finger Roll Layup (4 PTS) (Jennings 2 AST),27 - 25,-2,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+110,0041200102,125,1,42,2,8:14 PM,10:20,Wade 1' Driving Layup (6 PTS) (Allen 1 AST),,,27 - 27,TIE,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+111,0041200102,126,2,1,2,8:15 PM,10:05,,,MISS Henson 19' Jump Shot,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+112,0041200102,127,4,0,2,8:15 PM,10:04,Wade REBOUND (Off:1 Def:1),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+113,0041200102,128,6,1,2,8:15 PM,10:00,,,Redick P.FOUL (P1.T1),,,5,200755,JJ Redick,1610612749.0,Milwaukee,Bucks,MIL,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+114,0041200102,129,8,0,2,8:15 PM,10:00,,,SUB: Ellis FOR Jennings,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+115,0041200102,130,8,0,2,8:15 PM,10:00,,,SUB: Dunleavy FOR Henson,,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+116,0041200102,131,1,51,2,8:15 PM,9:56,Andersen  Reverse Dunk (2 PTS) (Allen 2 AST),,,27 - 29,2,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+117,0041200102,132,5,2,2,8:15 PM,9:48,Cole STEAL (2 STL),,Ellis Lost Ball Turnover (P1.T7),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+118,0041200102,133,1,5,2,8:15 PM,9:43,Wade 1' Layup (8 PTS) (Cole 1 AST),,,27 - 31,4,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+119,0041200102,134,2,1,2,8:16 PM,9:25,Andersen BLOCK (1 BLK),,MISS Daniels 5' Jump Shot,,,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0
+120,0041200102,135,4,0,2,8:16 PM,9:23,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+121,0041200102,136,2,1,2,8:16 PM,9:17,,,MISS Daniels 10' Jump Shot,,,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+122,0041200102,137,4,0,2,8:16 PM,9:16,,,Udoh REBOUND (Off:1 Def:1),,,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+123,0041200102,138,5,11,2,8:16 PM,9:15,,,Bucks Turnover: Shot Clock (T#8),,,3,1610612749,,,,,,0,0,,,,,,1,0,,,,,,0
+124,0041200102,139,2,1,2,8:17 PM,9:03,MISS Cole 15' Jump Shot,,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+125,0041200102,140,4,0,2,8:17 PM,9:02,Andersen REBOUND (Off:1 Def:0),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+126,0041200102,141,1,66,2,8:17 PM,8:53,Wade 15' Jump Bank Shot (10 PTS),,,27 - 33,6,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+127,0041200102,142,9,1,2,8:17 PM,8:44,,,Bucks Timeout: Regular (Reg.2 Short 0),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+128,0041200102,144,8,0,2,8:19 PM,8:44,,,SUB: Ilyasova FOR Udoh,,,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+129,0041200102,145,8,0,2,8:19 PM,8:44,,,SUB: Sanders FOR Daniels,,,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+130,0041200102,147,2,1,2,8:20 PM,8:29,,,MISS Ellis 25' 3PT Jump Shot,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+131,0041200102,148,4,0,2,8:20 PM,8:28,Wade REBOUND (Off:1 Def:2),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+132,0041200102,149,2,1,2,8:20 PM,8:18,MISS Battier 25' 3PT Jump Shot,,,,,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+133,0041200102,150,4,0,2,8:20 PM,8:17,,,Dunleavy REBOUND (Off:0 Def:1),,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+134,0041200102,151,1,5,2,8:20 PM,8:14,,,Ilyasova 1' Layup (14 PTS) (Dunleavy 1 AST),29 - 33,4,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+135,0041200102,152,2,1,2,8:21 PM,7:48,MISS Battier  3PT Jump Shot,,,,,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+136,0041200102,153,4,0,2,8:21 PM,7:47,,,Dunleavy REBOUND (Off:0 Def:2),,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+137,0041200102,154,1,1,2,8:21 PM,7:39,,,Dunleavy 21' Jump Shot (2 PTS) (Ellis 3 AST),31 - 33,2,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+138,0041200102,155,2,1,2,8:21 PM,7:16,MISS Wade 18' Jump Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+139,0041200102,156,4,0,2,8:21 PM,7:15,,,Sanders REBOUND (Off:0 Def:1),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+140,0041200102,157,6,26,2,8:21 PM,7:09,,,Ilyasova Offensive Charge Foul (P1.T2),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+141,0041200102,158,5,5,2,8:21 PM,7:09,,,Ilyasova Foul Turnover (P1.T9),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+142,0041200102,159,2,1,2,8:22 PM,6:52,MISS Cole 13' Jump Shot,,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+143,0041200102,160,4,0,2,8:22 PM,6:51,,,Dunleavy REBOUND (Off:0 Def:3),,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+144,0041200102,161,2,1,2,8:22 PM,6:44,,,MISS Dunleavy 24' 3PT Jump Shot,,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+145,0041200102,162,4,0,2,8:22 PM,6:43,Allen REBOUND (Off:0 Def:1),,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+146,0041200102,163,6,26,2,8:22 PM,6:28,Cole Offensive Charge Foul (P1.T1),,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+147,0041200102,164,5,5,2,8:22 PM,6:28,Cole Foul Turnover (P1.T7),,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,1,0,,,,,,0
+148,0041200102,165,8,0,2,8:22 PM,6:28,SUB: James FOR Allen,,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+149,0041200102,166,8,0,2,8:23 PM,6:28,SUB: Bosh FOR Andersen,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+150,0041200102,167,8,0,2,8:23 PM,6:28,,,SUB: Mbah a Moute FOR Redick,,,5,200755,JJ Redick,1610612749.0,Milwaukee,Bucks,MIL,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+151,0041200102,168,5,1,2,8:23 PM,6:11,,,Sanders Bad Pass Turnover (P4.T10),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+152,0041200102,169,2,1,2,8:24 PM,5:49,MISS Cole 25' 3PT Jump Shot,,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+153,0041200102,170,4,0,2,8:24 PM,5:48,,,Sanders REBOUND (Off:0 Def:2),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+154,0041200102,171,6,26,2,8:24 PM,5:42,,,Ellis Offensive Charge Foul (P2.T3),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+155,0041200102,172,5,5,2,8:24 PM,5:42,,,Ellis Foul Turnover (P2.T11),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+156,0041200102,173,9,4,2,8:24 PM,5:42,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+157,0041200102,175,8,0,2,8:27 PM,5:42,,,SUB: Jennings FOR Ellis,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+158,0041200102,176,8,0,2,8:27 PM,5:42,SUB: Chalmers FOR Cole,,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+159,0041200102,177,2,1,2,8:27 PM,5:28,MISS Bosh  3PT Jump Shot,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+160,0041200102,178,4,0,2,8:27 PM,5:27,,,Ilyasova REBOUND (Off:1 Def:1),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+161,0041200102,179,2,3,2,8:27 PM,5:10,,,MISS Mbah a Moute 5' Hook Shot,,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+162,0041200102,180,4,0,2,8:27 PM,5:09,,,Ilyasova REBOUND (Off:2 Def:1),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+163,0041200102,181,6,1,2,8:28 PM,5:09,Chalmers P.FOUL (P1.T2),,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+164,0041200102,182,1,1,2,8:28 PM,4:58,,,Sanders 16' Jump Shot (6 PTS) (Dunleavy 2 AST),33 - 33,TIE,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+165,0041200102,183,5,1,2,8:28 PM,4:48,Wade Bad Pass Turnover (P2.T8),,Mbah a Moute STEAL (2 STL),,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+166,0041200102,184,6,2,2,8:28 PM,4:40,Battier S.FOUL (P1.T3),,,,,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+167,0041200102,185,3,11,2,8:29 PM,4:40,,,Sanders Free Throw 1 of 2 (7 PTS),34 - 33,-1,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+168,0041200102,187,8,0,2,8:29 PM,4:40,SUB: Allen FOR Wade,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+169,0041200102,188,3,12,2,8:29 PM,4:40,,,Sanders Free Throw 2 of 2 (8 PTS),35 - 33,-2,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+170,0041200102,190,1,1,2,8:29 PM,4:25,Chalmers 25' 3PT Jump Shot (7 PTS),,,35 - 36,1,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+171,0041200102,191,2,73,2,8:30 PM,4:12,,,MISS Mbah a Moute 1' Driving Reverse Layup,,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+172,0041200102,192,4,0,2,8:30 PM,4:11,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+173,0041200102,193,2,1,2,8:30 PM,4:02,,,MISS Jennings  3PT Jump Shot,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+174,0041200102,194,4,0,2,8:30 PM,4:02,James REBOUND (Off:0 Def:4),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+175,0041200102,196,7,2,2,8:30 PM,4:00,,,Sanders Violation:Defensive Goaltending,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+176,0041200102,195,1,5,2,8:30 PM,4:00,Chalmers 2' Layup (9 PTS) (James 2 AST),,,35 - 38,3,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+177,0041200102,197,2,1,2,8:31 PM,3:48,,,MISS Dunleavy 25' 3PT Jump Shot,,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+178,0041200102,198,4,0,2,8:31 PM,3:47,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+179,0041200102,199,6,3,2,8:31 PM,3:47,,,Ilyasova L.B.FOUL (P2.T4),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+180,0041200102,200,2,46,2,8:31 PM,3:28,MISS Allen 9' Running Jump Shot,,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+181,0041200102,201,4,0,2,8:31 PM,3:27,,,Dunleavy REBOUND (Off:0 Def:4),,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+182,0041200102,202,5,1,2,8:31 PM,3:13,Chalmers STEAL (2 STL),,Jennings Bad Pass Turnover (P2.T12),,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+183,0041200102,203,8,0,2,8:32 PM,3:13,,,SUB: Daniels FOR Ilyasova,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+184,0041200102,204,10,0,2,8:32 PM,3:13,Jump Ball Chalmers vs. Dunleavy: Tip to James,,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0
+185,0041200102,205,1,5,2,8:32 PM,3:07,James 2' Layup (11 PTS),,,35 - 40,5,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+186,0041200102,206,1,5,2,8:32 PM,2:49,,,Daniels 1' Layup (6 PTS) (Sanders 2 AST),37 - 40,3,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+187,0041200102,207,5,2,2,8:32 PM,2:35,James Lost Ball Turnover (P2.T9),,Dunleavy STEAL (1 STL),,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+188,0041200102,208,1,50,2,8:32 PM,2:29,,,Daniels 1' Running Dunk (8 PTS),39 - 40,1,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+189,0041200102,209,9,1,2,8:33 PM,2:18,HEAT Timeout: Regular (Full 2 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+190,0041200102,211,8,0,2,8:36 PM,2:18,,,SUB: Udoh FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+191,0041200102,212,8,0,2,8:36 PM,2:18,SUB: Wade FOR Battier,,,,,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+192,0041200102,213,6,17,2,8:36 PM,2:08,,,Bucks T.Foul (Def. 3 Sec Udoh ),,,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,1,0,,,,,,0
+193,0041200102,214,3,16,2,8:36 PM,2:08,Allen Free Throw Technical (1 PTS),,,39 - 41,2,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+194,0041200102,216,6,2,2,8:37 PM,1:54,,,Mbah a Moute S.FOUL (P1.PN),,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+195,0041200102,217,3,11,2,8:37 PM,1:54,James Free Throw 1 of 2 (12 PTS),,,39 - 42,3,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+196,0041200102,219,3,12,2,8:38 PM,1:54,James Free Throw 2 of 2 (13 PTS),,,39 - 43,4,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+197,0041200102,221,6,2,2,8:38 PM,1:31,James S.FOUL (P1.T4),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+198,0041200102,222,3,11,2,8:39 PM,1:31,,,MISS Mbah a Moute Free Throw 1 of 2,,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+199,0041200102,223,4,1,2,8:39 PM,1:31,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+200,0041200102,224,3,12,2,8:39 PM,1:31,,,MISS Mbah a Moute Free Throw 2 of 2,,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+201,0041200102,226,4,0,2,8:39 PM,1:30,Bosh REBOUND (Off:0 Def:1),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+202,0041200102,227,1,44,2,8:39 PM,1:13,Wade 1' Reverse Layup (12 PTS) (James 3 AST),,,39 - 45,6,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+203,0041200102,228,1,79,2,8:40 PM,0:48,,,Dunleavy 18' Pullup Jump Shot (4 PTS),41 - 45,4,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+204,0041200102,229,1,1,2,8:40 PM,0:22,James 4' Jump Shot (15 PTS),,,41 - 47,6,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+205,0041200102,230,9,2,2,8:40 PM,0:14,,,Bucks Timeout: Short (Reg.2 Short 1),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+206,0041200102,232,8,0,2,8:42 PM,0:14,,,SUB: Redick FOR Mbah a Moute,,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,5,200755,JJ Redick,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+207,0041200102,233,8,0,2,8:42 PM,0:14,,,SUB: Ellis FOR Daniels,,,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+208,0041200102,235,1,75,2,8:42 PM,0:02,,,Redick 1' Driving Finger Roll Layup (2 PTS),43 - 47,4,5,200755,JJ Redick,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+209,0041200102,236,13,0,2,8:42 PM,0:00,,End of 2nd Period (8:42 PM EST),,43 - 47,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+210,0041200102,238,12,0,3,8:59 PM,12:00,,Start of 3rd Period (8:59 PM EST),,43 - 47,4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+211,0041200102,239,2,1,3,8:59 PM,11:44,,,MISS Jennings 25' 3PT Jump Shot,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+212,0041200102,240,4,0,3,8:59 PM,11:43,Wade REBOUND (Off:1 Def:3),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+213,0041200102,241,6,2,3,8:59 PM,11:35,,,Ellis S.FOUL (P3.T1),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+214,0041200102,242,3,11,3,9:00 PM,11:35,Wade Free Throw 1 of 2 (13 PTS),,,43 - 48,5,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+215,0041200102,244,3,12,3,9:00 PM,11:35,Wade Free Throw 2 of 2 (14 PTS),,,43 - 49,6,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+216,0041200102,246,1,1,3,9:00 PM,11:23,,,Ilyasova 20' Jump Shot (16 PTS) (Jennings 3 AST),45 - 49,4,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+217,0041200102,247,2,5,3,9:01 PM,11:09,MISS Bosh 1' Layup,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+218,0041200102,248,4,0,3,9:01 PM,11:08,,,Ilyasova REBOUND (Off:2 Def:2),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+219,0041200102,249,1,5,3,9:01 PM,10:56,,,Sanders 2' Layup (10 PTS) (Ellis 4 AST),47 - 49,2,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+220,0041200102,250,2,77,3,9:01 PM,10:35,MISS Chalmers 7' Driving Jump Shot,,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+221,0041200102,251,4,0,3,9:01 PM,10:34,,,Sanders REBOUND (Off:0 Def:3),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+222,0041200102,252,1,1,3,9:01 PM,10:26,,,Sanders 18' Jump Shot (12 PTS) (Jennings 4 AST),49 - 49,TIE,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+223,0041200102,253,6,1,3,9:02 PM,10:13,,,Mbah a Moute P.FOUL (P2.T2),,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+224,0041200102,254,1,49,3,9:02 PM,10:06,Bosh  Driving Dunk (4 PTS),,,49 - 51,2,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+225,0041200102,255,2,1,3,9:02 PM,9:45,,,MISS Jennings 27' 3PT Jump Shot,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+226,0041200102,256,4,0,3,9:02 PM,9:44,Haslem REBOUND (Off:1 Def:2),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+227,0041200102,257,1,5,3,9:03 PM,9:27,Haslem 1' Layup (3 PTS) (Chalmers 2 AST),,,49 - 53,4,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+228,0041200102,258,5,1,3,9:03 PM,9:15,,,Sanders Bad Pass Turnover (P5.T13),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+229,0041200102,259,5,1,3,9:03 PM,9:01,Wade Bad Pass Turnover (P3.T10),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+230,0041200102,260,1,42,3,9:04 PM,8:41,,,Mbah a Moute 1' Driving Layup (6 PTS),51 - 53,2,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+231,0041200102,261,5,2,3,9:04 PM,8:27,James Lost Ball Turnover (P3.T11),,Jennings STEAL (2 STL),,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+232,0041200102,262,1,5,3,9:04 PM,8:23,,,Ellis 1' Layup (2 PTS) (Jennings 5 AST),53 - 53,TIE,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+233,0041200102,263,2,78,3,9:04 PM,7:55,MISS Wade 12' Floating Jump Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+234,0041200102,264,4,0,3,9:04 PM,7:54,,,Sanders REBOUND (Off:0 Def:4),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+235,0041200102,265,6,1,3,9:05 PM,7:47,Chalmers P.FOUL (P2.T1),,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+236,0041200102,266,2,1,3,9:05 PM,7:34,,,MISS Jennings 25' 3PT Jump Shot,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+237,0041200102,267,4,0,3,9:05 PM,7:33,James REBOUND (Off:0 Def:5),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+238,0041200102,268,1,49,3,9:05 PM,7:23,Wade  Driving Dunk (16 PTS) (Bosh 1 AST),,,53 - 55,2,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+239,0041200102,269,2,47,3,9:05 PM,7:06,,,MISS Sanders 14' Turnaround Jump Shot,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+240,0041200102,270,4,0,3,9:06 PM,7:05,Haslem REBOUND (Off:1 Def:3),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+241,0041200102,271,1,1,3,9:06 PM,6:57,Bosh 15' Jump Shot (6 PTS) (Wade 2 AST),,,53 - 57,4,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+242,0041200102,272,9,1,3,9:06 PM,6:57,,,Bucks Timeout: Regular (Reg.3 Short 1),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+243,0041200102,276,1,7,3,9:09 PM,6:46,,,Sanders  Dunk (14 PTS) (Ilyasova 1 AST),55 - 57,2,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+244,0041200102,277,2,1,3,9:10 PM,6:25,MISS Wade 9' Jump Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+245,0041200102,278,4,0,3,9:10 PM,6:24,,,Ellis REBOUND (Off:0 Def:3),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+246,0041200102,279,6,2,3,9:10 PM,6:17,Bosh S.FOUL (P2.T2),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+247,0041200102,280,3,11,3,9:10 PM,6:17,,,Ellis Free Throw 1 of 2 (3 PTS),56 - 57,1,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+248,0041200102,282,3,12,3,9:10 PM,6:17,,,MISS Ellis Free Throw 2 of 2,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+249,0041200102,284,4,0,3,9:10 PM,6:16,Haslem REBOUND (Off:1 Def:4),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+250,0041200102,295,2,42,3,9:11 PM,6:05,MISS James 2' Driving Layup,,Sanders BLOCK (1 BLK),,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0
+251,0041200102,292,4,0,3,9:11 PM,6:04,Haslem REBOUND (Off:2 Def:4),,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+252,0041200102,285,2,1,3,9:11 PM,5:53,MISS James 24' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+253,0041200102,286,4,0,3,9:11 PM,5:52,,,Sanders REBOUND (Off:0 Def:5),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+254,0041200102,287,2,1,3,9:11 PM,5:37,,,MISS Jennings 25' 3PT Jump Shot,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+255,0041200102,288,4,0,3,9:11 PM,5:36,Bosh REBOUND (Off:0 Def:2),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+256,0041200102,289,2,1,3,9:11 PM,5:17,MISS Chalmers 18' Jump Shot,,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+257,0041200102,290,4,0,3,9:11 PM,5:16,Wade REBOUND (Off:2 Def:3),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+258,0041200102,291,1,87,3,9:11 PM,5:15,Wade  Putback Dunk (18 PTS),,,56 - 59,3,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+259,0041200102,293,5,1,3,9:12 PM,4:57,,,Ellis Bad Pass Turnover (P3.T14),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+260,0041200102,294,6,2,3,9:12 PM,4:42,,,Sanders S.FOUL (P3.T3),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+261,0041200102,296,3,11,3,9:13 PM,4:42,Wade Free Throw 1 of 2 (19 PTS),,,56 - 60,4,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+262,0041200102,298,8,0,3,9:13 PM,4:42,SUB: Battier FOR Haslem,,,,,4,2617,Udonis Haslem,1610612748.0,Miami,Heat,MIA,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+263,0041200102,299,3,12,3,9:13 PM,4:42,Wade Free Throw 2 of 2 (20 PTS),,,56 - 61,5,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+264,0041200102,302,2,1,3,9:14 PM,4:22,,,MISS Ilyasova 18' Jump Shot,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+265,0041200102,303,4,0,3,9:14 PM,4:21,Bosh REBOUND (Off:0 Def:3),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+266,0041200102,304,2,42,3,9:14 PM,4:10,MISS James 2' Driving Layup,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+267,0041200102,305,4,0,3,9:14 PM,4:09,,,Mbah a Moute REBOUND (Off:0 Def:1),,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+268,0041200102,306,1,1,3,9:14 PM,4:01,,,Jennings 15' Jump Shot (3 PTS),58 - 61,3,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+269,0041200102,307,1,1,3,9:14 PM,3:40,Battier 24' 3PT Jump Shot (8 PTS) (James 4 AST),,,58 - 64,6,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+270,0041200102,308,1,78,3,9:15 PM,3:12,,,Jennings 9' Floating Jump Shot (5 PTS),60 - 64,4,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+271,0041200102,309,9,1,3,9:15 PM,3:11,HEAT Timeout: Regular (Full 3 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+272,0041200102,311,8,0,3,9:17 PM,3:11,,,SUB: Dunleavy FOR Ilyasova,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+273,0041200102,312,8,0,3,9:18 PM,3:11,SUB: Allen FOR Wade,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+274,0041200102,313,1,7,3,9:18 PM,2:52,Bosh  Dunk (8 PTS) (Allen 3 AST),,,60 - 66,6,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+275,0041200102,314,2,1,3,9:18 PM,2:27,,,MISS Jennings  3PT Jump Shot,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+276,0041200102,315,4,0,3,9:18 PM,2:26,James REBOUND (Off:0 Def:6),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+277,0041200102,316,1,78,3,9:19 PM,2:03,Bosh 9' Floating Jump Shot (10 PTS),,,60 - 68,8,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+278,0041200102,317,1,1,3,9:19 PM,1:48,,,Dunleavy 17' Jump Shot (6 PTS),62 - 68,6,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+279,0041200102,318,2,1,3,9:20 PM,1:21,MISS Bosh 18' Jump Shot,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+280,0041200102,319,4,0,3,9:20 PM,1:20,,,Dunleavy REBOUND (Off:0 Def:5),,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+281,0041200102,320,2,1,3,9:20 PM,1:03,,,MISS Ellis 25' 3PT Jump Shot,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+282,0041200102,321,4,0,3,9:20 PM,1:02,Bosh REBOUND (Off:0 Def:4),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+283,0041200102,322,2,5,3,9:20 PM,0:50,MISS Bosh 1' Layup,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+284,0041200102,323,4,0,3,9:20 PM,0:49,,,Sanders REBOUND (Off:0 Def:6),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+285,0041200102,324,2,42,3,9:20 PM,0:44,,,MISS Jennings 1' Driving Layup,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+286,0041200102,325,4,0,3,9:20 PM,0:43,Chalmers REBOUND (Off:1 Def:3),,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+287,0041200102,326,6,1,3,9:20 PM,0:38,,,Jennings P.FOUL (P1.T4),,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+288,0041200102,327,8,0,3,9:21 PM,0:38,SUB: Andersen FOR Bosh,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+289,0041200102,328,8,0,3,9:21 PM,0:38,SUB: Cole FOR Chalmers,,,,,4,201596,Mario Chalmers,1610612748.0,Miami,Heat,MIA,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+290,0041200102,329,8,0,3,9:21 PM,0:38,,,SUB: Udoh FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+291,0041200102,330,5,40,3,9:21 PM,0:33,Allen Out of Bounds Lost Ball Turnover (P1.T12),,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+292,0041200102,331,6,2,3,9:21 PM,0:24,Cole S.FOUL (P2.T3),,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+293,0041200102,332,3,11,3,9:21 PM,0:24,,,MISS Jennings Free Throw 1 of 2,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+294,0041200102,333,4,1,3,9:21 PM,0:24,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+295,0041200102,335,8,0,3,9:22 PM,0:24,,,SUB: Smith FOR Ellis,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,5,202397,Ish Smith,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+296,0041200102,336,3,12,3,9:22 PM,0:24,,,Jennings Free Throw 2 of 2 (6 PTS),63 - 68,5,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+297,0041200102,338,5,1,3,9:22 PM,0:05,James Bad Pass Turnover (P4.T13),,Dunleavy STEAL (2 STL),,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+298,0041200102,339,1,5,3,9:22 PM,0:01,,,Jennings 1' Layup (8 PTS) (Dunleavy 3 AST),65 - 68,3,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+299,0041200102,340,2,1,3,9:22 PM,0:00,MISS James 37' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+300,0041200102,341,4,0,3,9:22 PM,0:00,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+301,0041200102,342,13,0,3,9:23 PM,0:00,,End of 3rd Period (9:23 PM EST),,65 - 68,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+302,0041200102,344,12,0,4,9:26 PM,12:00,,Start of 4th Period (9:26 PM EST),,65 - 68,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+303,0041200102,345,2,1,4,9:26 PM,11:45,MISS Andersen 5' Jump Shot,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+304,0041200102,346,4,0,4,9:26 PM,11:44,James REBOUND (Off:1 Def:6),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+305,0041200102,347,2,5,4,9:26 PM,11:43,MISS James 2' Layup,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+306,0041200102,349,4,0,4,9:26 PM,11:42,Andersen REBOUND (Off:2 Def:0),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+307,0041200102,348,2,4,4,9:26 PM,11:41,MISS Andersen 1' Tip Shot,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+308,0041200102,351,4,0,4,9:26 PM,11:40,Andersen REBOUND (Off:3 Def:0),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+309,0041200102,350,1,40,4,9:26 PM,11:38,Andersen 1' Layup (4 PTS),,,65 - 70,5,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+310,0041200102,352,6,2,4,9:26 PM,11:38,,,Dunleavy S.FOUL (P1.T1),,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+311,0041200102,353,3,10,4,9:27 PM,11:38,Andersen Free Throw 1 of 1 (5 PTS),,,65 - 71,6,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+312,0041200102,355,2,1,4,9:27 PM,11:17,,,MISS Smith 10' Jump Shot,,,5,202397,Ish Smith,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+313,0041200102,356,4,0,4,9:27 PM,11:16,James REBOUND (Off:1 Def:7),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+314,0041200102,357,1,42,4,9:27 PM,11:08,James 1' Driving Layup (17 PTS),,,65 - 73,8,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+315,0041200102,358,5,1,4,9:28 PM,10:43,Cole STEAL (3 STL),,Smith Bad Pass Turnover (P1.T15),,,5,202397,Ish Smith,1610612749.0,Milwaukee,Bucks,MIL,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+316,0041200102,359,6,2,4,9:28 PM,10:39,,,Smith S.FOUL (P1.T2),,,5,202397,Ish Smith,1610612749.0,Milwaukee,Bucks,MIL,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+317,0041200102,360,3,11,4,9:28 PM,10:39,Cole Free Throw 1 of 2 (1 PTS),,,65 - 74,9,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+318,0041200102,362,8,0,4,9:28 PM,10:39,,,SUB: Sanders FOR Udoh,,,5,202327,Ekpe Udoh,1610612749.0,Milwaukee,Bucks,MIL,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+319,0041200102,363,8,0,4,9:29 PM,10:39,,,SUB: Ellis FOR Smith,,,5,202397,Ish Smith,1610612749.0,Milwaukee,Bucks,MIL,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+320,0041200102,364,3,12,4,9:29 PM,10:39,Cole Free Throw 2 of 2 (2 PTS),,,65 - 75,10,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+321,0041200102,366,5,2,4,9:29 PM,10:26,Allen STEAL (1 STL),,Ellis Lost Ball Turnover (P4.T16),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+322,0041200102,367,2,50,4,9:29 PM,10:22,MISS Cole 2' Running Dunk,,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+323,0041200102,368,4,0,4,9:29 PM,10:20,Allen REBOUND (Off:1 Def:1),,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+324,0041200102,369,2,1,4,9:29 PM,10:18,MISS Allen 14' Jump Shot,,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+325,0041200102,370,4,0,4,9:29 PM,10:15,Cole REBOUND (Off:1 Def:1),,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+326,0041200102,371,1,5,4,9:29 PM,10:12,Andersen 1' Layup (7 PTS) (Allen 4 AST),,,65 - 77,12,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+327,0041200102,372,2,78,4,9:30 PM,9:53,,,MISS Jennings 6' Floating Jump Shot,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+328,0041200102,373,4,0,4,9:30 PM,9:52,Andersen REBOUND (Off:3 Def:1),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+329,0041200102,374,1,1,4,9:30 PM,9:38,Cole 24' 3PT Jump Shot (5 PTS) (James 5 AST),,,65 - 80,15,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+330,0041200102,375,9,1,4,9:30 PM,9:37,,,Bucks Timeout: Regular (Reg.4 Short 1),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+331,0041200102,379,1,1,4,9:33 PM,9:17,,,Ellis 19' Jump Shot (5 PTS) (Daniels 1 AST),67 - 80,13,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+332,0041200102,380,2,1,4,9:34 PM,8:59,MISS James 12' Jump Shot,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+333,0041200102,381,4,0,4,9:34 PM,8:58,,,Daniels REBOUND (Off:0 Def:1),,,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+334,0041200102,382,6,29,4,9:34 PM,8:56,Battier Shooting Block Foul (P2.T1),,,,,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+335,0041200102,383,3,11,4,9:34 PM,8:56,,,Ellis Free Throw 1 of 2 (6 PTS),68 - 80,12,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+336,0041200102,385,3,12,4,9:34 PM,8:56,,,Ellis Free Throw 2 of 2 (7 PTS),69 - 80,11,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+337,0041200102,386,6,2,4,9:35 PM,8:44,,,Sanders S.FOUL (P4.T3),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+338,0041200102,387,3,11,4,9:35 PM,8:44,Andersen Free Throw 1 of 2 (8 PTS),,,69 - 81,12,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+339,0041200102,389,3,12,4,9:35 PM,8:44,MISS Andersen Free Throw 2 of 2,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+340,0041200102,391,4,0,4,9:35 PM,8:43,,,Dunleavy REBOUND (Off:0 Def:6),,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+341,0041200102,392,6,1,4,9:35 PM,8:42,Andersen P.FOUL (P3.T2),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+342,0041200102,393,6,2,4,9:36 PM,8:27,James S.FOUL (P2.T3),,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+343,0041200102,394,3,11,4,9:36 PM,8:27,,,MISS Sanders Free Throw 1 of 2,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+344,0041200102,395,4,1,4,9:36 PM,8:27,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0041200102,396,8,0,4,9:37 PM,8:27,SUB: Wade FOR James,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+346,0041200102,397,3,12,4,9:37 PM,8:27,,,MISS Sanders Free Throw 2 of 2,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+347,0041200102,399,4,0,4,9:37 PM,8:26,Wade REBOUND (Off:2 Def:4),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+348,0041200102,400,2,5,4,9:37 PM,8:08,MISS Cole 2' Layup,,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+349,0041200102,401,4,0,4,9:37 PM,8:07,Andersen REBOUND (Off:4 Def:1),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+350,0041200102,402,1,5,4,9:37 PM,8:06,Andersen 2' Layup (10 PTS),,,69 - 83,14,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+351,0041200102,403,2,1,4,9:37 PM,7:50,,,MISS Ellis 19' Jump Shot,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+352,0041200102,404,4,0,4,9:37 PM,7:49,Andersen REBOUND (Off:4 Def:2),,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+353,0041200102,405,2,1,4,9:38 PM,7:29,MISS Wade 20' Jump Shot,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+354,0041200102,406,4,0,4,9:38 PM,7:28,,,Ellis REBOUND (Off:0 Def:4),,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+355,0041200102,407,2,1,4,9:38 PM,7:09,,,MISS Jennings 25' 3PT Jump Shot,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+356,0041200102,408,4,0,4,9:38 PM,7:08,Wade REBOUND (Off:2 Def:5),,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+357,0041200102,409,6,2,4,9:38 PM,6:59,,,Sanders S.FOUL (P5.T4),,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+358,0041200102,410,9,1,4,9:39 PM,6:59,,,Bucks Timeout: Regular (Reg.5 Short 1),,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+359,0041200102,412,8,0,4,9:41 PM,6:59,,,SUB: Ilyasova FOR Daniels,,,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+360,0041200102,413,8,0,4,9:42 PM,6:59,SUB: Bosh FOR Andersen,,,,,4,2365,Chris Andersen,1610612748.0,Miami,Heat,MIA,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+361,0041200102,414,3,11,4,9:42 PM,6:59,Battier Free Throw 1 of 2 (9 PTS),,,69 - 84,15,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+362,0041200102,416,3,12,4,9:42 PM,6:59,Battier Free Throw 2 of 2 (10 PTS),,,69 - 85,16,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+363,0041200102,420,8,0,4,9:42 PM,6:56,SUB: James FOR Battier,,,,,4,2203,Shane Battier,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+364,0041200102,421,2,42,4,9:43 PM,6:46,,,MISS Ellis 2' Driving Layup,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+365,0041200102,422,4,0,4,9:43 PM,6:45,Cole REBOUND (Off:1 Def:2),,,,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+366,0041200102,423,2,1,4,9:43 PM,6:27,MISS Allen  3PT Jump Shot,,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+367,0041200102,424,4,0,4,9:43 PM,6:26,,,Ilyasova REBOUND (Off:2 Def:3),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+368,0041200102,425,5,1,4,9:43 PM,6:14,Bosh STEAL (1 STL),,Ilyasova Bad Pass Turnover (P2.T17),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+369,0041200102,426,2,1,4,9:43 PM,5:55,MISS James 24' 3PT Jump Shot,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+370,0041200102,427,4,0,4,9:43 PM,5:54,,,Jennings REBOUND (Off:0 Def:3),,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+371,0041200102,428,2,42,4,9:44 PM,5:47,,,MISS Jennings 1' Driving Layup,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+372,0041200102,429,4,0,4,9:44 PM,5:46,,,Bucks Rebound,,,3,1610612749,,,,,,0,0,,,,,,0,0,,,,,,0
+373,0041200102,430,8,0,4,9:44 PM,5:46,,,SUB: Mbah a Moute FOR Sanders,,,5,202336,Larry Sanders,1610612749.0,Milwaukee,Bucks,MIL,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+374,0041200102,431,1,5,4,9:44 PM,5:40,,,Ilyasova 1' Layup (18 PTS) (Dunleavy 4 AST),71 - 85,14,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+375,0041200102,432,1,1,4,9:44 PM,5:18,Allen 25' 3PT Jump Shot (4 PTS) (Wade 3 AST),,,71 - 88,17,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+376,0041200102,433,1,1,4,9:45 PM,4:57,,,Dunleavy 18' Jump Shot (8 PTS),73 - 88,15,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+377,0041200102,434,2,66,4,9:45 PM,4:38,MISS Bosh 14' Jump Bank Shot,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+378,0041200102,435,4,0,4,9:45 PM,4:37,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+379,0041200102,436,6,3,4,9:45 PM,4:37,,,Dunleavy L.B.FOUL (P2.PN),,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+380,0041200102,437,3,11,4,9:45 PM,4:37,MISS Wade Free Throw 1 of 2,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+381,0041200102,438,4,1,4,9:45 PM,4:37,HEAT Rebound,,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+382,0041200102,439,3,12,4,9:46 PM,4:37,Wade Free Throw 2 of 2 (21 PTS),,,73 - 89,16,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+383,0041200102,441,2,42,4,9:46 PM,4:21,,,MISS Mbah a Moute 2' Driving Layup,,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+384,0041200102,442,4,0,4,9:46 PM,4:20,Bosh REBOUND (Off:0 Def:5),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+385,0041200102,443,6,29,4,9:46 PM,4:15,,,Ilyasova Shooting Block Foul (P3.PN),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,1,0,,,,,,0
+386,0041200102,444,3,11,4,9:47 PM,4:15,James Free Throw 1 of 2 (18 PTS),,,73 - 90,17,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+387,0041200102,446,3,12,4,9:47 PM,4:15,James Free Throw 2 of 2 (19 PTS),,,73 - 91,18,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+388,0041200102,448,2,1,4,9:47 PM,4:04,,,MISS Dunleavy 27' 3PT Jump Shot,,,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+389,0041200102,449,4,0,4,9:47 PM,4:03,,,Ilyasova REBOUND (Off:3 Def:3),,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+390,0041200102,450,1,1,4,9:47 PM,4:01,,,Ilyasova  3PT Jump Shot (21 PTS),76 - 91,15,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+391,0041200102,451,1,1,4,9:48 PM,3:34,Allen 25' 3PT Jump Shot (7 PTS) (James 6 AST),,,76 - 94,18,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+392,0041200102,452,6,1,4,9:48 PM,3:15,Allen P.FOUL (P1.T4),,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+393,0041200102,453,1,1,4,9:49 PM,3:04,,,Dunleavy 24' 3PT Jump Shot (11 PTS) (Ellis 5 AST),79 - 94,15,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+394,0041200102,454,1,79,4,9:49 PM,2:38,Cole 15' Pullup Jump Shot (7 PTS),,,79 - 96,17,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+395,0041200102,455,2,1,4,9:49 PM,2:24,,,MISS Ilyasova 19' Jump Shot,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+396,0041200102,456,4,0,4,9:49 PM,2:23,Bosh REBOUND (Off:0 Def:6),,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+397,0041200102,457,9,1,4,9:49 PM,2:18,HEAT Timeout: Regular (Full 4 Short 0),,,,,2,1610612748,,,,,,0,0,,,,,,0,0,,,,,,0
+398,0041200102,459,8,0,4,9:52 PM,2:18,,,SUB: Daniels FOR Mbah a Moute,,,5,201601,Luc Mbah a Moute,1610612749.0,Milwaukee,Bucks,MIL,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+399,0041200102,460,8,0,4,9:52 PM,2:18,,,SUB: Smith FOR Ilyasova,,,5,101141,Ersan Ilyasova,1610612749.0,Milwaukee,Bucks,MIL,5,202397,Ish Smith,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+400,0041200102,461,8,0,4,9:52 PM,2:18,,,SUB: Ayon FOR Ellis,,,5,101145,Monta Ellis,1610612749.0,Milwaukee,Bucks,MIL,5,202970,Gustavo Ayon,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+401,0041200102,462,8,0,4,9:52 PM,2:18,,,SUB: Henson FOR Jennings,,,5,201943,Brandon Jennings,1610612749.0,Milwaukee,Bucks,MIL,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+402,0041200102,463,8,0,4,9:52 PM,2:18,SUB: Lewis FOR James,,,,,4,2544,LeBron James,1610612748.0,Miami,Heat,MIA,4,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+403,0041200102,464,8,0,4,9:52 PM,2:18,SUB: Miller FOR Bosh,,,,,4,2547,Chris Bosh,1610612748.0,Miami,Heat,MIA,4,2034,Mike Miller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+404,0041200102,465,8,0,4,9:52 PM,2:18,SUB: Jones FOR Wade,,,,,4,2548,Dwyane Wade,1610612748.0,Miami,Heat,MIA,4,2592,James Jones,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+405,0041200102,466,8,0,4,9:52 PM,2:18,SUB: Anthony FOR Allen,,,,,4,951,Ray Allen,1610612748.0,Miami,Heat,MIA,4,201202,Joel Anthony,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0
+406,0041200102,467,1,1,4,9:53 PM,2:02,Anthony 16' Jump Shot (2 PTS),,,79 - 98,19,4,201202,Joel Anthony,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+407,0041200102,468,1,5,4,9:53 PM,1:45,,,Ayon 1' Layup (2 PTS) (Dunleavy 5 AST),81 - 98,17,5,202970,Gustavo Ayon,1610612749.0,Milwaukee,Bucks,MIL,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+408,0041200102,469,2,1,4,9:53 PM,1:20,MISS Miller 20' Jump Shot,,,,,4,2034,Mike Miller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+409,0041200102,470,4,0,4,9:53 PM,1:19,,,Smith REBOUND (Off:0 Def:1),,,5,202397,Ish Smith,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+410,0041200102,471,2,5,4,9:54 PM,1:13,Lewis BLOCK (1 BLK),,MISS Ayon 1' Layup,,,5,202970,Gustavo Ayon,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,4,1740,Rashard Lewis,1610612748.0,Miami,Heat,MIA,0
+411,0041200102,472,4,0,4,9:54 PM,1:12,Anthony REBOUND (Off:0 Def:1),,,,,4,201202,Joel Anthony,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+412,0041200102,473,2,1,4,9:54 PM,0:56,MISS Miller  3PT Jump Shot,,,,,4,2034,Mike Miller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+413,0041200102,474,4,0,4,9:54 PM,0:55,,,Henson REBOUND (Off:0 Def:1),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+414,0041200102,475,6,2,4,9:54 PM,0:50,Jones S.FOUL (P1.PN),,,,,4,2592,James Jones,1610612748.0,Miami,Heat,MIA,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,1,0,,,,,,0
+415,0041200102,476,3,11,4,9:54 PM,0:50,,,Dunleavy Free Throw 1 of 2 (12 PTS),82 - 98,16,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+416,0041200102,478,3,12,4,9:54 PM,0:50,,,Dunleavy Free Throw 2 of 2 (13 PTS),83 - 98,15,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+417,0041200102,480,5,2,4,9:55 PM,0:33,Cole Lost Ball Turnover (P2.T14),,Daniels STEAL (1 STL),,,4,202708,Norris Cole,1610612748.0,Miami,Heat,MIA,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+418,0041200102,481,1,1,4,9:55 PM,0:27,,,Dunleavy 24' 3PT Jump Shot (16 PTS) (Daniels 2 AST),86 - 98,12,5,2399,Mike Dunleavy,1610612749.0,Milwaukee,Bucks,MIL,5,2605,Marquis Daniels,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0
+419,0041200102,482,2,1,4,9:55 PM,0:02,MISS Miller 25' 3PT Jump Shot,,,,,4,2034,Mike Miller,1610612748.0,Miami,Heat,MIA,0,0,,,,,,0,0,,,,,,0
+420,0041200102,483,4,0,4,9:55 PM,0:00,,,Henson REBOUND (Off:0 Def:2),,,5,203089,John Henson,1610612749.0,Milwaukee,Bucks,MIL,0,0,,,,,,0,0,,,,,,0
+421,0041200102,484,13,0,4,9:55 PM,0:00,,End of 4th Period (9:55 PM EST),,86 - 98,12,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

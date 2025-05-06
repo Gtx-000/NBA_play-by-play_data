@@ -1,0 +1,417 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200154,0,12,0,1,7:11 PM,12:00,,Start of 1st Period (7:11 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200154,1,10,0,1,7:11 PM,12:00,Jump Ball Howard vs. Duncan: Tip to Gasol,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0
+2,0041200154,2,5,1,1,7:11 PM,11:45,Gasol Bad Pass Turnover (P1.T1),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+3,0041200154,3,1,1,1,7:12 PM,11:25,,,Green 26' 3PT Jump Shot (3 PTS) (Parker 1 AST),3 - 0,-3,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+4,0041200154,4,1,79,1,7:12 PM,11:13,Morris 16' Pullup Jump Shot (2 PTS),,,3 - 2,-1,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+5,0041200154,5,2,1,1,7:12 PM,10:54,,,MISS Parker 17' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+6,0041200154,7,4,0,1,7:12 PM,10:53,,,Green REBOUND (Off:1 Def:0),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+7,0041200154,6,1,4,1,7:12 PM,10:53,,,Green 1' Tip Shot (5 PTS),5 - 2,-3,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+8,0041200154,8,2,1,1,7:12 PM,10:42,MISS Morris 15' Jump Shot,,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+9,0041200154,9,4,0,1,7:12 PM,10:40,,,Duncan REBOUND (Off:0 Def:1),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+10,0041200154,10,1,5,1,7:13 PM,10:24,,,Baynes 2' Layup (2 PTS) (Parker 2 AST),7 - 2,-5,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+11,0041200154,11,5,1,1,7:13 PM,10:09,Gasol Bad Pass Turnover (P2.T2),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+12,0041200154,16,5,39,1,7:14 PM,9:52,,,Duncan Step Out of Bounds Turnover (P1.T1),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+13,0041200154,17,1,78,1,7:14 PM,9:41,Goudelock 3' Floating Jump Shot (2 PTS) (Morris 1 AST),,,7 - 4,-3,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+14,0041200154,18,1,1,1,7:14 PM,9:22,,,Baynes 20' Jump Shot (4 PTS) (Green 1 AST),9 - 4,-5,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+15,0041200154,19,2,1,1,7:15 PM,9:00,MISS Gasol 15' Jump Shot,,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+16,0041200154,20,4,0,1,7:15 PM,8:59,,,Duncan REBOUND (Off:0 Def:2),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+17,0041200154,21,2,1,1,7:15 PM,8:50,,,MISS Green 19' Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+18,0041200154,22,4,0,1,7:15 PM,8:49,Clark REBOUND (Off:0 Def:1),,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+19,0041200154,23,6,1,1,7:15 PM,8:42,,,Baynes P.FOUL (P1.T1),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+20,0041200154,24,5,2,1,7:16 PM,8:28,Clark Lost Ball Turnover (P1.T3),,Leonard STEAL (1 STL),,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+21,0041200154,25,5,1,1,7:16 PM,8:10,,,Duncan Bad Pass Turnover (P2.T2),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+22,0041200154,26,2,1,1,7:16 PM,7:56,MISS Goudelock 15' Jump Shot,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+23,0041200154,27,4,0,1,7:16 PM,7:55,,,Leonard REBOUND (Off:0 Def:1),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+24,0041200154,28,6,2,1,7:17 PM,7:50,Howard S.FOUL (P1.T1),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+25,0041200154,29,3,11,1,7:17 PM,7:50,,,Leonard Free Throw 1 of 2 (1 PTS),10 - 4,-6,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+26,0041200154,31,3,12,1,7:17 PM,7:50,,,Leonard Free Throw 2 of 2 (2 PTS),11 - 4,-7,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+27,0041200154,33,5,1,1,7:18 PM,7:31,Howard Bad Pass Turnover (P1.T4),,Parker STEAL (1 STL),,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+28,0041200154,34,1,41,1,7:18 PM,7:25,,,Duncan 3' Running Layup (2 PTS) (Parker 3 AST),13 - 4,-9,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+29,0041200154,35,2,1,1,7:18 PM,7:09,MISS Morris 18' Jump Shot,,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+30,0041200154,36,4,0,1,7:18 PM,7:08,,,Parker REBOUND (Off:0 Def:1),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+31,0041200154,37,2,1,1,7:18 PM,7:01,,,MISS Parker 10' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+32,0041200154,38,4,0,1,7:18 PM,6:59,Gasol REBOUND (Off:0 Def:1),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+33,0041200154,39,2,1,1,7:18 PM,6:53,MISS Clark 15' Jump Shot,,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+34,0041200154,44,4,0,1,7:19 PM,6:50,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+35,0041200154,43,9,1,1,7:19 PM,6:50,,,Spurs Timeout: Regular (Reg.1 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+36,0041200154,45,8,0,1,7:21 PM,6:50,,,SUB: Bonner FOR Baynes,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+37,0041200154,46,8,0,1,7:21 PM,6:50,SUB: Duhon FOR Goudelock,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+38,0041200154,47,1,5,1,7:22 PM,6:40,Gasol 2' Layup (2 PTS),,,13 - 6,-7,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+39,0041200154,48,2,1,1,7:23 PM,6:18,,,MISS Leonard 26' 3PT Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+40,0041200154,49,4,0,1,7:23 PM,6:17,Howard REBOUND (Off:0 Def:1),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+41,0041200154,50,1,5,1,7:23 PM,5:59,Howard 2' Layup (2 PTS) (Morris 2 AST),,,13 - 8,-5,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+42,0041200154,51,6,2,1,7:23 PM,5:59,,,Bonner S.FOUL (P1.T2),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+43,0041200154,52,3,10,1,7:23 PM,5:59,Howard Free Throw 1 of 1 (3 PTS),,,13 - 9,-4,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+44,0041200154,53,1,1,1,7:24 PM,5:43,,,Parker 14' Jump Shot (2 PTS),15 - 9,-6,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+45,0041200154,54,1,65,1,7:24 PM,5:26,Gasol 5' Jump Hook Shot (4 PTS),,,15 - 11,-4,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+46,0041200154,55,2,1,1,7:24 PM,5:07,,,MISS Leonard 15' Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+47,0041200154,56,4,0,1,7:24 PM,5:06,Gasol REBOUND (Off:0 Def:2),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+48,0041200154,58,6,1,1,7:25 PM,4:53,,,Green P.FOUL (P1.T3),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+49,0041200154,59,8,0,1,7:25 PM,4:53,,,SUB: Ginobili FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+50,0041200154,60,8,0,1,7:25 PM,4:53,SUB: Jamison FOR Gasol,,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+51,0041200154,62,5,1,1,7:25 PM,4:49,Morris Bad Pass Turnover (P1.T5),,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+52,0041200154,63,2,1,1,7:26 PM,4:32,,,MISS Duncan 15' Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+53,0041200154,64,4,0,1,7:26 PM,4:31,Howard REBOUND (Off:0 Def:2),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+54,0041200154,65,1,56,1,7:26 PM,4:12,Howard 4' Running Hook Shot (5 PTS) (Duhon 1 AST),,,15 - 13,-2,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+55,0041200154,66,1,44,1,7:26 PM,3:57,,,Parker 2' Reverse Layup (4 PTS) (Ginobili 1 AST),17 - 13,-4,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+56,0041200154,67,1,78,1,7:27 PM,3:31,Duhon 7' Floating Jump Shot (2 PTS) (Howard 1 AST),,,17 - 15,-2,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+57,0041200154,68,6,2,1,7:27 PM,3:16,Clark S.FOUL (P1.T2),,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+58,0041200154,69,3,11,1,7:27 PM,3:16,,,Parker Free Throw 1 of 2 (5 PTS),18 - 15,-3,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+59,0041200154,71,3,12,1,7:27 PM,3:16,,,Parker Free Throw 2 of 2 (6 PTS),19 - 15,-4,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+60,0041200154,73,6,2,1,7:28 PM,2:58,,,Duncan S.FOUL (P1.T4),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+61,0041200154,74,9,1,1,7:28 PM,2:58,LAKERS Timeout: Regular (Full 1 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+62,0041200154,77,8,0,1,7:31 PM,2:58,,,SUB: Neal FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+63,0041200154,78,3,11,1,7:31 PM,2:58,MISS Howard Free Throw 1 of 2,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+64,0041200154,79,4,1,1,7:31 PM,2:58,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+65,0041200154,80,8,0,1,7:32 PM,2:58,,,SUB: Blair FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+66,0041200154,81,3,12,1,7:32 PM,2:58,MISS Howard Free Throw 2 of 2,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+67,0041200154,83,4,0,1,7:32 PM,2:56,,,Bonner REBOUND (Off:0 Def:1),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+68,0041200154,84,2,1,1,7:32 PM,2:43,,,MISS Bonner 18' Jump Shot,,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+69,0041200154,85,4,0,1,7:32 PM,2:42,Jamison REBOUND (Off:0 Def:1),,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+70,0041200154,86,5,1,1,7:32 PM,2:22,Howard Bad Pass Turnover (P2.T6),,Blair STEAL (1 STL),,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+71,0041200154,87,2,1,1,7:33 PM,2:02,,,MISS Ginobili 16' Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+72,0041200154,88,4,0,1,7:33 PM,2:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+73,0041200154,89,5,2,1,7:33 PM,1:49,Howard Lost Ball Turnover (P3.T7),,Bonner STEAL (1 STL),,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+74,0041200154,90,1,74,1,7:33 PM,1:43,,,Parker 2' Running Reverse Layup (8 PTS),21 - 15,-6,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+75,0041200154,92,8,0,1,7:34 PM,1:30,,,SUB: Joseph FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+76,0041200154,93,8,0,1,7:34 PM,1:30,SUB: Goudelock FOR Clark,,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+77,0041200154,94,6,1,1,7:34 PM,1:24,,,Blair P.FOUL (P1.PN),,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+78,0041200154,95,3,11,1,7:34 PM,1:24,Howard Free Throw 1 of 2 (6 PTS),,,21 - 16,-5,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+79,0041200154,97,3,12,1,7:34 PM,1:24,MISS Howard Free Throw 2 of 2,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+80,0041200154,99,4,0,1,7:35 PM,1:21,,,Blair REBOUND (Off:0 Def:1),,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+81,0041200154,100,1,78,1,7:35 PM,1:09,,,Blair 11' Floating Jump Shot (2 PTS) (Ginobili 2 AST),23 - 16,-7,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+82,0041200154,101,2,80,1,7:35 PM,0:51,MISS Morris 15' Step Back Jump Shot,,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+83,0041200154,102,4,0,1,7:35 PM,0:50,Howard REBOUND (Off:1 Def:2),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+84,0041200154,104,6,1,1,7:36 PM,0:50,,,Joseph P.FOUL (P1.PN),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+85,0041200154,105,6,11,1,7:36 PM,0:50,Howard T.FOUL (P1.T2),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+86,0041200154,106,3,16,1,7:36 PM,0:50,,,Neal Free Throw Technical (1 PTS),24 - 16,-8,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+87,0041200154,108,3,11,1,7:36 PM,0:50,MISS Howard Free Throw 1 of 2,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+88,0041200154,110,4,0,1,7:37 PM,0:50,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+89,0041200154,109,3,12,1,7:37 PM,0:50,MISS Howard Free Throw 2 of 2,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+90,0041200154,113,4,0,1,7:37 PM,0:48,Jamison REBOUND (Off:1 Def:1),,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+91,0041200154,112,1,4,1,7:37 PM,0:48,Jamison 1' Tip Shot (2 PTS),,,24 - 18,-6,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+92,0041200154,114,2,1,1,7:37 PM,0:31,,,MISS Ginobili 26' 3PT Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+93,0041200154,115,4,0,1,7:37 PM,0:30,Howard REBOUND (Off:1 Def:3),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+94,0041200154,116,5,2,1,7:38 PM,0:17,Goudelock Lost Ball Turnover (P1.T8),,Ginobili STEAL (1 STL),,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+95,0041200154,117,1,88,1,7:38 PM,0:04,,,Ginobili 3' Driving Slam Dunk (2 PTS),26 - 18,-8,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+96,0041200154,118,1,42,1,7:38 PM,0:00,Morris 2' Driving Layup (4 PTS),,,26 - 20,-6,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+97,0041200154,119,18,0,1,7:38 PM,0:00,,Support Ruling,,,,0,118,,,,,,0,0,,,,,,1,0,,,,,,0
+98,0041200154,120,13,0,1,7:40 PM,0:00,,End of 1st Period (7:40 PM EST),,26 - 20,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+99,0041200154,122,12,0,2,7:41 PM,12:00,,Start of 2nd Period (7:41 PM EST),,26 - 20,-6,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+100,0041200154,123,1,1,2,7:42 PM,11:45,,,Blair 8' Jump Shot (4 PTS) (Ginobili 3 AST),28 - 20,-8,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+101,0041200154,124,5,2,2,7:43 PM,11:26,Duhon Lost Ball Turnover (P1.T9),,Blair STEAL (2 STL),,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+102,0041200154,125,6,2,2,7:43 PM,11:23,Goudelock S.FOUL (P1.T1),,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+103,0041200154,127,3,11,2,7:43 PM,11:23,,,Ginobili Free Throw 1 of 2 (3 PTS),29 - 20,-9,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+104,0041200154,129,3,12,2,7:43 PM,11:23,,,MISS Ginobili Free Throw 2 of 2,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+105,0041200154,131,4,0,2,7:44 PM,11:21,Gasol REBOUND (Off:0 Def:3),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+106,0041200154,132,6,27,2,7:44 PM,11:12,,,Blair Personal Block Foul (P2.T1),,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+107,0041200154,133,1,5,2,7:45 PM,11:09,Gasol 1' Layup (6 PTS) (Jamison 1 AST),,,29 - 22,-7,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+108,0041200154,134,5,1,2,7:45 PM,10:55,,,Ginobili Bad Pass Turnover (P1.T3),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+109,0041200154,135,2,78,2,7:45 PM,10:44,MISS Goudelock 10' Floating Jump Shot,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+110,0041200154,136,4,0,2,7:45 PM,10:42,,,Neal REBOUND (Off:0 Def:1),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+111,0041200154,137,2,1,2,7:45 PM,10:26,,,MISS Ginobili 25' 3PT Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+112,0041200154,138,4,0,2,7:45 PM,10:24,Jamison REBOUND (Off:1 Def:2),,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+113,0041200154,139,2,1,2,7:46 PM,10:12,MISS Jamison 25' 3PT Jump Shot,,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+114,0041200154,140,4,0,2,7:46 PM,10:11,,,Ginobili REBOUND (Off:0 Def:1),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+115,0041200154,141,6,2,2,7:46 PM,10:05,Jamison S.FOUL (P1.T2),,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+116,0041200154,142,3,11,2,7:46 PM,10:05,,,Ginobili Free Throw 1 of 2 (4 PTS),30 - 22,-8,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+117,0041200154,144,3,12,2,7:46 PM,10:05,,,MISS Ginobili Free Throw 2 of 2,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+118,0041200154,146,4,0,2,7:46 PM,10:02,Gasol REBOUND (Off:0 Def:4),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+119,0041200154,147,2,5,2,7:47 PM,9:54,MISS Morris 2' Layup,,Ginobili BLOCK (1 BLK),,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0
+120,0041200154,148,4,0,2,7:47 PM,9:54,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+121,0041200154,149,8,0,2,7:47 PM,9:54,,,SUB: Green FOR Ginobili,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+122,0041200154,150,1,65,2,7:47 PM,9:46,Gasol 6' Jump Hook Shot (8 PTS),,,30 - 24,-6,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+123,0041200154,151,2,80,2,7:47 PM,9:36,,,MISS Blair 11' Step Back Jump Shot,,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+124,0041200154,152,4,0,2,7:47 PM,9:34,Goudelock REBOUND (Off:0 Def:1),,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+125,0041200154,153,2,1,2,7:47 PM,9:25,MISS Gasol 20' Jump Shot,,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+126,0041200154,154,4,0,2,7:47 PM,9:24,,,Green REBOUND (Off:1 Def:1),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+127,0041200154,155,1,1,2,7:48 PM,9:16,,,Neal 26' 3PT Jump Shot (4 PTS) (Joseph 1 AST),33 - 24,-9,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+128,0041200154,156,5,1,2,7:48 PM,8:59,Morris Bad Pass Turnover (P2.T10),,Neal STEAL (1 STL),,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+129,0041200154,157,2,73,2,7:48 PM,8:50,Gasol BLOCK (1 BLK),,MISS Green 3' Driving Reverse Layup,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0
+130,0041200154,158,4,0,2,7:48 PM,8:47,,,Green REBOUND (Off:2 Def:1),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+131,0041200154,159,1,80,2,7:48 PM,8:38,,,Neal 19' Step Back Jump Shot (6 PTS),35 - 24,-11,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+132,0041200154,160,9,1,2,7:48 PM,8:37,LAKERS Timeout: Regular (Full 2 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+133,0041200154,162,8,0,2,7:51 PM,8:37,SUB: Clark FOR Morris,,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+134,0041200154,164,2,1,2,7:52 PM,8:22,MISS Duhon 26' 3PT Jump Shot,,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+135,0041200154,165,4,0,2,7:52 PM,8:21,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+136,0041200154,166,8,0,2,7:52 PM,8:21,,,SUB: Leonard FOR Bonner,,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+137,0041200154,167,2,63,2,7:53 PM,7:58,,,MISS Neal 11' Fadeaway Jumper,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+138,0041200154,168,4,0,2,7:53 PM,7:55,Jamison REBOUND (Off:1 Def:3),,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+139,0041200154,169,2,1,2,7:53 PM,7:40,MISS Goudelock 27' 3PT Jump Shot,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+140,0041200154,170,4,0,2,7:53 PM,7:39,,,Green REBOUND (Off:2 Def:2),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+141,0041200154,171,1,1,2,7:53 PM,7:23,,,Neal 27' 3PT Jump Shot (9 PTS) (Joseph 2 AST),38 - 24,-14,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+142,0041200154,172,1,1,2,7:54 PM,7:04,Clark 11' Jump Shot (2 PTS) (Gasol 1 AST),,,38 - 26,-12,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+143,0041200154,173,1,75,2,7:54 PM,6:45,,,Green 3' Driving Finger Roll Layup (7 PTS) (Joseph 3 AST),40 - 26,-14,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+144,0041200154,174,2,1,2,7:54 PM,6:27,MISS Gasol 15' Jump Shot,,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+145,0041200154,175,4,0,2,7:54 PM,6:26,Clark REBOUND (Off:1 Def:1),,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+146,0041200154,177,8,0,2,7:54 PM,6:25,SUB: Howard FOR Jamison,,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+147,0041200154,178,8,0,2,7:54 PM,6:25,,,SUB: Duncan FOR Blair,,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+148,0041200154,179,8,0,2,7:54 PM,6:25,,,SUB: Parker FOR Joseph,,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+149,0041200154,180,2,1,2,7:55 PM,6:17,MISS Goudelock 11' Jump Shot,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+150,0041200154,181,4,0,2,7:55 PM,6:16,Goudelock REBOUND (Off:1 Def:1),,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+151,0041200154,182,1,1,2,7:55 PM,6:08,Duhon 26' 3PT Jump Shot (5 PTS) (Goudelock 1 AST),,,40 - 29,-11,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+152,0041200154,183,1,1,2,7:55 PM,5:41,,,Leonard 10' Jump Shot (4 PTS) (Neal 1 AST),42 - 29,-13,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+153,0041200154,184,2,1,2,7:56 PM,5:25,MISS Clark 26' 3PT Jump Shot,,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+154,0041200154,185,4,0,2,7:56 PM,5:24,,,Duncan REBOUND (Off:0 Def:3),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+155,0041200154,186,2,1,2,7:56 PM,5:16,,,MISS Neal 26' 3PT Jump Shot,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+156,0041200154,187,4,0,2,7:56 PM,5:15,Howard REBOUND (Off:1 Def:4),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+157,0041200154,188,5,1,2,7:56 PM,5:02,Duhon Bad Pass Turnover (P2.T11),,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+158,0041200154,189,9,4,2,7:56 PM,5:02,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+159,0041200154,192,8,0,2,7:59 PM,5:02,,,SUB: Ginobili FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+160,0041200154,193,2,1,2,7:59 PM,4:47,,,MISS Neal  3PT Jump Shot,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+161,0041200154,194,4,0,2,7:59 PM,4:46,Clark REBOUND (Off:1 Def:2),,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+162,0041200154,195,5,7,2,8:00 PM,4:38,Duhon Discontinue Dribble Turnover (P3.T12),,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+163,0041200154,196,1,80,2,8:00 PM,4:19,,,Parker 20' Step Back Jump Shot (10 PTS) (Ginobili 4 AST),44 - 29,-15,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+164,0041200154,197,5,1,2,8:00 PM,4:05,Gasol Bad Pass Turnover (P3.T13),,Neal STEAL (2 STL),,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+165,0041200154,198,1,41,2,8:00 PM,4:01,,,Duncan 2' Running Layup (4 PTS) (Parker 4 AST),46 - 29,-17,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+166,0041200154,199,6,2,2,8:00 PM,4:01,Goudelock S.FOUL (P2.T3),,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+167,0041200154,200,8,0,2,8:01 PM,4:01,SUB: Morris FOR Goudelock,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+168,0041200154,201,3,10,2,8:01 PM,4:01,,,Duncan Free Throw 1 of 1 (5 PTS),47 - 29,-18,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+169,0041200154,203,6,1,2,8:01 PM,3:50,,,Ginobili P.FOUL (P1.T2),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+170,0041200154,204,6,2,2,8:01 PM,3:43,,,Ginobili S.FOUL (P2.T3),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+171,0041200154,205,3,11,2,8:02 PM,3:43,Howard Free Throw 1 of 2 (7 PTS),,,47 - 30,-17,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+172,0041200154,207,8,0,2,8:02 PM,3:43,,,SUB: Baynes FOR Neal,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+173,0041200154,208,3,12,2,8:02 PM,3:43,MISS Howard Free Throw 2 of 2,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+174,0041200154,210,4,0,2,8:02 PM,3:42,,,Leonard REBOUND (Off:0 Def:2),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+175,0041200154,211,2,42,2,8:03 PM,3:23,,,MISS Leonard 3' Driving Layup,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+176,0041200154,212,4,0,2,8:03 PM,3:22,Morris REBOUND (Off:0 Def:1),,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+177,0041200154,213,5,39,2,8:03 PM,3:07,Clark Step Out of Bounds Turnover (P2.T14),,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+178,0041200154,214,9,1,2,8:03 PM,3:07,,,Spurs Timeout: Regular (Reg.2 Short 0),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+179,0041200154,218,2,1,2,8:07 PM,2:49,,,MISS Leonard 18' Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+180,0041200154,219,4,0,2,8:07 PM,2:48,Howard REBOUND (Off:1 Def:5),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+181,0041200154,220,1,42,2,8:07 PM,2:29,Gasol 2' Driving Layup (10 PTS),,,47 - 32,-15,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+182,0041200154,221,2,1,2,8:07 PM,2:15,Duhon BLOCK (1 BLK),,MISS Parker 4' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0
+183,0041200154,222,4,0,2,8:07 PM,2:13,Duhon REBOUND (Off:0 Def:1),,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+184,0041200154,223,2,73,2,8:07 PM,2:09,MISS Morris 2' Driving Reverse Layup,,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+185,0041200154,224,4,0,2,8:07 PM,2:04,,,Leonard REBOUND (Off:0 Def:3),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+186,0041200154,225,2,5,2,8:07 PM,2:01,Gasol BLOCK (2 BLK),,MISS Baynes 3' Layup,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0
+187,0041200154,226,4,0,2,8:07 PM,1:58,,,Parker REBOUND (Off:1 Def:1),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+188,0041200154,227,1,1,2,8:08 PM,1:48,,,Parker 15' Jump Shot (12 PTS),49 - 32,-17,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+189,0041200154,228,5,2,2,8:08 PM,1:24,Gasol Lost Ball Turnover (P4.T15),,Leonard STEAL (2 STL),,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+190,0041200154,229,2,78,2,8:08 PM,1:14,,,MISS Parker 11' Floating Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+191,0041200154,231,4,0,2,8:08 PM,1:11,,,Baynes REBOUND (Off:1 Def:0),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+192,0041200154,230,2,87,2,8:08 PM,1:11,,,MISS Baynes 1' Putback Dunk,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+193,0041200154,232,4,0,2,8:08 PM,1:08,,,Parker REBOUND (Off:2 Def:1),,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+194,0041200154,233,2,1,2,8:08 PM,0:56,,,MISS Parker 13' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+195,0041200154,234,4,0,2,8:08 PM,0:55,Howard REBOUND (Off:1 Def:6),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+196,0041200154,235,1,1,2,8:09 PM,0:43,Clark 17' Jump Shot (4 PTS) (Morris 3 AST),,,49 - 34,-15,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+197,0041200154,236,1,42,2,8:09 PM,0:28,,,Parker 4' Driving Layup (14 PTS),51 - 34,-17,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+198,0041200154,237,6,2,2,8:09 PM,0:28,Gasol S.FOUL (P1.T4),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+199,0041200154,238,8,0,2,8:09 PM,0:28,,,SUB: Green FOR Ginobili,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+200,0041200154,239,3,10,2,8:10 PM,0:28,,,Parker Free Throw 1 of 1 (15 PTS),52 - 34,-18,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+201,0041200154,241,2,1,2,8:10 PM,0:11,MISS Morris 26' 3PT Jump Shot,,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+202,0041200154,242,4,0,2,8:10 PM,0:10,Clark REBOUND (Off:2 Def:2),,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+203,0041200154,243,2,1,2,8:10 PM,0:04,MISS Morris 26' 3PT Jump Shot,,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+204,0041200154,244,4,0,2,8:10 PM,0:04,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+205,0041200154,245,5,11,2,8:10 PM,0:04,LAKERS Turnover: Shot Clock (T#16),,,,,2,1610612747,,,,,,0,0,,,,,,1,0,,,,,,0
+206,0041200154,246,9,2,2,8:10 PM,0:04,,,Spurs Timeout: Short (Reg.2 Short 1),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+207,0041200154,248,8,0,2,8:12 PM,0:04,,,SUB: Bonner FOR Baynes,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+208,0041200154,249,8,0,2,8:12 PM,0:04,,,SUB: Ginobili FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+209,0041200154,250,2,80,2,8:12 PM,0:01,,,MISS Leonard 19' Step Back Jump Shot,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+210,0041200154,251,4,0,2,8:12 PM,0:00,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+211,0041200154,252,13,0,2,8:12 PM,0:00,,End of 2nd Period (8:12 PM EST),,52 - 34,-18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+212,0041200154,254,12,0,3,8:31 PM,12:00,,Start of 3rd Period (8:31 PM EST),,52 - 34,-18,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+213,0041200154,255,2,1,3,8:31 PM,11:41,,,MISS Duncan 4' Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+214,0041200154,256,4,0,3,8:31 PM,11:40,Howard REBOUND (Off:1 Def:7),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+215,0041200154,257,2,1,3,8:32 PM,11:23,MISS Duhon 28' 3PT Jump Shot,,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+216,0041200154,258,4,0,3,8:32 PM,11:22,,,Leonard REBOUND (Off:0 Def:4),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+217,0041200154,259,2,1,3,8:32 PM,11:00,,,MISS Baynes 7' Jump Shot,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+218,0041200154,260,4,0,3,8:32 PM,10:59,Gasol REBOUND (Off:0 Def:5),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+219,0041200154,261,6,4,3,8:32 PM,10:52,Howard OFF.Foul (P2),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+220,0041200154,262,5,5,3,8:32 PM,10:52,Howard Foul Turnover (P4.T17),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+221,0041200154,263,2,1,3,8:32 PM,10:37,,,MISS Duncan 20' Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+222,0041200154,264,4,0,3,8:32 PM,10:36,Duhon REBOUND (Off:0 Def:2),,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+223,0041200154,265,5,2,3,8:33 PM,10:17,Howard Lost Ball Turnover (P5.T18),,Parker STEAL (2 STL),,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+224,0041200154,266,1,1,3,8:33 PM,10:06,,,Leonard  3PT Jump Shot (7 PTS) (Duncan 1 AST),55 - 34,-21,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+225,0041200154,268,6,11,3,8:34 PM,9:51,Howard T.FOUL (P2.T0),,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+226,0041200154,269,11,1,3,8:34 PM,9:51,Howard Ejection:Second Technical,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+227,0041200154,270,8,0,3,8:34 PM,9:51,SUB: Jamison FOR Howard,,,,,4,2730,Dwight Howard,1610612747.0,Los Angeles,Lakers,LAL,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+228,0041200154,272,3,16,3,8:34 PM,9:51,,,Parker Free Throw Technical (16 PTS),56 - 34,-22,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+229,0041200154,275,1,1,3,8:35 PM,9:40,Duhon 26' 3PT Jump Shot (8 PTS) (Gasol 2 AST),,,56 - 37,-19,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+230,0041200154,276,1,1,3,8:35 PM,9:14,,,Duncan 14' Jump Shot (7 PTS) (Green 2 AST),58 - 37,-21,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+231,0041200154,277,2,1,3,8:36 PM,8:54,MISS Duhon 17' Jump Shot,,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+232,0041200154,278,4,0,3,8:36 PM,8:53,,,Duncan REBOUND (Off:0 Def:4),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+233,0041200154,280,8,0,3,8:36 PM,8:50,,,SUB: Bonner FOR Baynes,,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+234,0041200154,281,2,1,3,8:36 PM,8:36,,,MISS Duncan 11' Jump Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+235,0041200154,282,4,0,3,8:36 PM,8:34,Clark REBOUND (Off:2 Def:3),,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+236,0041200154,285,1,5,3,8:37 PM,8:19,Jamison 3' Layup (4 PTS) (Gasol 3 AST),,,58 - 39,-19,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+237,0041200154,286,1,1,3,8:37 PM,7:58,,,Parker 16' Jump Shot (18 PTS),60 - 39,-21,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+238,0041200154,288,7,2,3,8:37 PM,7:44,,,Duncan Violation:Defensive Goaltending,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,1,0,,,,,,0
+239,0041200154,287,1,5,3,8:37 PM,7:44,Morris 2' Layup (6 PTS) (Gasol 4 AST),,,60 - 41,-19,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+240,0041200154,289,2,1,3,8:38 PM,7:30,,,MISS Parker 18' Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+241,0041200154,290,4,0,3,8:38 PM,7:29,Morris REBOUND (Off:0 Def:2),,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+242,0041200154,291,1,1,3,8:38 PM,7:22,Jamison 24' 3PT Jump Shot (7 PTS) (Morris 4 AST),,,60 - 44,-16,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+243,0041200154,292,6,1,3,8:38 PM,7:00,Clark P.FOUL (P2.T1),,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+244,0041200154,293,2,1,3,8:39 PM,6:54,,,MISS Green 22' Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+245,0041200154,294,4,0,3,8:39 PM,6:51,Gasol REBOUND (Off:0 Def:6),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+246,0041200154,295,2,75,3,8:39 PM,6:47,MISS Morris 3' Driving Finger Roll Layup,,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+247,0041200154,296,4,0,3,8:39 PM,6:42,,,Bonner REBOUND (Off:0 Def:2),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+248,0041200154,297,1,73,3,8:39 PM,6:39,,,Parker 2' Driving Reverse Layup (20 PTS),62 - 44,-18,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+249,0041200154,298,6,11,3,8:39 PM,6:39,Morris T.FOUL (P0.T1),,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,1,0,,,,,,0
+250,0041200154,299,3,16,3,8:39 PM,6:39,,,Parker Free Throw Technical (21 PTS),63 - 44,-19,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+251,0041200154,301,8,0,3,8:40 PM,6:39,SUB: Goudelock FOR Clark,,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+252,0041200154,302,5,1,3,8:40 PM,6:27,Morris Bad Pass Turnover (P3.T19),,Leonard STEAL (3 STL),,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+253,0041200154,303,6,1,3,8:40 PM,6:27,Jamison P.FOUL (P2.T2),,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+254,0041200154,304,6,2,3,8:41 PM,6:17,Jamison S.FOUL (P3.T3),,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+255,0041200154,305,3,11,3,8:41 PM,6:17,,,Duncan Free Throw 1 of 2 (8 PTS),64 - 44,-20,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+256,0041200154,307,3,12,3,8:41 PM,6:17,,,Duncan Free Throw 2 of 2 (9 PTS),65 - 44,-21,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+257,0041200154,309,2,1,3,8:42 PM,6:00,MISS Duhon 24' 3PT Jump Shot,,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+258,0041200154,310,4,0,3,8:42 PM,5:58,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+259,0041200154,311,9,1,3,8:42 PM,5:58,LAKERS Timeout: Regular (Full 3 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+260,0041200154,313,8,0,3,8:45 PM,5:58,,,SUB: Ginobili FOR Bonner,,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+261,0041200154,314,1,3,3,8:45 PM,5:43,Gasol 5' Hook Shot (12 PTS) (Duhon 2 AST),,,65 - 46,-19,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+262,0041200154,315,2,1,3,8:46 PM,5:20,,,MISS Parker 25' 3PT Jump Shot,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+263,0041200154,316,4,0,3,8:46 PM,5:19,Morris REBOUND (Off:0 Def:3),,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+264,0041200154,317,2,1,3,8:46 PM,5:06,MISS Goudelock 18' Jump Shot,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+265,0041200154,318,4,0,3,8:46 PM,5:05,,,Leonard REBOUND (Off:0 Def:5),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+266,0041200154,319,2,1,3,8:46 PM,4:57,,,MISS Green 25' 3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+267,0041200154,320,4,0,3,8:46 PM,4:57,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+268,0041200154,321,2,1,3,8:46 PM,4:45,MISS Jamison 7' Jump Shot,,Green BLOCK (1 BLK),,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0
+269,0041200154,322,4,0,3,8:46 PM,4:43,,,Ginobili REBOUND (Off:0 Def:2),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+270,0041200154,323,1,88,3,8:46 PM,4:40,,,Green 2' Driving Slam Dunk (9 PTS) (Ginobili 5 AST),67 - 46,-21,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+271,0041200154,324,1,1,3,8:47 PM,4:21,Duhon 28' 3PT Jump Shot (11 PTS) (Gasol 5 AST),,,67 - 49,-18,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+272,0041200154,325,5,40,3,8:47 PM,4:09,,,Ginobili Out of Bounds Lost Ball Turnover (P2.T4),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+273,0041200154,326,2,78,3,8:48 PM,3:59,MISS Duhon 11' Floating Jump Shot,,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+274,0041200154,327,4,0,3,8:48 PM,3:56,,,Leonard REBOUND (Off:0 Def:6),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+275,0041200154,328,2,42,3,8:48 PM,3:52,,,MISS Green 1' Driving Layup,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+276,0041200154,330,4,0,3,8:48 PM,3:48,,,Leonard REBOUND (Off:1 Def:6),,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+277,0041200154,329,1,5,3,8:48 PM,3:48,,,Leonard 2' Layup (9 PTS),69 - 49,-20,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+278,0041200154,331,2,78,3,8:48 PM,3:38,MISS Jamison 8' Floating Jump Shot,,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+279,0041200154,332,4,0,3,8:48 PM,3:38,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+280,0041200154,333,5,2,3,8:48 PM,3:28,Gasol Lost Ball Turnover (P5.T20),,Duncan STEAL (1 STL),,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+281,0041200154,334,1,77,3,8:48 PM,3:24,,,Parker 3' Driving Jump Shot (23 PTS),71 - 49,-22,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+282,0041200154,335,1,1,3,8:49 PM,3:11,Jamison 28' 3PT Jump Shot (10 PTS) (Morris 5 AST),,,71 - 52,-19,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+283,0041200154,336,2,1,3,8:49 PM,2:58,,,MISS Green 25' 3PT Jump Shot,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+284,0041200154,337,4,0,3,8:49 PM,2:54,Gasol REBOUND (Off:0 Def:7),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+285,0041200154,338,2,78,3,8:49 PM,2:50,MISS Goudelock 3' Floating Jump Shot,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+286,0041200154,339,4,0,3,8:49 PM,2:44,,,Duncan REBOUND (Off:0 Def:5),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+287,0041200154,340,9,1,3,8:49 PM,2:40,,,Spurs Timeout: Regular (Reg.3 Short 1),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+288,0041200154,342,8,0,3,8:52 PM,2:40,SUB: Hill FOR Gasol,,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+289,0041200154,343,8,0,3,8:52 PM,2:40,,,SUB: Neal FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+290,0041200154,344,8,0,3,8:52 PM,2:40,,,SUB: Joseph FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+291,0041200154,345,8,0,3,8:52 PM,2:40,,,SUB: Blair FOR Parker,,,5,2225,Tony Parker,1610612759.0,San Antonio,Spurs,SAS,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+292,0041200154,346,2,1,3,8:53 PM,2:29,,,MISS Neal 19' Jump Shot,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+293,0041200154,347,4,0,3,8:53 PM,2:28,Goudelock REBOUND (Off:1 Def:2),,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+294,0041200154,348,1,78,3,8:53 PM,2:18,Goudelock 6' Floating Jump Shot (4 PTS) (Morris 6 AST),,,71 - 54,-17,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+295,0041200154,349,2,1,3,8:54 PM,1:53,Hill BLOCK (1 BLK),,MISS Ginobili 26' 3PT Jump Shot,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0
+296,0041200154,350,4,0,3,8:54 PM,1:52,,,Blair REBOUND (Off:1 Def:1),,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+297,0041200154,351,6,2,3,8:54 PM,1:52,Goudelock S.FOUL (P3.T4),,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+298,0041200154,352,3,11,3,8:54 PM,1:52,,,Blair Free Throw 1 of 2 (5 PTS),72 - 54,-18,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+299,0041200154,354,3,12,3,8:54 PM,1:52,,,MISS Blair Free Throw 2 of 2,,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+300,0041200154,356,4,0,3,8:54 PM,1:51,Jamison REBOUND (Off:1 Def:4),,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+301,0041200154,357,2,1,3,8:55 PM,1:31,MISS Hill 15' Jump Shot,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+302,0041200154,358,4,0,3,8:55 PM,1:30,,,Ginobili REBOUND (Off:0 Def:3),,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+303,0041200154,359,5,2,3,8:55 PM,1:20,Goudelock STEAL (1 STL),,Neal Lost Ball Turnover (P1.T5),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+304,0041200154,360,1,75,3,8:55 PM,1:15,Goudelock 3' Driving Finger Roll Layup (6 PTS),,,72 - 56,-16,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+305,0041200154,361,1,1,3,8:55 PM,0:59,,,Joseph 17' Jump Shot (2 PTS) (Neal 2 AST),74 - 56,-18,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+306,0041200154,362,2,1,3,8:56 PM,0:44,MISS Jamison 24' 3PT Jump Shot,,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+307,0041200154,363,4,0,3,8:56 PM,0:42,,,Neal REBOUND (Off:0 Def:2),,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+308,0041200154,364,1,5,3,8:56 PM,0:35,,,Blair 3' Layup (7 PTS) (Joseph 4 AST),76 - 56,-20,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+309,0041200154,365,6,2,3,8:56 PM,0:27,,,Blair S.FOUL (P3.T1),,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+310,0041200154,366,3,11,3,8:56 PM,0:27,Morris Free Throw 1 of 2 (7 PTS),,,76 - 57,-19,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+311,0041200154,369,8,0,3,8:56 PM,0:27,,,SUB: Bonner FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+312,0041200154,370,3,12,3,8:56 PM,0:27,Morris Free Throw 2 of 2 (8 PTS),,,76 - 58,-18,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+313,0041200154,372,6,2,3,8:57 PM,0:04,Duhon S.FOUL (P1.PN),,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+314,0041200154,373,3,11,3,8:57 PM,0:04,,,Neal Free Throw 1 of 2 (10 PTS),77 - 58,-19,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+315,0041200154,375,8,0,3,8:58 PM,0:04,SUB: Clark FOR Morris,,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+316,0041200154,376,3,12,3,8:58 PM,0:04,,,Neal Free Throw 2 of 2 (11 PTS),78 - 58,-20,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+317,0041200154,378,2,1,3,8:58 PM,0:00,MISS Goudelock 30' 3PT Jump Shot,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+318,0041200154,379,4,0,3,8:58 PM,0:00,LAKERS Rebound,,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+319,0041200154,380,13,0,3,8:58 PM,0:00,,End of 3rd Period (8:58 PM EST),,78 - 58,-20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+320,0041200154,382,12,0,4,9:02 PM,12:00,,Start of 4th Period (9:02 PM EST),,78 - 58,-20,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+321,0041200154,383,1,41,4,9:02 PM,11:47,Jamison 3' Running Layup (12 PTS) (Duhon 3 AST),,,78 - 60,-18,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+322,0041200154,384,1,5,4,9:02 PM,11:31,,,Blair 2' Layup (9 PTS) (Joseph 5 AST),80 - 60,-20,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+323,0041200154,385,1,1,4,9:03 PM,11:20,Hill 18' Jump Shot (2 PTS) (Duhon 4 AST),,,80 - 62,-18,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+324,0041200154,386,6,2,4,9:03 PM,11:09,Hill S.FOUL (P1.T1),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+325,0041200154,387,3,11,4,9:03 PM,11:09,,,Ginobili Free Throw 1 of 2 (5 PTS),81 - 62,-19,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+326,0041200154,389,3,12,4,9:03 PM,11:09,,,Ginobili Free Throw 2 of 2 (6 PTS),82 - 62,-20,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+327,0041200154,391,2,1,4,9:04 PM,10:53,MISS Clark 23' Jump Shot,,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+328,0041200154,392,4,0,4,9:04 PM,10:52,,,Bonner REBOUND (Off:0 Def:3),,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+329,0041200154,393,1,1,4,9:04 PM,10:44,,,Bonner 26' 3PT Jump Shot (3 PTS) (Ginobili 6 AST),85 - 62,-23,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+330,0041200154,394,2,78,4,9:04 PM,10:32,MISS Goudelock 5' Floating Jump Shot,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+331,0041200154,395,4,0,4,9:04 PM,10:28,,,Joseph REBOUND (Off:0 Def:1),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+332,0041200154,396,1,1,4,9:04 PM,10:16,,,Ginobili 18' Jump Shot (8 PTS),87 - 62,-25,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+333,0041200154,397,1,42,4,9:05 PM,10:02,Clark 4' Driving Layup (6 PTS),,,87 - 64,-23,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+334,0041200154,398,2,42,4,9:05 PM,9:48,,,MISS Bonner 2' Driving Layup,,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+335,0041200154,399,4,0,4,9:05 PM,9:43,Hill REBOUND (Off:0 Def:1),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+336,0041200154,400,1,1,4,9:05 PM,9:32,Hill 21' Jump Shot (4 PTS) (Duhon 5 AST),,,87 - 66,-21,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+337,0041200154,401,9,1,4,9:05 PM,9:30,,,Spurs Timeout: Regular (Reg.4 Short 1),,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+338,0041200154,403,8,0,4,9:08 PM,9:30,SUB: Gasol FOR Jamison,,,,,4,1712,Antawn Jamison,1610612747.0,Los Angeles,Lakers,LAL,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+339,0041200154,404,8,0,4,9:08 PM,9:30,,,SUB: Green FOR Ginobili,,,5,1938,Manu Ginobili,1610612759.0,San Antonio,Spurs,SAS,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+340,0041200154,405,8,0,4,9:08 PM,9:30,,,SUB: Duncan FOR Blair,,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+341,0041200154,406,2,5,4,9:08 PM,9:18,,,MISS Green 3' Layup,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+342,0041200154,407,4,0,4,9:08 PM,9:17,Hill REBOUND (Off:0 Def:2),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+343,0041200154,408,1,78,4,9:08 PM,9:00,Goudelock 9' Floating Jump Shot (8 PTS) (Hill 1 AST),,,87 - 68,-19,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+344,0041200154,409,2,1,4,9:09 PM,8:43,Hill BLOCK (2 BLK),,MISS Bonner 4' Jump Shot,,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0
+345,0041200154,410,4,0,4,9:09 PM,8:41,Goudelock REBOUND (Off:1 Def:3),,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+346,0041200154,411,2,1,4,9:09 PM,8:34,MISS Duhon 30' 3PT Jump Shot,,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+347,0041200154,413,4,0,4,9:09 PM,8:32,Hill REBOUND (Off:1 Def:2),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+348,0041200154,412,1,4,4,9:09 PM,8:32,Hill 2' Tip Shot (6 PTS),,,87 - 70,-17,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+349,0041200154,414,2,42,4,9:09 PM,8:16,,,MISS Joseph 1' Driving Layup,,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+350,0041200154,415,4,0,4,9:09 PM,8:14,,,Duncan REBOUND (Off:1 Def:5),,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+351,0041200154,416,2,3,4,9:10 PM,7:55,,,MISS Duncan 6' Hook Shot,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+352,0041200154,417,4,0,4,9:10 PM,7:53,Clark REBOUND (Off:2 Def:4),,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+353,0041200154,418,2,1,4,9:10 PM,7:40,MISS Hill 20' Jump Shot,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+354,0041200154,419,4,0,4,9:10 PM,7:39,,,Green REBOUND (Off:2 Def:3),,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+355,0041200154,420,6,1,4,9:10 PM,7:36,Goudelock P.FOUL (P4.T2),,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+356,0041200154,421,8,0,4,9:10 PM,7:36,,,SUB: Leonard FOR Green,,,5,201980,Danny Green,1610612759.0,San Antonio,Spurs,SAS,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+357,0041200154,422,6,2,4,9:10 PM,7:28,Duhon S.FOUL (P2.T3),,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,1,0,,,,,,0
+358,0041200154,423,3,11,4,9:11 PM,7:28,,,Bonner Free Throw 1 of 2 (4 PTS),88 - 70,-18,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+359,0041200154,425,3,12,4,9:11 PM,7:28,,,Bonner Free Throw 2 of 2 (5 PTS),89 - 70,-19,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+360,0041200154,427,1,63,4,9:11 PM,7:14,Goudelock 12' Fadeaway Jumper (10 PTS),,,89 - 72,-17,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+361,0041200154,428,1,75,4,9:12 PM,7:02,,,Joseph 2' Driving Finger Roll Layup (4 PTS),91 - 72,-19,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+362,0041200154,429,6,1,4,9:12 PM,6:53,,,Joseph P.FOUL (P2.T1),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+363,0041200154,430,1,86,4,9:12 PM,6:44,Goudelock 14' Turnaround Fadeaway (12 PTS) (Duhon 6 AST),,,91 - 74,-17,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+364,0041200154,431,1,5,4,9:12 PM,6:23,,,Leonard 3' Layup (11 PTS),93 - 74,-19,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+365,0041200154,432,2,5,4,9:13 PM,6:11,MISS Gasol 2' Layup,,Duncan BLOCK (1 BLK),,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0
+366,0041200154,433,4,0,4,9:13 PM,6:09,Gasol REBOUND (Off:1 Def:7),,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+367,0041200154,434,1,8,4,9:13 PM,6:07,Gasol 2' Slam Dunk (14 PTS),,,93 - 76,-17,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+368,0041200154,435,1,85,4,9:13 PM,5:50,,,Duncan 11' Turnaround Bank Shot (11 PTS),95 - 76,-19,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+369,0041200154,436,1,1,4,9:13 PM,5:27,Hill 19' Jump Shot (8 PTS),,,95 - 78,-17,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+370,0041200154,437,1,5,4,9:14 PM,5:16,,,Leonard 2' Layup (13 PTS) (Duncan 2 AST),97 - 78,-19,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+371,0041200154,438,9,1,4,9:14 PM,5:15,LAKERS Timeout: Regular (Full 4 Short 0),,,,,2,1610612747,,,,,,0,0,,,,,,0,0,,,,,,0
+372,0041200154,440,8,0,4,9:17 PM,5:15,,,SUB: McGrady FOR Duncan,,,5,1495,Tim Duncan,1610612759.0,San Antonio,Spurs,SAS,5,1503,Tracy McGrady,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+373,0041200154,441,8,0,4,9:17 PM,5:15,,,SUB: Blair FOR Neal,,,5,202390,Gary Neal,1610612759.0,San Antonio,Spurs,SAS,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+374,0041200154,442,8,0,4,9:17 PM,5:15,SUB: Morris FOR Clark,,,,,4,201947,Earl Clark,1610612747.0,Los Angeles,Lakers,LAL,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+375,0041200154,445,2,78,4,9:18 PM,4:55,MISS Goudelock 8' Floating Jump Shot,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+376,0041200154,446,4,0,4,9:18 PM,4:52,,,Blair REBOUND (Off:1 Def:2),,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+377,0041200154,447,1,1,4,9:18 PM,4:33,,,Blair 16' Jump Shot (11 PTS) (Leonard 1 AST),99 - 78,-21,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+378,0041200154,448,1,5,4,9:18 PM,4:17,Gasol 2' Layup (16 PTS) (Duhon 7 AST),,,99 - 80,-19,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+379,0041200154,449,6,2,4,9:18 PM,4:17,,,Blair S.FOUL (P4.T2),,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+380,0041200154,450,8,0,4,9:19 PM,4:17,,,SUB: De Colo FOR Leonard,,,5,202695,Kawhi Leonard,1610612759.0,San Antonio,Spurs,SAS,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+381,0041200154,451,8,0,4,9:19 PM,4:17,,,SUB: Baynes FOR Bonner,,,5,2588,Matt Bonner,1610612759.0,San Antonio,Spurs,SAS,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+382,0041200154,452,3,10,4,9:19 PM,4:17,MISS Gasol Free Throw 1 of 1,,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+383,0041200154,454,4,0,4,9:19 PM,4:15,,,Blair REBOUND (Off:1 Def:3),,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+384,0041200154,455,1,8,4,9:19 PM,3:58,,,Baynes 3' Slam Dunk (6 PTS) (McGrady 1 AST),101 - 80,-21,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,5,1503,Tracy McGrady,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+385,0041200154,456,2,75,4,9:20 PM,3:36,MISS Morris 3' Driving Finger Roll Layup,,,,,4,202721,Darius Morris,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+386,0041200154,457,4,0,4,9:20 PM,3:31,,,Joseph REBOUND (Off:0 Def:2),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+387,0041200154,458,1,41,4,9:20 PM,3:29,,,Blair 3' Running Layup (13 PTS) (Joseph 6 AST),103 - 80,-23,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+388,0041200154,459,6,28,4,9:20 PM,3:22,,,Joseph Personal Take Foul (P3.T3),,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+389,0041200154,460,8,0,4,9:20 PM,3:22,,,SUB: Mills FOR Joseph,,,5,202709,Cory Joseph,1610612759.0,San Antonio,Spurs,SAS,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+390,0041200154,461,6,1,4,9:21 PM,3:08,,,McGrady P.FOUL (P1.T4),,,5,1503,Tracy McGrady,1610612759.0,San Antonio,Spurs,SAS,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,1,0,,,,,,0
+391,0041200154,462,8,0,4,9:21 PM,3:08,SUB: Sacre FOR Gasol,,,,,4,2200,Pau Gasol,1610612747.0,Los Angeles,Lakers,LAL,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+392,0041200154,463,1,78,4,9:21 PM,3:00,Goudelock 5' Floating Jump Shot (14 PTS),,,103 - 82,-21,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+393,0041200154,464,5,1,4,9:21 PM,2:55,,,Mills Bad Pass Turnover (P1.T6),,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+394,0041200154,465,9,4,4,9:21 PM,2:55,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+395,0041200154,469,5,40,4,9:25 PM,2:44,Duhon Out of Bounds Lost Ball Turnover (P4.T21),,,,,4,2768,Chris Duhon,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+396,0041200154,470,5,40,4,9:25 PM,2:37,,,Baynes Out of Bounds Lost Ball Turnover (P1.T7),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+397,0041200154,471,5,2,4,9:25 PM,2:28,Goudelock Lost Ball Turnover (P2.T22),,McGrady STEAL (1 STL),,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,5,1503,Tracy McGrady,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0
+398,0041200154,472,5,2,4,9:25 PM,2:17,Sacre STEAL (1 STL),,McGrady Lost Ball Turnover (P1.T8),,,5,1503,Tracy McGrady,1610612759.0,San Antonio,Spurs,SAS,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0
+399,0041200154,473,2,1,4,9:25 PM,2:05,MISS Hill 21' Jump Shot,,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+400,0041200154,474,4,0,4,9:25 PM,2:04,,,Mills REBOUND (Off:0 Def:1),,,5,201988,Patty Mills,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+401,0041200154,475,2,1,4,9:26 PM,1:42,,,MISS De Colo 26' 3PT Jump Shot,,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+402,0041200154,476,4,0,4,9:26 PM,1:40,Hill REBOUND (Off:1 Def:3),,,,,4,201941,Jordan Hill,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+403,0041200154,477,2,1,4,9:26 PM,1:19,MISS Goudelock 27' 3PT Jump Shot,,,,,4,202726,Andrew Goudelock,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+404,0041200154,478,4,0,4,9:26 PM,1:18,,,Baynes REBOUND (Off:1 Def:1),,,5,203382,Aron Baynes,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+405,0041200154,479,2,1,4,9:26 PM,1:00,,,MISS Blair 12' Jump Shot,,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+406,0041200154,480,4,0,4,9:26 PM,0:59,Sacre REBOUND (Off:0 Def:1),,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+407,0041200154,481,2,1,4,9:27 PM,0:50,MISS Sacre 22' Jump Shot,,,,,4,203135,Robert Sacre,1610612747.0,Los Angeles,Lakers,LAL,0,0,,,,,,0,0,,,,,,0
+408,0041200154,482,4,0,4,9:27 PM,0:50,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+409,0041200154,483,2,1,4,9:27 PM,0:39,,,MISS McGrady 22' Jump Shot,,,5,1503,Tracy McGrady,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+410,0041200154,484,4,0,4,9:27 PM,0:38,,,Blair REBOUND (Off:2 Def:3),,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+411,0041200154,485,2,5,4,9:27 PM,0:37,,,MISS Blair 1' Layup,,,5,201971,DeJuan Blair,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+412,0041200154,486,4,0,4,9:27 PM,0:35,,,De Colo REBOUND (Off:1 Def:0),,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+413,0041200154,487,2,1,4,9:27 PM,0:25,,,MISS De Colo  3PT Jump Shot,,,5,201986,Nando De Colo,1610612759.0,San Antonio,Spurs,SAS,0,0,,,,,,0,0,,,,,,0
+414,0041200154,488,4,0,4,9:27 PM,0:24,,,Spurs Rebound,,,3,1610612759,,,,,,0,0,,,,,,0,0,,,,,,0
+415,0041200154,490,13,0,4,9:28 PM,0:00,,End of 4th Period (9:28 PM EST),,103 - 82,-21,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

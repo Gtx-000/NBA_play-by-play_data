@@ -1,0 +1,423 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200146,0,12,0,1,9:51 PM,12:00,,Start of 1st Period (9:51 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200146,1,10,0,1,9:51 PM,12:00,Jump Ball Asik vs. Ibaka: Tip to Durant,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0
+2,0041200146,2,1,86,1,9:51 PM,11:38,,,Ibaka 12' Turnaround Fadeaway (2 PTS),2 - 0,-2,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+3,0041200146,3,5,1,1,9:52 PM,11:22,Parsons Bad Pass Turnover (P1.T1),,Sefolosha STEAL (1 STL),,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+4,0041200146,4,1,5,1,9:52 PM,11:17,,,Jackson 1' Layup (2 PTS) (Sefolosha 1 AST),4 - 0,-4,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+5,0041200146,5,6,2,1,9:52 PM,11:02,,,Jackson S.FOUL (P1.T1),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+6,0041200146,6,3,11,1,9:52 PM,11:02,Harden Free Throw 1 of 2 (1 PTS),,,4 - 1,-3,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+7,0041200146,8,3,12,1,9:53 PM,11:02,MISS Harden Free Throw 2 of 2,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+8,0041200146,10,4,0,1,9:53 PM,11:02,,,Ibaka REBOUND (Off:0 Def:1),,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+9,0041200146,11,2,1,1,9:53 PM,10:53,,,MISS Durant 26' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+10,0041200146,12,4,0,1,9:53 PM,10:52,Harden REBOUND (Off:0 Def:1),,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+11,0041200146,13,5,2,1,9:53 PM,10:36,Asik Lost Ball Turnover (P1.T2),,Sefolosha STEAL (2 STL),,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+12,0041200146,14,2,41,1,9:53 PM,10:31,,,MISS Sefolosha 3' Running Layup,,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+13,0041200146,15,4,0,1,9:53 PM,10:29,Asik REBOUND (Off:0 Def:1),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+14,0041200146,16,1,1,1,9:54 PM,10:20,Garcia 24' 3PT Jump Shot (3 PTS) (Harden 1 AST),,,4 - 4,TIE,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+15,0041200146,17,6,1,1,9:54 PM,10:09,Beverley P.FOUL (P1.T1),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+16,0041200146,18,2,1,1,9:54 PM,10:00,,,MISS Sefolosha 20' Jump Shot,,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+17,0041200146,19,4,0,1,9:54 PM,9:59,Asik REBOUND (Off:0 Def:2),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+18,0041200146,20,1,1,1,9:54 PM,9:41,Parsons 18' Jump Shot (2 PTS),,,4 - 6,2,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+19,0041200146,21,2,1,1,9:55 PM,9:15,,,MISS Jackson  3PT Jump Shot,,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+20,0041200146,22,4,0,1,9:55 PM,9:14,Asik REBOUND (Off:0 Def:3),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+21,0041200146,23,1,1,1,9:55 PM,9:04,Harden 26' 3PT Jump Shot (4 PTS),,,4 - 9,5,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+22,0041200146,24,6,1,1,9:56 PM,8:51,Garcia P.FOUL (P1.T2),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+23,0041200146,25,6,16,1,9:57 PM,8:51,,"Double Technical - Garcia, Perkins",,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,5,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+24,0041200146,26,6,4,1,9:57 PM,8:51,,,Perkins OFF.Foul (P1),,,5,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+25,0041200146,27,5,5,1,9:57 PM,8:51,,,Perkins Foul Turnover (P1.T1),,,5,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+26,0041200146,28,2,80,1,9:57 PM,8:31,MISS Harden 25' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+27,0041200146,29,4,0,1,9:57 PM,8:29,Beverley REBOUND (Off:1 Def:0),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+28,0041200146,30,6,2,1,9:57 PM,8:26,,,Durant S.FOUL (P1.T2),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+29,0041200146,31,3,11,1,9:58 PM,8:26,Asik Free Throw 1 of 2 (1 PTS),,,4 - 10,6,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+30,0041200146,33,3,12,1,9:58 PM,8:26,Asik Free Throw 2 of 2 (2 PTS),,,4 - 11,7,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+31,0041200146,36,2,1,1,9:59 PM,8:08,,,MISS Jackson 25' 3PT Jump Shot,,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+32,0041200146,37,4,0,1,9:59 PM,8:07,,,Ibaka REBOUND (Off:1 Def:1),,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+33,0041200146,38,2,5,1,9:59 PM,8:07,Harden BLOCK (1 BLK),,MISS Ibaka 2' Layup,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0
+34,0041200146,39,4,0,1,9:59 PM,8:07,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+35,0041200146,40,9,1,1,9:59 PM,8:07,,,Thunder Timeout: Regular (Reg.1 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+36,0041200146,43,5,1,1,10:03 PM,7:55,Garcia STEAL (1 STL),,Perkins Bad Pass Turnover (P2.T2),,,5,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+37,0041200146,44,1,88,1,10:03 PM,7:50,Parsons 1' Driving Slam Dunk (4 PTS) (Harden 2 AST),,,4 - 13,9,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+38,0041200146,45,6,1,1,10:03 PM,7:38,Garcia P.FOUL (P2.T3),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+39,0041200146,46,8,0,1,10:03 PM,7:38,,,SUB: Martin FOR Perkins,,,5,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+40,0041200146,47,5,1,1,10:04 PM,7:31,Asik STEAL (1 STL),,Durant Bad Pass Turnover (P1.T3),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+41,0041200146,48,1,85,1,10:04 PM,7:21,Beverley 8' Turnaround Bank Shot (2 PTS),,,4 - 15,11,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+42,0041200146,49,1,79,1,10:04 PM,7:06,,,Durant 25' 3PT Pullup Jump Shot (3 PTS),7 - 15,8,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+43,0041200146,50,1,7,1,10:04 PM,6:53,Asik  Dunk (4 PTS) (Garcia 1 AST),,,7 - 17,10,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+44,0041200146,51,1,49,1,10:05 PM,6:36,,,Durant 1' Driving Dunk (5 PTS),9 - 17,8,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+45,0041200146,52,6,2,1,10:05 PM,6:36,Asik S.FOUL (P1.T4),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+46,0041200146,53,3,10,1,10:05 PM,6:36,,,Durant Free Throw 1 of 1 (6 PTS),10 - 17,7,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+47,0041200146,56,2,1,1,10:05 PM,6:17,MISS Beverley 24' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+48,0041200146,57,4,0,1,10:05 PM,6:16,Asik REBOUND (Off:1 Def:3),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+49,0041200146,58,2,5,1,10:05 PM,6:15,MISS Asik 2' Layup,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+50,0041200146,59,4,0,1,10:05 PM,6:13,,,Durant REBOUND (Off:0 Def:1),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+51,0041200146,60,1,5,1,10:06 PM,6:00,,,Durant 3' Layup (8 PTS),12 - 17,5,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+52,0041200146,61,6,1,1,10:06 PM,5:58,,,Sefolosha P.FOUL (P1.T3),,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+53,0041200146,62,2,5,1,10:06 PM,5:39,MISS Parsons 2' Layup,,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+54,0041200146,63,4,0,1,10:06 PM,5:38,Asik REBOUND (Off:2 Def:3),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+55,0041200146,64,1,7,1,10:06 PM,5:37,Asik  Dunk (6 PTS),,,12 - 19,7,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+56,0041200146,65,2,66,1,10:07 PM,5:25,,,MISS Durant 7' Jump Bank Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+57,0041200146,66,4,0,1,10:07 PM,5:23,Asik REBOUND (Off:2 Def:4),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+58,0041200146,67,1,5,1,10:07 PM,5:17,Harden 3' Layup (6 PTS) (Garcia 2 AST),,,12 - 21,9,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+59,0041200146,68,1,1,1,10:07 PM,5:02,,,Martin 25' 3PT Jump Shot (3 PTS) (Jackson 1 AST),15 - 21,6,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+60,0041200146,69,2,1,1,10:07 PM,4:45,MISS Asik 3' Jump Shot,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+61,0041200146,70,4,0,1,10:07 PM,4:43,Harden REBOUND (Off:1 Def:1),,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+62,0041200146,71,2,1,1,10:07 PM,4:36,MISS Harden 4' Jump Shot,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+63,0041200146,72,4,0,1,10:07 PM,4:35,,,Ibaka REBOUND (Off:1 Def:2),,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+64,0041200146,73,2,1,1,10:08 PM,4:21,,,MISS Sefolosha  3PT Jump Shot,,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+65,0041200146,74,4,0,1,10:08 PM,4:19,Garcia REBOUND (Off:0 Def:1),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+66,0041200146,75,1,79,1,10:08 PM,4:02,Parsons 25' 3PT Pullup Jump Shot (7 PTS),,,15 - 24,9,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+67,0041200146,76,1,79,1,10:08 PM,3:40,,,Martin 18' Pullup Jump Shot (5 PTS),17 - 24,7,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+68,0041200146,77,9,1,1,10:08 PM,3:34,ROCKETS Timeout: Regular (Full 1 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+69,0041200146,81,8,0,1,10:11 PM,3:34,,,SUB: Collison FOR Ibaka,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+70,0041200146,82,8,0,1,10:11 PM,3:34,,,SUB: Fisher FOR Jackson,,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+71,0041200146,83,8,0,1,10:12 PM,3:34,SUB: Brooks FOR Garcia,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+72,0041200146,84,5,1,1,10:12 PM,3:22,Brooks Bad Pass Turnover (P1.T3),,Collison STEAL (1 STL),,,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+73,0041200146,85,2,46,1,10:13 PM,3:03,,,MISS Durant 12' Running Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+74,0041200146,86,4,0,1,10:13 PM,3:01,Parsons REBOUND (Off:0 Def:1),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+75,0041200146,87,1,42,1,10:13 PM,2:47,Brooks 4' Driving Layup (2 PTS),,,17 - 26,9,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+76,0041200146,88,6,1,1,10:13 PM,2:32,Beverley P.FOUL (P2.PN),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+77,0041200146,89,3,11,1,10:14 PM,2:32,,,Martin Free Throw 1 of 2 (6 PTS),18 - 26,8,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+78,0041200146,91,8,0,1,10:14 PM,2:32,SUB: Lin FOR Beverley,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+79,0041200146,92,3,12,1,10:14 PM,2:32,,,Martin Free Throw 2 of 2 (7 PTS),19 - 26,7,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+80,0041200146,94,5,1,1,10:15 PM,2:12,Brooks Bad Pass Turnover (P2.T4),,Durant STEAL (1 STL),,,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+81,0041200146,95,5,40,1,10:15 PM,2:11,,,Durant Out of Bounds Lost Ball Turnover (P2.T4),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+82,0041200146,97,8,0,1,10:16 PM,1:53,,,SUB: Liggins FOR Durant,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,202732,DeAndre Liggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+83,0041200146,98,6,2,1,10:16 PM,1:50,,,Martin S.FOUL (P1.T4),,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+84,0041200146,99,3,11,1,10:16 PM,1:50,MISS Asik Free Throw 1 of 2,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+85,0041200146,100,4,1,1,10:16 PM,1:50,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+86,0041200146,101,8,0,1,10:17 PM,1:50,SUB: Anderson FOR Parsons,,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+87,0041200146,102,3,12,1,10:17 PM,1:50,Asik Free Throw 2 of 2 (7 PTS),,,19 - 27,8,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+88,0041200146,104,1,1,1,10:17 PM,1:34,,,Sefolosha 25' 3PT Jump Shot (3 PTS) (Martin 1 AST),22 - 27,5,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+89,0041200146,105,2,42,1,10:18 PM,1:22,MISS Harden 5' Driving Layup,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+90,0041200146,106,4,0,1,10:18 PM,1:20,,,Fisher REBOUND (Off:0 Def:1),,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+91,0041200146,107,6,2,1,10:18 PM,1:14,Lin S.FOUL (P1.PN),,,,,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+92,0041200146,108,3,11,1,10:18 PM,1:14,,,Collison Free Throw 1 of 2 (1 PTS),23 - 27,4,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+93,0041200146,110,3,12,1,10:18 PM,1:14,,,Collison Free Throw 2 of 2 (2 PTS),24 - 27,3,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+94,0041200146,112,2,80,1,10:19 PM,0:53,MISS Harden 25' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+95,0041200146,113,4,0,1,10:19 PM,0:52,,,Fisher REBOUND (Off:0 Def:2),,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+96,0041200146,114,2,79,1,10:19 PM,0:45,,,MISS Fisher 24' 3PT Pullup Jump Shot,,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+97,0041200146,115,4,0,1,10:19 PM,0:44,Anderson REBOUND (Off:0 Def:1),,,,,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+98,0041200146,116,6,2,1,10:19 PM,0:39,,,Liggins S.FOUL (P1.PN),,,5,202732,DeAndre Liggins,1610612760.0,Oklahoma City,Thunder,OKC,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+99,0041200146,117,3,11,1,10:20 PM,0:39,Harden Free Throw 1 of 2 (7 PTS),,,24 - 28,4,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+100,0041200146,119,8,0,1,10:20 PM,0:39,,,SUB: Durant FOR Sefolosha,,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+101,0041200146,120,3,12,1,10:20 PM,0:39,Harden Free Throw 2 of 2 (8 PTS),,,24 - 29,5,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+102,0041200146,122,2,5,1,10:21 PM,0:29,Harden BLOCK (2 BLK),,MISS Collison 3' Layup,,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0
+103,0041200146,123,4,0,1,10:21 PM,0:28,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+104,0041200146,124,5,1,1,10:21 PM,0:07,Harden Bad Pass Turnover (P1.T5),,Martin STEAL (1 STL),,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+105,0041200146,125,6,2,1,10:22 PM,0:03,Harden S.FOUL (P1.PN),,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+106,0041200146,126,3,11,1,10:22 PM,0:03,,,Martin Free Throw 1 of 2 (8 PTS),25 - 29,4,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+107,0041200146,128,8,0,1,10:22 PM,0:03,,,SUB: Jackson FOR Durant,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+108,0041200146,129,3,12,1,10:22 PM,0:03,,,Martin Free Throw 2 of 2 (9 PTS),26 - 29,3,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+109,0041200146,131,18,0,1,10:23 PM,0:00,,Support Ruling,,,,0,132,Dwayne Morton,,,,,0,0,,,,,,1,0,,,,,,0
+110,0041200146,132,13,0,1,10:24 PM,0:00,,End of 1st Period (10:24 PM EST),,26 - 29,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+111,0041200146,134,12,0,2,10:27 PM,12:00,,Start of 2nd Period (10:27 PM EST),,26 - 29,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+112,0041200146,135,1,63,2,10:27 PM,11:42,Brooks 17' Fadeaway Jumper (4 PTS),,,26 - 31,5,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+113,0041200146,136,2,42,2,10:27 PM,11:24,,,MISS Martin 4' Driving Layup,,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+114,0041200146,137,4,0,2,10:27 PM,11:22,Parsons REBOUND (Off:0 Def:2),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+115,0041200146,138,6,1,2,10:27 PM,11:14,,,Martin P.FOUL (P2.T1),,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+116,0041200146,139,5,4,2,10:28 PM,11:00,Parsons Traveling Turnover (P2.T6),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+117,0041200146,140,5,4,2,10:29 PM,10:43,,,Jackson Traveling Turnover (P1.T5),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+118,0041200146,141,2,1,2,10:29 PM,10:25,MISS Lin 3' Jump Shot,,Collison BLOCK (1 BLK),,,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0
+119,0041200146,142,4,0,2,10:29 PM,10:23,,,Martin REBOUND (Off:0 Def:1),,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+120,0041200146,143,6,2,2,10:29 PM,10:22,Anderson S.FOUL (P1.T1),,,,,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+121,0041200146,144,3,11,2,10:30 PM,10:22,,,Martin Free Throw 1 of 2 (10 PTS),27 - 31,4,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+122,0041200146,146,3,12,2,10:30 PM,10:22,,,Martin Free Throw 2 of 2 (11 PTS),28 - 31,3,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+123,0041200146,148,6,2,2,10:30 PM,10:08,,,Fisher S.FOUL (P1.T2),,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+124,0041200146,149,3,11,2,10:31 PM,10:08,MISS Smith Free Throw 1 of 2,,,,,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+125,0041200146,150,4,1,2,10:31 PM,10:08,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+126,0041200146,151,3,12,2,10:31 PM,10:08,MISS Smith Free Throw 2 of 2,,,,,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+127,0041200146,153,4,0,2,10:31 PM,10:08,,,Liggins REBOUND (Off:0 Def:1),,,5,202732,DeAndre Liggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+128,0041200146,154,1,46,2,10:31 PM,9:55,,,Jackson 12' Running Jump Shot (4 PTS),30 - 31,1,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+129,0041200146,155,5,40,2,10:31 PM,9:46,Parsons Out of Bounds Lost Ball Turnover (P3.T7),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+130,0041200146,156,1,1,2,10:32 PM,9:32,,,Fisher 25' 3PT Jump Shot (3 PTS) (Liggins 1 AST),33 - 31,-2,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,202732,DeAndre Liggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+131,0041200146,157,9,1,2,10:32 PM,9:28,ROCKETS Timeout: Regular (Full 2 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+132,0041200146,159,8,0,2,10:34 PM,9:28,SUB: Beverley FOR Brooks,,,,,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+133,0041200146,160,8,0,2,10:34 PM,9:28,SUB: Garcia FOR Lin,,,,,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+134,0041200146,161,8,0,2,10:34 PM,9:28,SUB: Harden FOR Anderson,,,,,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+135,0041200146,163,2,1,2,10:36 PM,9:12,MISS Beverley  3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+136,0041200146,164,4,0,2,10:36 PM,9:11,Smith REBOUND (Off:1 Def:0),,,,,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+137,0041200146,165,2,47,2,10:36 PM,9:00,MISS Beverley 6' Turnaround Jump Shot,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+138,0041200146,166,4,0,2,10:36 PM,8:59,,,Jackson REBOUND (Off:0 Def:1),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+139,0041200146,167,1,79,2,10:36 PM,8:40,,,Martin 25' 3PT Pullup Jump Shot (14 PTS),36 - 31,-5,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+140,0041200146,168,6,2,2,10:36 PM,8:30,,,Collison S.FOUL (P1.T3),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+141,0041200146,169,3,11,2,10:37 PM,8:30,Smith Free Throw 1 of 2 (1 PTS),,,36 - 32,-4,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+142,0041200146,171,8,0,2,10:37 PM,8:30,,,SUB: Durant FOR Liggins,,,5,202732,DeAndre Liggins,1610612760.0,Oklahoma City,Thunder,OKC,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+143,0041200146,172,3,12,2,10:37 PM,8:30,Smith Free Throw 2 of 2 (2 PTS),,,36 - 33,-3,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+144,0041200146,174,1,46,2,10:38 PM,8:18,,,Jackson 5' Running Jump Shot (6 PTS),38 - 33,-5,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+145,0041200146,175,1,79,2,10:38 PM,7:57,Parsons 26' 3PT Pullup Jump Shot (10 PTS),,,38 - 36,-2,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+146,0041200146,176,1,44,2,10:38 PM,7:38,,,Martin 2' Reverse Layup (16 PTS) (Collison 1 AST),40 - 36,-4,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+147,0041200146,177,2,1,2,10:38 PM,7:25,MISS Garcia 13' Jump Shot,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+148,0041200146,178,4,0,2,10:38 PM,7:24,,,Durant REBOUND (Off:0 Def:2),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+149,0041200146,179,2,1,2,10:39 PM,7:15,,,MISS Durant 10' Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+150,0041200146,181,4,0,2,10:39 PM,7:14,,,Collison REBOUND (Off:1 Def:0),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+151,0041200146,180,2,4,2,10:39 PM,7:14,,,MISS Collison 2' Tip Shot,,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+152,0041200146,182,4,0,2,10:39 PM,7:12,Smith REBOUND (Off:1 Def:1),,,,,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+153,0041200146,183,2,46,2,10:39 PM,7:06,MISS Harden 10' Running Jump Shot,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+154,0041200146,184,4,0,2,10:39 PM,7:04,,,Jackson REBOUND (Off:0 Def:2),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+155,0041200146,185,1,42,2,10:39 PM,7:00,,,Jackson 2' Driving Layup (8 PTS),42 - 36,-6,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+156,0041200146,186,6,4,2,10:39 PM,6:51,Beverley OFF.Foul (P3),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+157,0041200146,187,5,5,2,10:39 PM,6:51,Beverley Foul Turnover (P1.T8),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+158,0041200146,188,8,0,2,10:39 PM,6:51,SUB: Brooks FOR Beverley,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+159,0041200146,189,8,0,2,10:39 PM,6:51,SUB: Asik FOR Smith,,,,,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+160,0041200146,190,8,0,2,10:39 PM,6:51,,,SUB: Sefolosha FOR Fisher,,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+161,0041200146,192,2,1,2,10:40 PM,6:34,,,MISS Jackson 8' Jump Shot,,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+162,0041200146,194,4,0,2,10:40 PM,6:32,,,Collison REBOUND (Off:2 Def:0),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+163,0041200146,193,2,4,2,10:40 PM,6:32,,,MISS Collison 2' Tip Shot,,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+164,0041200146,196,4,0,2,10:40 PM,6:31,,,Collison REBOUND (Off:3 Def:0),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+165,0041200146,195,1,4,2,10:40 PM,6:31,,,Collison 1' Tip Shot (4 PTS),44 - 36,-8,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+166,0041200146,197,1,7,2,10:40 PM,6:22,Asik 1' Dunk (9 PTS) (Brooks 1 AST),,,44 - 38,-6,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+167,0041200146,198,2,1,2,10:40 PM,6:07,,,MISS Martin 25' 3PT Jump Shot,,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+168,0041200146,199,4,0,2,10:40 PM,6:06,,,Collison REBOUND (Off:4 Def:0),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+169,0041200146,200,1,5,2,10:40 PM,6:04,,,Collison 2' Layup (6 PTS),46 - 38,-8,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+170,0041200146,201,1,1,2,10:41 PM,5:48,Garcia 25' 3PT Jump Shot (6 PTS) (Harden 3 AST),,,46 - 41,-5,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+171,0041200146,202,9,1,2,10:41 PM,5:38,,,Thunder Timeout: Regular (Reg.2 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+172,0041200146,204,18,0,2,10:41 PM,5:38,,Support Ruling,,,,0,167,,,,,,0,0,,,,,,1,0,,,,,,0
+173,0041200146,205,8,0,2,10:44 PM,5:38,,,SUB: Ibaka FOR Collison,,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+174,0041200146,206,2,80,2,10:45 PM,5:21,,,MISS Durant 25' 3PT Step Back Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+175,0041200146,207,4,0,2,10:45 PM,5:19,Harden REBOUND (Off:1 Def:2),,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+176,0041200146,208,2,1,2,10:45 PM,5:02,MISS Brooks 26' 3PT Jump Shot,,,,,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+177,0041200146,209,4,0,2,10:45 PM,5:01,,,Sefolosha REBOUND (Off:0 Def:1),,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+178,0041200146,210,2,1,2,10:45 PM,4:44,,,MISS Ibaka 15' Jump Shot,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+179,0041200146,211,4,0,2,10:45 PM,4:43,Garcia REBOUND (Off:0 Def:2),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+180,0041200146,212,1,1,2,10:45 PM,4:26,Garcia 19' Jump Shot (8 PTS) (Parsons 1 AST),,,46 - 43,-3,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+181,0041200146,214,1,1,2,10:46 PM,4:11,,,Martin 25' 3PT Jump Shot (19 PTS) (Durant 1 AST),49 - 43,-6,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+182,0041200146,215,2,42,2,10:46 PM,3:59,MISS Harden 3' Driving Layup,,Sefolosha BLOCK (1 BLK),,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0
+183,0041200146,216,4,0,2,10:46 PM,3:59,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+184,0041200146,217,2,40,2,10:46 PM,3:50,MISS Harden 4' Layup,,Jackson BLOCK (1 BLK),,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0
+185,0041200146,218,4,0,2,10:46 PM,3:49,,,Ibaka REBOUND (Off:1 Def:3),,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+186,0041200146,219,1,1,2,10:47 PM,3:27,,,Jackson 8' Jump Shot (10 PTS),51 - 43,-8,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+187,0041200146,220,2,1,2,10:47 PM,3:09,MISS Parsons 23' Jump Shot,,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+188,0041200146,221,4,0,2,10:47 PM,3:08,Brooks REBOUND (Off:1 Def:0),,,,,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+189,0041200146,222,5,1,2,10:47 PM,2:54,Asik Bad Pass Turnover (P2.T9),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+190,0041200146,223,9,1,2,10:47 PM,2:54,,Timeout: Regular,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+191,0041200146,225,8,0,2,10:50 PM,2:54,SUB: Lin FOR Brooks,,,,,4,201166,Aaron Brooks,1610612745.0,Houston,Rockets,HOU,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+192,0041200146,227,2,1,2,10:51 PM,2:47,,,MISS Sefolosha 18' Jump Shot,,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+193,0041200146,228,4,0,2,10:51 PM,2:46,Lin REBOUND (Off:0 Def:1),,,,,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+194,0041200146,229,2,1,2,10:51 PM,2:36,MISS Parsons 27' 3PT Jump Shot,,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+195,0041200146,230,4,0,2,10:51 PM,2:35,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+196,0041200146,231,2,1,2,10:51 PM,2:23,,,MISS Martin 15' Jump Shot,,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+197,0041200146,232,4,0,2,10:51 PM,2:23,Parsons REBOUND (Off:0 Def:3),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+198,0041200146,233,1,46,2,10:52 PM,2:09,Harden 10' Running Jump Shot (10 PTS),,,51 - 45,-6,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+199,0041200146,234,6,2,2,10:52 PM,2:09,,,Sefolosha S.FOUL (P2.T4),,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+200,0041200146,235,3,10,2,10:52 PM,2:09,Harden Free Throw 1 of 1 (11 PTS),,,51 - 46,-5,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+201,0041200146,238,6,17,2,10:53 PM,1:51,ROCKETS T.Foul (Def. 3 Sec Harden ),,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,1,0,,,,,,0
+202,0041200146,239,3,16,2,10:53 PM,1:51,,,Durant Free Throw Technical (9 PTS),52 - 46,-6,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+203,0041200146,241,2,1,2,10:53 PM,1:42,,,MISS Durant 14' Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+204,0041200146,242,4,0,2,10:53 PM,1:41,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+205,0041200146,243,1,1,2,10:54 PM,1:37,,,Ibaka 5' Jump Shot (4 PTS) (Martin 2 AST),54 - 46,-8,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+206,0041200146,244,1,1,2,10:54 PM,1:23,Lin 26' 3PT Jump Shot (3 PTS) (Harden 4 AST),,,54 - 49,-5,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+207,0041200146,245,2,1,2,10:54 PM,1:03,,,MISS Ibaka 7' Jump Shot,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+208,0041200146,246,4,0,2,10:54 PM,1:02,,,Ibaka REBOUND (Off:2 Def:3),,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+209,0041200146,247,6,2,2,10:54 PM,1:02,Asik S.FOUL (P2.T2),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+210,0041200146,248,3,11,2,10:55 PM,1:02,,,Ibaka Free Throw 1 of 2 (5 PTS),55 - 49,-6,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+211,0041200146,250,3,12,2,10:55 PM,1:02,,,Ibaka Free Throw 2 of 2 (6 PTS),56 - 49,-7,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+212,0041200146,252,6,2,2,10:56 PM,0:46,,,Ibaka S.FOUL (P1.PN),,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+213,0041200146,253,3,11,2,10:56 PM,0:46,Asik Free Throw 1 of 2 (10 PTS),,,56 - 50,-6,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+214,0041200146,255,3,12,2,10:57 PM,0:46,Asik Free Throw 2 of 2 (11 PTS),,,56 - 51,-5,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+215,0041200146,257,6,1,2,10:57 PM,0:46,Garcia P.FOUL (P3.PN),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+216,0041200146,258,3,11,2,10:58 PM,0:46,,,Martin Free Throw 1 of 2 (20 PTS),57 - 51,-6,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+217,0041200146,260,8,0,2,10:58 PM,0:46,SUB: Anderson FOR Garcia,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+218,0041200146,261,3,12,2,10:58 PM,0:46,,,Martin Free Throw 2 of 2 (21 PTS),58 - 51,-7,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+219,0041200146,263,1,79,2,10:59 PM,0:34,Harden 26' 3PT Pullup Jump Shot (14 PTS),,,58 - 54,-4,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+220,0041200146,264,2,1,2,10:59 PM,0:09,,,MISS Ibaka 20' Jump Shot,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+221,0041200146,265,4,0,2,10:59 PM,0:08,Anderson REBOUND (Off:0 Def:2),,,,,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+222,0041200146,266,6,27,2,10:59 PM,0:02,,,Sefolosha Personal Block Foul (P3.PN),,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+223,0041200146,267,6,16,2,11:00 PM,0:02,,"Double Technical - Asik, Durant",,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+224,0041200146,268,3,11,2,11:00 PM,0:02,MISS Harden Free Throw 1 of 2,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+225,0041200146,269,4,1,2,11:00 PM,0:02,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+226,0041200146,270,8,0,2,11:01 PM,0:02,SUB: Smith FOR Asik,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+227,0041200146,271,3,12,2,11:01 PM,0:02,MISS Harden Free Throw 2 of 2,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+228,0041200146,273,4,0,2,11:01 PM,0:02,,,Sefolosha REBOUND (Off:0 Def:2),,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+229,0041200146,274,13,0,2,11:01 PM,0:00,,End of 2nd Period (11:01 PM EST),,58 - 54,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+230,0041200146,276,12,0,3,11:20 PM,12:00,,Start of 3rd Period (11:20 PM EST),,58 - 54,-4,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+231,0041200146,277,1,1,3,11:20 PM,11:48,Garcia  3PT Jump Shot (11 PTS) (Parsons 2 AST),,,58 - 57,-1,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+232,0041200146,278,2,1,3,11:20 PM,11:31,,,MISS Ibaka 9' Jump Shot,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+233,0041200146,279,4,0,3,11:20 PM,11:30,Garcia REBOUND (Off:0 Def:3),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+234,0041200146,280,2,80,3,11:20 PM,11:15,MISS Harden 25' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+235,0041200146,281,4,0,3,11:21 PM,11:14,,,Jackson REBOUND (Off:0 Def:3),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+236,0041200146,283,1,79,3,11:21 PM,10:50,,,Durant 21' Pullup Jump Shot (11 PTS),60 - 57,-3,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+237,0041200146,284,1,1,3,11:21 PM,10:31,Parsons 26' 3PT Jump Shot (13 PTS) (Garcia 3 AST),,,60 - 60,TIE,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+238,0041200146,285,1,1,3,11:22 PM,10:05,,,Ibaka 16' Jump Shot (8 PTS) (Jackson 2 AST),62 - 60,-2,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+239,0041200146,286,1,1,3,11:22 PM,9:44,Parsons 29' 3PT Jump Shot (16 PTS) (Garcia 4 AST),,,62 - 63,1,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+240,0041200146,287,2,47,3,11:23 PM,9:21,,,MISS Ibaka 19' Turnaround Jump Shot,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+241,0041200146,288,4,0,3,11:23 PM,9:19,Garcia REBOUND (Off:0 Def:4),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+242,0041200146,289,2,46,3,11:23 PM,9:11,MISS Harden 9' Running Jump Shot,,Durant BLOCK (1 BLK),,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0
+243,0041200146,290,4,0,3,11:23 PM,9:10,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+244,0041200146,292,6,2,3,11:23 PM,9:07,,,Ibaka S.FOUL (P2.T1),,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+245,0041200146,293,3,11,3,11:24 PM,9:07,MISS Asik Free Throw 1 of 2,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+246,0041200146,294,4,1,3,11:24 PM,9:07,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+247,0041200146,295,3,12,3,11:24 PM,9:07,Asik Free Throw 2 of 2 (12 PTS),,,62 - 64,2,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+248,0041200146,297,5,1,3,11:25 PM,8:47,Harden STEAL (1 STL),,Durant Bad Pass Turnover (P3.T6),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+249,0041200146,298,6,2,3,11:25 PM,8:35,,,Ibaka S.FOUL (P3.T2),,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+250,0041200146,299,3,11,3,11:25 PM,8:35,Asik Free Throw 1 of 2 (13 PTS),,,62 - 65,3,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+251,0041200146,301,3,12,3,11:26 PM,8:35,MISS Asik Free Throw 2 of 2,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+252,0041200146,303,4,0,3,11:26 PM,8:35,,,Durant REBOUND (Off:0 Def:3),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+253,0041200146,304,5,39,3,11:27 PM,8:14,,,Liggins Step Out of Bounds Turnover (P1.T7),,,5,202732,DeAndre Liggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+254,0041200146,306,8,0,3,11:27 PM,8:02,,,SUB: Martin FOR Liggins,,,5,202732,DeAndre Liggins,1610612760.0,Oklahoma City,Thunder,OKC,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+255,0041200146,307,2,1,3,11:28 PM,7:56,MISS Parsons 26' 3PT Jump Shot,,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+256,0041200146,308,4,0,3,11:28 PM,7:55,Asik REBOUND (Off:3 Def:4),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+257,0041200146,309,1,1,3,11:28 PM,7:35,Parsons  3PT Jump Shot (19 PTS) (Harden 5 AST),,,62 - 68,6,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+258,0041200146,310,9,1,3,11:28 PM,7:34,,,Thunder Timeout: Regular (Reg.3 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+259,0041200146,312,2,1,3,11:32 PM,7:22,,,MISS Martin 26' 3PT Jump Shot,,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+260,0041200146,313,4,0,3,11:32 PM,7:20,,,Ibaka REBOUND (Off:3 Def:3),,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+261,0041200146,314,2,5,3,11:32 PM,7:16,Asik BLOCK (1 BLK),,MISS Ibaka 4' Layup,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0
+262,0041200146,315,4,0,3,11:32 PM,7:14,Beverley REBOUND (Off:1 Def:1),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+263,0041200146,316,2,1,3,11:32 PM,6:57,MISS Beverley 24' 3PT Jump Shot,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+264,0041200146,318,4,0,3,11:32 PM,6:54,,,Jackson REBOUND (Off:0 Def:4),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+265,0041200146,317,2,1,3,11:32 PM,6:30,,,MISS Ibaka 18' Jump Shot,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+266,0041200146,319,4,0,3,11:33 PM,6:28,Garcia REBOUND (Off:0 Def:5),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+267,0041200146,320,1,56,3,11:33 PM,6:23,Beverley 5' Running Hook Shot (4 PTS),,,62 - 70,8,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+268,0041200146,322,2,1,3,11:33 PM,6:07,,,MISS Martin 16' Jump Shot,,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+269,0041200146,323,4,0,3,11:33 PM,6:06,,,Jackson REBOUND (Off:1 Def:4),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+270,0041200146,324,2,1,3,11:33 PM,6:01,,,MISS Durant 26' 3PT Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+271,0041200146,325,4,0,3,11:33 PM,6:01,Asik REBOUND (Off:3 Def:5),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+272,0041200146,326,6,2,3,11:33 PM,5:48,,,Sefolosha S.FOUL (P4.T3),,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+273,0041200146,327,3,11,3,11:34 PM,5:48,Harden Free Throw 1 of 2 (15 PTS),,,62 - 71,9,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+274,0041200146,329,8,0,3,11:34 PM,5:48,,,SUB: Fisher FOR Sefolosha,,,5,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+275,0041200146,330,3,12,3,11:34 PM,5:48,Harden Free Throw 2 of 2 (16 PTS),,,62 - 72,10,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+276,0041200146,333,2,80,3,11:35 PM,5:24,,,MISS Jackson  3PT Step Back Jump Shot,,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+277,0041200146,334,4,0,3,11:35 PM,5:22,Parsons REBOUND (Off:0 Def:4),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+278,0041200146,335,5,39,3,11:35 PM,5:13,Parsons Step Out of Bounds Turnover (P4.T10),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+279,0041200146,337,6,2,3,11:35 PM,5:03,Asik S.FOUL (P3.T1),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+280,0041200146,338,3,11,3,11:36 PM,5:03,,,Jackson Free Throw 1 of 2 (11 PTS),63 - 72,9,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+281,0041200146,340,3,12,3,11:36 PM,5:03,,,Jackson Free Throw 2 of 2 (12 PTS),64 - 72,8,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+282,0041200146,342,2,46,3,11:37 PM,4:48,MISS Harden 11' Running Jump Shot,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+283,0041200146,343,4,0,3,11:37 PM,4:46,Asik REBOUND (Off:4 Def:5),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+284,0041200146,344,2,1,3,11:37 PM,4:43,MISS Beverley 21' Jump Shot,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+285,0041200146,345,4,0,3,11:37 PM,4:42,,,Durant REBOUND (Off:0 Def:4),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+286,0041200146,346,1,1,3,11:37 PM,4:29,,,Jackson  3PT Jump Shot (15 PTS) (Durant 2 AST),67 - 72,5,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+287,0041200146,347,6,1,3,11:37 PM,4:22,,,Durant P.FOUL (P2.T4),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+288,0041200146,348,6,1,3,11:38 PM,4:10,,,Fisher P.FOUL (P2.PN),,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+289,0041200146,349,3,11,3,11:38 PM,4:10,Harden Free Throw 1 of 2 (17 PTS),,,67 - 73,6,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+290,0041200146,351,3,12,3,11:39 PM,4:10,Harden Free Throw 2 of 2 (18 PTS),,,67 - 74,7,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+291,0041200146,353,1,1,3,11:39 PM,3:57,,,Ibaka 15' Jump Shot (10 PTS) (Jackson 3 AST),69 - 74,5,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+292,0041200146,354,2,73,3,11:40 PM,3:32,MISS Parsons 2' Driving Reverse Layup,,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+293,0041200146,355,4,0,3,11:40 PM,3:30,,,Ibaka REBOUND (Off:3 Def:4),,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+294,0041200146,356,6,1,3,11:40 PM,3:24,Garcia P.FOUL (P4.T2),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+295,0041200146,357,8,0,3,11:40 PM,3:24,SUB: Lin FOR Beverley,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+296,0041200146,358,1,1,3,11:40 PM,3:16,,,Durant 26' 3PT Jump Shot (14 PTS) (Jackson 4 AST),72 - 74,2,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+297,0041200146,359,5,2,3,11:41 PM,2:54,Harden Lost Ball Turnover (P2.T11),,Jackson STEAL (1 STL),,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+298,0041200146,360,2,5,3,11:41 PM,2:48,,,MISS Jackson 2' Layup,,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+299,0041200146,362,4,0,3,11:41 PM,2:47,,,Durant REBOUND (Off:1 Def:4),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+300,0041200146,361,1,72,3,11:41 PM,2:47,,,Durant 2' Putback Layup (16 PTS),74 - 74,TIE,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+301,0041200146,363,2,1,3,11:41 PM,2:39,MISS Garcia 26' 3PT Jump Shot,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+302,0041200146,364,4,0,3,11:41 PM,2:37,Harden REBOUND (Off:2 Def:2),,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+303,0041200146,365,2,1,3,11:41 PM,2:32,MISS Lin 25' 3PT Jump Shot,,,,,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+304,0041200146,366,4,0,3,11:41 PM,2:32,,,Martin REBOUND (Off:0 Def:2),,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+305,0041200146,367,2,79,3,11:41 PM,2:24,,,MISS Durant 18' Pullup Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+306,0041200146,368,4,0,3,11:41 PM,2:22,Parsons REBOUND (Off:0 Def:5),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+307,0041200146,369,9,1,3,11:41 PM,2:22,ROCKETS Timeout: Regular (Full 3 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+308,0041200146,372,6,1,3,11:45 PM,2:18,,,Martin P.FOUL (P3.PN),,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+309,0041200146,373,3,11,3,11:45 PM,2:18,MISS Parsons Free Throw 1 of 2,,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+310,0041200146,374,4,1,3,11:45 PM,2:18,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+311,0041200146,377,8,0,3,11:45 PM,2:18,SUB: Anderson FOR Garcia,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+312,0041200146,375,3,12,3,11:45 PM,2:18,Parsons Free Throw 2 of 2 (20 PTS),,,74 - 75,1,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+313,0041200146,378,2,1,3,11:46 PM,2:07,Lin BLOCK (1 BLK),,MISS Ibaka 4' Jump Shot,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0
+314,0041200146,379,4,0,3,11:46 PM,2:05,Anderson REBOUND (Off:0 Def:3),,,,,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+315,0041200146,380,2,44,3,11:46 PM,1:59,MISS Anderson 2' Reverse Layup,,Ibaka BLOCK (1 BLK),,,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,5,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0
+316,0041200146,381,4,0,3,11:46 PM,1:55,,,Fisher REBOUND (Off:0 Def:3),,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+317,0041200146,382,1,5,3,11:46 PM,1:48,,,Jackson 1' Layup (17 PTS) (Durant 3 AST),76 - 75,-1,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+318,0041200146,384,2,1,3,11:46 PM,1:25,MISS Anderson 27' 3PT Jump Shot,,,,,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+319,0041200146,386,4,0,3,11:46 PM,1:25,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+320,0041200146,387,5,11,3,11:46 PM,1:25,ROCKETS Turnover: Shot Clock (T#12),,,,,2,1610612745,,,,,,0,0,,,,,,1,0,,,,,,0
+321,0041200146,389,1,1,3,11:47 PM,1:09,,,Durant 9' Jump Shot (18 PTS) (Jackson 5 AST),78 - 75,-3,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+322,0041200146,391,2,80,3,11:47 PM,0:45,MISS Harden 26' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+323,0041200146,392,4,0,3,11:47 PM,0:44,,,Jackson REBOUND (Off:1 Def:5),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+324,0041200146,393,2,1,3,11:48 PM,0:28,,,MISS Fisher 26' 3PT Jump Shot,,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+325,0041200146,394,4,0,3,11:48 PM,0:27,Parsons REBOUND (Off:0 Def:6),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+326,0041200146,395,1,47,3,11:48 PM,0:05,Harden 20' Turnaround Jump Shot (20 PTS),,,78 - 77,-1,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+327,0041200146,396,2,79,3,11:48 PM,0:00,,,MISS Durant 26' 3PT Pullup Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+328,0041200146,397,4,0,3,11:48 PM,0:00,,,Thunder Rebound,,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+329,0041200146,398,13,0,3,11:48 PM,0:00,,End of 3rd Period (11:48 PM EST),,78 - 77,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+330,0041200146,400,12,0,4,11:52 PM,12:00,,Start of 4th Period (11:52 PM EST),,78 - 77,-1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+331,0041200146,401,2,1,4,11:52 PM,11:44,,,MISS Martin 21' Jump Shot,,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+332,0041200146,402,4,0,4,11:52 PM,11:43,Parsons REBOUND (Off:0 Def:7),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+333,0041200146,403,5,2,4,11:52 PM,11:38,Parsons Lost Ball Turnover (P5.T13),,Durant STEAL (2 STL),,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+334,0041200146,404,1,5,4,11:52 PM,11:32,,,Durant 2' Layup (20 PTS) (Jackson 6 AST),80 - 77,-3,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+335,0041200146,405,2,1,4,11:53 PM,11:11,MISS Lin  3PT Jump Shot,,,,,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+336,0041200146,407,4,0,4,11:53 PM,11:11,Anderson REBOUND (Off:1 Def:3),,,,,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+337,0041200146,406,1,92,4,11:53 PM,11:11,Anderson  Putback Slam Dunk (2 PTS),,,80 - 79,-1,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+338,0041200146,408,1,1,4,11:53 PM,10:47,,,Martin 21' Jump Shot (23 PTS),82 - 79,-3,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+339,0041200146,409,5,1,4,11:53 PM,10:31,Lin Bad Pass Turnover (P1.T14),,,,,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+340,0041200146,410,1,47,4,11:54 PM,10:20,,,Fisher 18' Turnaround Jump Shot (5 PTS) (Jackson 7 AST),84 - 79,-5,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+341,0041200146,411,2,42,4,11:54 PM,10:06,MISS Parsons 3' Driving Layup,,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+342,0041200146,412,4,0,4,11:54 PM,10:04,,,Durant REBOUND (Off:1 Def:5),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+343,0041200146,413,1,79,4,11:54 PM,9:57,,,Durant 26' 3PT Pullup Jump Shot (23 PTS),87 - 79,-8,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+344,0041200146,414,9,1,4,11:54 PM,9:56,ROCKETS Timeout: Regular (Full 4 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0041200146,416,8,0,4,11:56 PM,9:56,SUB: Harden FOR Lin,,,,,4,202391,Jeremy Lin,1610612745.0,Houston,Rockets,HOU,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+346,0041200146,417,8,0,4,11:56 PM,9:56,SUB: Garcia FOR Anderson,,,,,4,202341,James Anderson,1610612745.0,Houston,Rockets,HOU,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+347,0041200146,418,8,0,4,11:56 PM,9:56,SUB: Asik FOR Smith,,,,,4,202962,Greg Smith,1610612745.0,Houston,Rockets,HOU,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+348,0041200146,421,1,47,4,11:58 PM,9:39,Beverley 7' Turnaround Jump Shot (6 PTS),,,87 - 81,-6,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+349,0041200146,422,5,1,4,11:59 PM,9:26,,,Durant Bad Pass Turnover (P4.T8),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+350,0041200146,423,2,42,4,11:59 PM,9:09,MISS Beverley 4' Driving Layup,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+351,0041200146,424,4,0,4,11:59 PM,9:07,,,Collison REBOUND (Off:4 Def:1),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+352,0041200146,425,1,1,4,11:59 PM,8:46,,,Fisher  3PT Jump Shot (8 PTS) (Durant 4 AST),90 - 81,-9,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+353,0041200146,426,2,1,4,12:00 AM,8:27,MISS Harden 25' 3PT Jump Shot,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+354,0041200146,427,4,0,4,12:00 AM,8:26,,,Durant REBOUND (Off:1 Def:6),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+355,0041200146,428,6,1,4,12:00 AM,8:20,Garcia P.FOUL (P5.T1),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+356,0041200146,429,1,5,4,12:00 AM,8:12,,,Collison 1' Layup (8 PTS) (Martin 3 AST),92 - 81,-11,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+357,0041200146,430,2,1,4,12:01 AM,7:51,MISS Garcia  3PT Jump Shot,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+358,0041200146,431,4,0,4,12:01 AM,7:50,,,Collison REBOUND (Off:4 Def:2),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+359,0041200146,432,2,80,4,12:01 AM,7:40,,,MISS Durant 25' 3PT Step Back Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+360,0041200146,433,4,0,4,12:01 AM,7:38,Asik REBOUND (Off:4 Def:6),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+361,0041200146,434,2,78,4,12:01 AM,7:27,MISS Beverley 11' Floating Jump Shot,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+362,0041200146,435,4,0,4,12:01 AM,7:25,,,Fisher REBOUND (Off:0 Def:4),,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+363,0041200146,436,2,47,4,12:01 AM,7:05,,,MISS Collison 8' Turnaround Jump Shot,,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+364,0041200146,437,4,0,4,12:01 AM,7:03,Asik REBOUND (Off:4 Def:7),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+365,0041200146,438,1,1,4,12:01 AM,6:57,Harden 25' 3PT Jump Shot (23 PTS) (Garcia 5 AST),,,92 - 84,-8,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+366,0041200146,439,9,1,4,12:02 AM,6:56,,,Thunder Timeout: Regular (Reg.4 Short 0),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+367,0041200146,441,6,1,4,12:05 AM,6:45,Parsons P.FOUL (P1.T2),,,,,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+368,0041200146,442,5,2,4,12:05 AM,6:33,Beverley STEAL (1 STL),,Jackson Lost Ball Turnover (P2.T9),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+369,0041200146,443,6,3,4,12:06 AM,6:32,,,Jackson L.B.FOUL (P2.T1),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+370,0041200146,444,6,1,4,12:06 AM,6:22,,,Fisher P.FOUL (P3.T2),,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+371,0041200146,445,5,2,4,12:07 AM,6:09,Harden Lost Ball Turnover (P3.T15),,Fisher STEAL (1 STL),,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+372,0041200146,446,1,7,4,12:07 AM,6:04,,,Durant  Dunk (25 PTS),94 - 84,-10,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+373,0041200146,447,2,42,4,12:07 AM,5:53,MISS Harden 2' Driving Layup,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+374,0041200146,448,4,0,4,12:07 AM,5:52,,,Collison REBOUND (Off:4 Def:3),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+375,0041200146,449,6,1,4,12:07 AM,5:52,Asik P.FOUL (P4.T3),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+376,0041200146,450,1,1,4,12:07 AM,5:31,,,Fisher  3PT Jump Shot (11 PTS) (Durant 5 AST),97 - 84,-13,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+377,0041200146,451,2,1,4,12:08 AM,5:08,MISS Garcia 28' 3PT Jump Shot,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+378,0041200146,452,4,0,4,12:08 AM,5:06,,,Martin REBOUND (Off:0 Def:3),,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+379,0041200146,453,5,2,4,12:08 AM,4:47,Harden STEAL (2 STL),,Martin Lost Ball Turnover (P1.T10),,,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+380,0041200146,454,5,1,4,12:08 AM,4:35,Harden Bad Pass Turnover (P4.T16),,Fisher STEAL (2 STL),,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+381,0041200146,455,1,7,4,12:08 AM,4:32,,,Martin  Dunk (25 PTS) (Fisher 1 AST),99 - 84,-15,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+382,0041200146,456,9,1,4,12:08 AM,4:31,ROCKETS Timeout: Regular (Full 5 Short 0),,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+383,0041200146,458,2,5,4,12:12 AM,4:18,MISS Asik 1' Layup,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+384,0041200146,459,4,0,4,12:12 AM,4:17,,,Collison REBOUND (Off:4 Def:4),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+385,0041200146,460,2,1,4,12:12 AM,3:56,,,MISS Jackson 25' 3PT Jump Shot,,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+386,0041200146,461,4,0,4,12:12 AM,3:55,Beverley REBOUND (Off:1 Def:2),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+387,0041200146,462,2,80,4,12:12 AM,3:38,MISS Garcia 20' Step Back Jump Shot,,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+388,0041200146,463,4,0,4,12:13 AM,3:37,,,Jackson REBOUND (Off:1 Def:6),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+389,0041200146,464,2,1,4,12:13 AM,3:19,,,MISS Jackson  3PT Jump Shot,,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+390,0041200146,465,4,0,4,12:13 AM,3:18,Garcia REBOUND (Off:0 Def:6),,,,,4,101128,Francisco Garcia,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+391,0041200146,466,6,1,4,12:13 AM,3:09,,,Collison P.FOUL (P2.T3),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+392,0041200146,467,1,1,4,12:13 AM,3:01,Harden 27' 3PT Jump Shot (26 PTS) (Parsons 3 AST),,,99 - 87,-12,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+393,0041200146,468,1,79,4,12:14 AM,2:38,,,Durant 16' Pullup Jump Shot (27 PTS) (Jackson 8 AST),101 - 87,-14,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+394,0041200146,469,2,80,4,12:14 AM,2:25,MISS Harden 26' 3PT Step Back Jump Shot,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+395,0041200146,470,4,0,4,12:14 AM,2:24,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+396,0041200146,471,6,3,4,12:14 AM,2:24,,,Jackson L.B.FOUL (P3.T4),,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+397,0041200146,472,6,2,4,12:15 AM,2:21,,,Collison S.FOUL (P3.PN),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+398,0041200146,473,3,11,4,12:15 AM,2:21,Parsons Free Throw 1 of 2 (21 PTS),,,101 - 88,-13,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+399,0041200146,475,3,12,4,12:15 AM,2:21,Parsons Free Throw 2 of 2 (22 PTS),,,101 - 89,-12,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+400,0041200146,477,1,5,4,12:16 AM,2:00,,,Collison 1' Layup (10 PTS) (Durant 6 AST),103 - 89,-14,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+401,0041200146,478,2,1,4,12:16 AM,1:51,MISS Asik 15' Jump Shot,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+402,0041200146,479,4,0,4,12:16 AM,1:49,,,Collison REBOUND (Off:4 Def:5),,,5,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+403,0041200146,480,2,79,4,12:16 AM,1:27,,,MISS Durant 25' 3PT Pullup Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+404,0041200146,481,4,0,4,12:16 AM,1:26,Asik REBOUND (Off:4 Def:8),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+405,0041200146,482,2,46,4,12:17 AM,1:16,MISS Harden 6' Running Jump Shot,,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+406,0041200146,483,4,0,4,12:17 AM,1:15,Asik REBOUND (Off:5 Def:8),,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+407,0041200146,484,6,2,4,12:17 AM,1:15,,,Fisher S.FOUL (P4.PN),,,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,1,0,,,,,,0
+408,0041200146,485,3,11,4,12:17 AM,1:15,MISS Asik Free Throw 1 of 2,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+409,0041200146,486,4,1,4,12:17 AM,1:15,ROCKETS Rebound,,,,,2,1610612745,,,,,,0,0,,,,,,0,0,,,,,,0
+410,0041200146,487,3,12,4,12:17 AM,1:15,MISS Asik Free Throw 2 of 2,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+411,0041200146,489,4,0,4,12:17 AM,1:15,,,Durant REBOUND (Off:1 Def:7),,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+412,0041200146,490,2,46,4,12:18 AM,0:53,,,MISS Durant 5' Running Jump Shot,,,5,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+413,0041200146,491,4,0,4,12:18 AM,0:51,Harden REBOUND (Off:2 Def:3),,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+414,0041200146,492,1,7,4,12:18 AM,0:49,Beverley 1' Dunk (8 PTS) (Harden 6 AST),,,103 - 91,-12,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+415,0041200146,493,6,1,4,12:18 AM,0:47,Beverley P.FOUL (P4.T4),,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+416,0041200146,494,2,42,4,12:19 AM,0:26,Asik BLOCK (2 BLK),,MISS Jackson 5' Driving Layup,,,5,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,4,201600,Omer Asik,1610612745.0,Houston,Rockets,HOU,0
+417,0041200146,495,4,0,4,12:19 AM,0:24,Harden REBOUND (Off:2 Def:4),,,,,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0,0,,,,,,0
+418,0041200146,496,1,1,4,12:19 AM,0:18,Parsons  3PT Jump Shot (25 PTS) (Harden 7 AST),,,103 - 94,-9,4,202718,Chandler Parsons,1610612745.0,Houston,Rockets,HOU,4,201935,James Harden,1610612745.0,Houston,Rockets,HOU,0,0,,,,,,0
+419,0041200146,497,9,2,4,12:19 AM,0:18,,,Thunder Timeout: Short (Reg.4 Short 1),,,3,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+420,0041200146,501,10,0,4,12:21 AM,0:01,Jump Ball Beverley vs. Martin: Tip to,,,,,4,201976,Patrick Beverley,1610612745.0,Houston,Rockets,HOU,5,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,3,1610612760,,,,,,0
+421,0041200146,502,13,0,4,12:22 AM,0:00,,End of 4th Period (12:22 AM EST),,103 - 94,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

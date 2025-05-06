@@ -1,0 +1,471 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200221,0,12,0,1,1:03 PM,12:00,,Start of 1st Period (1:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200221,1,10,0,1,1:03 PM,12:00,Jump Ball Ibaka vs. Gasol: Tip to,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,2,1610612760,,,,,,0
+2,0041200221,2,2,1,1,1:04 PM,11:46,MISS Ibaka 19' Jump Shot,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+3,0041200221,3,4,0,1,1:04 PM,11:45,,,Allen REBOUND (Off:0 Def:1),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+4,0041200221,4,5,8,1,1:04 PM,11:28,,,Randolph 3 Second Violation Turnover (P1.T1),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+5,0041200221,7,5,2,1,1:05 PM,11:08,Durant Lost Ball Turnover (P1.T1),,Gasol STEAL (1 STL),,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+6,0041200221,8,2,5,1,1:05 PM,11:03,,,MISS Allen 1' Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+7,0041200221,9,4,0,1,1:05 PM,11:02,,,Allen REBOUND (Off:1 Def:1),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+8,0041200221,10,2,5,1,1:05 PM,10:58,,,MISS Allen 2' Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+9,0041200221,11,4,0,1,1:05 PM,10:57,Jackson REBOUND (Off:0 Def:1),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+10,0041200221,12,2,5,1,1:05 PM,10:52,MISS Sefolosha 2' Layup,,,,,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+11,0041200221,13,4,0,1,1:06 PM,10:50,,,Randolph REBOUND (Off:0 Def:1),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+12,0041200221,14,2,42,1,1:06 PM,10:37,,,MISS Conley  Driving Layup,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+13,0041200221,15,4,0,1,1:06 PM,10:36,Durant REBOUND (Off:0 Def:1),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+14,0041200221,16,2,1,1,1:06 PM,10:28,MISS Perkins 10' Jump Shot,,Gasol BLOCK (1 BLK),,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0
+15,0041200221,17,4,0,1,1:06 PM,10:26,Perkins REBOUND (Off:1 Def:0),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+16,0041200221,18,2,1,1,1:06 PM,10:24,MISS Ibaka 12' Jump Shot,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+17,0041200221,19,4,0,1,1:06 PM,10:23,,,Gasol REBOUND (Off:0 Def:1),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+18,0041200221,20,5,1,1,1:06 PM,10:18,,,Allen Bad Pass Turnover (P1.T2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+19,0041200221,21,2,1,1,1:06 PM,10:05,MISS Durant 25' 3PT Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+20,0041200221,22,4,0,1,1:06 PM,10:04,,,Allen REBOUND (Off:1 Def:2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+21,0041200221,23,1,80,1,1:07 PM,9:50,,,Randolph 16' Step Back Jump Shot (2 PTS),2 - 0,-2,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+22,0041200221,24,2,1,1,1:07 PM,9:25,MISS Perkins 16' Jump Shot,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+23,0041200221,25,4,0,1,1:07 PM,9:24,Ibaka REBOUND (Off:1 Def:0),,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+24,0041200221,26,2,5,1,1:07 PM,9:23,MISS Ibaka 2' Layup,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+25,0041200221,27,4,0,1,1:07 PM,9:21,,,Gasol REBOUND (Off:0 Def:2),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+26,0041200221,28,1,42,1,1:07 PM,9:06,,,Randolph 2' Driving Layup (4 PTS),4 - 0,-4,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+27,0041200221,30,2,46,1,1:08 PM,8:46,MISS Durant 5' Running Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+28,0041200221,31,4,0,1,1:08 PM,8:45,,,Gasol REBOUND (Off:0 Def:3),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+29,0041200221,32,6,17,1,1:08 PM,8:34,THUNDER T.Foul (Def. 3 Sec Perkins ),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+30,0041200221,33,3,16,1,1:08 PM,8:34,,,Conley Free Throw Technical (1 PTS),5 - 0,-5,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+31,0041200221,35,1,79,1,1:09 PM,8:25,,,Prince 16' Pullup Jump Shot (2 PTS),7 - 0,-7,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+32,0041200221,36,9,1,1,1:09 PM,8:18,THUNDER Timeout: Regular (Full 1 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+33,0041200221,38,2,1,1,1:13 PM,8:07,MISS Durant 19' Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+34,0041200221,39,4,0,1,1:13 PM,8:06,Ibaka REBOUND (Off:2 Def:0),,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+35,0041200221,40,6,2,1,1:13 PM,8:05,,,Allen S.FOUL (P1.T1),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+36,0041200221,41,3,11,1,1:13 PM,8:05,Ibaka Free Throw 1 of 2 (1 PTS),,,7 - 1,-6,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+37,0041200221,43,3,12,1,1:13 PM,8:05,Ibaka Free Throw 2 of 2 (2 PTS),,,7 - 2,-5,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+38,0041200221,45,2,1,1,1:14 PM,7:42,,,MISS Prince 25' 3PT Jump Shot,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+39,0041200221,46,4,0,1,1:14 PM,7:41,Ibaka REBOUND (Off:2 Def:1),,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+40,0041200221,47,2,1,1,1:14 PM,7:33,MISS Jackson 20' Jump Shot,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+41,0041200221,48,4,0,1,1:14 PM,7:32,,,Prince REBOUND (Off:0 Def:1),,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+42,0041200221,49,2,1,1,1:15 PM,7:18,,,MISS Prince  3PT Jump Shot,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+43,0041200221,50,4,0,1,1:15 PM,7:16,Perkins REBOUND (Off:1 Def:1),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+44,0041200221,51,1,80,1,1:15 PM,7:01,Durant 14' Step Back Jump Shot (2 PTS),,,7 - 4,-3,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+45,0041200221,52,2,1,1,1:15 PM,6:42,,,MISS Conley 24' 3PT Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+46,0041200221,53,4,0,1,1:15 PM,6:41,Sefolosha REBOUND (Off:0 Def:1),,,,,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+47,0041200221,54,2,1,1,1:16 PM,6:25,MISS Durant 11' Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+48,0041200221,55,4,0,1,1:16 PM,6:24,Ibaka REBOUND (Off:3 Def:1),,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+49,0041200221,56,2,1,1,1:16 PM,6:12,MISS Ibaka 12' Jump Shot,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+50,0041200221,57,4,0,1,1:16 PM,6:11,,,Conley REBOUND (Off:0 Def:1),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+51,0041200221,58,2,1,1,1:16 PM,5:54,,,MISS Allen 18' Jump Shot,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+52,0041200221,59,4,0,1,1:16 PM,5:53,Durant REBOUND (Off:0 Def:2),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+53,0041200221,61,1,5,1,1:16 PM,5:44,Sefolosha 1' Layup (2 PTS) (Durant 1 AST),,,7 - 6,-1,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+54,0041200221,62,9,1,1,1:17 PM,5:36,,,Grizzlies Timeout: Regular (Reg.1 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+55,0041200221,64,8,0,1,1:20 PM,5:36,,,SUB: Dooling FOR Conley,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+56,0041200221,65,2,1,1,1:20 PM,5:23,,,MISS Dooling 24' 3PT Jump Shot,,,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+57,0041200221,66,4,0,1,1:20 PM,5:22,,,Allen REBOUND (Off:2 Def:2),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+58,0041200221,67,2,47,1,1:21 PM,4:58,,,MISS Gasol 16' Turnaround Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+59,0041200221,68,4,0,1,1:21 PM,4:57,Durant REBOUND (Off:0 Def:3),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+60,0041200221,69,2,1,1,1:21 PM,4:42,MISS Ibaka 19' Jump Shot,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+61,0041200221,70,4,0,1,1:21 PM,4:41,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+62,0041200221,71,8,0,1,1:21 PM,4:41,SUB: Martin FOR Sefolosha,,,,,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+63,0041200221,72,2,1,1,1:22 PM,4:30,,,MISS Gasol 19' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+64,0041200221,73,4,0,1,1:22 PM,4:29,Durant REBOUND (Off:0 Def:4),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+65,0041200221,74,2,79,1,1:22 PM,4:19,MISS Durant 12' Pullup Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+66,0041200221,75,4,0,1,1:22 PM,4:19,,,Prince REBOUND (Off:0 Def:2),,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+67,0041200221,76,1,56,1,1:22 PM,4:07,,,Gasol 9' Running Hook Shot (2 PTS),9 - 6,-3,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+68,0041200221,77,6,2,1,1:22 PM,4:07,Perkins S.FOUL (P1.T1),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+69,0041200221,78,8,0,1,1:22 PM,4:07,,,SUB: Arthur FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+70,0041200221,79,8,0,1,1:22 PM,4:07,SUB: Collison FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+71,0041200221,80,3,10,1,1:22 PM,4:07,,,MISS Gasol Free Throw 1 of 1,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+72,0041200221,82,4,0,1,1:23 PM,4:06,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+73,0041200221,83,2,5,1,1:23 PM,3:52,,,MISS Allen 3' Layup,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+74,0041200221,84,4,0,1,1:23 PM,3:51,Perkins REBOUND (Off:1 Def:2),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+75,0041200221,85,1,46,1,1:23 PM,3:43,Durant 3' Running Jump Shot (4 PTS),,,9 - 8,-1,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+76,0041200221,86,6,2,1,1:23 PM,3:43,,,Gasol S.FOUL (P1.T2),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+77,0041200221,87,8,0,1,1:24 PM,3:43,,,SUB: Bayless FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+78,0041200221,89,3,10,1,1:24 PM,3:43,Durant Free Throw 1 of 1 (5 PTS),,,9 - 9,TIE,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+79,0041200221,95,2,45,1,1:24 PM,3:23,,,MISS Prince 15' Jump Shot,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+80,0041200221,92,4,0,1,1:24 PM,3:21,Martin REBOUND (Off:0 Def:1),,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+81,0041200221,93,2,46,1,1:24 PM,3:12,MISS Jackson 6' Running Jump Shot,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+82,0041200221,94,4,0,1,1:24 PM,3:11,,,Gasol REBOUND (Off:0 Def:4),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+83,0041200221,96,1,1,1,1:25 PM,2:55,,,Bayless 24' 3PT Jump Shot (3 PTS) (Gasol 1 AST),12 - 9,-3,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+84,0041200221,97,1,85,1,1:25 PM,2:33,Durant 11' Turnaround Bank Shot (7 PTS),,,12 - 11,-1,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+85,0041200221,98,6,2,1,1:25 PM,2:33,,,Prince S.FOUL (P1.T3),,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+86,0041200221,99,8,0,1,1:25 PM,2:33,,,SUB: Conley FOR Prince,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+87,0041200221,100,8,0,1,1:25 PM,2:33,,,SUB: Pondexter FOR Dooling,,,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+88,0041200221,101,8,0,1,1:25 PM,2:33,SUB: Fisher FOR Jackson,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+89,0041200221,102,3,10,1,1:26 PM,2:33,Durant Free Throw 1 of 1 (8 PTS),,,12 - 12,TIE,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+90,0041200221,104,1,79,1,1:26 PM,2:19,,,Bayless 23' Pullup Jump Shot (5 PTS),14 - 12,-2,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+91,0041200221,105,5,2,1,1:26 PM,1:59,Martin Lost Ball Turnover (P1.T2),,Gasol STEAL (2 STL),,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+92,0041200221,106,2,80,1,1:26 PM,1:52,,,MISS Bayless 25' 3PT Step Back Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+93,0041200221,107,4,0,1,1:26 PM,1:52,Durant REBOUND (Off:0 Def:5),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+94,0041200221,108,1,79,1,1:27 PM,1:43,Durant 13' Pullup Jump Shot (10 PTS),,,14 - 14,TIE,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+95,0041200221,110,2,1,1,1:27 PM,1:26,,,MISS Conley  3PT Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+96,0041200221,112,4,0,1,1:27 PM,1:24,Martin REBOUND (Off:0 Def:2),,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+97,0041200221,114,2,1,1,1:27 PM,1:08,MISS Perkins 3' Jump Shot,,Gasol BLOCK (2 BLK),,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0
+98,0041200221,115,4,0,1,1:27 PM,1:06,,,Gasol REBOUND (Off:0 Def:5),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+99,0041200221,116,2,1,1,1:27 PM,0:57,,,MISS Pondexter  3PT Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+100,0041200221,117,4,0,1,1:27 PM,0:54,Perkins REBOUND (Off:1 Def:3),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+101,0041200221,118,5,1,1,1:27 PM,0:52,Perkins Bad Pass Turnover (P1.T3),,Conley STEAL (1 STL),,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+102,0041200221,119,1,1,1,1:28 PM,0:43,,,Arthur 15' Jump Shot (2 PTS) (Pondexter 1 AST),16 - 14,-2,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+103,0041200221,120,2,1,1,1:28 PM,0:26,MISS Martin 25' 3PT Jump Shot,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+104,0041200221,121,4,0,1,1:28 PM,0:25,,,Conley REBOUND (Off:0 Def:2),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+105,0041200221,122,6,1,1,1:28 PM,0:10,Fisher P.FOUL (P1.T2),,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+106,0041200221,124,2,41,1,1:29 PM,0:02,,,MISS Conley 2' Running Layup,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+107,0041200221,125,4,0,1,1:29 PM,0:01,Perkins REBOUND (Off:1 Def:4),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+108,0041200221,127,2,1,1,1:29 PM,0:00,MISS Perkins 69' 3PT Jump Shot,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+109,0041200221,128,4,0,1,1:29 PM,0:00,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+110,0041200221,131,13,0,1,1:29 PM,0:00,,End of 1st Period (1:29 PM EST),,16 - 14,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+111,0041200221,133,12,0,2,1:33 PM,12:00,,Start of 2nd Period (1:33 PM EST),,16 - 14,-2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+112,0041200221,134,1,5,2,1:33 PM,11:41,,,Randolph 1' Layup (6 PTS),18 - 14,-4,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+113,0041200221,135,6,2,2,1:33 PM,11:41,Thabeet S.FOUL (P1.T1),,,,,4,201934,Hasheem Thabeet,1610612760.0,Oklahoma City,Thunder,OKC,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+114,0041200221,136,3,10,2,1:33 PM,11:41,,,Randolph Free Throw 1 of 1 (7 PTS),19 - 14,-5,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+115,0041200221,138,2,1,2,1:34 PM,11:28,MISS Martin 19' Jump Shot,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+116,0041200221,139,4,0,2,1:34 PM,11:27,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+117,0041200221,140,1,1,2,1:34 PM,11:11,,,Pondexter 20' Jump Shot (2 PTS),21 - 14,-7,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+118,0041200221,141,6,1,2,1:35 PM,11:00,,,Pondexter P.FOUL (P1.T1),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+119,0041200221,142,2,1,2,1:35 PM,10:49,MISS Martin 14' Jump Shot,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+120,0041200221,143,4,0,2,1:35 PM,10:48,Collison REBOUND (Off:1 Def:0),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+121,0041200221,144,2,1,2,1:35 PM,10:41,MISS Liggins 26' 3PT Jump Shot,,,,,4,202732,DeAndre Liggins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+122,0041200221,145,4,0,2,1:35 PM,10:41,,,Randolph REBOUND (Off:0 Def:2),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+123,0041200221,146,2,47,2,1:35 PM,10:28,,,MISS Randolph 5' Turnaround Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+124,0041200221,147,4,0,2,1:35 PM,10:26,Thabeet REBOUND (Off:0 Def:1),,,,,4,201934,Hasheem Thabeet,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+125,0041200221,148,2,1,2,1:36 PM,10:18,MISS Fisher 18' Jump Shot,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+126,0041200221,149,4,0,2,1:36 PM,10:18,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+127,0041200221,150,6,3,2,1:36 PM,10:18,Thabeet L.B.FOUL (P2.T2),,,,,4,201934,Hasheem Thabeet,1610612760.0,Oklahoma City,Thunder,OKC,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+128,0041200221,151,2,1,2,1:36 PM,10:06,,,MISS Arthur 16' Jump Shot,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+129,0041200221,152,4,0,2,1:36 PM,10:05,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+130,0041200221,153,6,3,2,1:36 PM,10:05,,,Bayless L.B.FOUL (P1.T2),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+131,0041200221,154,8,0,2,1:36 PM,10:05,SUB: Ibaka FOR Thabeet,,,,,4,201934,Hasheem Thabeet,1610612760.0,Oklahoma City,Thunder,OKC,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+132,0041200221,155,1,84,2,1:37 PM,9:53,Martin 10' Running Bank Shot (2 PTS),,,21 - 16,-5,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+133,0041200221,156,1,1,2,1:37 PM,9:40,,,Bayless 23' Jump Shot (7 PTS),23 - 16,-7,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+134,0041200221,157,2,1,2,1:37 PM,9:21,MISS Ibaka 10' Jump Shot,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+135,0041200221,159,4,0,2,1:37 PM,9:20,Collison REBOUND (Off:2 Def:0),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+136,0041200221,158,1,72,2,1:37 PM,9:20,Collison 2' Putback Layup (2 PTS),,,23 - 18,-5,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+137,0041200221,161,6,4,2,1:37 PM,9:10,,,Arthur OFF.Foul (P1),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+138,0041200221,162,5,5,2,1:37 PM,9:10,,,Arthur Foul Turnover (P1.T3),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+139,0041200221,163,1,47,2,1:38 PM,8:57,Martin 9' Turnaround Jump Shot (4 PTS),,,23 - 20,-3,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+140,0041200221,164,6,2,2,1:38 PM,8:57,,,Pondexter S.FOUL (P2.T3),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+141,0041200221,166,8,0,2,1:41 PM,8:57,,,SUB: Dooling FOR Conley,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+142,0041200221,167,3,10,2,1:41 PM,8:57,Martin Free Throw 1 of 1 (5 PTS),,,23 - 21,-2,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+143,0041200221,169,5,1,2,1:42 PM,8:47,,,Arthur Bad Pass Turnover (P2.T4),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+144,0041200221,170,2,1,2,1:42 PM,8:35,MISS Martin 25' 3PT Jump Shot,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+145,0041200221,171,4,0,2,1:42 PM,8:33,,,Arthur REBOUND (Off:0 Def:1),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+146,0041200221,172,1,46,2,1:43 PM,8:16,,,Randolph 4' Running Jump Shot (9 PTS),25 - 21,-4,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+147,0041200221,173,6,1,2,1:43 PM,8:06,,,Dooling P.FOUL (P1.T4),,,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+148,0041200221,174,1,47,2,1:43 PM,7:58,Martin 12' Turnaround Jump Shot (7 PTS) (Collison 1 AST),,,25 - 23,-2,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+149,0041200221,175,6,1,2,1:44 PM,7:42,Liggins P.FOUL (P1.T3),,,,,4,202732,DeAndre Liggins,1610612760.0,Oklahoma City,Thunder,OKC,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+150,0041200221,176,8,0,2,1:44 PM,7:42,SUB: Durant FOR Liggins,,,,,4,202732,DeAndre Liggins,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+151,0041200221,177,8,0,2,1:44 PM,7:42,,,SUB: Prince FOR Arthur,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+152,0041200221,178,8,0,2,1:44 PM,7:42,,,SUB: Gasol FOR Pondexter,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+153,0041200221,179,2,1,2,1:44 PM,7:26,,,MISS Randolph 21' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+154,0041200221,180,4,0,2,1:44 PM,7:25,Martin REBOUND (Off:0 Def:3),,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+155,0041200221,181,1,82,2,1:45 PM,7:09,Fisher 4' Driving Bank Shot (2 PTS),,,25 - 25,TIE,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+156,0041200221,182,6,14,2,1:45 PM,7:01,Collison FLAGRANT.FOUL.TYPE1 (P1.T4),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+157,0041200221,183,18,0,2,1:45 PM,7:01,,Support Ruling,,,,0,182,Billy Owens,,,,,0,0,,,,,,1,0,,,,,,0
+158,0041200221,190,8,0,2,1:47 PM,7:01,,,SUB: Allen FOR Dooling,,,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+159,0041200221,184,8,0,2,1:47 PM,7:01,SUB: Perkins FOR Collison,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+160,0041200221,185,3,18,2,1:48 PM,7:01,,,MISS Prince Free Throw Flagrant 1 of 2,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+161,0041200221,186,4,1,2,1:48 PM,7:01,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+162,0041200221,187,3,19,2,1:48 PM,7:01,,,MISS Prince Free Throw Flagrant 2 of 2,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+163,0041200221,189,4,1,2,1:48 PM,7:01,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+164,0041200221,191,1,5,2,1:49 PM,6:40,,,Allen 2' Layup (2 PTS) (Gasol 2 AST),27 - 25,-2,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+165,0041200221,193,6,2,2,1:49 PM,6:40,Martin S.FOUL (P1.PN),,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+166,0041200221,194,3,10,2,1:49 PM,6:40,,,Allen Free Throw 1 of 1 (3 PTS),28 - 25,-3,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+167,0041200221,196,1,44,2,1:49 PM,6:32,Martin 2' Reverse Layup (9 PTS) (Perkins 1 AST),,,28 - 27,-1,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+168,0041200221,197,6,2,2,1:49 PM,6:32,,,Allen S.FOUL (P2.PN),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+169,0041200221,198,3,10,2,1:50 PM,6:32,Martin Free Throw 1 of 1 (10 PTS),,,28 - 28,TIE,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+170,0041200221,200,5,4,2,1:50 PM,6:20,,,Allen Traveling Turnover (P2.T5),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+171,0041200221,201,2,1,2,1:51 PM,6:10,MISS Fisher 23' Jump Shot,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+172,0041200221,202,4,0,2,1:51 PM,6:08,,,Randolph REBOUND (Off:0 Def:3),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+173,0041200221,203,1,79,2,1:51 PM,5:46,,,Bayless 26' 3PT Pullup Jump Shot (10 PTS),31 - 28,-3,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+174,0041200221,204,1,1,2,1:51 PM,5:28,Martin 24' 3PT Jump Shot (13 PTS) (Perkins 2 AST),,,31 - 31,TIE,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+175,0041200221,205,2,1,2,1:52 PM,5:14,,,MISS Bayless 24' 3PT Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+176,0041200221,206,4,0,2,1:52 PM,5:13,Ibaka REBOUND (Off:3 Def:2),,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+177,0041200221,207,2,1,2,1:52 PM,4:59,MISS Ibaka 19' Jump Shot,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+178,0041200221,208,4,0,2,1:52 PM,4:58,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+179,0041200221,209,9,1,2,1:52 PM,4:58,THUNDER Timeout: Regular (Full 2 Short 0),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+180,0041200221,211,8,0,2,1:55 PM,4:58,,,SUB: Daye FOR Prince,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,201948,Austin Daye,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+181,0041200221,212,8,0,2,1:55 PM,4:58,,,SUB: Conley FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+182,0041200221,213,8,0,2,1:55 PM,4:58,SUB: Jackson FOR Fisher,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+183,0041200221,214,6,4,2,1:56 PM,4:53,,,Randolph OFF.Foul (P1),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+184,0041200221,215,5,5,2,1:56 PM,4:53,,,Randolph Foul Turnover (P2.T6),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+185,0041200221,216,6,1,2,1:56 PM,4:43,,,Daye P.FOUL (P1.PN),,,5,201948,Austin Daye,1610612763.0,Memphis,Grizzlies,MEM,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+186,0041200221,217,3,11,2,1:57 PM,4:43,Durant Free Throw 1 of 2 (11 PTS),,,31 - 32,1,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+187,0041200221,219,3,12,2,1:57 PM,4:43,Durant Free Throw 2 of 2 (12 PTS),,,31 - 33,2,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+188,0041200221,221,1,56,2,1:57 PM,4:28,,,Gasol 6' Running Hook Shot (4 PTS),33 - 33,TIE,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+189,0041200221,222,1,5,2,1:58 PM,4:12,Jackson 2' Layup (2 PTS) (Perkins 3 AST),,,33 - 35,2,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+190,0041200221,223,1,47,2,1:58 PM,4:04,,,Daye 9' Turnaround Jump Shot (2 PTS),35 - 35,TIE,5,201948,Austin Daye,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+191,0041200221,224,6,2,2,1:58 PM,4:04,Ibaka S.FOUL (P1.PN),,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,5,201948,Austin Daye,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+192,0041200221,225,3,10,2,1:58 PM,4:04,,,Daye Free Throw 1 of 1 (3 PTS),36 - 35,-1,5,201948,Austin Daye,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+193,0041200221,227,6,1,2,1:59 PM,3:51,,,Bayless P.FOUL (P2.PN),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+194,0041200221,228,3,11,2,1:59 PM,3:51,Martin Free Throw 1 of 2 (14 PTS),,,36 - 36,TIE,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+195,0041200221,230,3,12,2,1:59 PM,3:51,Martin Free Throw 2 of 2 (15 PTS),,,36 - 37,1,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+196,0041200221,232,2,80,2,2:00 PM,3:28,,,MISS Randolph 16' Step Back Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+197,0041200221,233,4,0,2,2:00 PM,3:26,Jackson REBOUND (Off:0 Def:2),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+198,0041200221,234,1,42,2,2:00 PM,3:18,Jackson 2' Driving Layup (4 PTS),,,36 - 39,3,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+199,0041200221,235,6,1,2,2:00 PM,3:00,Ibaka P.FOUL (P2.PN),,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+200,0041200221,236,3,11,2,2:01 PM,3:00,,,MISS Randolph Free Throw 1 of 2,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+201,0041200221,237,4,1,2,2:01 PM,3:00,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+202,0041200221,238,8,0,2,2:01 PM,3:00,,,SUB: Allen FOR Bayless,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+203,0041200221,239,8,0,2,2:01 PM,3:00,SUB: Sefolosha FOR Martin,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+204,0041200221,240,8,0,2,2:01 PM,3:00,SUB: Collison FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+205,0041200221,241,3,12,2,2:01 PM,3:00,,,Randolph Free Throw 2 of 2 (10 PTS),37 - 39,2,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+206,0041200221,243,1,5,2,2:01 PM,2:47,Sefolosha  Layup (4 PTS) (Jackson 1 AST),,,37 - 41,4,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+207,0041200221,245,9,1,2,2:02 PM,2:26,,,Grizzlies Timeout: Regular (Reg.2 Short 0),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+208,0041200221,247,1,1,2,2:05 PM,2:20,,,Gasol 15' Jump Shot (6 PTS),39 - 41,2,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+209,0041200221,248,1,7,2,2:05 PM,2:03,Perkins  Dunk (2 PTS) (Durant 2 AST),,,39 - 43,4,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+210,0041200221,249,6,1,2,2:06 PM,1:48,Perkins P.FOUL (P2.PN),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+211,0041200221,251,3,11,2,2:06 PM,1:48,,,Gasol Free Throw 1 of 2 (7 PTS),40 - 43,3,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+212,0041200221,253,8,0,2,2:07 PM,1:48,SUB: Thabeet FOR Perkins,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,4,201934,Hasheem Thabeet,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+213,0041200221,254,3,12,2,2:07 PM,1:48,,,Gasol Free Throw 2 of 2 (8 PTS),41 - 43,2,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+214,0041200221,256,5,1,2,2:08 PM,1:36,Jackson Bad Pass Turnover (P1.T4),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+215,0041200221,257,1,45,2,2:08 PM,1:25,,,Gasol 20' Jump Shot (10 PTS) (Conley 1 AST),43 - 43,TIE,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+216,0041200221,258,6,1,2,2:08 PM,1:11,,,Daye P.FOUL (P2.PN),,,5,201948,Austin Daye,1610612763.0,Memphis,Grizzlies,MEM,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+217,0041200221,259,3,11,2,2:09 PM,1:11,Durant Free Throw 1 of 2 (13 PTS),,,43 - 44,1,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+218,0041200221,261,3,12,2,2:09 PM,1:11,Durant Free Throw 2 of 2 (14 PTS),,,43 - 45,2,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+219,0041200221,263,2,42,2,2:10 PM,0:57,,,MISS Conley 2' Driving Layup,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+220,0041200221,264,4,0,2,2:10 PM,0:56,Collison REBOUND (Off:2 Def:1),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+221,0041200221,265,6,4,2,2:10 PM,0:51,Durant OFF.Foul (P1),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+222,0041200221,266,5,5,2,2:10 PM,0:51,Durant Foul Turnover (P2.T5),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+223,0041200221,267,1,1,2,2:10 PM,0:33,,,Conley 25' 3PT Jump Shot (4 PTS) (Randolph 1 AST),46 - 45,-1,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+224,0041200221,268,1,46,2,2:11 PM,0:27,Jackson 5' Running Jump Shot (6 PTS),,,46 - 47,1,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+225,0041200221,269,9,2,2,2:11 PM,0:18,,,Grizzlies Timeout: Short (Reg.2 Short 1),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+226,0041200221,271,8,0,2,2:12 PM,0:18,,,SUB: Bayless FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+227,0041200221,272,2,1,2,2:12 PM,0:06,,,MISS Daye 19' Jump Shot,,,5,201948,Austin Daye,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+228,0041200221,273,4,0,2,2:12 PM,0:06,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+229,0041200221,274,9,2,2,2:12 PM,0:06,THUNDER Timeout: Short (Full 2 Short 1),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+230,0041200221,276,8,0,2,2:13 PM,0:06,,,SUB: Allen FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+231,0041200221,277,8,0,2,2:13 PM,0:06,,,SUB: Arthur FOR Bayless,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+232,0041200221,278,8,0,2,2:13 PM,0:06,,,SUB: Prince FOR Daye,,,5,201948,Austin Daye,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+233,0041200221,279,8,0,2,2:14 PM,0:06,SUB: Martin FOR Thabeet,,,,,4,201934,Hasheem Thabeet,1610612760.0,Oklahoma City,Thunder,OKC,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+234,0041200221,280,2,47,2,2:14 PM,0:00,MISS Jackson 8' Turnaround Jump Shot,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+235,0041200221,281,4,0,2,2:14 PM,0:00,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+236,0041200221,282,13,0,2,2:14 PM,0:00,,End of 2nd Period (2:14 PM EST),,46 - 47,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+237,0041200221,284,12,0,3,2:32 PM,12:00,,Start of 3rd Period (2:32 PM EST),,46 - 47,1,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+238,0041200221,285,1,1,3,2:32 PM,11:47,,,Gasol 14' Jump Shot (12 PTS) (Conley 2 AST),48 - 47,-1,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+239,0041200221,286,1,1,3,2:33 PM,11:32,Ibaka 16' Jump Shot (4 PTS) (Durant 3 AST),,,48 - 49,1,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+240,0041200221,287,1,73,3,2:33 PM,11:23,,,Conley 1' Driving Reverse Layup (6 PTS),50 - 49,-1,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+241,0041200221,288,2,1,3,2:33 PM,11:03,MISS Ibaka  3PT Jump Shot,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+242,0041200221,289,4,0,3,2:33 PM,11:02,,,Conley REBOUND (Off:0 Def:3),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+243,0041200221,290,1,1,3,2:33 PM,10:53,,,Conley 16' Jump Shot (8 PTS) (Gasol 3 AST),52 - 49,-3,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+244,0041200221,291,2,1,3,2:34 PM,10:36,MISS Durant 11' Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+245,0041200221,292,4,0,3,2:34 PM,10:35,,,Randolph REBOUND (Off:0 Def:4),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+246,0041200221,293,2,47,3,2:34 PM,10:24,,,MISS Randolph 8' Turnaround Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+247,0041200221,294,4,0,3,2:34 PM,10:23,Durant REBOUND (Off:0 Def:6),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+248,0041200221,295,2,1,3,2:34 PM,10:04,MISS Perkins 17' Jump Shot,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+249,0041200221,296,4,0,3,2:34 PM,10:03,,,Randolph REBOUND (Off:0 Def:5),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+250,0041200221,297,2,1,3,2:34 PM,9:48,,,MISS Conley  3PT Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+251,0041200221,298,4,0,3,2:34 PM,9:47,,,Randolph REBOUND (Off:1 Def:5),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+252,0041200221,299,1,5,3,2:34 PM,9:44,,,Randolph 1' Layup (12 PTS),54 - 49,-5,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+253,0041200221,300,1,49,3,2:35 PM,9:25,Durant 1' Driving Dunk (16 PTS),,,54 - 51,-3,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+254,0041200221,301,1,1,3,2:35 PM,9:01,,,Gasol 19' Jump Shot (14 PTS),56 - 51,-5,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+255,0041200221,302,1,47,3,2:35 PM,8:40,Durant 11' Turnaround Jump Shot (18 PTS),,,56 - 53,-3,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+256,0041200221,304,2,1,3,2:36 PM,8:16,,,MISS Gasol 4' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+257,0041200221,305,4,0,3,2:36 PM,8:15,,,Randolph REBOUND (Off:2 Def:5),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+258,0041200221,306,2,47,3,2:36 PM,8:14,,,MISS Randolph 2' Turnaround Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+259,0041200221,307,4,0,3,2:36 PM,8:13,Perkins REBOUND (Off:1 Def:5),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+260,0041200221,308,2,1,3,2:36 PM,8:06,MISS Sefolosha  3PT Jump Shot,,,,,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+261,0041200221,309,4,0,3,2:36 PM,8:05,,,Gasol REBOUND (Off:0 Def:6),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+262,0041200221,310,6,4,3,2:37 PM,7:51,,,Randolph OFF.Foul (P2),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+263,0041200221,311,5,5,3,2:37 PM,7:51,,,Randolph Foul Turnover (P3.T7),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+264,0041200221,312,5,1,3,2:37 PM,7:43,Ibaka Bad Pass Turnover (P1.T6),,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+265,0041200221,313,1,1,3,2:37 PM,7:30,,,Prince 8' Jump Shot (4 PTS),58 - 53,-5,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+266,0041200221,314,9,1,3,2:38 PM,7:30,THUNDER Timeout: Regular (Full 3 Short 1),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+267,0041200221,316,8,0,3,2:41 PM,7:30,,,SUB: Pondexter FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+268,0041200221,317,2,1,3,2:42 PM,7:13,MISS Durant 13' Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+269,0041200221,318,4,0,3,2:42 PM,7:12,,,Randolph REBOUND (Off:2 Def:6),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+270,0041200221,319,1,1,3,2:42 PM,6:57,,,Pondexter  3PT Jump Shot (5 PTS) (Conley 3 AST),61 - 53,-8,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+271,0041200221,320,2,1,3,2:42 PM,6:33,MISS Sefolosha 6' Jump Shot,,,,,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+272,0041200221,321,4,0,3,2:42 PM,6:33,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+273,0041200221,322,6,3,3,2:43 PM,6:33,Ibaka L.B.FOUL (P3.T1),,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+274,0041200221,323,8,0,3,2:43 PM,6:33,SUB: Martin FOR Sefolosha,,,,,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+275,0041200221,324,2,1,3,2:43 PM,6:24,Ibaka BLOCK (1 BLK),,MISS Randolph 4' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0
+276,0041200221,325,4,0,3,2:43 PM,6:23,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+277,0041200221,326,2,1,3,2:44 PM,6:12,,,MISS Gasol 19' Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+278,0041200221,327,4,0,3,2:44 PM,6:11,Durant REBOUND (Off:0 Def:7),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+279,0041200221,328,2,46,3,2:44 PM,5:56,MISS Martin 12' Running Jump Shot,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+280,0041200221,329,4,0,3,2:44 PM,5:55,,,Gasol REBOUND (Off:0 Def:7),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+281,0041200221,330,2,1,3,2:44 PM,5:41,,,MISS Randolph 8' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+282,0041200221,331,4,0,3,2:44 PM,5:40,Durant REBOUND (Off:0 Def:8),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+283,0041200221,332,2,46,3,2:44 PM,5:34,MISS Durant 4' Running Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+284,0041200221,333,4,0,3,2:44 PM,5:33,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+285,0041200221,334,2,1,3,2:45 PM,5:28,MISS Durant 13' Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+286,0041200221,335,4,0,3,2:45 PM,5:28,,,Randolph REBOUND (Off:2 Def:7),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+287,0041200221,336,2,77,3,2:45 PM,5:19,,,MISS Conley 5' Driving Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+288,0041200221,337,4,0,3,2:45 PM,5:18,,,Conley REBOUND (Off:1 Def:3),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+289,0041200221,339,1,42,3,2:46 PM,4:57,,,Conley 2' Driving Layup (10 PTS),63 - 53,-10,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+290,0041200221,340,1,1,3,2:46 PM,4:30,Martin 24' 3PT Jump Shot (18 PTS) (Ibaka 1 AST),,,63 - 56,-7,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+291,0041200221,341,2,1,3,2:46 PM,4:03,,,MISS Prince 18' Jump Shot,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+292,0041200221,342,4,0,3,2:46 PM,4:02,Martin REBOUND (Off:0 Def:4),,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+293,0041200221,343,5,40,3,2:47 PM,3:53,Perkins Out of Bounds Lost Ball Turnover (P2.T7),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+294,0041200221,344,8,0,3,2:47 PM,3:53,SUB: Collison FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+295,0041200221,345,9,1,3,2:47 PM,3:53,,,Grizzlies Timeout: Regular (Reg.3 Short 1),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+296,0041200221,347,8,0,3,2:50 PM,3:53,,,SUB: Arthur FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+297,0041200221,348,1,1,3,2:51 PM,3:37,,,Pondexter  3PT Jump Shot (8 PTS) (Prince 1 AST),66 - 56,-10,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+298,0041200221,349,1,1,3,2:51 PM,3:18,Durant 18' Jump Shot (20 PTS) (Jackson 2 AST),,,66 - 58,-8,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+299,0041200221,350,1,1,3,2:51 PM,2:52,,,Prince 24' 3PT Jump Shot (7 PTS) (Pondexter 2 AST),69 - 58,-11,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+300,0041200221,351,2,47,3,2:52 PM,2:36,MISS Durant 12' Turnaround Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+301,0041200221,352,4,0,3,2:52 PM,2:34,,,Prince REBOUND (Off:0 Def:3),,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+302,0041200221,353,2,47,3,2:52 PM,2:22,,,MISS Arthur 12' Turnaround Jump Shot,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+303,0041200221,354,4,0,3,2:52 PM,2:20,Durant REBOUND (Off:0 Def:9),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+304,0041200221,355,2,1,3,2:52 PM,2:06,MISS Jackson  3PT Jump Shot,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+305,0041200221,356,4,0,3,2:52 PM,2:04,,,Conley REBOUND (Off:1 Def:4),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+306,0041200221,357,6,2,3,2:52 PM,1:57,Perkins S.FOUL (P3.T2),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+307,0041200221,358,3,11,3,2:53 PM,1:57,,,MISS Conley Free Throw 1 of 2,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+308,0041200221,359,4,1,3,2:53 PM,1:57,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+309,0041200221,360,8,0,3,2:53 PM,1:57,,,SUB: Allen FOR Prince,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+310,0041200221,361,8,0,3,2:53 PM,1:57,SUB: Fisher FOR Perkins,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+311,0041200221,362,3,12,3,2:53 PM,1:57,,,Conley Free Throw 2 of 2 (11 PTS),70 - 58,-12,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+312,0041200221,364,2,1,3,2:54 PM,1:41,MISS Martin 7' Jump Shot,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+313,0041200221,366,4,0,3,2:54 PM,1:40,Collison REBOUND (Off:3 Def:1),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+314,0041200221,365,2,4,3,2:54 PM,1:40,MISS Collison 1' Tip Shot,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+315,0041200221,367,4,0,3,2:54 PM,1:39,,,Pondexter REBOUND (Off:0 Def:1),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+316,0041200221,368,6,4,3,2:54 PM,1:36,,,Arthur OFF.Foul (P2),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+317,0041200221,369,5,5,3,2:54 PM,1:36,,,Arthur Foul Turnover (P3.T8),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+318,0041200221,370,8,0,3,2:54 PM,1:36,,,SUB: Dooling FOR Conley,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+319,0041200221,371,1,73,3,2:55 PM,1:22,Jackson 2' Driving Reverse Layup (8 PTS),,,70 - 60,-10,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+320,0041200221,372,2,1,3,2:55 PM,1:00,,,MISS Pondexter 24' 3PT Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+321,0041200221,373,4,0,3,2:55 PM,0:59,Jackson REBOUND (Off:0 Def:3),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+322,0041200221,374,6,2,3,2:55 PM,0:43,,,Arthur S.FOUL (P3.T1),,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+323,0041200221,375,3,11,3,2:56 PM,0:43,MISS Durant Free Throw 1 of 2,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+324,0041200221,376,4,1,3,2:56 PM,0:43,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+325,0041200221,377,3,12,3,2:56 PM,0:43,Durant Free Throw 2 of 2 (21 PTS),,,70 - 61,-9,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+326,0041200221,379,6,1,3,2:56 PM,0:35,Collison P.FOUL (P2.PN),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+327,0041200221,380,3,11,3,2:56 PM,0:35,,,MISS Gasol Free Throw 1 of 2,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+328,0041200221,381,4,1,3,2:56 PM,0:35,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+329,0041200221,382,8,0,3,2:57 PM,0:35,,,SUB: Prince FOR Arthur,,,5,201589,Darrell Arthur,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+330,0041200221,383,3,12,3,2:57 PM,0:35,,,MISS Gasol Free Throw 2 of 2,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+331,0041200221,385,4,0,3,2:57 PM,0:34,Durant REBOUND (Off:0 Def:10),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+332,0041200221,386,6,2,3,2:57 PM,0:27,,,Allen S.FOUL (P3.PN),,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+333,0041200221,387,3,11,3,2:57 PM,0:27,Durant Free Throw 1 of 2 (22 PTS),,,70 - 62,-8,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+334,0041200221,389,8,0,3,2:58 PM,0:27,,,SUB: Bayless FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+335,0041200221,390,3,12,3,2:58 PM,0:27,Durant Free Throw 2 of 2 (23 PTS),,,70 - 63,-7,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+336,0041200221,392,2,1,3,2:58 PM,0:07,Durant BLOCK (1 BLK),,MISS Dooling 13' Jump Shot,,,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0
+337,0041200221,393,4,0,3,2:58 PM,0:05,Durant REBOUND (Off:0 Def:11),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+338,0041200221,394,6,2,3,2:59 PM,0:03,,,Bayless S.FOUL (P3.PN),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+339,0041200221,395,3,11,3,2:59 PM,0:03,Martin Free Throw 1 of 2 (19 PTS),,,70 - 64,-6,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+340,0041200221,397,3,12,3,2:59 PM,0:03,MISS Martin Free Throw 2 of 2,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+341,0041200221,399,4,0,3,2:59 PM,0:02,,,Pondexter REBOUND (Off:0 Def:2),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+342,0041200221,400,1,46,3,2:59 PM,0:00,,,Pondexter 35' 3PT Running Jump Shot (11 PTS),73 - 64,-9,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+343,0041200221,401,18,0,3,3:00 PM,0:00,,Support Ruling,,,,0,400,Derek Strong,,,,,0,0,,,,,,1,0,,,,,,0
+344,0041200221,402,13,0,3,3:00 PM,0:00,,End of 3rd Period (3:00 PM EST),,73 - 64,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0041200221,404,12,0,4,3:04 PM,12:00,,Start of 4th Period (3:04 PM EST),,73 - 64,-9,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+346,0041200221,405,1,1,4,3:04 PM,11:48,Fisher  3PT Jump Shot (5 PTS) (Durant 4 AST),,,73 - 67,-6,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+347,0041200221,406,2,1,4,3:05 PM,11:19,,,MISS Conley 24' 3PT Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+348,0041200221,407,4,0,4,3:05 PM,11:19,Durant REBOUND (Off:0 Def:12),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+349,0041200221,408,6,4,4,3:05 PM,11:09,Collison OFF.Foul (P3),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+350,0041200221,409,5,5,4,3:05 PM,11:09,Collison Foul Turnover (P1.T8),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,1,0,,,,,,0
+351,0041200221,410,1,1,4,3:06 PM,10:51,,,Randolph 4' Jump Shot (14 PTS) (Prince 2 AST),75 - 67,-8,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+352,0041200221,411,1,46,4,3:06 PM,10:37,Martin 4' Running Jump Shot (21 PTS),,,75 - 69,-6,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+353,0041200221,412,6,2,4,3:06 PM,10:37,,,Pondexter S.FOUL (P3.T1),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+354,0041200221,413,3,10,4,3:06 PM,10:37,Martin Free Throw 1 of 1 (22 PTS),,,75 - 70,-5,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+355,0041200221,415,6,1,4,3:07 PM,10:26,Jackson P.FOUL (P1.T1),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+356,0041200221,416,5,1,4,3:07 PM,10:16,Durant STEAL (1 STL),,Conley Bad Pass Turnover (P1.T9),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+357,0041200221,417,1,1,4,3:07 PM,10:10,Martin 24' 3PT Jump Shot (25 PTS) (Durant 5 AST),,,75 - 73,-2,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+358,0041200221,418,9,1,4,3:07 PM,10:08,,,Grizzlies Timeout: Regular (Reg.4 Short 1),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+359,0041200221,421,1,84,4,3:11 PM,9:52,,,Randolph 9' Running Bank Shot (16 PTS),77 - 73,-4,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+360,0041200221,422,2,1,4,3:11 PM,9:34,MISS Durant 18' Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+361,0041200221,423,4,0,4,3:11 PM,9:33,,,Prince REBOUND (Off:0 Def:4),,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+362,0041200221,424,1,1,4,3:12 PM,9:10,,,Prince 22' Jump Shot (9 PTS) (Pondexter 3 AST),79 - 73,-6,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+363,0041200221,425,2,77,4,3:12 PM,8:53,MISS Fisher 7' Driving Jump Shot,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+364,0041200221,426,4,0,4,3:12 PM,8:52,,,Randolph REBOUND (Off:2 Def:8),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+365,0041200221,427,6,1,4,3:12 PM,8:36,Collison P.FOUL (P4.T2),,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+366,0041200221,428,2,47,4,3:13 PM,8:29,,,MISS Conley 3' Turnaround Jump Shot,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+367,0041200221,429,4,0,4,3:13 PM,8:28,Martin REBOUND (Off:0 Def:5),,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+368,0041200221,430,6,2,4,3:13 PM,8:20,,,Randolph S.FOUL (P3.T2),,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+369,0041200221,431,3,11,4,3:13 PM,8:20,Jackson Free Throw 1 of 2 (9 PTS),,,79 - 74,-5,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+370,0041200221,433,8,0,4,3:13 PM,8:20,,,SUB: Gasol FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+371,0041200221,434,3,12,4,3:13 PM,8:20,Jackson Free Throw 2 of 2 (10 PTS),,,79 - 75,-4,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+372,0041200221,436,1,44,4,3:14 PM,8:07,,,Conley 2' Reverse Layup (13 PTS),81 - 75,-6,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+373,0041200221,437,2,1,4,3:14 PM,7:46,MISS Collison 16' Jump Shot,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+374,0041200221,438,4,0,4,3:14 PM,7:45,,,Prince REBOUND (Off:0 Def:5),,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+375,0041200221,439,2,1,4,3:15 PM,7:30,,,MISS Bayless 19' Jump Shot,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+376,0041200221,440,4,0,4,3:15 PM,7:29,Martin REBOUND (Off:0 Def:6),,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+377,0041200221,441,1,80,4,3:15 PM,7:21,Durant 14' Step Back Jump Shot (25 PTS),,,81 - 77,-4,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+378,0041200221,442,6,2,4,3:15 PM,7:01,Martin S.FOUL (P2.T3),,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+379,0041200221,443,3,11,4,3:15 PM,7:01,,,Pondexter Free Throw 1 of 2 (12 PTS),82 - 77,-5,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+380,0041200221,445,8,0,4,3:16 PM,7:01,SUB: Sefolosha FOR Jackson,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+381,0041200221,446,8,0,4,3:16 PM,7:01,,,SUB: Dooling FOR Conley,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+382,0041200221,447,8,0,4,3:16 PM,7:01,SUB: Perkins FOR Collison,,,,,4,2555,Nick Collison,1610612760.0,Oklahoma City,Thunder,OKC,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+383,0041200221,448,3,12,4,3:16 PM,7:01,,,MISS Pondexter Free Throw 2 of 2,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+384,0041200221,450,4,0,4,3:16 PM,7:00,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+385,0041200221,451,2,1,4,3:16 PM,6:50,MISS Durant 26' 3PT Jump Shot,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+386,0041200221,452,4,0,4,3:17 PM,6:47,,,Bayless REBOUND (Off:0 Def:1),,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+387,0041200221,453,1,1,4,3:17 PM,6:25,,,Gasol 14' Jump Shot (16 PTS) (Bayless 1 AST),84 - 77,-7,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+388,0041200221,454,1,75,4,3:17 PM,6:14,Durant 1' Driving Finger Roll Layup (27 PTS),,,84 - 79,-5,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+389,0041200221,455,6,1,4,3:17 PM,6:00,Perkins P.FOUL (P4.T4),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+390,0041200221,456,2,1,4,3:18 PM,5:48,,,MISS Prince  3PT Jump Shot,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+391,0041200221,457,4,0,4,3:18 PM,5:47,,,Gasol REBOUND (Off:1 Def:7),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+392,0041200221,458,9,4,4,3:18 PM,5:45,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+393,0041200221,460,8,0,4,3:21 PM,5:45,,,SUB: Conley FOR Dooling,,,5,2039,Keyon Dooling,1610612763.0,Memphis,Grizzlies,MEM,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+394,0041200221,461,8,0,4,3:21 PM,5:45,,,SUB: Randolph FOR Bayless,,,5,201573,Jerryd Bayless,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+395,0041200221,462,8,0,4,3:22 PM,5:45,SUB: Ibaka FOR Sefolosha,,,,,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+396,0041200221,463,2,47,4,3:22 PM,5:25,,,MISS Gasol 15' Turnaround Jump Shot,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+397,0041200221,464,4,0,4,3:22 PM,5:24,Durant REBOUND (Off:0 Def:13),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+398,0041200221,465,2,1,4,3:22 PM,5:14,MISS Ibaka 18' Jump Shot,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+399,0041200221,466,4,0,4,3:22 PM,5:13,,,Pondexter REBOUND (Off:0 Def:3),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+400,0041200221,467,2,5,4,3:23 PM,4:54,Ibaka BLOCK (2 BLK),,MISS Gasol 2' Layup,,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0
+401,0041200221,468,4,0,4,3:23 PM,4:53,Perkins REBOUND (Off:1 Def:6),,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+402,0041200221,469,1,1,4,3:23 PM,4:45,Fisher  3PT Jump Shot (8 PTS) (Durant 6 AST),,,84 - 82,-2,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+403,0041200221,470,2,1,4,3:23 PM,4:18,Durant BLOCK (2 BLK),,MISS Randolph 4' Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0
+404,0041200221,471,4,0,4,3:23 PM,4:17,,,Pondexter REBOUND (Off:1 Def:3),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+405,0041200221,472,2,1,4,3:23 PM,4:15,,,MISS Pondexter 14' Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+406,0041200221,473,4,0,4,3:23 PM,4:15,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+407,0041200221,474,5,11,4,3:23 PM,4:15,,,Grizzlies Turnover: Shot Clock (T#10),,,3,1610612763,,,,,,0,0,,,,,,1,0,,,,,,0
+408,0041200221,475,5,1,4,3:24 PM,4:03,Durant Bad Pass Turnover (P3.T9),,Conley STEAL (2 STL),,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+409,0041200221,476,2,5,4,3:24 PM,3:58,,,MISS Conley 2' Layup,,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+410,0041200221,477,4,0,4,3:24 PM,3:57,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+411,0041200221,478,1,46,4,3:25 PM,3:46,Durant 8' Running Jump Shot (29 PTS),,,84 - 84,TIE,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+412,0041200221,479,2,1,4,3:25 PM,3:25,Martin BLOCK (1 BLK),,MISS Pondexter 6' Jump Shot,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0
+413,0041200221,480,4,0,4,3:25 PM,3:23,Martin REBOUND (Off:0 Def:7),,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+414,0041200221,481,10,0,4,3:26 PM,3:22,Jump Ball Martin vs. Pondexter: Tip to Ibaka,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0
+415,0041200221,482,2,63,4,3:26 PM,3:06,MISS Durant 15' Fadeaway Jumper,,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+416,0041200221,483,4,0,4,3:26 PM,3:05,,,Pondexter REBOUND (Off:1 Def:4),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+417,0041200221,484,6,2,4,3:27 PM,2:45,Fisher S.FOUL (P2.PN),,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+418,0041200221,485,9,1,4,3:27 PM,2:45,THUNDER Timeout: Regular (Full 4 Short 1),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+419,0041200221,488,3,11,4,3:30 PM,2:45,,,Gasol Free Throw 1 of 2 (17 PTS),85 - 84,-1,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+420,0041200221,490,3,12,4,3:30 PM,2:45,,,Gasol Free Throw 2 of 2 (18 PTS),86 - 84,-2,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+421,0041200221,492,1,80,4,3:31 PM,2:27,Durant 18' Step Back Jump Shot (31 PTS),,,86 - 86,TIE,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+422,0041200221,493,6,1,4,3:31 PM,2:08,Ibaka P.FOUL (P4.PN),,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+423,0041200221,494,3,11,4,3:32 PM,2:08,,,Randolph Free Throw 1 of 2 (17 PTS),87 - 86,-1,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+424,0041200221,496,8,0,4,3:32 PM,2:08,,,SUB: Allen FOR Pondexter,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+425,0041200221,497,3,12,4,3:32 PM,2:08,,,Randolph Free Throw 2 of 2 (18 PTS),88 - 86,-2,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+426,0041200221,499,2,1,4,3:33 PM,1:51,MISS Fisher  3PT Jump Shot,,,,,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+427,0041200221,500,4,0,4,3:33 PM,1:50,,,Gasol REBOUND (Off:1 Def:8),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+428,0041200221,501,2,47,4,3:33 PM,1:31,Ibaka BLOCK (3 BLK),,MISS Randolph 4' Turnaround Jump Shot,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0
+429,0041200221,502,4,0,4,3:33 PM,1:30,Durant REBOUND (Off:0 Def:14),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+430,0041200221,503,6,2,4,3:33 PM,1:21,,,Conley S.FOUL (P1.T3),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+431,0041200221,504,3,11,4,3:34 PM,1:21,MISS Ibaka Free Throw 1 of 2,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+432,0041200221,505,4,1,4,3:34 PM,1:21,THUNDER Rebound,,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+433,0041200221,506,8,0,4,3:34 PM,1:21,,,SUB: Pondexter FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+434,0041200221,508,8,0,4,3:34 PM,1:21,SUB: Sefolosha FOR Martin,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+435,0041200221,509,3,12,4,3:34 PM,1:21,Ibaka Free Throw 2 of 2 (5 PTS),,,88 - 87,-1,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+436,0041200221,511,1,1,4,3:35 PM,1:08,,,Gasol 7' Jump Shot (20 PTS),90 - 87,-3,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+437,0041200221,512,9,1,4,3:35 PM,1:08,THUNDER Timeout: Regular (Full 5 Short 1),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+438,0041200221,514,8,0,4,3:37 PM,1:08,,,SUB: Allen FOR Pondexter,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+439,0041200221,515,8,0,4,3:37 PM,1:08,SUB: Martin FOR Sefolosha,,,,,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+440,0041200221,516,5,2,4,3:37 PM,1:07,Perkins Lost Ball Turnover (P3.T10),,Gasol STEAL (3 STL),,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+441,0041200221,517,2,46,4,3:38 PM,0:44,,,MISS Prince 11' Running Jump Shot,,,5,2419,Tayshaun Prince,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+442,0041200221,518,4,0,4,3:38 PM,0:43,Durant REBOUND (Off:0 Def:15),,,,,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+443,0041200221,519,1,63,4,3:38 PM,0:37,Durant 9' Fadeaway Jumper (33 PTS),,,90 - 89,-1,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+444,0041200221,520,9,1,4,3:38 PM,0:31,,,Grizzlies Timeout: Regular (Reg.5 Short 1),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+445,0041200221,521,8,0,4,3:40 PM,0:31,SUB: Sefolosha FOR Martin,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,200757,Thabo Sefolosha,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+446,0041200221,522,8,0,4,3:40 PM,0:31,,,SUB: Pondexter FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+447,0041200221,523,5,2,4,3:40 PM,0:17,Fisher STEAL (1 STL),,Conley Lost Ball Turnover (P2.T11),,,5,201144,Mike Conley,1610612763.0,Memphis,Grizzlies,MEM,4,965,Derek Fisher,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+448,0041200221,524,1,79,4,3:41 PM,0:11,Durant 19' Pullup Jump Shot (35 PTS),,,90 - 91,1,4,201142,Kevin Durant,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+449,0041200221,525,9,2,4,3:41 PM,0:11,,,Grizzlies Timeout: Short (Reg.5 Short 2),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+450,0041200221,528,5,1,4,3:43 PM,0:03,,,Gasol Bad Pass Turnover (P1.T12),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,1,0,,,,,,0
+451,0041200221,529,9,2,4,3:43 PM,0:03,THUNDER Timeout: Short (Full 5 Short 2),,,,,2,1610612760,,,,,,0,0,,,,,,0,0,,,,,,0
+452,0041200221,530,8,0,4,3:44 PM,0:03,SUB: Martin FOR Perkins,,,,,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+453,0041200221,531,8,0,4,3:44 PM,0:03,SUB: Jackson FOR Ibaka,,,,,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+454,0041200221,539,8,0,4,3:44 PM,0:03,,,SUB: Allen FOR Randolph,,,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+455,0041200221,533,6,28,4,3:45 PM,0:02,,,Pondexter Personal Take Foul (P4.PN),,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,1,0,,,,,,0
+456,0041200221,534,3,11,4,3:45 PM,0:02,Jackson Free Throw 1 of 2 (11 PTS),,,90 - 92,2,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+457,0041200221,545,8,0,4,3:45 PM,0:02,,,SUB: Randolph FOR Allen,,,5,2754,Tony Allen,1610612763.0,Memphis,Grizzlies,MEM,5,2216,Zach Randolph,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0
+458,0041200221,536,3,12,4,3:46 PM,0:02,Jackson Free Throw 2 of 2 (12 PTS),,,90 - 93,3,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0,0,,,,,,0
+459,0041200221,538,9,2,4,3:46 PM,0:02,,,Grizzlies Timeout: Short (Reg.5 Short 3),,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+460,0041200221,542,8,0,4,3:48 PM,0:02,SUB: Perkins FOR Martin,,,,,4,2755,Kevin Martin,1610612760.0,Oklahoma City,Thunder,OKC,4,2570,Kendrick Perkins,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+461,0041200221,543,6,2,4,3:48 PM,0:01,Jackson S.FOUL (P2.PN),,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,1,0,,,,,,0
+462,0041200221,544,3,13,4,3:48 PM,0:01,,,MISS Pondexter Free Throw 1 of 3,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+463,0041200221,546,4,1,4,3:48 PM,0:01,,,Grizzlies Rebound,,,3,1610612763,,,,,,0,0,,,,,,0,0,,,,,,0
+464,0041200221,549,3,14,4,3:49 PM,0:01,,,Pondexter Free Throw 2 of 3 (13 PTS),91 - 93,2,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+465,0041200221,552,8,0,4,3:49 PM,0:01,SUB: Ibaka FOR Jackson,,,,,4,202704,Reggie Jackson,1610612760.0,Oklahoma City,Thunder,OKC,4,201586,Serge Ibaka,1610612760.0,Oklahoma City,Thunder,OKC,0,0,,,,,,0
+466,0041200221,553,3,15,4,3:49 PM,0:01,,,MISS Pondexter Free Throw 3 of 3,,,5,202347,Quincy Pondexter,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+467,0041200221,554,4,0,4,3:50 PM,0:00,,,Gasol REBOUND (Off:2 Def:8),,,5,201188,Marc Gasol,1610612763.0,Memphis,Grizzlies,MEM,0,0,,,,,,0,0,,,,,,0
+468,0041200221,555,18,1,4,3:50 PM,0:00,,Overturn Ruling,,,,0,554,,,,,,0,0,,,,,,1,0,,,,,,0
+469,0041200221,556,13,0,4,3:52 PM,0:00,,End of 4th Period (3:52 PM EST),,91 - 93,2,0,0,,,,,,0,0,,,,,,0,0,,,,,,0

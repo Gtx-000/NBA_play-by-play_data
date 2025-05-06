@@ -1,0 +1,482 @@
+,GAME_ID,EVENTNUM,EVENTMSGTYPE,EVENTMSGACTIONTYPE,PERIOD,WCTIMESTRING,PCTIMESTRING,HOMEDESCRIPTION,NEUTRALDESCRIPTION,VISITORDESCRIPTION,SCORE,SCOREMARGIN,PERSON1TYPE,PLAYER1_ID,PLAYER1_NAME,PLAYER1_TEAM_ID,PLAYER1_TEAM_CITY,PLAYER1_TEAM_NICKNAME,PLAYER1_TEAM_ABBREVIATION,PERSON2TYPE,PLAYER2_ID,PLAYER2_NAME,PLAYER2_TEAM_ID,PLAYER2_TEAM_CITY,PLAYER2_TEAM_NICKNAME,PLAYER2_TEAM_ABBREVIATION,PERSON3TYPE,PLAYER3_ID,PLAYER3_NAME,PLAYER3_TEAM_ID,PLAYER3_TEAM_CITY,PLAYER3_TEAM_NICKNAME,PLAYER3_TEAM_ABBREVIATION,VIDEO_AVAILABLE_FLAG
+0,0041200114,0,12,0,1,1:03 PM,12:00,,Start of 1st Period (1:03 PM EST),,,,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+1,0041200114,1,10,0,1,1:03 PM,12:00,Jump Ball Garnett vs. Chandler: Tip to Bradley,,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0
+2,0041200114,2,1,1,1,1:03 PM,11:44,Bradley  3PT Jump Shot (3 PTS) (Pierce 1 AST),,,0 - 3,3,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+3,0041200114,3,1,8,1,1:04 PM,11:22,,,Chandler 1' Slam Dunk (2 PTS) (Anthony 1 AST),2 - 3,1,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+4,0041200114,4,1,51,1,1:04 PM,11:03,Bass  Reverse Dunk (2 PTS) (Garnett 1 AST),,,2 - 5,3,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+5,0041200114,5,1,1,1,1:04 PM,10:46,,,Felton 25' 3PT Jump Shot (3 PTS) (Prigioni 1 AST),5 - 5,TIE,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+6,0041200114,6,2,1,1,1:05 PM,10:29,MISS Pierce 20' Jump Shot,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+7,0041200114,7,4,0,1,1:05 PM,10:28,,,Prigioni REBOUND (Off:0 Def:1),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+8,0041200114,8,5,1,1,1:05 PM,10:21,Bradley STEAL (1 STL),,Felton Bad Pass Turnover (P1.T1),,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+9,0041200114,9,6,1,1,1:05 PM,10:19,,,Prigioni P.FOUL (P1.T1),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+10,0041200114,10,2,1,1,1:05 PM,9:58,MISS Bradley 19' Jump Shot,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+11,0041200114,11,4,0,1,1:06 PM,9:57,,,Felton REBOUND (Off:0 Def:1),,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+12,0041200114,12,2,1,1,1:06 PM,9:42,,,MISS Anthony 20' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+13,0041200114,13,4,0,1,1:06 PM,9:40,Garnett REBOUND (Off:0 Def:1),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+14,0041200114,14,1,63,1,1:06 PM,9:29,Pierce 5' Fadeaway Jumper (2 PTS) (Garnett 2 AST),,,5 - 7,2,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+15,0041200114,15,2,66,1,1:06 PM,9:04,,,MISS Anthony 10' Jump Bank Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+16,0041200114,16,4,0,1,1:06 PM,9:02,Garnett REBOUND (Off:0 Def:2),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+17,0041200114,17,1,1,1,1:07 PM,8:52,Garnett 18' Jump Shot (2 PTS) (Pierce 2 AST),,,5 - 9,4,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+18,0041200114,18,2,1,1,1:07 PM,8:35,,,MISS Shumpert 17' Jump Shot,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+19,0041200114,19,4,0,1,1:07 PM,8:34,Garnett REBOUND (Off:0 Def:3),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+20,0041200114,20,1,1,1,1:07 PM,8:24,Pierce 25' 3PT Jump Shot (5 PTS) (Bradley 1 AST),,,5 - 12,7,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+21,0041200114,21,6,27,1,1:07 PM,8:12,Bass Personal Block Foul (P1.T1),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+22,0041200114,22,5,40,1,1:08 PM,8:03,,,Chandler Out of Bounds Lost Ball Turnover (P1.T2),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+23,0041200114,23,6,4,1,1:08 PM,7:53,Garnett OFF.Foul (P1),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+24,0041200114,24,5,5,1,1:08 PM,7:53,Garnett Foul Turnover (P1.T1),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+25,0041200114,25,2,1,1,1:08 PM,7:39,,,MISS Felton 16' Jump Shot,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+26,0041200114,26,4,0,1,1:08 PM,7:38,Garnett REBOUND (Off:0 Def:4),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+27,0041200114,27,2,5,1,1:09 PM,7:30,MISS Green  Layup,,Shumpert BLOCK (1 BLK),,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0
+28,0041200114,28,4,0,1,1:09 PM,7:29,,,Shumpert REBOUND (Off:0 Def:1),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+29,0041200114,29,2,5,1,1:09 PM,7:24,Garnett BLOCK (1 BLK),,MISS Felton 1' Layup,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0
+30,0041200114,30,4,0,1,1:09 PM,7:23,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+31,0041200114,32,2,1,1,1:09 PM,7:06,MISS Pierce 17' Jump Shot,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+32,0041200114,33,4,0,1,1:09 PM,7:05,,,Anthony REBOUND (Off:0 Def:1),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+33,0041200114,34,2,42,1,1:10 PM,6:46,,,MISS Anthony 1' Driving Layup,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+34,0041200114,35,4,0,1,1:10 PM,6:45,Garnett REBOUND (Off:0 Def:5),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+35,0041200114,36,2,1,1,1:10 PM,6:39,MISS Bradley 24' 3PT Jump Shot,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+36,0041200114,37,4,0,1,1:10 PM,6:38,,,Chandler REBOUND (Off:0 Def:1),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+37,0041200114,38,5,2,1,1:10 PM,6:36,Bradley STEAL (2 STL),,Anthony Lost Ball Turnover (P1.T3),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+38,0041200114,39,2,1,1,1:10 PM,6:30,MISS Pierce 26' 3PT Jump Shot,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+39,0041200114,40,4,0,1,1:10 PM,6:29,,,Anthony REBOUND (Off:0 Def:2),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+40,0041200114,41,9,1,1,1:10 PM,6:24,,,Knicks Timeout: Regular (Reg.1 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+41,0041200114,43,5,38,1,1:14 PM,6:24,,,Knicks Turnover: 5 Second Inbound (T#4),,,3,1610612752,,,,,,0,0,,,,,,1,0,,,,,,0
+42,0041200114,44,1,80,1,1:15 PM,6:01,Green 20' Step Back Jump Shot (2 PTS),,,5 - 14,9,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+43,0041200114,45,2,57,1,1:15 PM,5:40,,,MISS Anthony  Driving Hook Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+44,0041200114,46,4,0,1,1:15 PM,5:39,,,Anthony REBOUND (Off:1 Def:2),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+45,0041200114,47,6,2,1,1:15 PM,5:38,Pierce S.FOUL (P1.T2),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+46,0041200114,48,3,11,1,1:15 PM,5:38,,,Anthony Free Throw 1 of 2 (1 PTS),6 - 14,8,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+47,0041200114,50,8,0,1,1:16 PM,5:38,,,SUB: Kidd FOR Prigioni,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+48,0041200114,51,3,12,1,1:16 PM,5:38,,,Anthony Free Throw 2 of 2 (2 PTS),7 - 14,7,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+49,0041200114,53,5,2,1,1:16 PM,5:20,Bass Lost Ball Turnover (P1.T2),,Felton STEAL (1 STL),,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+50,0041200114,54,2,1,1,1:16 PM,5:12,,,MISS Anthony 26' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+51,0041200114,55,4,0,1,1:16 PM,5:11,Bradley REBOUND (Off:0 Def:1),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+52,0041200114,56,5,1,1,1:16 PM,5:07,Bradley Bad Pass Turnover (P1.T3),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+53,0041200114,57,5,2,1,1:17 PM,4:56,Garnett STEAL (1 STL),,Chandler Lost Ball Turnover (P2.T5),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+54,0041200114,58,6,2,1,1:17 PM,4:46,,,Kidd S.FOUL (P1.T2),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+55,0041200114,59,3,11,1,1:17 PM,4:46,Pierce Free Throw 1 of 2 (6 PTS),,,7 - 15,8,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+56,0041200114,61,8,0,1,1:17 PM,4:46,,,SUB: Martin FOR Chandler,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+57,0041200114,62,8,0,1,1:17 PM,4:46,SUB: Terry FOR Garnett,,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+58,0041200114,63,3,12,1,1:18 PM,4:46,Pierce Free Throw 2 of 2 (7 PTS),,,7 - 16,9,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+59,0041200114,65,1,42,1,1:18 PM,4:27,,,Martin  Driving Layup (2 PTS) (Felton 1 AST),9 - 16,7,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+60,0041200114,66,1,1,1,1:19 PM,4:09,Terry 17' Jump Shot (2 PTS),,,9 - 18,9,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+61,0041200114,67,2,1,1,1:19 PM,3:48,,,MISS Shumpert 27' 3PT Jump Shot,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+62,0041200114,68,4,0,1,1:19 PM,3:46,Bass REBOUND (Off:0 Def:1),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+63,0041200114,69,6,1,1,1:19 PM,3:42,,,Shumpert P.FOUL (P1.T3),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+64,0041200114,70,8,0,1,1:19 PM,3:42,,,SUB: Novak FOR Shumpert,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,5,200779,Steve Novak,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+65,0041200114,71,6,4,1,1:20 PM,3:37,Green OFF.Foul (P1),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+66,0041200114,72,5,5,1,1:20 PM,3:37,Green Foul Turnover (P1.T4),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+67,0041200114,73,2,63,1,1:21 PM,3:16,,,MISS Anthony 16' Fadeaway Jumper,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+68,0041200114,74,4,0,1,1:21 PM,3:15,Pierce REBOUND (Off:0 Def:1),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+69,0041200114,75,5,1,1,1:21 PM,3:12,Pierce Bad Pass Turnover (P1.T5),,Felton STEAL (2 STL),,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+70,0041200114,76,1,1,1,1:21 PM,3:04,,,Novak 25' 3PT Jump Shot (3 PTS) (Felton 2 AST),12 - 18,6,5,200779,Steve Novak,1610612752.0,New York,Knicks,NYK,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+71,0041200114,77,9,1,1,1:21 PM,2:56,CELTICS Timeout: Regular (Full 1 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+72,0041200114,79,18,0,1,1:21 PM,2:56,,Support Ruling,,,,0,66,Marques Bragg,,,,,0,0,,,,,,1,0,,,,,,0
+73,0041200114,81,1,63,1,1:25 PM,2:41,Green 20' Fadeaway Jumper (4 PTS),,,12 - 20,8,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+74,0041200114,82,5,4,1,1:25 PM,2:27,,,Martin Traveling Turnover (P1.T6),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+75,0041200114,83,2,1,1,1:26 PM,2:06,MISS Green 18' Jump Shot,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+76,0041200114,84,4,0,1,1:26 PM,2:05,,,Kidd REBOUND (Off:0 Def:1),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+77,0041200114,85,1,1,1,1:26 PM,1:41,,,Anthony 16' Jump Shot (4 PTS),14 - 20,6,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+78,0041200114,86,1,42,1,1:27 PM,1:25,Green  Driving Layup (6 PTS) (Terry 1 AST),,,14 - 22,8,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+79,0041200114,87,2,1,1,1:27 PM,0:59,,,MISS Martin 16' Jump Shot,,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+80,0041200114,88,4,0,1,1:27 PM,0:58,Pierce REBOUND (Off:0 Def:2),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+81,0041200114,89,5,2,1,1:27 PM,0:46,Bradley Lost Ball Turnover (P2.T6),,Felton STEAL (3 STL),,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+82,0041200114,90,2,1,1,1:27 PM,0:37,,,MISS Novak  3PT Jump Shot,,,5,200779,Steve Novak,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+83,0041200114,91,4,0,1,1:27 PM,0:36,Pierce REBOUND (Off:0 Def:3),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+84,0041200114,92,2,1,1,1:28 PM,0:24,MISS Bradley  3PT Jump Shot,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+85,0041200114,93,4,0,1,1:28 PM,0:23,,,Martin REBOUND (Off:0 Def:1),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+86,0041200114,94,1,66,1,1:28 PM,0:01,,,Anthony 17' Jump Bank Shot (6 PTS),16 - 22,6,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+87,0041200114,95,6,2,1,1:28 PM,0:01,Bass S.FOUL (P2.T3),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+88,0041200114,96,8,0,1,1:28 PM,0:01,SUB: Crawford FOR Bradley,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+89,0041200114,97,3,10,1,1:29 PM,0:01,,,Anthony Free Throw 1 of 1 (7 PTS),17 - 22,5,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+90,0041200114,99,2,1,1,1:29 PM,0:00,MISS Terry 57' 3PT Jump Shot,,,,,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+91,0041200114,100,4,0,1,1:29 PM,0:00,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+92,0041200114,101,13,0,1,1:29 PM,0:00,,End of 1st Period (1:29 PM EST),,17 - 22,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+93,0041200114,103,12,0,2,1:33 PM,12:00,,Start of 2nd Period (1:33 PM EST),,17 - 22,5,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+94,0041200114,104,2,1,2,1:33 PM,11:46,,,MISS Kidd  3PT Jump Shot,,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+95,0041200114,105,4,0,2,1:33 PM,11:45,,,Martin REBOUND (Off:1 Def:1),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+96,0041200114,106,5,1,2,1:33 PM,11:40,Terry STEAL (1 STL),,Kidd Bad Pass Turnover (P1.T7),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+97,0041200114,107,1,1,2,1:34 PM,11:26,Crawford 24' 3PT Jump Shot (3 PTS) (Garnett 3 AST),,,17 - 25,8,4,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+98,0041200114,108,2,78,2,1:34 PM,11:09,,,MISS Prigioni 8' Floating Jump Shot,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+99,0041200114,109,4,0,2,1:34 PM,11:08,Green REBOUND (Off:0 Def:1),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+100,0041200114,110,6,29,2,1:34 PM,11:03,,,Richardson Shooting Block Foul (P1.T1),,,5,2047,Quentin Richardson,1610612752.0,New York,Knicks,NYK,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+101,0041200114,111,3,11,2,1:34 PM,11:03,Green Free Throw 1 of 2 (7 PTS),,,17 - 26,9,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+102,0041200114,113,3,12,2,1:35 PM,11:03,Green Free Throw 2 of 2 (8 PTS),,,17 - 27,10,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+103,0041200114,115,5,1,2,1:35 PM,10:56,,,Kidd Bad Pass Turnover (P2.T8),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+104,0041200114,116,2,1,2,1:35 PM,10:42,MISS Crawford 25' 3PT Jump Shot,,,,,4,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+105,0041200114,117,4,0,2,1:35 PM,10:41,,,Martin REBOUND (Off:1 Def:2),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+106,0041200114,118,2,63,2,1:36 PM,10:19,,,MISS Novak 20' Fadeaway Jumper,,,5,200779,Steve Novak,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+107,0041200114,119,4,0,2,1:36 PM,10:18,Garnett REBOUND (Off:0 Def:6),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+108,0041200114,120,2,1,2,1:36 PM,10:07,MISS Williams 16' Jump Shot,,,,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+109,0041200114,121,4,0,2,1:36 PM,10:06,,,Kidd REBOUND (Off:0 Def:2),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+110,0041200114,122,2,1,2,1:36 PM,9:59,,,MISS Richardson 26' 3PT Jump Shot,,,5,2047,Quentin Richardson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+111,0041200114,123,4,0,2,1:36 PM,9:58,Garnett REBOUND (Off:0 Def:7),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+112,0041200114,124,6,2,2,1:36 PM,9:52,,,Martin S.FOUL (P1.T2),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+113,0041200114,125,3,11,2,1:37 PM,9:52,Williams Free Throw 1 of 2 (1 PTS),,,17 - 28,11,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+114,0041200114,127,3,12,2,1:37 PM,9:52,MISS Williams Free Throw 2 of 2,,,,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+115,0041200114,129,4,0,2,1:37 PM,9:51,Garnett REBOUND (Off:1 Def:7),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+116,0041200114,130,2,1,2,1:38 PM,9:42,MISS Crawford 24' 3PT Jump Shot,,,,,4,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+117,0041200114,131,4,0,2,1:38 PM,9:40,,,Prigioni REBOUND (Off:0 Def:2),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+118,0041200114,132,2,5,2,1:38 PM,9:34,,,MISS Richardson  Layup,,,5,2047,Quentin Richardson,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+119,0041200114,133,4,0,2,1:38 PM,9:33,Crawford REBOUND (Off:0 Def:1),,,,,4,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+120,0041200114,134,2,5,2,1:38 PM,9:28,MISS Crawford 1' Layup,,,,,4,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+121,0041200114,135,4,0,2,1:38 PM,9:25,Green REBOUND (Off:1 Def:1),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+122,0041200114,136,6,1,2,1:38 PM,9:14,,,Martin P.FOUL (P2.T3),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+123,0041200114,137,8,0,2,1:38 PM,9:14,,,SUB: Anthony FOR Richardson,,,5,2047,Quentin Richardson,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+124,0041200114,138,8,0,2,1:38 PM,9:14,,,SUB: Chandler FOR Martin,,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+125,0041200114,139,1,52,2,1:39 PM,9:05,Garnett  Alley Oop Dunk (4 PTS) (Terry 2 AST),,,17 - 30,13,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+126,0041200114,140,2,1,2,1:39 PM,8:52,,,MISS Anthony 8' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+127,0041200114,141,4,0,2,1:39 PM,8:51,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+128,0041200114,144,6,3,2,1:40 PM,8:51,Williams L.B.FOUL (P1.T1),,,,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+129,0041200114,145,9,4,2,1:40 PM,8:51,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+130,0041200114,147,8,0,2,1:43 PM,8:51,SUB: Pierce FOR Green,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+131,0041200114,148,8,0,2,1:43 PM,8:51,,,SUB: Shumpert FOR Novak,,,5,200779,Steve Novak,1610612752.0,New York,Knicks,NYK,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+132,0041200114,151,6,11,2,1:44 PM,8:51,,Mike Woodson Foul:T.FOUL,,,,7,1285,,,,,,0,0,,,,,,1,0,,,,,,0
+133,0041200114,149,3,16,2,1:44 PM,8:51,Terry Free Throw Technical (3 PTS),,,17 - 31,14,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+134,0041200114,152,6,1,2,1:44 PM,8:48,Pierce P.FOUL (P2.T2),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+135,0041200114,153,6,4,2,1:45 PM,8:45,,,Prigioni OFF.Foul (P2),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+136,0041200114,154,5,5,2,1:45 PM,8:45,,,Prigioni Foul Turnover (P1.T9),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+137,0041200114,155,5,1,2,1:45 PM,8:40,Williams Bad Pass Turnover (P1.T7),,Prigioni STEAL (1 STL),,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+138,0041200114,157,1,5,2,1:45 PM,8:35,,,Prigioni 1' Layup (2 PTS),19 - 31,12,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+139,0041200114,158,1,79,2,1:45 PM,8:19,Terry 10' Pullup Jump Shot (5 PTS) (Williams 1 AST),,,19 - 33,14,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+140,0041200114,159,6,1,2,1:45 PM,8:12,Garnett P.FOUL (P2.T3),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+141,0041200114,161,1,86,2,1:46 PM,8:01,,,Anthony 14' Turnaround Fadeaway (9 PTS),21 - 33,12,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+142,0041200114,162,2,1,2,1:46 PM,7:44,MISS Garnett 19' Jump Shot,,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+143,0041200114,163,4,0,2,1:46 PM,7:43,,,Prigioni REBOUND (Off:0 Def:3),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+144,0041200114,164,6,4,2,1:47 PM,7:24,,,Anthony OFF.Foul (P1),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+145,0041200114,165,5,5,2,1:47 PM,7:24,,,Anthony Foul Turnover (P2.T10),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+146,0041200114,166,8,0,2,1:47 PM,7:24,SUB: Green FOR Crawford,,,,,4,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+147,0041200114,167,2,75,2,1:47 PM,7:18,MISS Green 1' Driving Finger Roll Layup,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+148,0041200114,168,4,0,2,1:47 PM,7:16,,,Kidd REBOUND (Off:0 Def:3),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+149,0041200114,169,6,2,2,1:47 PM,7:11,Terry S.FOUL (P1.T4),,,,,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+150,0041200114,170,3,11,2,1:48 PM,7:11,,,Anthony Free Throw 1 of 2 (10 PTS),22 - 33,11,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+151,0041200114,172,8,0,2,1:48 PM,7:11,SUB: Bradley FOR Williams,,,,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+152,0041200114,173,3,12,2,1:48 PM,7:11,,,Anthony Free Throw 2 of 2 (11 PTS),23 - 33,10,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+153,0041200114,175,2,1,2,1:49 PM,6:53,MISS Green 5' Jump Shot,,Shumpert BLOCK (2 BLK),,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0
+154,0041200114,176,4,0,2,1:49 PM,6:52,,,Shumpert REBOUND (Off:0 Def:2),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+155,0041200114,177,2,1,2,1:49 PM,6:47,,,MISS Anthony 25' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+156,0041200114,178,4,0,2,1:49 PM,6:45,,,Chandler REBOUND (Off:1 Def:1),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+157,0041200114,179,6,2,2,1:49 PM,6:33,Garnett S.FOUL (P3.PN),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+158,0041200114,180,3,11,2,1:49 PM,6:33,,,Anthony Free Throw 1 of 2 (12 PTS),24 - 33,9,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+159,0041200114,182,8,0,2,1:50 PM,6:33,SUB: Bass FOR Garnett,,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+160,0041200114,183,8,0,2,1:50 PM,6:33,,,SUB: Felton FOR Kidd,,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+161,0041200114,184,3,12,2,1:50 PM,6:33,,,Anthony Free Throw 2 of 2 (13 PTS),25 - 33,8,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+162,0041200114,186,1,1,2,1:50 PM,6:22,Green 21' Jump Shot (10 PTS),,,25 - 35,10,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+163,0041200114,187,2,47,2,1:50 PM,6:02,,,MISS Anthony 13' Turnaround Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+164,0041200114,188,4,0,2,1:51 PM,6:01,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+165,0041200114,189,6,3,2,1:51 PM,6:01,Green L.B.FOUL (P2.PN),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+166,0041200114,190,3,11,2,1:51 PM,6:01,,,Chandler Free Throw 1 of 2 (3 PTS),26 - 35,9,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+167,0041200114,192,3,12,2,1:51 PM,6:01,,,MISS Chandler Free Throw 2 of 2,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+168,0041200114,194,4,0,2,1:52 PM,6:00,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+169,0041200114,195,6,26,2,1:52 PM,5:51,,,Anthony Offensive Charge Foul (P2.T4),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+170,0041200114,196,5,5,2,1:52 PM,5:51,,,Anthony Foul Turnover (P3.T11),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+171,0041200114,197,9,1,2,1:52 PM,5:51,CELTICS Timeout: Regular (Full 2 Short 0),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+172,0041200114,199,2,1,2,1:56 PM,5:33,MISS Green  3PT Jump Shot,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+173,0041200114,200,4,0,2,1:56 PM,5:32,,,Chandler REBOUND (Off:1 Def:2),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+174,0041200114,201,1,52,2,1:57 PM,5:16,,,Chandler  Alley Oop Dunk (5 PTS) (Felton 3 AST),28 - 35,7,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+175,0041200114,202,2,5,2,1:57 PM,5:11,MISS Green 1' Layup,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+176,0041200114,203,4,0,2,1:57 PM,5:10,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+177,0041200114,204,2,41,2,1:57 PM,4:58,,,MISS Anthony 1' Running Layup,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+178,0041200114,205,4,0,2,1:57 PM,4:57,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+179,0041200114,206,6,3,2,1:57 PM,4:57,,,Chandler L.B.FOUL (P1.PN),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+180,0041200114,207,7,5,2,1:58 PM,4:44,,,Prigioni Violation:Kicked Ball,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+181,0041200114,208,1,86,2,1:58 PM,4:34,Pierce 8' Turnaround Fadeaway (9 PTS),,,28 - 37,9,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+182,0041200114,209,2,1,2,1:59 PM,4:08,,,MISS Felton 26' 3PT Jump Shot,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+183,0041200114,210,4,0,2,1:59 PM,4:07,Green REBOUND (Off:1 Def:2),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+184,0041200114,211,1,84,2,1:59 PM,4:00,Green 5' Running Bank Shot (12 PTS),,,28 - 39,11,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+185,0041200114,212,2,1,2,1:59 PM,3:42,,,MISS Anthony 12' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+186,0041200114,213,4,0,2,1:59 PM,3:41,Pierce REBOUND (Off:0 Def:4),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+187,0041200114,214,6,2,2,1:59 PM,3:37,,,Chandler S.FOUL (P2.PN),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+188,0041200114,215,3,11,2,1:59 PM,3:37,MISS Green Free Throw 1 of 2,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+189,0041200114,216,4,1,2,1:59 PM,3:37,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+190,0041200114,217,8,0,2,2:00 PM,3:37,,,SUB: Kidd FOR Prigioni,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+191,0041200114,218,8,0,2,2:00 PM,3:37,,,SUB: Martin FOR Chandler,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+192,0041200114,219,3,12,2,2:00 PM,3:37,Green Free Throw 2 of 2 (13 PTS),,,28 - 40,12,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+193,0041200114,221,2,1,2,2:01 PM,3:20,,,MISS Shumpert 24' 3PT Jump Shot,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+194,0041200114,222,4,0,2,2:01 PM,3:19,Bass REBOUND (Off:0 Def:2),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+195,0041200114,223,6,2,2,2:01 PM,3:14,,,Kidd S.FOUL (P2.PN),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+196,0041200114,224,3,11,2,2:01 PM,3:14,Green Free Throw 1 of 2 (14 PTS),,,28 - 41,13,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+197,0041200114,227,3,12,2,2:01 PM,3:14,Green Free Throw 2 of 2 (15 PTS),,,28 - 42,14,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+198,0041200114,228,1,42,2,2:03 PM,3:06,,,Felton 1' Driving Layup (5 PTS),30 - 42,12,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+199,0041200114,229,6,2,2,2:03 PM,3:06,Green S.FOUL (P3.PN),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+200,0041200114,231,8,0,2,2:03 PM,3:06,SUB: Williams FOR Green,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+201,0041200114,235,5,17,2,2:03 PM,3:06,,,Anthony Lane Violation Turnover (P4.T12),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+202,0041200114,237,5,2,2,2:04 PM,2:43,Williams Lost Ball Turnover (P2.T8),,Shumpert STEAL (1 STL),,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+203,0041200114,238,2,1,2,2:04 PM,2:30,,,MISS Felton 8' Jump Shot,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+204,0041200114,239,4,0,2,2:04 PM,2:29,,,Shumpert REBOUND (Off:1 Def:2),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+205,0041200114,240,2,4,2,2:04 PM,2:28,,,MISS Shumpert 2' Tip Shot,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+206,0041200114,241,4,0,2,2:04 PM,2:26,Bradley REBOUND (Off:0 Def:2),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+207,0041200114,242,2,1,2,2:05 PM,2:14,MISS Terry 25' 3PT Jump Shot,,,,,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+208,0041200114,243,4,0,2,2:05 PM,2:13,,,Martin REBOUND (Off:1 Def:3),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+209,0041200114,244,6,1,2,2:05 PM,2:04,Bradley P.FOUL (P1.PN),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+210,0041200114,245,9,1,2,2:05 PM,2:04,,,Knicks Timeout: Regular (Reg.2 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+211,0041200114,247,3,11,2,2:08 PM,2:04,,,Anthony Free Throw 1 of 2 (14 PTS),31 - 42,11,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+212,0041200114,249,3,12,2,2:09 PM,2:04,,,Anthony Free Throw 2 of 2 (15 PTS),32 - 42,10,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+213,0041200114,251,1,80,2,2:09 PM,1:42,Pierce 18' Step Back Jump Shot (11 PTS),,,32 - 44,12,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+214,0041200114,252,2,1,2,2:09 PM,1:24,,,MISS Anthony 11' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+215,0041200114,253,4,0,2,2:10 PM,1:23,Williams REBOUND (Off:0 Def:1),,,,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+216,0041200114,254,1,1,2,2:10 PM,1:16,Pierce 27' 3PT Jump Shot (14 PTS) (Williams 2 AST),,,32 - 47,15,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+217,0041200114,255,1,42,2,2:10 PM,0:51,,,Felton 1' Driving Layup (7 PTS),34 - 47,13,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+218,0041200114,256,1,1,2,2:10 PM,0:35,Bass 16' Jump Shot (4 PTS) (Terry 3 AST),,,34 - 49,15,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+219,0041200114,257,5,1,2,2:10 PM,0:33,Bradley STEAL (3 STL),,Anthony Bad Pass Turnover (P5.T13),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+220,0041200114,258,1,1,2,2:11 PM,0:29,Pierce 26' 3PT Jump Shot (17 PTS) (Williams 3 AST),,,34 - 52,18,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+221,0041200114,259,6,1,2,2:11 PM,0:10,Bass P.FOUL (P3.PN),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+222,0041200114,260,3,11,2,2:11 PM,0:10,,,MISS Anthony Free Throw 1 of 2,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+223,0041200114,261,4,1,2,2:11 PM,0:10,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+224,0041200114,263,9,2,2,2:12 PM,0:10,CELTICS Timeout: Short (Full 2 Short 1),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+225,0041200114,266,8,0,2,2:12 PM,0:10,SUB: Crawford FOR Bass,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+226,0041200114,267,3,12,2,2:12 PM,0:10,,,Anthony Free Throw 2 of 2 (16 PTS),35 - 52,17,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+227,0041200114,269,1,79,2,2:13 PM,0:01,Terry 16' Pullup Jump Shot (7 PTS) (Pierce 3 AST),,,35 - 54,19,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+228,0041200114,270,13,0,2,2:13 PM,0:00,,End of 2nd Period (2:13 PM EST),,35 - 54,19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+229,0041200114,272,12,0,3,2:31 PM,12:00,,Start of 3rd Period (2:31 PM EST),,35 - 54,19,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+230,0041200114,273,1,80,3,2:32 PM,11:40,,,Anthony 18' Step Back Jump Shot (18 PTS) (Chandler 1 AST),37 - 54,17,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+231,0041200114,274,6,29,3,2:33 PM,11:26,,,Chandler Shooting Block Foul (P3.T1),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+232,0041200114,275,3,11,3,2:33 PM,11:26,Pierce Free Throw 1 of 2 (18 PTS),,,37 - 55,18,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+233,0041200114,277,3,12,3,2:33 PM,11:26,Pierce Free Throw 2 of 2 (19 PTS),,,37 - 56,19,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+234,0041200114,279,2,1,3,2:34 PM,11:09,,,MISS Anthony 20' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+235,0041200114,280,4,0,3,2:34 PM,11:08,Garnett REBOUND (Off:1 Def:8),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+236,0041200114,281,2,1,3,2:34 PM,10:57,MISS Bradley 20' Jump Shot,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+237,0041200114,282,4,0,3,2:34 PM,10:55,,,Chandler REBOUND (Off:1 Def:3),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+238,0041200114,284,2,1,3,2:35 PM,10:37,Bradley BLOCK (1 BLK),,MISS Felton 6' Jump Shot,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0
+239,0041200114,285,4,0,3,2:35 PM,10:34,Bass REBOUND (Off:0 Def:3),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+240,0041200114,286,2,5,3,2:35 PM,10:31,MISS Pierce 1' Layup,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+241,0041200114,287,4,0,3,2:35 PM,10:30,Bass REBOUND (Off:1 Def:3),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+242,0041200114,288,2,5,3,2:35 PM,10:28,MISS Bass 2' Layup,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+243,0041200114,289,4,0,3,2:35 PM,10:27,,,Chandler REBOUND (Off:1 Def:4),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+244,0041200114,290,2,1,3,2:35 PM,10:23,,,MISS Felton 24' Jump Shot,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+245,0041200114,291,4,0,3,2:35 PM,10:22,Garnett REBOUND (Off:1 Def:9),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+246,0041200114,292,5,4,3,2:35 PM,10:20,Pierce Traveling Turnover (P2.T9),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+247,0041200114,293,6,1,3,2:36 PM,10:02,Garnett P.FOUL (P4.T1),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+248,0041200114,294,1,86,3,2:36 PM,9:49,,,Anthony 14' Turnaround Fadeaway (20 PTS),39 - 56,17,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+249,0041200114,295,1,1,3,2:37 PM,9:25,Green  3PT Jump Shot (18 PTS) (Pierce 4 AST),,,39 - 59,20,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+250,0041200114,296,5,2,3,2:37 PM,9:14,Bradley STEAL (4 STL),,Felton Lost Ball Turnover (P2.T14),,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+251,0041200114,297,6,1,3,2:37 PM,9:11,,,Prigioni P.FOUL (P3.T2),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+252,0041200114,298,8,0,3,2:37 PM,9:11,SUB: Terry FOR Garnett,,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+253,0041200114,299,2,1,3,2:38 PM,8:52,MISS Bradley 4' Jump Shot,,Chandler BLOCK (1 BLK),,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0
+254,0041200114,300,4,0,3,2:38 PM,8:51,,,Shumpert REBOUND (Off:1 Def:3),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+255,0041200114,301,1,5,3,2:38 PM,8:47,,,Shumpert  Layup (2 PTS),41 - 59,18,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+256,0041200114,302,2,80,3,2:38 PM,8:25,MISS Green 19' Step Back Jump Shot,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+257,0041200114,303,4,0,3,2:38 PM,8:24,,,Shumpert REBOUND (Off:1 Def:4),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+258,0041200114,305,2,1,3,2:39 PM,8:19,,,MISS Anthony 21' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+259,0041200114,306,4,0,3,2:39 PM,8:18,,,Chandler REBOUND (Off:2 Def:4),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+260,0041200114,307,2,1,3,2:39 PM,7:56,,,MISS Shumpert 18' Jump Shot,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+261,0041200114,308,4,0,3,2:39 PM,7:56,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+262,0041200114,309,6,3,3,2:39 PM,7:56,Green L.B.FOUL (P4.T2),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+263,0041200114,310,6,2,3,2:40 PM,7:48,Bass S.FOUL (P4.T3),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+264,0041200114,311,3,11,3,2:40 PM,7:48,,,Anthony Free Throw 1 of 2 (21 PTS),42 - 59,17,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+265,0041200114,313,3,12,3,2:40 PM,7:48,,,Anthony Free Throw 2 of 2 (22 PTS),43 - 59,16,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+266,0041200114,316,6,1,3,2:41 PM,7:37,,,Anthony P.FOUL (P3.T3),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+267,0041200114,318,5,1,3,2:42 PM,7:25,Bradley Bad Pass Turnover (P3.T10),,Prigioni STEAL (2 STL),,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+268,0041200114,319,6,1,3,2:42 PM,7:22,Terry P.FOUL (P2.T4),,,,,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+269,0041200114,320,18,1,3,2:43 PM,7:22,,Overturn Ruling,,,,0,319,,,,,,0,0,,,,,,1,0,,,,,,0
+270,0041200114,322,6,2,3,2:44 PM,7:12,Bradley S.FOUL (P2.PN),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+271,0041200114,324,3,11,3,2:44 PM,7:12,,,Felton Free Throw 1 of 2 (8 PTS),44 - 59,15,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+272,0041200114,326,3,12,3,2:44 PM,7:12,,,Felton Free Throw 2 of 2 (9 PTS),45 - 59,14,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+273,0041200114,328,2,1,3,2:45 PM,6:53,MISS Pierce 19' Jump Shot,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+274,0041200114,329,4,0,3,2:45 PM,6:52,,,Chandler REBOUND (Off:2 Def:5),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+275,0041200114,330,1,79,3,2:45 PM,6:44,,,Anthony 20' Pullup Jump Shot (24 PTS),47 - 59,12,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+276,0041200114,331,9,1,3,2:45 PM,6:44,CELTICS Timeout: Regular (Full 3 Short 1),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+277,0041200114,334,1,75,3,2:49 PM,6:39,Green 1' Driving Finger Roll Layup (20 PTS),,,47 - 61,14,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+278,0041200114,335,2,1,3,2:50 PM,6:11,,,MISS Shumpert 26' 3PT Jump Shot,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+279,0041200114,336,4,0,3,2:50 PM,6:10,,,Shumpert REBOUND (Off:2 Def:4),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+280,0041200114,337,1,1,3,2:50 PM,6:01,,,Felton 26' 3PT Jump Shot (12 PTS) (Prigioni 2 AST),50 - 61,11,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+281,0041200114,338,2,1,3,2:50 PM,5:39,MISS Pierce 27' 3PT Jump Shot,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+282,0041200114,339,4,0,3,2:50 PM,5:38,,,Shumpert REBOUND (Off:2 Def:5),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+283,0041200114,340,2,1,3,2:50 PM,5:17,,,MISS Felton 24' 3PT Jump Shot,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+284,0041200114,341,4,0,3,2:50 PM,5:15,Pierce REBOUND (Off:0 Def:5),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+285,0041200114,342,2,1,3,2:51 PM,5:10,MISS Terry 26' 3PT Jump Shot,,,,,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+286,0041200114,343,4,0,3,2:51 PM,5:10,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+287,0041200114,344,6,3,3,2:51 PM,5:10,Bass L.B.FOUL (P5.PN),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+288,0041200114,345,3,11,3,2:51 PM,5:10,,,MISS Prigioni Free Throw 1 of 2,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+289,0041200114,346,4,1,3,2:51 PM,5:10,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+290,0041200114,347,8,0,3,2:51 PM,5:10,SUB: Garnett FOR Bass,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+291,0041200114,348,8,0,3,2:51 PM,5:10,,,SUB: Kidd FOR Shumpert,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+292,0041200114,349,3,12,3,2:52 PM,5:10,,,Prigioni Free Throw 2 of 2 (3 PTS),51 - 61,10,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+293,0041200114,351,1,88,3,2:52 PM,4:58,Pierce  Driving Slam Dunk (21 PTS) (Garnett 4 AST),,,51 - 63,12,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+294,0041200114,352,2,1,3,2:52 PM,4:37,,,MISS Kidd 25' 3PT Jump Shot,,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+295,0041200114,353,4,0,3,2:52 PM,4:36,,,Chandler REBOUND (Off:3 Def:5),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+296,0041200114,354,2,4,3,2:52 PM,4:35,,,MISS Chandler 1' Tip Shot,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+297,0041200114,355,4,0,3,2:52 PM,4:34,,,Prigioni REBOUND (Off:1 Def:3),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+298,0041200114,356,2,1,3,2:52 PM,4:33,,,MISS Anthony 26' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+299,0041200114,357,4,0,3,2:52 PM,4:32,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+300,0041200114,358,6,3,3,2:53 PM,4:32,,,Chandler L.B.FOUL (P4.T4),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+301,0041200114,359,8,0,3,2:53 PM,4:32,,,SUB: Martin FOR Chandler,,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+302,0041200114,361,1,75,3,2:53 PM,4:26,Green 1' Driving Finger Roll Layup (22 PTS),,,51 - 65,14,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+303,0041200114,362,6,26,3,2:53 PM,4:08,,,Anthony Offensive Charge Foul (P4.PN),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+304,0041200114,363,5,5,3,2:53 PM,4:08,,,Anthony Foul Turnover (P6.T15),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+305,0041200114,364,2,1,3,2:54 PM,3:54,MISS Bradley 16' Jump Shot,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+306,0041200114,365,4,0,3,2:54 PM,3:53,,,Anthony REBOUND (Off:1 Def:3),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+307,0041200114,366,6,1,3,2:54 PM,3:35,Bradley P.FOUL (P3.PN),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+308,0041200114,367,3,11,3,2:54 PM,3:35,,,MISS Felton Free Throw 1 of 2,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+309,0041200114,368,4,1,3,2:54 PM,3:35,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+310,0041200114,369,8,0,3,2:55 PM,3:35,,,SUB: Shumpert FOR Anthony,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+311,0041200114,370,3,12,3,2:55 PM,3:35,,,Felton Free Throw 2 of 2 (13 PTS),52 - 65,13,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+312,0041200114,372,5,4,3,2:55 PM,3:24,Pierce Traveling Turnover (P3.T11),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+313,0041200114,373,2,1,3,2:56 PM,3:14,,,MISS Prigioni 25' 3PT Jump Shot,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+314,0041200114,374,4,0,3,2:56 PM,3:13,,,Martin REBOUND (Off:2 Def:3),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+315,0041200114,375,2,1,3,2:56 PM,3:01,Pierce BLOCK (1 BLK),,MISS Shumpert 7' Jump Shot,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0
+316,0041200114,376,4,0,3,2:56 PM,3:00,,,Shumpert REBOUND (Off:3 Def:5),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+317,0041200114,377,1,1,3,2:56 PM,2:57,,,Felton 25' 3PT Jump Shot (16 PTS) (Kidd 1 AST),55 - 65,10,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+318,0041200114,378,6,1,3,2:56 PM,2:40,,,Martin P.FOUL (P3.PN),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+319,0041200114,379,9,1,3,2:56 PM,2:40,,,Knicks Timeout: Regular (Reg.3 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+320,0041200114,381,3,11,3,3:00 PM,2:40,Garnett Free Throw 1 of 2 (5 PTS),,,55 - 66,11,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+321,0041200114,383,3,12,3,3:00 PM,2:40,Garnett Free Throw 2 of 2 (6 PTS),,,55 - 67,12,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+322,0041200114,385,1,1,3,3:01 PM,2:18,,,Felton 23' Jump Shot (18 PTS),57 - 67,10,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+323,0041200114,386,2,80,3,3:02 PM,1:55,MISS Pierce 15' Step Back Jump Shot,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+324,0041200114,387,4,0,3,3:02 PM,1:54,,,Felton REBOUND (Off:0 Def:2),,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+325,0041200114,388,2,1,3,3:02 PM,1:36,,,MISS Prigioni 25' 3PT Jump Shot,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+326,0041200114,389,4,0,3,3:02 PM,1:35,Bradley REBOUND (Off:0 Def:3),,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+327,0041200114,390,2,42,3,3:02 PM,1:28,MISS Green  Driving Layup,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+328,0041200114,391,4,0,3,3:02 PM,1:27,,,Felton REBOUND (Off:0 Def:3),,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+329,0041200114,392,2,65,3,3:02 PM,1:18,,,MISS Martin 9' Jump Hook Shot,,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+330,0041200114,393,4,0,3,3:02 PM,1:17,Garnett REBOUND (Off:1 Def:10),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+331,0041200114,394,5,2,3,3:02 PM,1:09,Pierce Lost Ball Turnover (P4.T12),,Prigioni STEAL (3 STL),,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+332,0041200114,395,1,42,3,3:02 PM,1:00,,,Felton 1' Driving Layup (20 PTS),59 - 67,8,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+333,0041200114,396,6,2,3,3:03 PM,0:42,,,Shumpert S.FOUL (P2.PN),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+334,0041200114,397,18,0,3,3:03 PM,0:42,,Support Ruling,,,,0,396,,,,,,0,0,,,,,,1,0,,,,,,0
+335,0041200114,399,3,11,3,3:03 PM,0:42,Pierce Free Throw 1 of 2 (22 PTS),,,59 - 68,9,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+336,0041200114,401,8,0,3,3:04 PM,0:42,SUB: Williams FOR Bradley,,,,,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+337,0041200114,403,8,0,3,3:04 PM,0:42,SUB: Wilcox FOR Garnett,,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,4,2404,Chris Wilcox,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+338,0041200114,404,3,12,3,3:04 PM,0:42,MISS Pierce Free Throw 2 of 2,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+339,0041200114,406,4,0,3,3:04 PM,0:41,,,Shumpert REBOUND (Off:3 Def:6),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+340,0041200114,407,1,1,3,3:04 PM,0:29,,,Shumpert 25' 3PT Jump Shot (5 PTS),62 - 68,6,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+341,0041200114,408,2,1,3,3:05 PM,0:06,MISS Green 26' 3PT Jump Shot,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+342,0041200114,409,4,0,3,3:05 PM,0:05,,,Martin REBOUND (Off:2 Def:4),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+343,0041200114,410,1,1,3,3:05 PM,0:00,,,Felton 26' 3PT Jump Shot (23 PTS),65 - 68,3,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+344,0041200114,411,13,0,3,3:05 PM,0:00,,End of 3rd Period (3:05 PM EST),,65 - 68,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+345,0041200114,413,12,0,4,3:09 PM,12:00,,Start of 4th Period (3:09 PM EST),,65 - 68,3,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+346,0041200114,414,6,1,4,3:10 PM,11:45,,,Martin P.FOUL (P4.T1),,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+347,0041200114,415,5,2,4,3:10 PM,11:43,Williams Lost Ball Turnover (P3.T13),,Prigioni STEAL (4 STL),,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+348,0041200114,416,2,5,4,3:10 PM,11:38,Williams BLOCK (1 BLK),,MISS Prigioni  Layup,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0
+349,0041200114,417,4,0,4,3:10 PM,11:37,,,Kidd REBOUND (Off:1 Def:3),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+350,0041200114,418,2,1,4,3:10 PM,11:34,,,MISS Felton 25' 3PT Jump Shot,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+351,0041200114,419,4,0,4,3:10 PM,11:33,,,Shumpert REBOUND (Off:4 Def:6),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+352,0041200114,420,2,1,4,3:10 PM,11:20,,,MISS Prigioni 27' 3PT Jump Shot,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+353,0041200114,421,4,0,4,3:10 PM,11:19,Garnett REBOUND (Off:1 Def:11),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+354,0041200114,422,2,41,4,3:11 PM,11:06,MISS Williams 2' Running Layup,,,,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+355,0041200114,423,4,0,4,3:11 PM,11:05,,,Kidd REBOUND (Off:1 Def:4),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+356,0041200114,424,2,83,4,3:11 PM,10:41,,,MISS Kidd 8' Fadeaway Bank Shot,,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+357,0041200114,425,4,0,4,3:11 PM,10:40,Green REBOUND (Off:1 Def:3),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+358,0041200114,426,6,17,4,3:12 PM,10:26,,,Knicks T.Foul (Def. 3 Sec Prigioni ),,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,0,0,,,,,,1,0,,,,,,0
+359,0041200114,427,3,16,4,3:12 PM,10:26,Garnett Free Throw Technical (7 PTS),,,65 - 69,4,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+360,0041200114,429,8,0,4,3:12 PM,10:26,,,SUB: Anthony FOR Prigioni,,,5,203143,Pablo Prigioni,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+361,0041200114,430,2,46,4,3:12 PM,10:16,MISS Crawford 5' Running Jump Shot,,,,,4,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+362,0041200114,431,4,0,4,3:12 PM,10:15,,,Kidd REBOUND (Off:1 Def:5),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+363,0041200114,432,1,42,4,3:12 PM,10:03,,,Anthony 1' Driving Layup (26 PTS),67 - 69,2,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+364,0041200114,433,6,1,4,3:13 PM,9:53,,,Shumpert P.FOUL (P3.T2),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+365,0041200114,434,8,0,4,3:13 PM,9:53,SUB: Terry FOR Crawford,,,,,4,202348,Jordan Crawford,1610612738.0,Boston,Celtics,BOS,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+366,0041200114,435,8,0,4,3:13 PM,9:53,SUB: Bass FOR Williams,,,,,4,201944,Terrence Williams,1610612738.0,Boston,Celtics,BOS,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+367,0041200114,436,1,1,4,3:13 PM,9:40,Pierce 26' 3PT Jump Shot (25 PTS) (Terry 4 AST),,,67 - 72,5,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+368,0041200114,437,2,79,4,3:14 PM,9:20,,,MISS Anthony 18' Pullup Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+369,0041200114,438,4,0,4,3:14 PM,9:19,Pierce REBOUND (Off:0 Def:6),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+370,0041200114,439,2,1,4,3:14 PM,9:06,MISS Garnett 19' Jump Shot,,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+371,0041200114,440,4,0,4,3:14 PM,9:05,,,Kidd REBOUND (Off:1 Def:6),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+372,0041200114,441,1,1,4,3:14 PM,8:54,,,Shumpert 22' Jump Shot (7 PTS),69 - 72,3,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+373,0041200114,442,1,84,4,3:15 PM,8:27,Terry 5' Running Bank Shot (9 PTS) (Garnett 5 AST),,,69 - 74,5,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+374,0041200114,443,5,2,4,3:15 PM,8:05,Green STEAL (1 STL),,Anthony Lost Ball Turnover (P7.T16),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+375,0041200114,445,6,3,4,3:15 PM,7:59,Pierce L.B.FOUL (P3.T1),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+376,0041200114,446,5,5,4,3:15 PM,7:59,Pierce Foul Turnover (P5.T14),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+377,0041200114,448,9,4,4,3:16 PM,7:59,,Timeout: Official,,,,1,0,,,,,,0,0,,,,,,0,0,,,,,,0
+378,0041200114,450,6,17,4,3:20 PM,7:48,CELTICS T.Foul (Def. 3 Sec Bass ),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,1,0,,,,,,0
+379,0041200114,451,3,16,4,3:20 PM,7:48,,,Anthony Free Throw Technical (27 PTS),70 - 74,4,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+380,0041200114,453,1,42,4,3:20 PM,7:33,,,Martin  Driving Layup (4 PTS) (Kidd 2 AST),72 - 74,2,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+381,0041200114,454,5,2,4,3:21 PM,7:20,Pierce Lost Ball Turnover (P6.T15),,Shumpert STEAL (2 STL),,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+382,0041200114,455,1,5,4,3:21 PM,7:16,,,Shumpert 1' Layup (9 PTS),74 - 74,TIE,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+383,0041200114,459,1,1,4,3:22 PM,6:43,Garnett 3' Jump Shot (9 PTS),,,74 - 76,2,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+384,0041200114,460,2,1,4,3:23 PM,6:19,,,MISS Felton 27' 3PT Jump Shot,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+385,0041200114,461,4,0,4,3:23 PM,6:18,Garnett REBOUND (Off:1 Def:12),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+386,0041200114,462,6,29,4,3:23 PM,6:05,,,Kidd Shooting Block Foul (P3.T3),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+387,0041200114,463,3,11,4,3:23 PM,6:05,Green Free Throw 1 of 2 (23 PTS),,,74 - 77,3,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+388,0041200114,465,8,0,4,3:24 PM,6:05,,,SUB: Chandler FOR Martin,,,5,2030,Kenyon Martin,1610612752.0,New York,Knicks,NYK,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+389,0041200114,466,3,12,4,3:24 PM,6:05,Green Free Throw 2 of 2 (24 PTS),,,74 - 78,4,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+390,0041200114,468,2,42,4,3:25 PM,5:45,,,MISS Anthony 1' Driving Layup,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+391,0041200114,469,4,0,4,3:25 PM,5:44,Garnett REBOUND (Off:1 Def:13),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+392,0041200114,470,2,1,4,3:25 PM,5:34,MISS Pierce 26' 3PT Jump Shot,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+393,0041200114,471,4,0,4,3:25 PM,5:33,,,Anthony REBOUND (Off:1 Def:4),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+394,0041200114,472,1,88,4,3:25 PM,5:20,,,Anthony 1' Driving Slam Dunk (29 PTS),76 - 78,2,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+395,0041200114,473,6,1,4,3:25 PM,4:56,,,Felton P.FOUL (P1.T4),,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+396,0041200114,474,9,1,4,3:26 PM,4:56,CELTICS Timeout: Regular (Full 4 Short 1),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+397,0041200114,476,1,42,4,3:30 PM,4:47,Green 2' Driving Layup (26 PTS),,,76 - 80,4,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+398,0041200114,477,6,2,4,3:30 PM,4:27,Bass S.FOUL (P6.T2),,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+399,0041200114,478,8,0,4,3:31 PM,4:27,SUB: Bradley FOR Bass,,,,,4,101138,Brandon Bass,1610612738.0,Boston,Celtics,BOS,4,202340,Avery Bradley,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+400,0041200114,479,3,11,4,3:31 PM,4:27,,,MISS Anthony Free Throw 1 of 2,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+401,0041200114,480,4,1,4,3:31 PM,4:27,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+402,0041200114,481,3,12,4,3:31 PM,4:27,,,Anthony Free Throw 2 of 2 (30 PTS),77 - 80,3,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+403,0041200114,483,6,27,4,3:31 PM,4:19,,,Shumpert Personal Block Foul (P4.PN),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+404,0041200114,484,3,11,4,3:32 PM,4:19,Pierce Free Throw 1 of 2 (26 PTS),,,77 - 81,4,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+405,0041200114,486,3,12,4,3:32 PM,4:19,Pierce Free Throw 2 of 2 (27 PTS),,,77 - 82,5,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+406,0041200114,488,1,1,4,3:32 PM,4:02,,,Shumpert  3PT Jump Shot (12 PTS) (Anthony 2 AST),80 - 82,2,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+407,0041200114,489,2,1,4,3:33 PM,3:46,MISS Pierce 26' 3PT Jump Shot,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+408,0041200114,490,4,0,4,3:33 PM,3:45,,,Anthony REBOUND (Off:1 Def:5),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+409,0041200114,491,1,42,4,3:33 PM,3:34,,,Anthony  Driving Layup (32 PTS),82 - 82,TIE,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+410,0041200114,492,5,2,4,3:33 PM,3:13,Garnett Lost Ball Turnover (P2.T16),,Anthony STEAL (1 STL),,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+411,0041200114,493,2,1,4,3:33 PM,3:05,,,MISS Anthony 25' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+412,0041200114,494,4,0,4,3:33 PM,3:04,Garnett REBOUND (Off:1 Def:14),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+413,0041200114,495,2,86,4,3:34 PM,2:40,MISS Green 25' 3PT Turnaround Fadeaway Shot,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+414,0041200114,496,4,0,4,3:34 PM,2:39,,,Kidd REBOUND (Off:1 Def:7),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+415,0041200114,497,2,1,4,3:34 PM,2:23,,,MISS Anthony 19' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+416,0041200114,498,4,0,4,3:34 PM,2:21,,,Kidd REBOUND (Off:2 Def:7),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+417,0041200114,499,9,1,4,3:34 PM,2:17,,,Knicks Timeout: Regular (Reg.4 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+418,0041200114,501,2,1,4,3:38 PM,2:07,,,MISS Anthony 14' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+419,0041200114,502,4,0,4,3:38 PM,2:06,,,Chandler REBOUND (Off:4 Def:5),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+420,0041200114,503,6,2,4,3:38 PM,1:50,Green S.FOUL (P5.T3),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+421,0041200114,504,3,11,4,3:39 PM,1:50,,,MISS Anthony Free Throw 1 of 2,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+422,0041200114,505,4,1,4,3:39 PM,1:50,,,Knicks Rebound,,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+423,0041200114,506,3,12,4,3:39 PM,1:50,,,MISS Anthony Free Throw 2 of 2,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+424,0041200114,508,4,0,4,3:39 PM,1:49,Pierce REBOUND (Off:0 Def:7),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+425,0041200114,509,2,1,4,3:40 PM,1:33,MISS Green 19' Jump Shot,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+426,0041200114,510,4,0,4,3:40 PM,1:32,,,Shumpert REBOUND (Off:4 Def:7),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+427,0041200114,511,1,79,4,3:40 PM,1:18,,,Felton 18' Pullup Jump Shot (25 PTS),84 - 82,-2,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+428,0041200114,512,9,1,4,3:40 PM,1:18,CELTICS Timeout: Regular (Full 5 Short 1),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+429,0041200114,514,1,1,4,3:43 PM,1:07,Garnett 17' Jump Shot (11 PTS) (Pierce 5 AST),,,84 - 84,TIE,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+430,0041200114,515,2,1,4,3:43 PM,0:44,,,MISS Anthony 29' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+431,0041200114,516,4,0,4,3:43 PM,0:43,,,Chandler REBOUND (Off:5 Def:5),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+432,0041200114,517,2,1,4,3:43 PM,0:20,,,MISS Anthony 19' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+433,0041200114,518,4,0,4,3:43 PM,0:19,Pierce REBOUND (Off:0 Def:8),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+434,0041200114,519,9,2,4,3:43 PM,0:18,CELTICS Timeout: Short (Full 5 Short 2),,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+435,0041200114,521,2,1,4,3:46 PM,0:01,MISS Pierce 23' Jump Shot,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+436,0041200114,522,4,0,4,3:46 PM,0:00,,,Shumpert REBOUND (Off:4 Def:8),,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+437,0041200114,524,9,1,4,3:47 PM,0:00,,,Knicks Timeout: Regular (Reg.5 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+438,0041200114,525,18,0,4,3:48 PM,0:00,,Support Ruling,,,,0,524,,,,,,0,0,,,,,,1,0,,,,,,0
+439,0041200114,527,8,0,4,3:49 PM,0:00,SUB: Wilcox FOR Terry,,,,,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,4,2404,Chris Wilcox,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+440,0041200114,529,13,0,4,3:49 PM,0:00,,End of 4th Period (3:49 PM EST),,84 - 84,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+441,0041200114,532,12,0,5,3:51 PM,5:00,,Start of 1st OT (3:51 PM EST),,84 - 84,TIE,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
+442,0041200114,533,10,0,5,3:52 PM,5:00,Jump Ball Garnett vs. Chandler: Tip to Terry,,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0
+443,0041200114,534,2,75,5,3:52 PM,4:41,MISS Green 1' Driving Finger Roll Layup,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+444,0041200114,535,4,0,5,3:52 PM,4:40,,,Anthony REBOUND (Off:1 Def:6),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+445,0041200114,536,2,1,5,3:52 PM,4:25,,,MISS Felton 22' Jump Shot,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+446,0041200114,537,4,0,5,3:52 PM,4:24,Green REBOUND (Off:1 Def:4),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+447,0041200114,538,1,79,5,3:53 PM,4:15,Pierce 17' Pullup Jump Shot (29 PTS) (Green 1 AST),,,84 - 86,2,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+448,0041200114,539,2,1,5,3:53 PM,3:52,,,MISS Anthony 10' Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+449,0041200114,540,4,0,5,3:53 PM,3:51,Garnett REBOUND (Off:1 Def:15),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+450,0041200114,541,2,1,5,3:53 PM,3:40,MISS Pierce 17' Jump Shot,,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+451,0041200114,542,4,0,5,3:53 PM,3:39,,,Chandler REBOUND (Off:5 Def:6),,,5,2199,Tyson Chandler,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+452,0041200114,543,1,82,5,3:53 PM,3:19,,,Felton 5' Driving Bank Shot (27 PTS),86 - 86,TIE,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+453,0041200114,544,6,1,5,3:54 PM,2:58,,,Kidd P.FOUL (P4.T1),,,5,467,Jason Kidd,1610612752.0,New York,Knicks,NYK,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+454,0041200114,545,1,1,5,3:54 PM,2:39,Garnett 21' Jump Shot (13 PTS) (Pierce 6 AST),,,86 - 88,2,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+455,0041200114,546,6,2,5,3:55 PM,2:22,Pierce S.FOUL (P4.T1),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+456,0041200114,547,3,11,5,3:55 PM,2:22,,,Anthony Free Throw 1 of 2 (33 PTS),87 - 88,1,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+457,0041200114,549,3,12,5,3:55 PM,2:22,,,Anthony Free Throw 2 of 2 (34 PTS),88 - 88,TIE,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+458,0041200114,551,2,79,5,3:56 PM,2:00,MISS Green 12' Pullup Jump Shot,,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+459,0041200114,552,4,0,5,3:56 PM,1:59,,,Felton REBOUND (Off:0 Def:4),,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+460,0041200114,553,2,1,5,3:56 PM,1:38,,,MISS Shumpert 24' 3PT Jump Shot,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+461,0041200114,554,4,0,5,3:56 PM,1:37,Green REBOUND (Off:1 Def:5),,,,,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+462,0041200114,555,1,79,5,3:56 PM,1:32,Terry 25' 3PT Pullup Jump Shot (12 PTS) (Green 2 AST),,,88 - 91,3,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,4,201145,Jeff Green,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+463,0041200114,556,1,63,5,3:57 PM,1:17,,,Anthony 13' Fadeaway Jumper (36 PTS),90 - 91,1,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+464,0041200114,557,6,1,5,3:57 PM,1:01,,,Anthony P.FOUL (P5.T2),,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+465,0041200114,558,1,63,5,3:58 PM,0:50,Terry 13' Fadeaway Jumper (14 PTS),,,90 - 93,3,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+466,0041200114,559,6,1,5,3:58 PM,0:28,Pierce P.FOUL (P5.T2),,,,,4,1718,Paul Pierce,1610612738.0,Boston,Celtics,BOS,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,1,0,,,,,,0
+467,0041200114,561,9,1,5,3:59 PM,0:28,,,Knicks Timeout: Regular (Reg.6 Short 0),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+468,0041200114,564,8,0,5,4:01 PM,0:28,,,SUB: Novak FOR Shumpert,,,5,202697,Iman Shumpert,1610612752.0,New York,Knicks,NYK,5,200779,Steve Novak,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0
+469,0041200114,565,2,1,5,4:01 PM,0:20,,,MISS Anthony 25' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+470,0041200114,566,4,0,5,4:02 PM,0:20,CELTICS Rebound,,,,,2,1610612738,,,,,,0,0,,,,,,0,0,,,,,,0
+471,0041200114,567,6,3,5,4:02 PM,0:20,,,Novak L.B.FOUL (P1.PN),,,5,200779,Steve Novak,1610612752.0,New York,Knicks,NYK,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,1,0,,,,,,0
+472,0041200114,568,3,11,5,4:02 PM,0:20,Terry Free Throw 1 of 2 (15 PTS),,,90 - 94,4,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+473,0041200114,570,3,12,5,4:02 PM,0:20,Terry Free Throw 2 of 2 (16 PTS),,,90 - 95,5,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+474,0041200114,572,9,2,5,4:03 PM,0:20,,,Knicks Timeout: Short (Reg.6 Short 1),,,3,1610612752,,,,,,0,0,,,,,,0,0,,,,,,0
+475,0041200114,574,2,1,5,4:04 PM,0:17,,,MISS Felton 27' 3PT Jump Shot,,,5,101109,Raymond Felton,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+476,0041200114,575,4,0,5,4:04 PM,0:16,,,Novak REBOUND (Off:1 Def:0),,,5,200779,Steve Novak,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+477,0041200114,576,2,1,5,4:04 PM,0:12,,,MISS Anthony 25' 3PT Jump Shot,,,5,2546,Carmelo Anthony,1610612752.0,New York,Knicks,NYK,0,0,,,,,,0,0,,,,,,0
+478,0041200114,577,4,0,5,4:04 PM,0:11,Garnett REBOUND (Off:1 Def:16),,,,,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0,0,,,,,,0
+479,0041200114,578,1,5,5,4:04 PM,0:06,Terry  Layup (18 PTS) (Garnett 6 AST),,,90 - 97,7,4,1891,Jason Terry,1610612738.0,Boston,Celtics,BOS,4,708,Kevin Garnett,1610612738.0,Boston,Celtics,BOS,0,0,,,,,,0
+480,0041200114,579,13,0,5,4:04 PM,0:00,,End of 1st OT (4:04 PM EST),,90 - 97,7,0,0,,,,,,0,0,,,,,,0,0,,,,,,0
